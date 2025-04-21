@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "q1",
+    "text": "What type of contract in insurance requires only the insurer to make a legally enforceable promise?",
+    "options": [
+      "Bilateral contract",
+      "Unilateral contract",
+      "Aleatory contract",
+      "Adhesion contract"
+    ],
+    "correctAnswer": "Unilateral contract"
+  },
+  {
+    "id": "q2",
+    "text": "Which element must exist at the time of application for a life insurance policy to be legally valid?",
+    "options": [
+      "Free-look period",
+      "Consideration",
+      "Insurable interest",
+      "Beneficiary designation"
+    ],
+    "correctAnswer": "Insurable interest"
+  },
+  {
+    "id": "q3",
+    "text": "A conditional receipt is used to:",
+    "options": [
+      "Guarantee policy issuance",
+      "Bind coverage from the application date pending underwriting",
+      "Replace the policy illustration",
+      "Waive the free-look period"
+    ],
+    "correctAnswer": "Bind coverage from the application date pending underwriting"
+  },
+  {
+    "id": "q4",
+    "text": "In a unilateral contract, the insured is:",
+    "options": [
+      "Obligated to renew annually",
+      "Not legally bound to perform any action beyond the application",
+      "Required to pay dividends",
+      "Required to submit proof of loss monthly"
+    ],
+    "correctAnswer": "Not legally bound to perform any action beyond the application"
+  },
+  {
+    "id": "q5",
+    "text": "The primary source of funds to pay life insurance claims is:",
+    "options": [
+      "Investment income",
+      "Reinsurance recoveries",
+      "Premiums paid by the insured",
+      "Policy loans"
+    ],
+    "correctAnswer": "Premiums paid by the insured"
+  },
+  {
+    "id": "q6",
+    "text": "Which statement about key-person insurance premiums is FALSE?",
+    "options": [
+      "They are paid by the business",
+      "They fund protection for a key employee",
+      "They may use term or permanent policies",
+      "They are tax deductible as a business expense"
+    ],
+    "correctAnswer": "They are tax deductible as a business expense"
+  },
+  {
+    "id": "q7",
+    "text": "Which policy type generally has the lowest first‑year premium?",
+    "options": [
+      "Whole life",
+      "Level term",
+      "Convertible term",
+      "Annually renewable term"
+    ],
+    "correctAnswer": "Annually renewable term"
+  },
+  {
+    "id": "q8",
+    "text": "If a policyowner surrenders a life policy for its cash value, coverage:",
+    "options": [
+      "Converts to term",
+      "Continues at a reduced amount",
+      "Lapses entirely",
+      "Converts to paid‑up additions"
+    ],
+    "correctAnswer": "Lapses entirely"
+  },
+  {
+    "id": "q9",
+    "text": "Policy loans in a variable universal life policy require:",
+    "options": [
+      "Accumulated cash value",
+      "A guaranteed death benefit",
+      "No outstanding riders",
+      "A paid‑up addition"
+    ],
+    "correctAnswer": "Accumulated cash value"
+  },
+  {
+    "id": "q10",
+    "text": "Dividends used to purchase a one‑year term are called:",
+    "options": [
+      "Paid‑up additions",
+      "One‑year term option",
+      "Dividend accumulation",
+      "Flexible premium option"
+    ],
+    "correctAnswer": "One‑year term option"
+  },
+  {
+    "id": "q11",
+    "text": "The human life value approach considers:",
+    "options": [
+      "Total net worth",
+      "Future earnings and inflation",
+      "Current assets only",
+      "Debt balance only"
+    ],
+    "correctAnswer": "Future earnings and inflation"
+  },
+  {
+    "id": "q12",
+    "text": "A consumer report in underwriting includes:",
+    "options": [
+      "Medical records exclusively",
+      "Credit history, reputation, and habits",
+      "Insurable interest documentation",
+      "Policy illustrations"
+    ],
+    "correctAnswer": "Credit history, reputation, and habits"
+  },
+  {
+    "id": "q13",
+    "text": "Premiums for key‑person insurance are:",
+    "options": [
+      "Tax deductible",
+      "Tax deferred",
+      "Never tax deductible",
+      "Tax deductible if converted"
+    ],
+    "correctAnswer": "Never tax deductible"
+  },
+  {
+    "id": "q14",
+    "text": "Before replacing an existing policy, a producer must provide:",
+    "options": [
+      "Policy loan provisions",
+      "Notice Regarding Replacement",
+      "Free‑look statement",
+      "Nonforfeiture options"
+    ],
+    "correctAnswer": "Notice Regarding Replacement"
+  },
+  {
+    "id": "q15",
+    "text": "The Buyer’s Guide must be delivered:",
+    "options": [
+      "Within five days of application",
+      "With the policy at delivery",
+      "After the free‑look period",
+      "On policy anniversary"
+    ],
+    "correctAnswer": "With the policy at delivery"
+  },
+  {
+    "id": "q16",
+    "text": "Which is NOT used in the needs approach?",
+    "options": [
+      "Years until retirement",
+      "Final expense needs",
+      "Current health status only",
+      "Income replacement"
+    ],
+    "correctAnswer": "Current health status only"
+  },
+  {
+    "id": "q17",
+    "text": "Which rider does NOT increase the death benefit?",
+    "options": [
+      "Accelerated benefit rider",
+      "Waiver of cost of insurance rider",
+      "Payor benefit rider",
+      "Guaranteed insurability rider"
+    ],
+    "correctAnswer": "Payor benefit rider"
+  },
+  {
+    "id": "q18",
+    "text": "Annually renewable term premiums:",
+    "options": [
+      "Remain level always",
+      "Increase each year",
+      "Decrease each year",
+      "Are flexible"
+    ],
+    "correctAnswer": "Increase each year"
+  },
+  {
+    "id": "q19",
+    "text": "After meeting the deductible, the insured typically pays:",
+    "options": [
+      "Nothing further",
+      "Coinsurance percentage",
+      "Full claim amount",
+      "Premium credit"
+    ],
+    "correctAnswer": "Coinsurance percentage"
+  },
+  {
+    "id": "q20",
+    "text": "Credit life insurance is most often:",
+    "options": [
+      "Level term",
+      "Whole life",
+      "Nonrenewable term",
+      "Decreasing term"
+    ],
+    "correctAnswer": "Decreasing term"
+  },
+  {
+    "id": "q21",
+    "text": "Fixed‑period settlement pays:",
+    "options": [
+      "For a specified time only",
+      "For life only",
+      "Lump sum",
+      "Flexible installments"
+    ],
+    "correctAnswer": "For a specified time only"
+  },
+  {
+    "id": "q22",
+    "text": "Social Security does NOT cover:",
+    "options": [
+      "Old‑age benefits",
+      "Welfare benefits",
+      "Disability benefits",
+      "Survivor benefits"
+    ],
+    "correctAnswer": "Welfare benefits"
+  },
+  {
+    "id": "q23",
+    "text": "The official name of Social Security is:",
+    "options": [
+      "Social Security Income",
+      "Old‑Age, Survivors, and Disability Insurance",
+      "Federal Retirement Program",
+      "Medicare and Social Services"
+    ],
+    "correctAnswer": "Old‑Age, Survivors, and Disability Insurance"
+  },
+  {
+    "id": "q24",
+    "text": "Group health continuation normally lasts:",
+    "options": [
+      "31 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "31 days"
+  },
+  {
+    "id": "q25",
+    "text": "A noncontributory group plan means:",
+    "options": [
+      "Employer pays full premium",
+      "Employees share premium equally",
+      "Employees opt in",
+      "No employer contribution"
+    ],
+    "correctAnswer": "Employer pays full premium"
+  },
+  {
+    "id": "q26",
+    "text": "A rider allowing early death benefit for terminal illness is:",
+    "options": [
+      "Accelerated benefit rider",
+      "Waiver of premium rider",
+      "Paid‑up addition rider",
+      "Guaranteed insurability rider"
+    ],
+    "correctAnswer": "Accelerated benefit rider"
+  },
+  {
+    "id": "q27",
+    "text": "The elimination period is the:",
+    "options": [
+      "Benefit period",
+      "Waiting period before benefits",
+      "Policy lapse period",
+      "Reinstatement period"
+    ],
+    "correctAnswer": "Waiting period before benefits"
+  },
+  {
+    "id": "q28",
+    "text": "Essential in a replacement transaction is:",
+    "options": [
+      "Notice Regarding Replacement",
+      "Buyer's Guide",
+      "Policy loan provision",
+      "Free‑look waiver"
+    ],
+    "correctAnswer": "Notice Regarding Replacement"
+  },
+  {
+    "id": "q29",
+    "text": "A reciprocal insurer is:",
+    "options": [
+      "A captive insurer",
+      "An unincorporated group insuring one another",
+      "A mutual stock insurer",
+      "A government pool"
+    ],
+    "correctAnswer": "An unincorporated group insuring one another"
+  },
+  {
+    "id": "q30",
+    "text": "Under adhesion, ambiguities are resolved in favor of the:",
+    "options": [
+      "Insurer",
+      "Policyholder",
+      "Regulator",
+      "Producer"
+    ],
+    "correctAnswer": "Policyholder"
+  },
+  {
+    "id": "q31",
+    "text": "An immediate annuity begins payments:",
+    "options": [
+      "After a year",
+      "Immediately after purchase",
+      "At retirement only",
+      "At policy maturity"
+    ],
+    "correctAnswer": "Immediately after purchase"
+  },
+  {
+    "id": "q32",
+    "text": "A GMIB rider guarantees:",
+    "options": [
+      "Minimum annual income",
+      "Flexible premiums",
+      "Paid‑up additions",
+      "Term conversion"
+    ],
+    "correctAnswer": "Minimum annual income"
+  },
+  {
+    "id": "q33",
+    "text": "A convertible term policy can be converted to:",
+    "options": [
+      "Another term policy",
+      "A decreasing term policy",
+      "A permanent policy",
+      "An annuity"
+    ],
+    "correctAnswer": "A permanent policy"
+  },
+  {
+    "id": "q34",
+    "text": "The minimum free‑look period is:",
+    "options": [
+      "5 days",
+      "10 days",
+      "30 days",
+      "60 days"
+    ],
+    "correctAnswer": "10 days"
+  },
+  {
+    "id": "q35",
+    "text": "Group disability benefits are based on:",
+    "options": [
+      "A percentage of salary",
+      "Policy face amount",
+      "Flat dollar amount",
+      "Length of service"
+    ],
+    "correctAnswer": "A percentage of salary"
+  },
+  {
+    "id": "q36",
+    "text": "Which is true about Medicare Advantage (Part C)?",
+    "options": [
+      "Replaces Part A only",
+      "Replaces Part D only",
+      "Combines A and B benefits",
+      "Replaces Medigap policies"
+    ],
+    "correctAnswer": "Combines A and B benefits"
+  },
+  {
+    "id": "q37",
+    "text": "HIPAA portability allows gaps up to:",
+    "options": [
+      "30 days",
+      "45 days",
+      "63 days",
+      "90 days"
+    ],
+    "correctAnswer": "63 days"
+  },
+  {
+    "id": "q38",
+    "text": "An equity‑indexed annuity credits interest based on:",
+    "options": [
+      "Fixed rate",
+      "Stock index performance",
+      "Mutual fund gains",
+      "Policy loan interest"
+    ],
+    "correctAnswer": "Stock index performance"
+  },
+  {
+    "id": "q39",
+    "text": "A UL waiver of cost of insurance rider:",
+    "options": [
+      "Waives death benefit charges",
+      "Waives cost of insurance during disability",
+      "Guarantees cash value growth",
+      "Reduces premiums permanently"
+    ],
+    "correctAnswer": "Waives cost of insurance during disability"
+  },
+  {
+    "id": "q40",
+    "text": "Coinsurance in health insurance is:",
+    "options": [
+      "A fixed copay",
+      "A percentage share after deductible",
+      "A premium surcharge",
+      "An underwriting fee"
+    ],
+    "correctAnswer": "A percentage share after deductible"
+  },
+  {
+    "id": "q41",
+    "text": "Which is NOT a feature of an HMO?",
+    "options": [
+      "Network providers",
+      "Primary care gatekeeper",
+      "Unlimited out-of-network access",
+      "Focus on preventive care"
+    ],
+    "correctAnswer": "Unlimited out-of-network access"
+  },
+  {
+    "id": "q42",
+    "text": "Preauthorization in health plans is to:",
+    "options": [
+      "Increase premiums",
+      "Confirm medical necessity",
+      "Allow any specialist visit",
+      "Eliminate deductibles"
+    ],
+    "correctAnswer": "Confirm medical necessity"
+  },
+  {
+    "id": "q43",
+    "text": "Insurable interest in life insurance means:",
+    "options": [
+      "Financial benefit on insurer’s side",
+      "Financial loss on applicant’s death",
+      "Guaranteed renewability",
+      "Cash value accumulation"
+    ],
+    "correctAnswer": "Financial loss on applicant’s death"
+  },
+  {
+    "id": "q44",
+    "text": "All of the following except which describes term life insurance?",
+    "options": [
+      "No cash value",
+      "Limited coverage period",
+      "Level death benefit",
+      "Guaranteed cash value"
+    ],
+    "correctAnswer": "Guaranteed cash value"
+  },
+  {
+    "id": "q45",
+    "text": "Replacement rules protect applicants by requiring:",
+    "options": [
+      "Free ongoing advice",
+      "Disclosure of pros and cons",
+      "Automatic reinstatement",
+      "Immediate cancellation"
+    ],
+    "correctAnswer": "Disclosure of pros and cons"
+  },
+  {
+    "id": "q46",
+    "text": "If disabled 15 days with a 7‑day elimination period, payable days are:",
+    "options": [
+      "7 days",
+      "8 days",
+      "15 days",
+      "22 days"
+    ],
+    "correctAnswer": "8 days"
+  },
+  {
+    "id": "q47",
+    "text": "The law of large numbers allows insurers to:",
+    "options": [
+      "Predict losses with large pools",
+      "Eliminate risk entirely",
+      "Guarantee profits",
+      "Set fixed premiums"
+    ],
+    "correctAnswer": "Predict losses with large pools"
+  },
+  {
+    "id": "q48",
+    "text": "A moral hazard is:",
+    "options": [
+      "Intentional risk behavior",
+      "Imprudent investment",
+      "Natural disaster risk",
+      "Legal liability risk"
+    ],
+    "correctAnswer": "Intentional risk behavior"
+  },
+  {
+    "id": "q49",
+    "text": "Speculative risks such as stock market investing are:",
+    "options": [
+      "Fully insurable",
+      "Partially insurable",
+      "Not insurable",
+      "Government‑backed"
+    ],
+    "correctAnswer": "Not insurable"
+  },
+  {
+    "id": "q50",
+    "text": "Group life conversion allows:",
+    "options": [
+      "Increase death benefit",
+      "Individual policy without underwriting",
+      "Policy loan feature",
+      "Extended term only"
+    ],
+    "correctAnswer": "Individual policy without underwriting"
+  },
+  {
+    "id": "q51",
+    "text": "To be currently insured under Social Security, you need:",
+    "options": [
+      "6 credits in 13 quarters",
+      "10 years of work",
+      "Private pension",
+      "Disability status only"
+    ],
+    "correctAnswer": "6 credits in 13 quarters"
+  },
+  {
+    "id": "q52",
+    "text": "A Medigap policy is designed to:",
+    "options": [
+      "Replace Medicare",
+      "Cover gaps in Parts A and B",
+      "Fund long‑term care",
+      "Provide life insurance"
+    ],
+    "correctAnswer": "Cover gaps in Parts A and B"
+  },
+  {
+    "id": "q53",
+    "text": "Cost basis for an immediate annuity funded with after‑tax dollars is:",
+    "options": [
+      "Face amount",
+      "Total payments received",
+      "Interest earned",
+      "Original premium paid"
+    ],
+    "correctAnswer": "Original premium paid"
+  },
+  {
+    "id": "q54",
+    "text": "If you surrender an annuity early, taxes are:",
+    "options": [
+      "Non‑taxable",
+      "Taxed on interest first plus penalty if under 59½",
+      "Flat rate on principal",
+      "Deferred entirely"
+    ],
+    "correctAnswer": "Taxed on interest first plus penalty if under 59½"
+  },
+  {
+    "id": "q55",
+    "text": "In a variable annuity, the annuitant assumes:",
+    "options": [
+      "Guaranteed interest rate",
+      "Investment risk",
+      "Insurer credit risk",
+      "Mortality risk"
+    ],
+    "correctAnswer": "Investment risk"
+  },
+  {
+    "id": "q56",
+    "text": "A 1035 exchange allows tax deferral until:",
+    "options": [
+      "The exchange itself",
+      "Surrender of the new contract",
+      "Death of annuitant",
+      "Policy renewal"
+    ],
+    "correctAnswer": "Surrender of the new contract"
+  },
+  {
+    "id": "q57",
+    "text": "A nonforfeiture option lets you:",
+    "options": [
+      "Increase face amount",
+      "Purchase reduced paid‑up policy",
+      "Cancel with no refund",
+      "Extend term coverage"
+    ],
+    "correctAnswer": "Purchase reduced paid‑up policy"
+  },
+  {
+    "id": "q58",
+    "text": "Replacement rules require:",
+    "options": [
+      "Immediate old policy cancellation",
+      "Applicant disclosure of pros/cons",
+      "Free‑look waiver",
+      "Policy loan notice"
+    ],
+    "correctAnswer": "Applicant disclosure of pros/cons"
+  },
+  {
+    "id": "q59",
+    "text": "Managed care emphasizes:",
+    "options": [
+      "Free provider choice",
+      "Cost and quality coordination",
+      "High cost sharing",
+      "Indemnity only"
+    ],
+    "correctAnswer": "Cost and quality coordination"
+  },
+  {
+    "id": "q60",
+    "text": "Medicare Part A covers:",
+    "options": [
+      "Outpatient doctor visits",
+      "Inpatient hospital care",
+      "Prescription drugs",
+      "Dental services"
+    ],
+    "correctAnswer": "Inpatient hospital care"
+  },
+  {
+    "id": "q61",
+    "text": "Portability under HIPAA allows coverage transfer with no gaps exceeding:",
+    "options": [
+      "30 days",
+      "63 days",
+      "180 days",
+      "365 days"
+    ],
+    "correctAnswer": "63 days"
+  },
+  {
+    "id": "q62",
+    "text": "A hospital indemnity policy pays:",
+    "options": [
+      "Daily fixed amount",
+      "Actual bills",
+      "Lump sum only",
+      "Out-of-pocket max"
+    ],
+    "correctAnswer": "Daily fixed amount"
+  },
+  {
+    "id": "q63",
+    "text": "Preexisting conditions may be excluded if they existed before:",
+    "options": [
+      "Age 65",
+      "Policy effective date",
+      "Open enrollment",
+      "Medicare eligibility"
+    ],
+    "correctAnswer": "Policy effective date"
+  },
+  {
+    "id": "q64",
+    "text": "A moral hazard increases loss likelihood due to:",
+    "options": [
+      "Insured’s intentional behavior",
+      "Natural disasters",
+      "Poor underwriting only",
+      "Economic conditions"
+    ],
+    "correctAnswer": "Insured’s intentional behavior"
+  },
+  {
+    "id": "q65",
+    "text": "A waiver of premium rider:",
+    "options": [
+      "Waives death benefit fees",
+      "Waives premiums during disability",
+      "Adds term coverage",
+      "Increases face amount"
+    ],
+    "correctAnswer": "Waives premiums during disability"
+  },
+  {
+    "id": "q66",
+    "text": "The contestability period allows the insurer to:",
+    "options": [
+      "Investigate misstatements initially",
+      "Cancel at any time",
+      "Adjust premiums yearly",
+      "Deny claims anytime"
+    ],
+    "correctAnswer": "Investigate misstatements initially"
+  },
+  {
+    "id": "q67",
+    "text": "Whole life policies guarantee:",
+    "options": [
+      "Term conversion",
+      "Level term premium only",
+      "Cash value accumulation",
+      "Short‑term coverage"
+    ],
+    "correctAnswer": "Cash value accumulation"
+  },
+  {
+    "id": "q68",
+    "text": "100% participation in a noncontributory group plan means:",
+    "options": [
+      "All eligible employees enrolled",
+      "Only some employees enrolled",
+      "Voluntary enrollment",
+      "No employer contribution"
+    ],
+    "correctAnswer": "All eligible employees enrolled"
+  },
+  {
+    "id": "q69",
+    "text": "Replacement in life insurance means:",
+    "options": [
+      "Adding riders only",
+      "Exchanging old policy for new with disclosure",
+      "Modifying beneficiary only",
+      "Lapsing a policy"
+    ],
+    "correctAnswer": "Exchanging old policy for new with disclosure"
+  },
+  {
+    "id": "q70",
+    "text": "Insurable interest must exist:",
+    "options": [
+      "At application for life insurance",
+      "At claim only",
+      "At policy maturity",
+      "Never required"
+    ],
+    "correctAnswer": "At application for life insurance"
+  },
+  {
+    "id": "q71",
+    "text": "In universal life, flexible premiums depend on:",
+    "options": [
+      "Insured’s age only",
+      "Credited interest rate and cash value",
+      "Beneficiary choice",
+      "Initial face amount only"
+    ],
+    "correctAnswer": "Credited interest rate and cash value"
+  },
+  {
+    "id": "q72",
+    "text": "Which rider postpones premium payments during disability?",
+    "options": [
+      "Guaranteed insurability rider",
+      "Waiver of premium rider",
+      "Accelerated benefit rider",
+      "Conversion rider"
+    ],
+    "correctAnswer": "Waiver of premium rider"
+  },
+  {
+    "id": "q73",
+    "text": "Coordination of benefits prevents:",
+    "options": [
+      "Underpayment of claims",
+      "Overinsurance beyond actual loss",
+      "Multiple out-of-pocket charges",
+      "Cross‑border care"
+    ],
+    "correctAnswer": "Overinsurance beyond actual loss"
+  },
+  {
+    "id": "q74",
+    "text": "A variable annuity’s payouts depend on:",
+    "options": [
+      "Insurer’s general account",
+      "Performance of underlying investments",
+      "Fixed interest rate",
+      "Policy loan values"
+    ],
+    "correctAnswer": "Performance of underlying investments"
+  },
+  {
+    "id": "q75",
+    "text": "Which plan requires a primary care physician?",
+    "options": [
+      "PPO",
+      "HMO",
+      "EPO",
+      "Indemnity"
+    ],
+    "correctAnswer": "HMO"
+  },
+  {
+    "id": "q76",
+    "text": "The free‑look period allows the insured to:",
+    "options": [
+      "Change beneficiaries",
+      "Cancel and refund within a set time",
+      "Adjust face amount",
+      "Increase premiums"
+    ],
+    "correctAnswer": "Cancel and refund within a set time"
+  },
+  {
+    "id": "q77",
+    "text": "A contingent reinstatement clause covers:",
+    "options": [
+      "Recurrent disabilities",
+      "Accidental death only",
+      "Policy loans",
+      "Term renewals"
+    ],
+    "correctAnswer": "Recurrent disabilities"
+  },
+  {
+    "id": "q78",
+    "text": "The law of large numbers allows:",
+    "options": [
+      "Accurate loss prediction with large pools",
+      "Premium discounts only",
+      "Guaranteed no losses",
+      "Fixed policy wording"
+    ],
+    "correctAnswer": "Accurate loss prediction with large pools"
+  },
+  {
+    "id": "q79",
+    "text": "Participating policies issue dividends as:",
+    "options": [
+      "Return of premium overpayment",
+      "Guaranteed interest",
+      "Reinsurance fees",
+      "Policy loans"
+    ],
+    "correctAnswer": "Return of premium overpayment"
+  },
+  {
+    "id": "q80",
+    "text": "Medicare Part B primarily covers:",
+    "options": [
+      "Inpatient hospital care",
+      "Physician and outpatient services",
+      "Prescription drugs",
+      "Long‑term care"
+    ],
+    "correctAnswer": "Physician and outpatient services"
+  },
+  {
+    "id": "q81",
+    "text": "What is the policy provision that prevents insurer alterations via outside documents?",
+    "options": [
+      "Entire contract clause",
+      "Incontestability clause",
+      "Grace period clause",
+      "Free-look provision"
+    ],
+    "correctAnswer": "Entire contract clause"
+  },
+  {
+    "id": "q82",
+    "text": "Which rider allows face amount adjustments based on the Consumer Price Index?",
+    "options": [
+      "Cost of living rider",
+      "Accelerated benefit rider",
+      "Waiver of premium rider",
+      "Paid-up additions rider"
+    ],
+    "correctAnswer": "Cost of living rider"
+  },
+  {
+    "id": "q83",
+    "text": "Which term describes the return of unused premiums in life insurance?",
+    "options": [
+      "Dividend",
+      "Policy loan",
+      "Cash value",
+      "Surrender charge"
+    ],
+    "correctAnswer": "Dividend"
+  },
+  {
+    "id": "q84",
+    "text": "Under replacement rules, illustrations must include all EXCEPT:",
+    "options": [
+      "Name of insurer",
+      "Guaranteed values",
+      "Primary beneficiary",
+      "Non-guaranteed values"
+    ],
+    "correctAnswer": "Primary beneficiary"
+  },
+  {
+    "id": "q85",
+    "text": "Which policy type builds cash value after the third year?",
+    "options": [
+      "Whole life",
+      "Level term",
+      "Decreasing term",
+      "Convertible term"
+    ],
+    "correctAnswer": "Whole life"
+  },
+  {
+    "id": "q86",
+    "text": "The incontestability clause begins after:",
+    "options": [
+      "Two years in force",
+      "First premium paid",
+      "Policy maturation",
+      "Free-look period"
+    ],
+    "correctAnswer": "Two years in force"
+  },
+  {
+    "id": "q87",
+    "text": "Which is NOT covered by Medicare Part A?",
+    "options": [
+      "Inpatient hospital stay",
+      "Skilled nursing facility",
+      "Physician office visit",
+      "Home health care"
+    ],
+    "correctAnswer": "Physician office visit"
+  },
+  {
+    "id": "q88",
+    "text": "Which statement is true about a Modified Endowment Contract (MEC)?",
+    "options": [
+      "Withdrawals are taxed LIFO",
+      "Policy loans are penalty-free",
+      "Death benefits lose tax-free status",
+      "Premiums are always deductible"
+    ],
+    "correctAnswer": "Withdrawals are taxed LIFO"
+  },
+  {
+    "id": "q89",
+    "text": "Which health plan is most likely to have a deductible and coinsurance feature?",
+    "options": [
+      "Basic hospital plan",
+      "Major medical plan",
+      "Hospital indemnity plan",
+      "Dental plan"
+    ],
+    "correctAnswer": "Major medical plan"
+  },
+  {
+    "id": "q90",
+    "text": "Which provision gives the insurer the right to reinstate a lapsed policy?",
+    "options": [
+      "Reinstatement provision",
+      "Grace period",
+      "Automatic premium loan",
+      "Free-look period"
+    ],
+    "correctAnswer": "Reinstatement provision"
+  },
+  {
+    "id": "q91",
+    "text": "Under COBRA, continuation coverage can last up to:",
+    "options": [
+      "18 months",
+      "31 days",
+      "63 days",
+      "120 days"
+    ],
+    "correctAnswer": "18 months"
+  },
+  {
+    "id": "q92",
+    "text": "What does an HRA allow?",
+    "options": [
+      "Employer‑funded medical reimbursements",
+      "Tax‑free retirement savings",
+      "Fixed annuity payments",
+      "Term life coverage"
+    ],
+    "correctAnswer": "Employer‑funded medical reimbursements"
+  },
+  {
+    "id": "q93",
+    "text": "Which IRA withdrawal penalty applies if taken before age 59½?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "0%"
+    ],
+    "correctAnswer": "10%"
+  },
+  {
+    "id": "q94",
+    "text": "Which best describes a Keogh plan?",
+    "options": [
+      "Qualified plan for self-employed",
+      "Medicare supplement plan",
+      "Health savings account",
+      "Group life plan"
+    ],
+    "correctAnswer": "Qualified plan for self-employed"
+  },
+  {
+    "id": "q95",
+    "text": "In deferred compensation, distributions are:",
+    "options": [
+      "Taxable upon receipt",
+      "Tax‑free",
+      "Taxed as capital gains",
+      "Not reported"
+    ],
+    "correctAnswer": "Taxable upon receipt"
+  },
+  {
+    "id": "q96",
+    "text": "Which policy provision sets the time to file suit against the insurer?",
+    "options": [
+      "Legal actions provision",
+      "Notice of claim",
+      "Proof of loss",
+      "Time payment of claims"
+    ],
+    "correctAnswer": "Legal actions provision"
+  },
+  {
+    "id": "q97",
+    "text": "What is the purpose of a medical savings account (MSA)?",
+    "options": [
+      "Tax‑favored medical expense savings",
+      "Retirement annuity funding",
+      "Long‑term care premium payment",
+      "College tuition savings"
+    ],
+    "correctAnswer": "Tax‑favored medical expense savings"
+  },
+  {
+    "id": "q98",
+    "text": "Which factor does NOT affect health insurance underwriting?",
+    "options": [
+      "Type of occupation",
+      "Claims history",
+      "Weight and habits",
+      "Policy loan value"
+    ],
+    "correctAnswer": "Policy loan value"
+  },
+  {
+    "id": "q99",
+    "text": "The probationary period in disability policies applies only to:",
+    "options": [
+      "Sickness",
+      "Accidents",
+      "Both sickness and accidents",
+      "Premium payments"
+    ],
+    "correctAnswer": "Sickness"
+  },
+  {
+    "id": "q100",
+    "text": "Which dental coverage typically includes crowns and bridges?",
+    "options": [
+      "Basic services",
+      "Preventive services",
+      "Major services",
+      "Orthodontics"
+    ],
+    "correctAnswer": "Major services"
+  },
+  {
+    "id": "q101",
+    "text": "An agent’s fiduciary duty requires:",
+    "options": [
+      "Acting in insurer’s best interest",
+      "Acting in applicant’s best interest",
+      "Avoiding all commissions",
+      "Issuing policies directly"
+    ],
+    "correctAnswer": "Acting in applicant’s best interest"
+  },
+  {
+    "id": "q102",
+    "text": "Which premium mode is most expensive?",
+    "options": [
+      "Annual",
+      "Semiannual",
+      "Quarterly",
+      "Monthly"
+    ],
+    "correctAnswer": "Monthly"
+  },
+  {
+    "id": "q103",
+    "text": "What is a Keogh plan also known as?",
+    "options": [
+      "HR-10 plan",
+      "SIMPLE IRA",
+      "403(b) plan",
+      "HSA"
+    ],
+    "correctAnswer": "HR-10 plan"
+  },
+  {
+    "id": "q104",
+    "text": "Which of these is NOT part of the life insurance application?",
+    "options": [
+      "Agent’s report",
+      "Medical information",
+      "Policy illustration",
+      "Insured’s statements"
+    ],
+    "correctAnswer": "Policy illustration"
+  },
+  {
+    "id": "q105",
+    "text": "Which describes a decreasing term policy?",
+    "options": [
+      "Level death benefit",
+      "Death benefit declines over time",
+      "Premium declines",
+      "Cash value increases"
+    ],
+    "correctAnswer": "Death benefit declines over time"
+  },
+  {
+    "id": "q106",
+    "text": "Which rider lets the insured buy more coverage at intervals without proof of insurability?",
+    "options": [
+      "Waiver of premium rider",
+      "Guaranteed insurability rider",
+      "Accelerated benefit rider",
+      "Cost of living rider"
+    ],
+    "correctAnswer": "Guaranteed insurability rider"
+  },
+  {
+    "id": "q107",
+    "text": "What does an irrevocable beneficiary designation mean?",
+    "options": [
+      "Cannot be changed without beneficiary consent",
+      "Can be changed any time",
+      "Policy loans are prohibited",
+      "Premiums are waived"
+    ],
+    "correctAnswer": "Cannot be changed without beneficiary consent"
+  },
+  {
+    "id": "q108",
+    "text": "Which provision sets premium payment deadlines?",
+    "options": [
+      "Grace period",
+      "Reinstatement clause",
+      "Entire contract clause",
+      "Free-look period"
+    ],
+    "correctAnswer": "Grace period"
+  },
+  {
+    "id": "q109",
+    "text": "Which is true about industrial (home service) life insurance?",
+    "options": [
+      "Large face amounts",
+      "Premiums collected at home",
+      "No cash value",
+      "Sold only to businesses"
+    ],
+    "correctAnswer": "Premiums collected at home"
+  },
+  {
+    "id": "q110",
+    "text": "An agent’s authority spelled out in writing is called:",
+    "options": [
+      "Apparent authority",
+      "Implied authority",
+      "Express authority",
+      "Inherent authority"
+    ],
+    "correctAnswer": "Express authority"
+  },
+  {
+    "id": "q111",
+    "text": "If insured fails to pay loan interest and loan equals cash value, policy will:",
+    "options": [
+      "Automatically terminate",
+      "Reinstate with interest",
+      "Convert to term",
+      "Extend as term coverage"
+    ],
+    "correctAnswer": "Automatically terminate"
+  },
+  {
+    "id": "q112",
+    "text": "Which rider waives cost of insurance charges in UL during disability?",
+    "options": [
+      "Guaranteed insurability rider",
+      "Waiver of cost of insurance rider",
+      "Payor rider",
+      "Accelerated benefit rider"
+    ],
+    "correctAnswer": "Waiver of cost of insurance rider"
+  },
+  {
+    "id": "q113",
+    "text": "Which settlement option exhausts principal over a set time?",
+    "options": [
+      "Fixed period",
+      "Life income",
+      "Interest only",
+      "Lump sum"
+    ],
+    "correctAnswer": "Fixed period"
+  },
+  {
+    "id": "q114",
+    "text": "The incontestability clause prevents contest after:",
+    "options": [
+      "One year",
+      "Two years",
+      "Policy maturity",
+      "Free-look"
+    ],
+    "correctAnswer": "Two years"
+  },
+  {
+    "id": "q115",
+    "text": "Which annuity certain guarantees payments for a period even if annuitant dies?",
+    "options": [
+      "Pure life annuity",
+      "Life with period certain",
+      "Refund life annuity",
+      "Joint and survivor"
+    ],
+    "correctAnswer": "Life with period certain"
+  },
+  {
+    "id": "q116",
+    "text": "Which long‑term care funding vehicle is tax‑qualified?",
+    "options": [
+      "Health savings account",
+      "Tax‑qualified LTC policy",
+      "Medicaid",
+      "HMO plan"
+    ],
+    "correctAnswer": "Tax‑qualified LTC policy"
+  },
+  {
+    "id": "q117",
+    "text": "Which rider accelerates death benefit for chronic illness?",
+    "options": [
+      "Living needs rider",
+      "Waiver of premium rider",
+      "Guaranteed insurability rider",
+      "Term conversion rider"
+    ],
+    "correctAnswer": "Living needs rider"
+  },
+  {
+    "id": "q118",
+    "text": "What is the purpose of a free‑look provision?",
+    "options": [
+      "Allow policy review and cancellation",
+      "Guarantee renewability",
+      "Set premium rates",
+      "Provide dividends"
+    ],
+    "correctAnswer": "Allow policy review and cancellation"
+  },
+  {
+    "id": "q119",
+    "text": "Which health account is funded by employer and may carry over funds?",
+    "options": [
+      "HSA",
+      "HRA",
+      "MSA",
+      "FSA"
+    ],
+    "correctAnswer": "HRA"
+  },
+  {
+    "id": "q120",
+    "text": "In health insurance, a copayment is:",
+    "options": [
+      "A percentage of charges",
+      "A fixed fee per service",
+      "The annual deductible",
+      "The policy premium"
+    ],
+    "correctAnswer": "A fixed fee per service"
+  },
+  {
+    "id": "q121",
+    "text": "Which Medicare part is optional and covers physician services?",
+    "options": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ],
+    "correctAnswer": "Part B"
+  },
+  {
+    "id": "q122",
+    "text": "Which plan allows open access to any provider without referrals?",
+    "options": [
+      "HMO",
+      "PPO",
+      "HRA",
+      "EPO"
+    ],
+    "correctAnswer": "PPO"
+  },
+  {
+    "id": "q123",
+    "text": "Group accidental death & dismemberment coverage is:",
+    "options": [
+      "Individual policy",
+      "Rider to group life",
+      "Standalone health policy",
+      "Medicare benefit"
+    ],
+    "correctAnswer": "Rider to group life"
+  },
+  {
+    "id": "q124",
+    "text": "A probationary period in disability policies excludes:",
+    "options": [
+      "Accidents",
+      "Sickness",
+      "Both",
+      "None"
+    ],
+    "correctAnswer": "Sickness"
+  },
+  {
+    "id": "q125",
+    "text": "What does ERISA govern?",
+    "options": [
+      "Individual life insurance",
+      "Qualified employer retirement plans",
+      "Medicare Supplement sales",
+      "Health savings accounts"
+    ],
+    "correctAnswer": "Qualified employer retirement plans"
+  },
+  {
+    "id": "q126",
+    "text": "Which is NOT a required provision in individual health policies?",
+    "options": [
+      "Notice of claim",
+      "Grace period",
+      "Change of beneficiary",
+      "Claim forms"
+    ],
+    "correctAnswer": "Change of beneficiary"
+  },
+  {
+    "id": "q127",
+    "text": "Which policy insurance pays fixed dollar per hospital day?",
+    "options": [
+      "Hospital indemnity policy",
+      "Major medical policy",
+      "Basic medical policy",
+      "Managed care plan"
+    ],
+    "correctAnswer": "Hospital indemnity policy"
+  },
+  {
+    "id": "q128",
+    "text": "Which arrangement lets small employers reimburse medical expenses tax‑free?",
+    "options": [
+      "FSA",
+      "HRA",
+      "QSEHRA",
+      "MSA"
+    ],
+    "correctAnswer": "QSEHRA"
+  },
+  {
+    "id": "q129",
+    "text": "Which term describes making someone whole after loss?",
+    "options": [
+      "Indemnity",
+      "Contribution",
+      "Adhesion",
+      "Insurable interest"
+    ],
+    "correctAnswer": "Indemnity"
+  },
+  {
+    "id": "q130",
+    "text": "Which is true about participation in contributory group life?",
+    "options": [
+      "100% required",
+      "75% required",
+      "50% required",
+      "No requirement"
+    ],
+    "correctAnswer": "75% required"
+  },
+  {
+    "id": "q131",
+    "text": "Which annuity payout option pays interest only?",
+    "options": [
+      "Life income",
+      "Fixed period",
+      "Interest only",
+      "Lump sum"
+    ],
+    "correctAnswer": "Interest only"
+  },
+  {
+    "id": "q132",
+    "text": "Which describes an endowment policy?",
+    "options": [
+      "No cash value",
+      "Matures at a specified date",
+      "Pure term coverage",
+      "Only pays at death"
+    ],
+    "correctAnswer": "Matures at a specified date"
+  },
+  {
+    "id": "q133",
+    "text": "What is the penalty for excess IRA contributions?",
+    "options": [
+      "6%",
+      "10%",
+      "15%",
+      "0%"
+    ],
+    "correctAnswer": "6%"
+  },
+  {
+    "id": "q134",
+    "text": "Which is NOT part of the application in life insurance?",
+    "options": [
+      "Insured’s statements",
+      "Agent’s report",
+      "Medical exam report",
+      "Policy endorsement"
+    ],
+    "correctAnswer": "Policy endorsement"
+  },
+  {
+    "id": "q135",
+    "text": "Which rider covers child insured and waives premium if payor disabled?",
+    "options": [
+      "Payor benefit rider",
+      "Accelerated benefit rider",
+      "Waiver of premium rider",
+      "Guaranteed insurability rider"
+    ],
+    "correctAnswer": "Payor benefit rider"
+  },
+  {
+    "id": "q136",
+    "text": "Which policy is most often used for credit life?",
+    "options": [
+      "Whole life",
+      "Decreasing term",
+      "Whole life with rider",
+      "Level term"
+    ],
+    "correctAnswer": "Decreasing term"
+  },
+  {
+    "id": "q137",
+    "text": "Which annuity type has no guaranteed rate but tracks index performance?",
+    "options": [
+      "Fixed annuity",
+      "Equity indexed annuity",
+      "Variable annuity",
+      "Immediate annuity"
+    ],
+    "correctAnswer": "Equity indexed annuity"
+  },
+  {
+    "id": "q138",
+    "text": "Which provision allows automatic premium loan on default?",
+    "options": [
+      "Automatic premium loan provision",
+      "Grace period",
+      "Reinstatement clause",
+      "Free-look period"
+    ],
+    "correctAnswer": "Automatic premium loan provision"
+  },
+  {
+    "id": "q139",
+    "text": "An irrevocable beneficiary must consent to:",
+    "options": [
+      "Policy change",
+      "Owner change",
+      "Premium payment",
+      "Grace period extension"
+    ],
+    "correctAnswer": "Owner change"
+  },
+  {
+    "id": "q140",
+    "text": "Which statement is true about group health underwriting?",
+    "options": [
+      "Each insured individually underwritten",
+      "Overall group characteristics determine rate",
+      "No underwriting required",
+      "Age determines all rates"
+    ],
+    "correctAnswer": "Overall group characteristics determine rate"
+  },
+  {
+    "id": "q141",
+    "text": "Which describes a joint and survivor annuity?",
+    "options": [
+      "Pays until first death only",
+      "Pays one beneficiary for life",
+      "Pays both lives and survivor gets remainder",
+      "Refunds premium on death"
+    ],
+    "correctAnswer": "Pays both lives and survivor gets remainder"
+  },
+  {
+    "id": "q142",
+    "text": "Which rider adjusts face amount for inflation?",
+    "options": [
+      "Cost of living rider",
+      "Accelerated death benefit rider",
+      "Waiver of premium rider",
+      "Guaranteed insurability rider"
+    ],
+    "correctAnswer": "Cost of living rider"
+  },
+  {
+    "id": "q143",
+    "text": "Which policy loan rate is typical?",
+    "options": [
+      "Fixed interest rate",
+      "Variable based on index",
+      "No interest",
+      "Full face amount"
+    ],
+    "correctAnswer": "Fixed interest rate"
+  },
+  {
+    "id": "q144",
+    "text": "Which describes a MEC?",
+    "options": [
+      "Life policy failing seven‑pay test",
+      "Term policy",
+      "Annuity contract",
+      "Group plan"
+    ],
+    "correctAnswer": "Life policy failing seven‑pay test"
+  },
+  {
+    "id": "q145",
+    "text": "Which is NOT a required health insurance provision?",
+    "options": [
+      "Grace period",
+      "Claim forms",
+      "Incontestability clause",
+      "Paid‑up additions clause"
+    ],
+    "correctAnswer": "Paid‑up additions clause"
+  },
+  {
+    "id": "q146",
+    "text": "Group short‑term disability typically covers:",
+    "options": [
+      "Accidents only",
+      "Both sickness and accidents",
+      "Sickness only",
+      "Term life"
+    ],
+    "correctAnswer": "Both sickness and accidents"
+  },
+  {
+    "id": "q147",
+    "text": "Which annuity payout stops at death with no refund?",
+    "options": [
+      "Refund life annuity",
+      "Pure life annuity",
+      "Fixed period annuity",
+      "Life with period certain"
+    ],
+    "correctAnswer": "Pure life annuity"
+  },
+  {
+    "id": "q148",
+    "text": "Which policy type allows flexible premiums and death benefit?",
+    "options": [
+      "Whole life",
+      "Universal life",
+      "Term life",
+      "Endowment"
+    ],
+    "correctAnswer": "Universal life"
+  },
+  {
+    "id": "q149",
+    "text": "In health insurance, a co‑payment differs from coinsurance in that it is:",
+    "options": [
+      "A percentage of charges",
+      "A fixed dollar amount per service",
+      "An annual limit",
+      "A policy fee"
+    ],
+    "correctAnswer": "A fixed dollar amount per service"
+  },
+  {
+    "id": "q150",
+    "text": "Which describes an FSA?",
+    "options": [
+      "Employer‑owned medical expense account",
+      "Individual retirement account",
+      "Life insurance policy",
+      "Annuity contract"
+    ],
+    "correctAnswer": "Employer‑owned medical expense account"
+  },
+  {
+    "id": "q151",
+    "text": "Which policy provision specifies how and when the insurer pays claims?",
+    "options": [
+      "Time payment of claims",
+      "Proof of loss",
+      "Notice of claim",
+      "Physical exam provision"
+    ],
+    "correctAnswer": "Time payment of claims"
+  },
+  {
+    "id": "q152",
+    "text": "Which is a feature of a Medicare Select policy?",
+    "options": [
+      "Restricted network for certain services",
+      "Guaranteed issue age 65",
+      "Pays all out‑of‑network charges",
+      "No deductible"
+    ],
+    "correctAnswer": "Restricted network for certain services"
+  },
+  {
+    "id": "q153",
+    "text": "A HIPAA special enrollment right applies when:",
+    "options": [
+      "Group coverage lost due to employment status",
+      "Open enrollment only",
+      "Medicare eligibility",
+      "COBRA exhaustion"
+    ],
+    "correctAnswer": "Group coverage lost due to employment status"
+  },
+  {
+    "id": "q154",
+    "text": "Which is NOT covered under a basic hospital expense policy?",
+    "options": [
+      "Room and board",
+      "Operating room",
+      "Surgeon’s fees",
+      "Inpatient hospital services"
+    ],
+    "correctAnswer": "Surgeon’s fees"
+  },
+  {
+    "id": "q155",
+    "text": "Which describes a group blanket life policy?",
+    "options": [
+      "Individual certificates issued",
+      "Blanket coverage for varying individuals",
+      "Fixed face amount per member",
+      "Guaranteed conversion"
+    ],
+    "correctAnswer": "Blanket coverage for varying individuals"
+  },
+  {
+    "id": "q156",
+    "text": "Short‑term medical plans differ from major medical by having:",
+    "options": [
+      "No deductible",
+      "Limited duration coverage",
+      "Guaranteed issue at any age",
+      "Cost‑sharing features"
+    ],
+    "correctAnswer": "Limited duration coverage"
+  },
+  {
+    "id": "q157",
+    "text": "Which policy feature allows coverage continuation during premium default?",
+    "options": [
+      "Automatic premium loan",
+      "Free-look period",
+      "Grace period",
+      "Reinstatement clause"
+    ],
+    "correctAnswer": "Automatic premium loan"
+  },
+  {
+    "id": "q158",
+    "text": "Which is true about mutual insurers?",
+    "options": [
+      "They issue non‑participating policies",
+      "Policyholders share in profits via dividends",
+      "They are owned by stockholders",
+      "They never issue dividends"
+    ],
+    "correctAnswer": "Policyholders share in profits via dividends"
+  },
+  {
+    "id": "q159",
+    "text": "Which describes a recourse loan against cash value policy?",
+    "options": [
+      "Policy loan",
+      "Collateral assignment",
+      "Absolute assignment",
+      "Nonforfeiture option"
+    ],
+    "correctAnswer": "Policy loan"
+  },
+  {
+    "id": "q160",
+    "text": "Which settlement option pays principal and interest until both are exhausted?",
+    "options": [
+      "Fixed amount",
+      "Fixed period",
+      "Life income",
+      "Lump sum"
+    ],
+    "correctAnswer": "Fixed period"
+  },
+  {
+    "id": "q161",
+    "text": "Which provision covers the erroneous application of premium tax?",
+    "options": [
+      "Grace period",
+      "Contestability clause",
+      "Misstatement of age",
+      "Reinstatement clause"
+    ],
+    "correctAnswer": "Misstatement of age"
+  },
+  {
+    "id": "q162",
+    "text": "Which of these is a non‑cancelable health policy feature?",
+    "options": [
+      "Insurer cannot change rates",
+      "Insurer may cancel anytime",
+      "Insured can cancel only",
+      "No renewability guarantee"
+    ],
+    "correctAnswer": "Insurer cannot change rates"
+  },
+  {
+    "id": "q163",
+    "text": "Which is NOT a function of an insurance producer?",
+    "options": [
+      "Solicit applications",
+      "Handle claims decisions",
+      "Explain policy provisions",
+      "Deliver policies"
+    ],
+    "correctAnswer": "Handle claims decisions"
+  },
+  {
+    "id": "q164",
+    "text": "Which best describes a joint life policy?",
+    "options": [
+      "Pays on first death only",
+      "Pays on last death only",
+      "Pays both lives separately",
+      "Refunds premium on death"
+    ],
+    "correctAnswer": "Pays on first death only"
+  },
+  {
+    "id": "q165",
+    "text": "Which annuity payout option provides guaranteed payments for life of annuitant?",
+    "options": [
+      "Life income",
+      "Fixed period",
+      "Joint and survivor",
+      "Lump sum"
+    ],
+    "correctAnswer": "Life income"
+  },
+  {
+    "id": "q166",
+    "text": "What is the purpose of an investigation consumer report?",
+    "options": [
+      "Verify insurable interest",
+      "Assess lifestyle and character",
+      "Calculate premium",
+      "Set policy loan interest"
+    ],
+    "correctAnswer": "Assess lifestyle and character"
+  },
+  {
+    "id": "q167",
+    "text": "Which health policy renewal type allows rate increases by class only?",
+    "options": [
+      "Guaranteed renewable",
+      "Noncancelable",
+      "Optionally renewable",
+      "Conditionally renewable"
+    ],
+    "correctAnswer": "Guaranteed renewable"
+  },
+  {
+    "id": "q168",
+    "text": "Which policy combines basic hospital/surgical with major medical?",
+    "options": [
+      "Basic medical plan",
+      "Comprehensive major medical plan",
+      "Hospital indemnity plan",
+      "PPO plan"
+    ],
+    "correctAnswer": "Comprehensive major medical plan"
+  },
+  {
+    "id": "q169",
+    "text": "Under HIPAA, how many hours of LTC CE are required each licensing period?",
+    "options": [
+      "4 hours",
+      "8 hours",
+      "16 hours",
+      "24 hours"
+    ],
+    "correctAnswer": "8 hours"
+  },
+  {
+    "id": "q170",
+    "text": "Which is NOT allowed in credit life?",
+    "options": [
+      "Creditor dictates insurer choice",
+      "Borrower consent",
+      "Decreasing term coverage",
+      "Assignment to lender"
+    ],
+    "correctAnswer": "Creditor dictates insurer choice"
+  },
+  {
+    "id": "q171",
+    "text": "Which rider allows purchase increases at certain intervals without medical exam?",
+    "options": [
+      "Waiver of premium rider",
+      "Guaranteed insurability rider",
+      "Accelerated benefit rider",
+      "Term conversion rider"
+    ],
+    "correctAnswer": "Guaranteed insurability rider"
+  },
+  {
+    "id": "q172",
+    "text": "Which concept prevents recovery beyond actual loss under health plans?",
+    "options": [
+      "Principle of indemnity",
+      "Principle of adhesion",
+      "Principle of subrogation",
+      "Principle of utmost good faith"
+    ],
+    "correctAnswer": "Principle of indemnity"
+  },
+  {
+    "id": "q173",
+    "text": "What is the effect of a Cumulative dividend option?",
+    "options": [
+      "Dividends buy term each year",
+      "Dividends accumulate interest if not used",
+      "Dividends reduce premium directly",
+      "Dividends convert to paid‑up additions"
+    ],
+    "correctAnswer": "Dividends accumulate interest if not used"
+  },
+  {
+    "id": "q174",
+    "text": "What does SOLICIT mean in insurance?",
+    "options": [
+      "Request application completion",
+      "Bind coverage immediately",
+      "Guarantee policy issuance",
+      "Provide free advice"
+    ],
+    "correctAnswer": "Request application completion"
+  },
+  {
+    "id": "q175",
+    "text": "Which is the most common supervisor for securities aspects of variable products?",
+    "options": [
+      "SEC",
+      "NAIC",
+      "FINRA",
+      "IRS"
+    ],
+    "correctAnswer": "FINRA"
+  },
+  {
+    "id": "q176",
+    "text": "Which rider in health allows waiver of premium during disability?",
+    "options": [
+      "Guaranteed insurability rider",
+      "Waiver of premium rider",
+      "Accidental death rider",
+      "Return of premium rider"
+    ],
+    "correctAnswer": "Waiver of premium rider"
+  },
+  {
+    "id": "q177",
+    "text": "Which best describes a franchise group policy?",
+    "options": [
+      "Employer‑sponsored only",
+      "Small business association coverage",
+      "Individual underwritten",
+      "Automatically renewable"
+    ],
+    "correctAnswer": "Small business association coverage"
+  },
+  {
+    "id": "q178",
+    "text": "Which is a valid reason to contest a life policy during contestability?",
+    "options": [
+      "Misstatement of age on application",
+      "Insured’s disability claim",
+      "Insured’s death by accident",
+      "Beneficiary designation change"
+    ],
+    "correctAnswer": "Misstatement of age on application"
+  },
+  {
+    "id": "q179",
+    "text": "Which is true about contributory group health plans?",
+    "options": [
+      "At least 75% participation required",
+      "100% participation required",
+      "Open to all employees only",
+      "No participation requirement"
+    ],
+    "correctAnswer": "At least 75% participation required"
+  },
+  {
+    "id": "q180",
+    "text": "Which term describes covering multiple insureds under one policy without certificates?",
+    "options": [
+      "Blanket coverage",
+      "Franchise coverage",
+      "Master policy",
+      "Group certificate"
+    ],
+    "correctAnswer": "Blanket coverage"
+  },
+  {
+    "id": "q181",
+    "text": "Which federal law protects consumer credit reports in insurance underwriting?",
+    "options": [
+      "FCRA",
+      "HIPAA",
+      "ERISA",
+      "COBRA"
+    ],
+    "correctAnswer": "FCRA"
+  },
+  {
+    "id": "q182",
+    "text": "Which rider accelerates benefits for chronic illness requiring nursing care?",
+    "options": [
+      "Living needs rider",
+      "Chronic care rider",
+      "Waiver of premium rider",
+      "Accidental death rider"
+    ],
+    "correctAnswer": "Chronic care rider"
+  },
+  {
+    "id": "q183",
+    "text": "What is the purpose of COBRA continuation coverage?",
+    "options": [
+      "Extend employer‑sponsored coverage after termination",
+      "Convert group to individual policy",
+      "Provide Medicare supplement",
+      "Fund health savings account"
+    ],
+    "correctAnswer": "Extend employer‑sponsored coverage after termination"
+  },
+  {
+    "id": "q184",
+    "text": "Which policy type is guaranteed renewable but insurer can raise rates by class?",
+    "options": [
+      "Guaranteed renewable",
+      "Noncancelable",
+      "Optionally renewable",
+      "Conditionally renewable"
+    ],
+    "correctAnswer": "Guaranteed renewable"
+  },
+  {
+    "id": "q185",
+    "text": "Which term describes the return of a portion of cash value at policy lapse?",
+    "options": [
+      "Nonforfeiture option",
+      "Policy loan",
+      "Dividend",
+      "Surrender charge"
+    ],
+    "correctAnswer": "Nonforfeiture option"
+  },
+  {
+    "id": "q186",
+    "text": "Which describes a corridor deductible in LTC policies?",
+    "options": [
+      "Gap between benefit periods",
+      "Co‑insurance requirement",
+      "Waiting period before coverage",
+      "Elimination period"
+    ],
+    "correctAnswer": "Gap between benefit periods"
+  },
+  {
+    "id": "q187",
+    "text": "Which provision specifies when the insured must file proof of loss?",
+    "options": [
+      "Proof of loss provision",
+      "Notice of claim",
+      "Time payment of claims",
+      "Physical exam"
+    ],
+    "correctAnswer": "Proof of loss provision"
+  },
+  {
+    "id": "q188",
+    "text": "Which rider allows increase in death benefit if insured’s insurability changes?",
+    "options": [
+      "Guaranteed insurability rider",
+      "Accelerated benefit rider",
+      "Waiver of premium rider",
+      "Term conversion rider"
+    ],
+    "correctAnswer": "Guaranteed insurability rider"
+  },
+  {
+    "id": "q189",
+    "text": "Which describes subrogation in health insurance?",
+    "options": [
+      "Insurer’s right to recover from third party",
+      "Insured repays insurer",
+      "Policy loan option",
+      "Premium refund mechanism"
+    ],
+    "correctAnswer": "Insurer’s right to recover from third party"
+  },
+  {
+    "id": "q190",
+    "text": "Which is a feature of a fraternal insurer?",
+    "options": [
+      "Members of a lodge or society",
+      "Guaranteed issue policies only",
+      "Stock‑holder ownership",
+      "No charitable activity"
+    ],
+    "correctAnswer": "Members of a lodge or society"
+  },
+  {
+    "id": "q191",
+    "text": "Which best describes a captive insurer?",
+    "options": [
+      "Owned by its insureds to insure their own risks",
+      "Government‑backed insurer",
+      "Mutual insurer",
+      "Stock insurer"
+    ],
+    "correctAnswer": "Owned by its insureds to insure their own risks"
+  },
+  {
+    "id": "q192",
+    "text": "Which annuity characteristic is true?",
+    "options": [
+      "Pays a death benefit only",
+      "Provides income while the annuitant lives",
+      "Has no surrender value",
+      "Is always tax‑free"
+    ],
+    "correctAnswer": "Provides income while the annuitant lives"
+  },
+  {
+    "id": "q193",
+    "text": "Which party’s age and sex determine term life premiums?",
+    "options": [
+      "Insured",
+      "Beneficiary",
+      "Agent",
+      "Insurer"
+    ],
+    "correctAnswer": "Insured"
+  },
+  {
+    "id": "q194",
+    "text": "Which policy provision prevents insurer from referencing outside documents?",
+    "options": [
+      "Entire contract clause",
+      "Incontestability clause",
+      "Grace period provision",
+      "Reinstatement clause"
+    ],
+    "correctAnswer": "Entire contract clause"
+  },
+  {
+    "id": "q195",
+    "text": "Which of these qualifies as a short‑term annuity?",
+    "options": [
+      "Annuity certain",
+      "Life with period certain",
+      "Deferred annuity",
+      "Equity indexed annuity"
+    ],
+    "correctAnswer": "Annuity certain"
+  },
+  {
+    "id": "q196",
+    "text": "Which describes a cash surrender nonforfeiture option?",
+    "options": [
+      "Receive lump‑sum cash value",
+      "Purchase term coverage",
+      "Extend the policy term",
+      "Convert to paid‑up additions"
+    ],
+    "correctAnswer": "Receive lump‑sum cash value"
+  },
+  {
+    "id": "q197",
+    "text": "Which policy type uses seven‑pay test for MEC?",
+    "options": [
+      "Whole life",
+      "Term life",
+      "Universal life",
+      "Endowment"
+    ],
+    "correctAnswer": "Universal life"
+  },
+  {
+    "id": "q198",
+    "text": "Which best describes a residual disability benefit?",
+    "options": [
+      "Pays a percentage of lost income",
+      "Pays full benefit for partial disability",
+      "Waives all premiums",
+      "Adds term coverage"
+    ],
+    "correctAnswer": "Pays a percentage of lost income"
+  },
+  {
+    "id": "q199",
+    "text": "Which type of long‑term care policy must be guaranteed renewable?",
+    "options": [
+      "Tax‑qualified LTC",
+      "Non‑qualified LTC",
+      "Group LTC",
+      "Employer self‑funded plan"
+    ],
+    "correctAnswer": "Tax‑qualified LTC"
+  },
+  {
+    "id": "q200",
+    "text": "Which describes an option to purchase paid‑up additions?",
+    "options": [
+      "Dividend option",
+      "Nonforfeiture option",
+      "Automatic loan option",
+      "Extended term option"
+    ],
+    "correctAnswer": "Dividend option"
+  }
+]
