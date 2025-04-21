@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import { QuizContainer } from "@/components/quiz-container"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Brain, BookOpen, Zap, ChartBar, MessageCircle } from "lucide-react"
+import { Brain, Zap, ChartBar, MessageCircle } from "lucide-react"
 import { motion } from "framer-motion"
 
 export function QuizSetup() {
