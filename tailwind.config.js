@@ -1,24 +1,13 @@
-import type { Config } from "tailwindcss"
-import defaultTheme from "tailwindcss/defaultTheme"
-
-const config = {
+/** @type {import('tailwindcss').Config} */
+module.exports = {
   darkMode: "class",
   content: [
-    "./pages/**/*.{ts,tsx}",
-    "./components/**/*.{ts,tsx}",
-    "./app/**/*.{ts,tsx}",
-    "./src/**/*.{ts,tsx}",
-    "*.{js,ts,jsx,tsx,mdx}",
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+    "./app/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  prefix: "",
   theme: {
-    container: {
-      center: true,
-      padding: "2rem",
-      screens: {
-        "2xl": "1400px",
-      },
-    },
     extend: {
       colors: {
         border: "hsl(var(--border))",
@@ -27,7 +16,7 @@ const config = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#4F46E5", // Indigo-600
+          DEFAULT: "#4F46E5",
           foreground: "#ffffff",
           50: "#EEF2FF",
           100: "#E0E7FF",
@@ -41,7 +30,7 @@ const config = {
           900: "#312E81",
         },
         secondary: {
-          DEFAULT: "#8B5CF6", // Purple-500
+          DEFAULT: "#8B5CF6",
           foreground: "#ffffff",
           50: "#F5F3FF",
           100: "#EDE9FE",
@@ -80,20 +69,14 @@ const config = {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
-      fontFamily: {
-        sans: ["var(--font-poppins)", ...defaultTheme.fontFamily.sans],
-        serif: ["var(--font-playfair)", ...defaultTheme.fontFamily.serif],
-        poppins: ["var(--font-poppins)", ...defaultTheme.fontFamily.sans],
-        playfair: ["var(--font-playfair)", ...defaultTheme.fontFamily.serif],
-      },
       keyframes: {
         "accordion-down": {
-          from: { height: "0" },
+          from: { height: 0 },
           to: { height: "var(--radix-accordion-content-height)" },
         },
         "accordion-up": {
           from: { height: "var(--radix-accordion-content-height)" },
-          to: { height: "0" },
+          to: { height: 0 },
         },
       },
       animation: {
@@ -107,6 +90,4 @@ const config = {
     },
   },
   plugins: [],
-} satisfies Config
-
-export default config
+} 
