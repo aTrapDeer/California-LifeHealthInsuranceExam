@@ -1,8 +1,9 @@
 import type { Config } from "tailwindcss"
-import { fontFamily } from "tailwindcss/defaultTheme"
+import defaultTheme from "tailwindcss/defaultTheme"
+import animate from "@tailwindcss/animate"
 
 const config = {
-  darkMode: ["class"],
+  darkMode: "class",
   content: [
     "./pages/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
@@ -81,10 +82,10 @@ const config = {
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        sans: ["var(--font-poppins)", ...fontFamily.sans],
-        serif: ["var(--font-playfair)", ...fontFamily.serif],
-        poppins: ["var(--font-poppins)", ...fontFamily.sans],
-        playfair: ["var(--font-playfair)", ...fontFamily.serif],
+        sans: ["var(--font-poppins)", ...defaultTheme.fontFamily.sans],
+        serif: ["var(--font-playfair)", ...defaultTheme.fontFamily.serif],
+        poppins: ["var(--font-poppins)", ...defaultTheme.fontFamily.sans],
+        playfair: ["var(--font-playfair)", ...defaultTheme.fontFamily.serif],
       },
       keyframes: {
         "accordion-down": {
@@ -106,7 +107,7 @@ const config = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [animate],
 } satisfies Config
 
 export default config
