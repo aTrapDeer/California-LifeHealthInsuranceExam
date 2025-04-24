@@ -2198,5 +2198,1225 @@
       "Extended term option"
     ],
     "correctAnswer": "Dividend option"
-  }
-]
+  },
+  {
+    "id": "q201",
+    "text": "Under PPACA, insurers must allow dependents to remain on a parent's health insurance plan until they reach what age?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "30"
+    ],
+    "correctAnswer": "26"
+  },
+  {
+    "id": "q202",
+    "text": "Under PPACA, which of the following is NOT considered an essential health benefit?",
+    "options": [
+      "Hospitalization",
+      "Prescription drugs",
+      "Maternity and newborn care",
+      "Long-term care"
+    ],
+    "correctAnswer": "Long-term care"
+  },
+  {
+    "id": "q203",
+    "text": "At what age can individuals begin receiving reduced Social Security retirement benefits?",
+    "options": [
+      "60",
+      "62",
+      "65",
+      "67"
+    ],
+    "correctAnswer": "62"
+  },
+  {
+    "id": "q204",
+    "text": "Which federal program primarily funds long-term nursing home care for the elderly?",
+    "options": [
+      "Medicare",
+      "Medicaid",
+      "Social Security",
+      "Tricare"
+    ],
+    "correctAnswer": "Medicaid"
+  },
+  {
+    "id": "q205",
+    "text": "Which Medicare part refers to Medicare Advantage plans offered by private insurers?",
+    "options": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ],
+    "correctAnswer": "Part C"
+  },
+  {
+    "id": "q206",
+    "text": "Which Medicare part provides prescription drug coverage?",
+    "options": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ],
+    "correctAnswer": "Part D"
+  },
+    {
+      "id": "q207",
+      "text": "Under the Affordable Care Act, an Applicable Large Employer (ALE) is defined as having at least how many full-time employees (including full-time equivalents)?",
+      "options": [
+        "25",
+        "50",
+        "75",
+        "100"
+      ],
+      "correctAnswer": "50"
+    },
+    {
+      "id": "q208",
+      "text": "Under the ACA employer mandate, an ALE that fails to offer minimum essential coverage to its full-time employees faces a penalty of:",
+      "options": [
+        "$50 per employee",
+        "$2,000 per full-time employee annually",
+        "$3,000 per full-time employee annually",
+        "$4,000 per full-time employee annually"
+      ],
+      "correctAnswer": "$2,000 per full-time employee annually"
+    },
+    {
+      "id": "q209",
+      "text": "Individuals with incomes between 100% and 400% of the Federal Poverty Level may qualify for which ACA provision?",
+      "options": [
+        "Cost-sharing reductions only",
+        "Premium tax credits only",
+        "Premium tax credits and cost-sharing reductions",
+        "None of the above"
+      ],
+      "correctAnswer": "Premium tax credits only"
+    },
+    {
+      "id": "q210",
+      "text": "Which of the following is NOT considered Minimum Essential Coverage under the ACA?",
+      "options": [
+        "Employer-sponsored group health plan",
+        "Grandfathered individual health plan",
+        "Vision-only standalone plan",
+        "Medicaid"
+      ],
+      "correctAnswer": "Vision-only standalone plan"
+    },
+    {
+      "id": "q211",
+      "text": "The federal individual mandate penalty for not maintaining MEC was eliminated beginning in which year?",
+      "options": [
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "id": "q212",
+      "text": "Which of the following is one of the 10 Essential Health Benefits required under the ACA?",
+      "options": [
+        "Cosmetic surgery",
+        "Maternity and newborn care",
+        "Routine adult vision",
+        "Long-term care"
+      ],
+      "correctAnswer": "Maternity and newborn care"
+    },
+    {
+      "id": "q213",
+      "text": "Under the ACA medical loss ratio rules, large group health plans must spend at least what percentage of premium dollars on clinical services and quality improvement?",
+      "options": [
+        "70%",
+        "75%",
+        "80%",
+        "85%"
+      ],
+      "correctAnswer": "85%"
+    },
+    {
+      "id": "q214",
+      "text": "In the ACA’s metal-level categories, which plan has an actuarial value of approximately 80%?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": "Gold"
+    },
+    {
+      "id": "q215",
+      "text": "Which ACA metal-level plan has the lowest actuarial value?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": "Bronze"
+    },
+    {
+      "id": "q216",
+      "text": "Which of the following is NOT a standard ACA metal-level tier?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Diamond",
+        "Platinum"
+      ],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "id": "q217",
+      "text": "Cost-sharing reductions under the ACA are available only to enrollees in which metal tier?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": "Silver"
+    },
+    {
+      "id": "q218",
+      "text": "Which of the following is a recognized hardship exemption under the ACA?",
+      "options": [
+        "Long-term incarceration",
+        "Religious conscience objection",
+        "Homelessness",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "id": "q219",
+      "text": "The ACA risk corridor program was designed primarily to:",
+      "options": [
+        "Increase consumer premiums",
+        "Limit net losses for insurers",
+        "Penalize low-cost plans",
+        "Expand Medicaid eligibility"
+      ],
+      "correctAnswer": "Limit net losses for insurers"
+    },
+    {
+      "id": "q220",
+      "text": "Reinsurance fees paid by issuers under the ACA fund payments to stabilize which market?",
+      "options": [
+        "Small group market",
+        "Large group market",
+        "Individual market",
+        "Medicaid managed care"
+      ],
+      "correctAnswer": "Individual market"
+    },
+    {
+      "id": "q221",
+      "text": "Under ACA risk adjustment, payments are transferred to promote:",
+      "options": [
+        "Guaranteed issue",
+        "Community rating",
+        "Market stability",
+        "Essential health benefits"
+      ],
+      "correctAnswer": "Market stability"
+    },
+    {
+      "id": "q222",
+      "text": "What does SHOP stand for in the ACA context?",
+      "options": [
+        "State Health Options Program",
+        "Small Health Options Program",
+        "Small Business Health Options Program",
+        "Self Health Options Program"
+      ],
+      "correctAnswer": "Small Business Health Options Program"
+    },
+    {
+      "id": "q223",
+      "text": "Which ACA program provides a marketplace specifically for employers with 1–50 employees?",
+      "options": [
+        "FFM",
+        "SHOP",
+        "Medicare Advantage",
+        "COBRA"
+      ],
+      "correctAnswer": "SHOP"
+    },
+    {
+      "id": "q224",
+      "text": "ACA rules prohibit insurers from rescinding coverage except in cases of:",
+      "options": [
+        "Premium non-payment",
+        "Fraud or material misrepresentation",
+        "HIPAA violation",
+        "Rate increases"
+      ],
+      "correctAnswer": "Fraud or material misrepresentation"
+    },
+    {
+      "id": "q225",
+      "text": "A grandfathered health plan under the ACA is one that was purchased before March 23, 2010 and:",
+      "options": [
+        "Has been significantly changed",
+        "Has never changed any benefits or cost-sharing",
+        "Was sold only to small groups",
+        "Is only dental and vision"
+      ],
+      "correctAnswer": "Has never changed any benefits or cost-sharing"
+    },
+    {
+      "id": "q226",
+      "text": "Which change will cause a group plan to lose its grandfathered status?",
+      "options": [
+        "Adding a wellness program",
+        "Decreasing deductibles",
+        "Increasing coinsurance by more than 15%",
+        "Lowering employee contributions"
+      ],
+      "correctAnswer": "Increasing coinsurance by more than 15%"
+    },
+    {
+      "id": "q227",
+      "text": "ACA-mandated preventive services must be covered without cost-sharing when provided by:",
+      "options": [
+        "Any licensed provider",
+        "In-network providers",
+        "Out-of-network providers",
+        "Urgent care centers"
+      ],
+      "correctAnswer": "In-network providers"
+    },
+    {
+      "id": "q228",
+      "text": "Free preventive services under the ACA include:",
+      "options": [
+        "Colonoscopy for ages 50+",
+        "Annual mammogram",
+        "Adult immunizations",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "id": "q229",
+      "text": "A Qualified Health Plan in the ACA Exchange is required to offer at least how many Bronze-level plans?",
+      "options": [
+        "Zero",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correctAnswer": "One"
+    },
+    {
+      "id": "q230",
+      "text": "Which is one of the 10 Essential Health Benefit categories under the ACA?",
+      "options": [
+        "Experimental treatments",
+        "Chiropractic care",
+        "Mental health services",
+        "Vision only"
+      ],
+      "correctAnswer": "Mental health services"
+    },
+    {
+      "id": "q231",
+      "text": "The requirement that insurers must accept all applicants regardless of health status is known as:",
+      "options": [
+        "Community rating",
+        "Guaranteed issue",
+        "Experience rating",
+        "Selective underwriting"
+      ],
+      "correctAnswer": "Guaranteed issue"
+    },
+    {
+      "id": "q232",
+      "text": "Under ACA community rating rules, premium variations are allowed based on:",
+      "options": [
+        "Age, tobacco use, and geography",
+        "Medical history",
+        "Gender",
+        "Claims experience"
+      ],
+      "correctAnswer": "Age, tobacco use, and geography"
+    },
+    {
+      "id": "q233",
+      "text": "ACA community rating prohibits varying premiums based on:",
+      "options": [
+        "Age",
+        "Tobacco use",
+        "Gender",
+        "Geography"
+      ],
+      "correctAnswer": "Gender"
+    },
+    {
+      "id": "q234",
+      "text": "The ACA medical loss ratio requirement for the individual market is:",
+      "options": [
+        "70%",
+        "75%",
+        "80%",
+        "85%"
+      ],
+      "correctAnswer": "80%"
+    },
+    {
+      "id": "q235",
+      "text": "The ACA medical loss ratio requirement for the large group market is:",
+      "options": [
+        "75%",
+        "80%",
+        "85%",
+        "90%"
+      ],
+      "correctAnswer": "85%"
+    },
+    {
+      "id": "q236",
+      "text": "What does FFM stand for in the context of the ACA?",
+      "options": [
+        "Federally Facilitated Marketplace",
+        "Federal Financial Mechanism",
+        "Family Friendly Marketplace",
+        "Flexible Funding Model"
+      ],
+      "correctAnswer": "Federally Facilitated Marketplace"
+    },
+    {
+      "id": "q237",
+      "text": "Medicare Part A covers inpatient hospital care, skilled nursing facility care, hospice care, and which additional service?",
+      "options": [
+        "Prescription drugs",
+        "Durable medical equipment",
+        "Home health care",
+        "Physician services"
+      ],
+      "correctAnswer": "Home health care"
+    },
+    {
+      "id": "q238",
+      "text": "Medicare Part B covers physician services, outpatient care, and which of the following?",
+      "options": [
+        "Prescription drugs",
+        "Preventive services",
+        "Long-term care",
+        "Vision care"
+      ],
+      "correctAnswer": "Preventive services"
+    },
+    {
+      "id": "q239",
+      "text": "Medicare Part C is also known as:",
+      "options": [
+        "Medigap",
+        "Medicare Supplemental",
+        "Medicare Advantage",
+        "Medicare Select"
+      ],
+      "correctAnswer": "Medicare Advantage"
+    },
+    {
+      "id": "q240",
+      "text": "Medicare Part D primarily provides coverage for:",
+      "options": [
+        "Inpatient hospital services",
+        "Physician services",
+        "Prescription drugs",
+        "Home health services"
+      ],
+      "correctAnswer": "Prescription drugs"
+    },
+    {
+      "id": "q241",
+      "text": "Which service is NOT covered under Medicare Part A?",
+      "options": [
+        "Inpatient hospital stay",
+        "Skilled nursing facility care",
+        "Hospice care",
+        "Outpatient surgery"
+      ],
+      "correctAnswer": "Outpatient surgery"
+    },
+    {
+      "id": "q242",
+      "text": "Which service is NOT covered under Medicare Part B?",
+      "options": [
+        "Physician visits",
+        "Durable medical equipment",
+        "Outpatient prescription drugs (oral)",
+        "Inpatient hospital stays"
+      ],
+      "correctAnswer": "Inpatient hospital stays"
+    },
+    {
+      "id": "q243",
+      "text": "The Medicare Part A inpatient hospital deductible applies per:",
+      "options": [
+        "Calendar year",
+        "Benefit period",
+        "Lifetime",
+        "Per admission"
+      ],
+      "correctAnswer": "Benefit period"
+    },
+    {
+      "id": "q244",
+      "text": "After the Part B deductible, Medicare Part B generally pays what percentage of approved charges?",
+      "options": [
+        "50%",
+        "80%",
+        "100%",
+        "20%"
+      ],
+      "correctAnswer": "80%"
+    },
+    {
+      "id": "q245",
+      "text": "For days 1–60 of an inpatient hospital stay under Medicare Part A, the beneficiary is responsible for:",
+      "options": [
+        "Deductible only",
+        "Coinsurance only",
+        "Deductible plus coinsurance",
+        "Nothing"
+      ],
+      "correctAnswer": "Deductible only"
+    },
+    {
+      "id": "q246",
+      "text": "Medicare Part A covers the first how many days of skilled nursing facility care without coinsurance?",
+      "options": [
+        "10 days",
+        "20 days",
+        "30 days",
+        "40 days"
+      ],
+      "correctAnswer": "20 days"
+    },
+    {
+      "id": "q247",
+      "text": "For days 21–100 of skilled nursing facility care, Medicare Part A requires:",
+      "options": [
+        "No coinsurance",
+        "Daily coinsurance payment",
+        "Prior authorization",
+        "50% coinsurance"
+      ],
+      "correctAnswer": "Daily coinsurance payment"
+    },
+    {
+      "id": "q248",
+      "text": "Medicare Part B premiums are:",
+      "options": [
+        "Standard for all beneficiaries",
+        "Income-related",
+        "Age-rated",
+        "Region-specific"
+      ],
+      "correctAnswer": "Income-related"
+    },
+    {
+      "id": "q249",
+      "text": "The standard Initial Enrollment Period for Medicare Part B lasts:",
+      "options": [
+        "3 months before to 3 months after turning 65",
+        "6 months after turning 65",
+        "1 year after turning 65",
+        "Until retiring"
+      ],
+      "correctAnswer": "3 months before to 3 months after turning 65"
+    },
+    {
+      "id": "q250",
+      "text": "If you delay enrolling in Medicare Part B beyond your Initial Enrollment Period, you incur a late-enrollment penalty of:",
+      "options": [
+        "5% per year late",
+        "10% per year late",
+        "2% per year late",
+        "No penalty"
+      ],
+      "correctAnswer": "10% per year late"
+    },
+    {
+      "id": "q251",
+      "text": "A Medigap policy is designed to:",
+      "options": [
+        "Replace Medicare",
+        "Cover gaps in Parts A and B",
+        "Provide prescription drug coverage",
+        "Offer long-term care benefits"
+      ],
+      "correctAnswer": "Cover gaps in Parts A and B"
+    },
+    {
+      "id": "q252",
+      "text": "During Medigap open enrollment, insurers may NOT charge higher premiums based on:",
+      "options": [
+        "Age",
+        "Gender",
+        "Health status",
+        "Tobacco use"
+      ],
+      "correctAnswer": "Health status"
+    },
+    {
+      "id": "q253",
+      "text": "Which Medigap plan is no longer available to new Medicare beneficiaries as of 2020?",
+      "options": [
+        "Plan A",
+        "Plan C",
+        "Plan F",
+        "Plan G"
+      ],
+      "correctAnswer": "Plan F"
+    },
+    {
+      "id": "q254",
+      "text": "Durable medical equipment under Medicare is covered by which part?",
+      "options": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+      ],
+      "correctAnswer": "Part B"
+    },
+    {
+      "id": "q255",
+      "text": "Medicare Advantage (Part C) plans may offer which of the following additional benefits?",
+      "options": [
+        "Vision, dental, and hearing",
+        "Prescription drugs",
+        "Fitness memberships",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "id": "q256",
+      "text": "Medicare Part D prescription drug coverage is provided through:",
+      "options": [
+        "Traditional Medicare",
+        "Private plans approved by Medicare",
+        "Medicaid",
+        "Veterans Affairs"
+      ],
+      "correctAnswer": "Private plans approved by Medicare"
+    },
+    {
+      "id": "q257",
+      "text": "Under Medicare Secondary Payer rules, for employers with fewer than 20 employees, the primary payer for beneficiaries aged 65+ is:",
+      "options": [
+        "Employer group health plan",
+        "Medicare",
+        "Medicaid",
+        "COBRA"
+      ],
+      "correctAnswer": "Medicare"
+    },
+    {
+      "id": "q258",
+      "text": "Which trust fund finances Medicare Part A?",
+      "options": [
+        "Hospital Insurance Trust Fund",
+        "Supplemental Medical Insurance Trust Fund",
+        "Social Security Trust Fund",
+        "General Revenue"
+      ],
+      "correctAnswer": "Hospital Insurance Trust Fund"
+    },
+    {
+      "id": "q259",
+      "text": "Which trust fund finances Medicare Part B?",
+      "options": [
+        "Hospital Insurance Trust Fund",
+        "Supplemental Medical Insurance Trust Fund",
+        "Social Security Trust Fund",
+        "General Revenue"
+      ],
+      "correctAnswer": "Supplemental Medical Insurance Trust Fund"
+    },
+    {
+      "id": "q260",
+      "text": "Most beneficiaries owe no premium for Medicare Part A if they have:",
+      "options": [
+        "40 quarters of Medicare-covered employment",
+        "A household income below 250% FPL",
+        "No other creditable coverage",
+        "Enrolled in Part C"
+      ],
+      "correctAnswer": "40 quarters of Medicare-covered employment"
+    },
+    {
+      "id": "q261",
+      "text": "The Medicare Part B deductible applies per:",
+      "options": [
+        "Benefit period",
+        "Calendar year",
+        "Lifetime",
+        "Per claim"
+      ],
+      "correctAnswer": "Calendar year"
+    },
+    {
+      "id": "q262",
+      "text": "Under the ACA, insurers may not impose waiting periods for coverage of pre-existing conditions exceeding:",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "correctAnswer": "90 days"
+    },
+    {
+      "id": "q263",
+      "text": "The ACA requirement for employers to automatically enroll new full-time employees in coverage is known as:",
+      "options": [
+        "Auto-enrollment",
+        "Employer Shared Responsibility",
+        "Individual Mandate",
+        "Employer Mandate"
+      ],
+      "correctAnswer": "Auto-enrollment"
+    },
+    {
+      "id": "q264",
+      "text": "The “family glitch” under the ACA refers to:",
+      "options": [
+        "Affordability measured only on self-only coverage making family coverage unaffordable",
+        "Error in calculating household income",
+        "Premium tax credit miscalculation",
+        "Coverage gap for dependents"
+      ],
+      "correctAnswer": "Affordability measured only on self-only coverage making family coverage unaffordable"
+    },
+    {
+      "id": "q265",
+      "text": "Affordability of employer-sponsored coverage under the ACA is determined by comparing the employee’s required contribution for self-only coverage to:",
+      "options": [
+        "Household income",
+        "Employee’s wages only",
+        "Federal Poverty Level",
+        "State median income"
+      ],
+      "correctAnswer": "Household income"
+    },
+    {
+      "id": "q266",
+      "text": "Form 1095-C provided by employers serves as proof of:",
+      "options": [
+        "Minimum Essential Coverage",
+        "Full-time employment status",
+        "Premium tax credit eligibility",
+        "Health savings account contributions"
+      ],
+      "correctAnswer": "Minimum Essential Coverage"
+    },
+    {
+      "id": "q267",
+      "text": "An ACA Explanation of Benefits (EOB) must include:",
+      "options": [
+        "Amount allowed, amount paid, and amount owed by enrollee",
+        "Premium due",
+        "Out-of-network charges only",
+        "Applied deductible only"
+      ],
+      "correctAnswer": "Amount allowed, amount paid, and amount owed by enrollee"
+    },
+    {
+      "id": "q268",
+      "text": "Lawfully present immigrants are eligible for premium tax credits and cost-sharing reductions:",
+      "options": [
+        "Immediately upon enrollment",
+        "After 5 years of residency",
+        "Only if refugee status",
+        "Not eligible"
+      ],
+      "correctAnswer": "Immediately upon enrollment"
+    },
+    {
+      "id": "q269",
+      "text": "Which option does NOT qualify as Minimum Essential Coverage under the ACA?",
+      "options": [
+        "Student health plan",
+        "COBRA continuation coverage",
+        "Vision-only standalone plan",
+        "Medicaid"
+      ],
+      "correctAnswer": "Vision-only standalone plan"
+    },
+    {
+      "id": "q270",
+      "text": "Medicaid expansion up to what percent of FPL counts as MEC under the ACA?",
+      "options": [
+        "100%",
+        "133%",
+        "150%",
+        "200%"
+      ],
+      "correctAnswer": "133%"
+    },
+    {
+      "id": "q271",
+      "text": "Which metal tier under the ACA has an actuarial value of approximately 70%?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": "Silver"
+    },
+    {
+      "id": "q272",
+      "text": "In an 80/20 coinsurance plan, the insurer pays what percentage of covered charges after the deductible?",
+      "options": [
+        "80%",
+        "70%",
+        "90%",
+        "100%"
+      ],
+      "correctAnswer": "80%"
+    },
+    {
+      "id": "q273",
+      "text": "In an 80/20 coinsurance plan, the insured is responsible for what percentage of covered charges after the deductible?",
+      "options": [
+        "20%",
+        "30%",
+        "10%",
+        "40%"
+      ],
+      "correctAnswer": "20%"
+    },
+    {
+      "id": "q274",
+      "text": "Under Medicare Secondary Payer rules, for employers with 20 or more employees, the primary payer for beneficiaries aged 65+ is:",
+      "options": [
+        "Employer group health plan",
+        "Medicare",
+        "Medicaid",
+        "COBRA"
+      ],
+      "correctAnswer": "Employer group health plan"
+    },
+    {
+      "id": "q275",
+      "text": "Medicare Part A covers skilled nursing facility care only if provided within how many days of a qualifying hospital stay?",
+      "options": [
+        "10 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "correctAnswer": "30 days"
+    },
+    {
+      "id": "q276",
+      "text": "Medigap Plan C covers which of the following Medicare cost-sharing items?",
+      "options": [
+        "Part A coinsurance",
+        "Part B deductible",
+        "Part D premium",
+        "Part B coinsurance"
+      ],
+      "correctAnswer": "Part B deductible"
+    },
+    {
+      "id": "q277",
+      "text": "The Medigap open enrollment period lasts:",
+      "options": [
+        "3 months before to 3 months after Part B eligibility",
+        "6 months beginning on Part B effective date",
+        "1 year from age 65",
+        "Until first premium payment"
+      ],
+      "correctAnswer": "6 months beginning on Part B effective date"
+    },
+    {
+      "id": "q278",
+      "text": "To qualify for Medicare Part A skilled nursing facility benefits, a beneficiary must first have:",
+      "options": [
+        "A 30-day hospital stay",
+        "A 3-day inpatient hospital stay",
+        "A doctor’s prescription only",
+        "Enrollment in Part B"
+      ],
+      "correctAnswer": "A 3-day inpatient hospital stay"
+    },
+    {
+      "id": "q279",
+      "text": "Medicare Advantage plans are required to cover all benefits under which parts of traditional Medicare?",
+      "options": [
+        "Parts A and B",
+        "Parts B and D",
+        "Parts C and D",
+        "Part A only"
+      ],
+      "correctAnswer": "Parts A and B"
+    },
+    {
+      "id": "q280",
+      "text": "After reaching the initial coverage limit in Medicare Part D, beneficiaries enter the coverage gap until their out-of-pocket spending reaches the:",
+      "options": [
+        "Initial deductible",
+        "Catastrophic coverage threshold",
+        "Part B premium amount",
+        "Annual out-of-pocket maximum"
+      ],
+      "correctAnswer": "Catastrophic coverage threshold"
+    },
+    {
+      "id": "q281",
+      "text": "Once catastrophic coverage begins in Medicare Part D, beneficiaries generally pay what percentage of drug costs?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "0%"
+      ],
+      "correctAnswer": "5%"
+    },
+    {
+      "id": "q282",
+      "text": "Medicare provides how many lifetime reserve days for inpatient hospital stays?",
+      "options": [
+        "30",
+        "60",
+        "90",
+        "100"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "id": "q283",
+      "text": "For days 61–90 of a Medicare Part A inpatient hospital stay, the beneficiary owes:",
+      "options": [
+        "No coinsurance after deductible",
+        "A daily fixed coinsurance amount",
+        "20% of charges",
+        "50% of charges"
+      ],
+      "correctAnswer": "A daily fixed coinsurance amount"
+    },
+    {
+      "id": "q284",
+      "text": "Under Section 4980H(b) of the ACA, the employer Shared Responsibility penalty is triggered when an ALE fails to offer MEC to at least 95% of full-time employees and at least one full-time employee receives a premium tax credit.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": "q285",
+      "text": "Cost-sharing reduction benefits under the ACA are available only in which metal level?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum"
+      ],
+      "correctAnswer": "Silver"
+    },
+    {
+      "id": "q286",
+      "text": "In a 70/30 coinsurance health plan, the insurer pays what percentage of covered expenses after the deductible?",
+      "options": [
+        "60%",
+        "70%",
+        "80%",
+        "90%"
+      ],
+      "correctAnswer": "70%"
+    },
+      {
+        "id": "q287",
+        "text": "Which type of risk involves the possibility of gain as well as loss?",
+        "options": [
+          "Pure risk",
+          "Speculative risk",
+          "Static risk",
+          "Dynamic risk"
+        ],
+        "correctAnswer": "Speculative risk"
+      },
+      {
+        "id": "q288",
+        "text": "A situation where more frequent or more serious losses are caused by the insured’s intentional behavior is called:",
+        "options": [
+          "Moral hazard",
+          "Morale hazard",
+          "Physical hazard",
+          "Attitudinal hazard"
+        ],
+        "correctAnswer": "Moral hazard"
+      },
+      {
+        "id": "q289",
+        "text": "Risks that arise from changing social or economic conditions, such as inflation, are known as:",
+        "options": [
+          "Pure risk",
+          "Speculative risk",
+          "Static risk",
+          "Dynamic risk"
+        ],
+        "correctAnswer": "Dynamic risk"
+      },
+      {
+        "id": "q290",
+        "text": "Which risk management technique involves shifting risk to another party?",
+        "options": [
+          "Risk retention",
+          "Risk avoidance",
+          "Risk transfer",
+          "Risk reduction"
+        ],
+        "correctAnswer": "Risk transfer"
+      },
+      {
+        "id": "q291",
+        "text": "The variation of actual loss from expected loss is defined as:",
+        "options": [
+          "Subjective risk",
+          "Objective risk",
+          "Hazard risk",
+          "Exposure risk"
+        ],
+        "correctAnswer": "Objective risk"
+      },
+      {
+        "id": "q292",
+        "text": "Which risk management technique involves eliminating exposure to a particular risk?",
+        "options": [
+          "Risk transfer",
+          "Risk avoidance",
+          "Risk retention",
+          "Risk reduction"
+        ],
+        "correctAnswer": "Risk avoidance"
+      },
+      {
+        "id": "q293",
+        "text": "Implementing safety measures to reduce the frequency or severity of losses is an example of:",
+        "options": [
+          "Risk retention",
+          "Risk reduction",
+          "Risk transfer",
+          "Risk avoidance"
+        ],
+        "correctAnswer": "Risk reduction"
+      },
+      {
+        "id": "q294",
+        "text": "A \"hazard\" in insurance is best described as:",
+        "options": [
+          "The cause of loss",
+          "The chance of loss",
+          "A plan for loss",
+          "A measure of loss"
+        ],
+        "correctAnswer": "The cause of loss"
+      },
+      {
+        "id": "q295",
+        "text": "Spreading the financial consequences of loss among a large number of individuals is called:",
+        "options": [
+          "Risk retention",
+          "Risk transfer",
+          "Risk pooling",
+          "Risk avoidance"
+        ],
+        "correctAnswer": "Risk pooling"
+      },
+      {
+        "id": "q296",
+        "text": "Which risk financing method involves an insurer indemnifying an insured for loss in exchange for a premium?",
+        "options": [
+          "Risk retention",
+          "Risk reduction",
+          "Insurance",
+          "Risk avoidance"
+        ],
+        "correctAnswer": "Insurance"
+      },
+      {
+        "id": "q297",
+        "text": "Outside the annual open enrollment period, an individual may qualify for a Special Enrollment Period after which event?",
+        "options": [
+          "Marriage",
+          "Power of attorney assignment",
+          "Changing healthcare provider",
+          "Holiday travel"
+        ],
+        "correctAnswer": "Marriage"
+      },
+      {
+        "id": "q298",
+        "text": "Which of the following life events does NOT typically trigger a Special Enrollment Period?",
+        "options": [
+          "Birth of a child",
+          "Legal separation",
+          "Purchase of a pet",
+          "Adoption"
+        ],
+        "correctAnswer": "Purchase of a pet"
+      },
+      {
+        "id": "q299",
+        "text": "After losing employer-sponsored coverage, an individual usually has how many days to enroll in a new plan under ACA’s Special Enrollment Period?",
+        "options": [
+          "30 days",
+          "60 days",
+          "90 days",
+          "120 days"
+        ],
+        "correctAnswer": "60 days"
+      },
+      {
+        "id": "q300",
+        "text": "Moving to a new ZIP code is a qualifying event for a Special Enrollment Period if the new location:",
+        "options": [
+          "Offers the same plan only",
+          "Has different plan options",
+          "Is within the same county",
+          "Is internationally abroad"
+        ],
+        "correctAnswer": "Has different plan options"
+      },
+      {
+        "id": "q301",
+        "text": "Under HIPAA special enrollment rules for group plans, an employee has how many days after a qualifying event to enroll?",
+        "options": [
+          "30 days",
+          "60 days",
+          "90 days",
+          "120 days"
+        ],
+        "correctAnswer": "30 days"
+      },
+      {
+        "id": "q302",
+        "text": "If no qualifying event has occurred since open enrollment, when can an individual next change plans?",
+        "options": [
+          "During the next annual open enrollment",
+          "After 6 months",
+          "After 3 months",
+          "Any time"
+        ],
+        "correctAnswer": "During the next annual open enrollment"
+      },
+      {
+        "id": "q303",
+        "text": "Which event allows an adult child to enroll in a parent’s plan outside open enrollment?",
+        "options": [
+          "Turning 19 or losing student status",
+          "Turning 26",
+          "Moving to a new state",
+          "Getting married"
+        ],
+        "correctAnswer": "Turning 26"
+      },
+      {
+        "id": "q304",
+        "text": "Full Retirement Age for Social Security benefits for someone born in 1960 or later is:",
+        "options": [
+          "66",
+          "66 and 8 months",
+          "67",
+          "67 and 4 months"
+        ],
+        "correctAnswer": "67"
+      },
+      {
+        "id": "q305",
+        "text": "If an individual claims Social Security retirement at age 62, their benefit is reduced by approximately what percentage?",
+        "options": [
+          "5%",
+          "20%",
+          "30%",
+          "25%"
+        ],
+        "correctAnswer": "30%"
+      },
+      {
+        "id": "q306",
+        "text": "For each year retirement benefits are delayed past full retirement age up to age 70, Social Security increases benefits by:",
+        "options": [
+          "2% per year",
+          "4% per year",
+          "8% per year",
+          "10% per year"
+        ],
+        "correctAnswer": "8% per year"
+      },
+      {
+        "id": "q307",
+        "text": "A spouse filing for Social Security spousal benefits at full retirement age can receive up to what percentage of the worker’s PIA?",
+        "options": [
+          "25%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "correctAnswer": "50%"
+      },
+      {
+        "id": "q308",
+        "text": "A surviving spouse can begin receiving survivors benefits as early as age:",
+        "options": [
+          "60",
+          "62",
+          "65",
+          "67"
+        ],
+        "correctAnswer": "60"
+      },
+      {
+        "id": "q309",
+        "text": "Social Security cost-of-living adjustments (COLA) are based on changes in the:",
+        "options": [
+          "Consumer Price Index for Urban Wage Earners (CPI-W)",
+          "GDP",
+          "Producer Price Index",
+          "Unemployment rate"
+        ],
+        "correctAnswer": "Consumer Price Index for Urban Wage Earners (CPI-W)"
+      },
+      {
+        "id": "q310",
+        "text": "If an individual is receiving Social Security at least how many months before turning 65 will Medicare Part B enrollment be automatic?",
+        "options": [
+          "4 months",
+          "2 months",
+          "6 months",
+          "1 month"
+        ],
+        "correctAnswer": "4 months"
+      },
+      {
+        "id": "q311",
+        "text": "Dual-eligible individuals qualify for both Medicare and Medicaid based primarily on:",
+        "options": [
+          "Age over 65",
+          "Low income and resources",
+          "Chronic illness",
+          "Employment status"
+        ],
+        "correctAnswer": "Low income and resources"
+      }
+    ]
+    
