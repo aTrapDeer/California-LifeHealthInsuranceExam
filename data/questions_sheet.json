@@ -3417,6 +3417,270 @@
           "Employment status"
         ],
         "correctAnswer": "Low income and resources"
-      }
-    ]
-    
+      },
+        {
+          "id": "q312",
+          "text": "What is the principle of indemnity in insurance?",
+          "options": [
+            "To restore the insured to the same financial position after loss",
+            "To allow the insured to profit from a claim",
+            "To guarantee no loss will occur",
+            "To penalize risky behavior"
+          ],
+          "correctAnswer": "To restore the insured to the same financial position after loss"
+        },
+        {
+          "id": "q313",
+          "text": "An insurance binder is:",
+          "options": [
+            "A temporary agreement providing coverage until a policy is issued",
+            "A permanent policy endorsement",
+            "A loan secured by the policy",
+            "A reinsurance contract"
+          ],
+          "correctAnswer": "A temporary agreement providing coverage until a policy is issued"
+        },
+        {
+          "id": "q314",
+          "text": "In property insurance, insurable interest must exist at:",
+          "options": [
+            "The time of loss",
+            "The time of application only",
+            "Policy delivery",
+            "Claim payment"
+          ],
+          "correctAnswer": "The time of loss"
+        },
+        {
+          "id": "q315",
+          "text": "A peril in insurance is best described as:",
+          "options": [
+            "The cause of loss",
+            "The chance of loss",
+            "A clause in the policy",
+            "A condition that increases severity"
+          ],
+          "correctAnswer": "The cause of loss"
+        },
+        {
+          "id": "q316",
+          "text": "A hazard in insurance is best described as:",
+          "options": [
+            "A condition that increases the likelihood or severity of loss",
+            "The cause of loss",
+            "A contractual clause",
+            "A guarantee of no loss"
+          ],
+          "correctAnswer": "A condition that increases the likelihood or severity of loss"
+        },
+        {
+          "id": "q317",
+          "text": "The principle of utmost good faith requires parties to:",
+          "options": [
+            "Disclose all material facts honestly",
+            "Share profits equally",
+            "Guarantee claim payment",
+            "Renew policies automatically"
+          ],
+          "correctAnswer": "Disclose all material facts honestly"
+        },
+        {
+          "id": "q318",
+          "text": "Subrogation allows the insurer to:",
+          "options": [
+            "Assume the insured’s legal right to recover from a third party",
+            "Cancel the policy without notice",
+            "Increase the insured’s premium after loss",
+            "Share claims information publicly"
+          ],
+          "correctAnswer": "Assume the insured’s legal right to recover from a third party"
+        },
+        {
+          "id": "q319",
+          "text": "Adhesion in an insurance contract means the contract is drafted by the insurer and ambiguities are resolved in favor of the:",
+          "options": [
+            "Policyholder",
+            "Regulator",
+            "Insurer",
+            "Producer"
+          ],
+          "correctAnswer": "Policyholder"
+        },
+        {
+          "id": "q320",
+          "text": "Which federal act grants states the authority to regulate insurance without federal interference?",
+          "options": [
+            "McCarran-Ferguson Act",
+            "Gramm-Leach-Bliley Act",
+            "Patient Protection and Affordable Care Act",
+            "Health Insurance Portability and Accountability Act"
+          ],
+          "correctAnswer": "McCarran-Ferguson Act"
+        },
+        {
+          "id": "q321",
+          "text": "The NAIC primarily serves to:",
+          "options": [
+            "Coordinate insurance regulation among the states and develop model laws",
+            "Set federal insurance premiums",
+            "Insure bank deposits",
+            "Regulate pharmaceutical benefits"
+          ],
+          "correctAnswer": "Coordinate insurance regulation among the states and develop model laws"
+        },
+        {
+          "id": "q322",
+          "text": "In California, the primary body of law governing insurer licensing and conduct is the:",
+          "options": [
+            "California Insurance Code",
+            "NAIC Model Laws",
+            "Federal Insurance Office regulations",
+            "Insurance Services Office manuals"
+          ],
+          "correctAnswer": "California Insurance Code"
+        },
+        {
+          "id": "q323",
+          "text": "If a health plan has a $500 deductible and 20% coinsurance, and a covered claim of $2,000 occurs, how much will the insured pay out of pocket (excluding copays)?",
+          "options": [
+            "$800",
+            "$900",
+            "$500",
+            "$300"
+          ],
+          "correctAnswer": "$800"
+        },
+        {
+          "id": "q324",
+          "text": "After satisfying the deductible, coinsurance in a health plan means the insured pays:",
+          "options": [
+            "A percentage of the remaining allowed charges",
+            "A fixed copayment per service",
+            "The full remaining charge",
+            "No further cost"
+          ],
+          "correctAnswer": "A percentage of the remaining allowed charges"
+        },
+        {
+          "id": "q325",
+          "text": "A copayment differs from coinsurance in that it is:",
+          "options": [
+            "A fixed dollar amount per service",
+            "A percentage of charges",
+            "The annual deductible",
+            "The policy premium"
+          ],
+          "correctAnswer": "A fixed dollar amount per service"
+        },
+        {
+          "id": "q326",
+          "text": "The out-of-pocket maximum is best defined as:",
+          "options": [
+            "The most the insured will pay in a year in combined deductible, copays, and coinsurance",
+            "The total premium paid",
+            "The maximum benefit the insurer will pay",
+            "The plan’s annual deductible"
+          ],
+          "correctAnswer": "The most the insured will pay in a year in combined deductible, copays, and coinsurance"
+        },
+        {
+          "id": "q327",
+          "text": "Medi-Cal is the California name for which federal–state program?",
+          "options": [
+            "Medicaid",
+            "Medicare",
+            "Children’s Health Insurance Program (CHIP)",
+            "TRICARE"
+          ],
+          "correctAnswer": "Medicaid"
+        },
+        {
+          "id": "q328",
+          "text": "Which population is NOT eligible for full-scope Medi-Cal?",
+          "options": [
+            "Undocumented adults over age 26",
+            "Low-income children",
+            "Seniors age 65 and over",
+            "Disabled individuals"
+          ],
+          "correctAnswer": "Undocumented adults over age 26"
+        },
+        {
+          "id": "q329",
+          "text": "Medi-Cal Share of Cost refers to:",
+          "options": [
+            "The amount an enrollee must pay monthly before Medi-Cal covers services",
+            "The maximum premium for Medi-Cal",
+            "The cap on Medi-Cal benefits",
+            "The state’s share of funding"
+          ],
+          "correctAnswer": "The amount an enrollee must pay monthly before Medi-Cal covers services"
+        },
+        {
+          "id": "q330",
+          "text": "Medi-Cal spenddown is:",
+          "options": [
+            "A process where individuals with excess income subtract medical expenses to qualify",
+            "A temporary loss of coverage",
+            "A waiver of the share of cost",
+            "An additional premium"
+          ],
+          "correctAnswer": "A process where individuals with excess income subtract medical expenses to qualify"
+        },
+        {
+          "id": "q331",
+          "text": "Under Medi-Cal, which of the following is a mandatory service?",
+          "options": [
+            "Inpatient hospital care",
+            "Adult dental in all counties",
+            "Cosmetic surgery",
+            "Prescription vitamins"
+          ],
+          "correctAnswer": "Inpatient hospital care"
+        },
+        {
+          "id": "q332",
+          "text": "Which program provides Medi-Cal eligibility to childless adults up to 138% of the Federal Poverty Level?",
+          "options": [
+            "ACA expansion",
+            "Healthy Families Program",
+            "Children’s Health Insurance Program (CHIP)",
+            "Medicare"
+          ],
+          "correctAnswer": "ACA expansion"
+        },
+        {
+          "id": "q333",
+          "text": "Medi-Cal Managed Care plans are required in most California counties to coordinate services through:",
+          "options": [
+            "HMO-model health plans",
+            "Indemnity plans",
+            "Employer-sponsored plans",
+            "PPO networks"
+          ],
+          "correctAnswer": "HMO-model health plans"
+        },
+        {
+          "id": "q334",
+          "text": "Which California department administers Medi-Cal?",
+          "options": [
+            "Department of Health Care Services (DHCS)",
+            "Department of Managed Health Care (DMHC)",
+            "Centers for Medicare & Medicaid Services (CMS)",
+            "Covered California"
+          ],
+          "correctAnswer": "Department of Health Care Services (DHCS)"
+        },
+        {
+          "id": "q335",
+          "text": "NAIC model laws and regulations become enforceable in a state when:",
+          "options": [
+            "They are adopted by that state’s legislature",
+            "The NAIC votes to implement them nationally",
+            "CMS mandates their use",
+            "They are approved by the federal government"
+          ],
+          "correctAnswer": "They are adopted by that state’s legislature"
+        }
+      ]
+      

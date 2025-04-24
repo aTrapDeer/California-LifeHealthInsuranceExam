@@ -25,7 +25,7 @@ export function QuizSetup() {
         // Get the total from examining the question ID numbers
         if (data.questions && data.questions.length > 0) {
           // We're estimating based on questions_sheet.json
-          setTotalQuestions(200);
+          setTotalQuestions(335);
         }
       } catch (error) {
         console.error("Failed to fetch total questions:", error);
