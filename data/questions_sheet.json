@@ -155,7 +155,7 @@
   },
   {
     "id": "q15",
-    "text": "The Buyer’s Guide must be delivered:",
+    "text": "The Buyer's Guide must be delivered:",
     "options": [
       "Within five days of application",
       "With the policy at delivery",
@@ -465,12 +465,12 @@
     "id": "q43",
     "text": "Insurable interest in life insurance means:",
     "options": [
-      "Financial benefit on insurer’s side",
-      "Financial loss on applicant’s death",
+      "Financial benefit on insurer's side",
+      "Financial loss on applicant's death",
       "Guaranteed renewability",
       "Cash value accumulation"
     ],
-    "correctAnswer": "Financial loss on applicant’s death"
+    "correctAnswer": "Financial loss on applicant's death"
   },
   {
     "id": "q44",
@@ -696,12 +696,12 @@
     "id": "q64",
     "text": "A moral hazard increases loss likelihood due to:",
     "options": [
-      "Insured’s intentional behavior",
+      "Insured's intentional behavior",
       "Natural disasters",
       "Poor underwriting only",
       "Economic conditions"
     ],
-    "correctAnswer": "Insured’s intentional behavior"
+    "correctAnswer": "Insured's intentional behavior"
   },
   {
     "id": "q65",
@@ -773,7 +773,7 @@
     "id": "q71",
     "text": "In universal life, flexible premiums depend on:",
     "options": [
-      "Insured’s age only",
+      "Insured's age only",
       "Credited interest rate and cash value",
       "Beneficiary choice",
       "Initial face amount only"
@@ -804,9 +804,9 @@
   },
   {
     "id": "q74",
-    "text": "A variable annuity’s payouts depend on:",
+    "text": "A variable annuity's payouts depend on:",
     "options": [
-      "Insurer’s general account",
+      "Insurer's general account",
       "Performance of underlying investments",
       "Fixed interest rate",
       "Policy loan values"
@@ -1101,14 +1101,14 @@
   },
   {
     "id": "q101",
-    "text": "An agent’s fiduciary duty requires:",
+    "text": "An agent's fiduciary duty requires:",
     "options": [
-      "Acting in insurer’s best interest",
-      "Acting in applicant’s best interest",
+      "Acting in insurer's best interest",
+      "Acting in applicant's best interest",
       "Avoiding all commissions",
       "Issuing policies directly"
     ],
-    "correctAnswer": "Acting in applicant’s best interest"
+    "correctAnswer": "Acting in applicant's best interest"
   },
   {
     "id": "q102",
@@ -1136,10 +1136,10 @@
     "id": "q104",
     "text": "Which of these is NOT part of the life insurance application?",
     "options": [
-      "Agent’s report",
+      "Agent's report",
       "Medical information",
       "Policy illustration",
-      "Insured’s statements"
+      "Insured's statements"
     ],
     "correctAnswer": "Policy illustration"
   },
@@ -1200,7 +1200,7 @@
   },
   {
     "id": "q110",
-    "text": "An agent’s authority spelled out in writing is called:",
+    "text": "An agent's authority spelled out in writing is called:",
     "options": [
       "Apparent authority",
       "Implied authority",
@@ -1466,8 +1466,8 @@
     "id": "q134",
     "text": "Which is NOT part of the application in life insurance?",
     "options": [
-      "Insured’s statements",
-      "Agent’s report",
+      "Insured's statements",
+      "Agent's report",
       "Medical exam report",
       "Policy endorsement"
     ],
@@ -1688,10 +1688,10 @@
     "options": [
       "Room and board",
       "Operating room",
-      "Surgeon’s fees",
+      "Surgeon's fees",
       "Inpatient hospital services"
     ],
-    "correctAnswer": "Surgeon’s fees"
+    "correctAnswer": "Surgeon's fees"
   },
   {
     "id": "q155",
@@ -1951,8 +1951,8 @@
     "text": "Which is a valid reason to contest a life policy during contestability?",
     "options": [
       "Misstatement of age on application",
-      "Insured’s disability claim",
-      "Insured’s death by accident",
+      "Insured's disability claim",
+      "Insured's death by accident",
       "Beneficiary designation change"
     ],
     "correctAnswer": "Misstatement of age on application"
@@ -2058,7 +2058,7 @@
   },
   {
     "id": "q188",
-    "text": "Which rider allows increase in death benefit if insured’s insurability changes?",
+    "text": "Which rider allows increase in death benefit if insured's insurability changes?",
     "options": [
       "Guaranteed insurability rider",
       "Accelerated benefit rider",
@@ -2071,12 +2071,12 @@
     "id": "q189",
     "text": "Which describes subrogation in health insurance?",
     "options": [
-      "Insurer’s right to recover from third party",
+      "Insurer's right to recover from third party",
       "Insured repays insurer",
       "Policy loan option",
       "Premium refund mechanism"
     ],
-    "correctAnswer": "Insurer’s right to recover from third party"
+    "correctAnswer": "Insurer's right to recover from third party"
   },
   {
     "id": "q190",
@@ -2113,7 +2113,7 @@
   },
   {
     "id": "q193",
-    "text": "Which party’s age and sex determine term life premiums?",
+    "text": "Which party's age and sex determine term life premiums?",
     "options": [
       "Insured",
       "Beneficiary",
@@ -2344,7 +2344,7 @@
     },
     {
       "id": "q214",
-      "text": "In the ACA’s metal-level categories, which plan has an actuarial value of approximately 80%?",
+      "text": "In the ACA's metal-level categories, which plan has an actuarial value of approximately 80%?",
       "options": [
         "Bronze",
         "Silver",
@@ -2894,7 +2894,7 @@
     },
     {
       "id": "q264",
-      "text": "The “family glitch” under the ACA refers to:",
+      "text": "The \"family glitch\" under the ACA refers to:",
       "options": [
         "Affordability measured only on self-only coverage making family coverage unaffordable",
         "Error in calculating household income",
@@ -2905,10 +2905,10 @@
     },
     {
       "id": "q265",
-      "text": "Affordability of employer-sponsored coverage under the ACA is determined by comparing the employee’s required contribution for self-only coverage to:",
+      "text": "Affordability of employer-sponsored coverage under the ACA is determined by comparing the employee's required contribution for self-only coverage to:",
       "options": [
         "Household income",
-        "Employee’s wages only",
+        "Employee's wages only",
         "Federal Poverty Level",
         "State median income"
       ],
@@ -3052,7 +3052,7 @@
       "options": [
         "A 30-day hospital stay",
         "A 3-day inpatient hospital stay",
-        "A doctor’s prescription only",
+        "A doctor's prescription only",
         "Enrollment in Part B"
       ],
       "correctAnswer": "A 3-day inpatient hospital stay"
@@ -3156,7 +3156,7 @@
       },
       {
         "id": "q288",
-        "text": "A situation where more frequent or more serious losses are caused by the insured’s intentional behavior is called:",
+        "text": "A situation where more frequent or more serious losses are caused by the insured's intentional behavior is called:",
         "options": [
           "Moral hazard",
           "Morale hazard",
@@ -3277,7 +3277,7 @@
       },
       {
         "id": "q299",
-        "text": "After losing employer-sponsored coverage, an individual usually has how many days to enroll in a new plan under ACA’s Special Enrollment Period?",
+        "text": "After losing employer-sponsored coverage, an individual usually has how many days to enroll in a new plan under ACA's Special Enrollment Period?",
         "options": [
           "30 days",
           "60 days",
@@ -3321,7 +3321,7 @@
       },
       {
         "id": "q303",
-        "text": "Which event allows an adult child to enroll in a parent’s plan outside open enrollment?",
+        "text": "Which event allows an adult child to enroll in a parent's plan outside open enrollment?",
         "options": [
           "Turning 19 or losing student status",
           "Turning 26",
@@ -3365,7 +3365,7 @@
       },
       {
         "id": "q307",
-        "text": "A spouse filing for Social Security spousal benefits at full retirement age can receive up to what percentage of the worker’s PIA?",
+        "text": "A spouse filing for Social Security spousal benefits at full retirement age can receive up to what percentage of the worker's PIA?",
         "options": [
           "25%",
           "50%",
@@ -3488,12 +3488,12 @@
           "id": "q318",
           "text": "Subrogation allows the insurer to:",
           "options": [
-            "Assume the insured’s legal right to recover from a third party",
+            "Assume the insured's legal right to recover from a third party",
             "Cancel the policy without notice",
-            "Increase the insured’s premium after loss",
+            "Increase the insured's premium after loss",
             "Share claims information publicly"
           ],
-          "correctAnswer": "Assume the insured’s legal right to recover from a third party"
+          "correctAnswer": "Assume the insured's legal right to recover from a third party"
         },
         {
           "id": "q319",
@@ -3579,7 +3579,7 @@
             "The most the insured will pay in a year in combined deductible, copays, and coinsurance",
             "The total premium paid",
             "The maximum benefit the insurer will pay",
-            "The plan’s annual deductible"
+            "The plan's annual deductible"
           ],
           "correctAnswer": "The most the insured will pay in a year in combined deductible, copays, and coinsurance"
         },
@@ -3589,7 +3589,7 @@
           "options": [
             "Medicaid",
             "Medicare",
-            "Children’s Health Insurance Program (CHIP)",
+            "Children's Health Insurance Program (CHIP)",
             "TRICARE"
           ],
           "correctAnswer": "Medicaid"
@@ -3612,7 +3612,7 @@
             "The amount an enrollee must pay monthly before Medi-Cal covers services",
             "The maximum premium for Medi-Cal",
             "The cap on Medi-Cal benefits",
-            "The state’s share of funding"
+            "The state's share of funding"
           ],
           "correctAnswer": "The amount an enrollee must pay monthly before Medi-Cal covers services"
         },
@@ -3644,7 +3644,7 @@
           "options": [
             "ACA expansion",
             "Healthy Families Program",
-            "Children’s Health Insurance Program (CHIP)",
+            "Children's Health Insurance Program (CHIP)",
             "Medicare"
           ],
           "correctAnswer": "ACA expansion"
@@ -3675,12 +3675,342 @@
           "id": "q335",
           "text": "NAIC model laws and regulations become enforceable in a state when:",
           "options": [
-            "They are adopted by that state’s legislature",
+            "They are adopted by that state's legislature",
             "The NAIC votes to implement them nationally",
             "CMS mandates their use",
             "They are approved by the federal government"
           ],
-          "correctAnswer": "They are adopted by that state’s legislature"
+          "correctAnswer": "They are adopted by that state's legislature"
+        },
+        {
+          "id": "q336",
+          "text": "Which type of self-funded health plan alternative is characterized by predictable claim costs?",
+          "options": [
+            "Self-funded PPO",
+            "Self-funded HMO",
+            "Level-funded plan",
+            "Experience-rated plan"
+          ],
+          "correctAnswer": "Level-funded plan"
+        },
+        {
+          "id": "q337",
+          "text": "Blue Cross and Blue Shield are examples of what type of healthcare service organizations?",
+          "options": [
+            "Agents for indemnity insurers",
+            "Prepaid healthcare service organizations",
+            "Reinsurance companies",
+            "Tertiary care providers"
+          ],
+          "correctAnswer": "Prepaid healthcare service organizations"
+        },
+        {
+          "id": "q338",
+          "text": "For employer-paid noncontributory group health insurance, what percentage of eligible members must participate?",
+          "options": [
+            "75%",
+            "85%",
+            "100%",
+            "50%"
+          ],
+          "correctAnswer": "100%"
+        },
+        {
+          "id": "q339",
+          "text": "An aleatory contract in insurance is best described as:",
+          "options": [
+            "Both parties exchange equal value upfront",
+            "Payment of premium is contingent on claims experience",
+            "An exchange of unequal values dependent on an uncertain event",
+            "A contract that must be renewed annually"
+          ],
+          "correctAnswer": "An exchange of unequal values dependent on an uncertain event"
+        },
+        {
+          "id": "q340",
+          "text": "Why are many group disability insurance policies written on a non-occupational basis?",
+          "options": [
+            "Because non-occupational claims are less expensive",
+            "Because occupational injuries are provided for by workers' compensation",
+            "To avoid underwriting for dangerous occupations",
+            "Because they cover both work and non-work injuries"
+          ],
+          "correctAnswer": "Because occupational injuries are provided for by workers' compensation"
+        },
+        {
+          "id": "q341",
+          "text": "In an insurance contract, what is the insurer's consideration?",
+          "options": [
+            "Payment of the premium",
+            "Promise to pay for covered losses",
+            "Issuance of a policy illustration",
+            "Assignment of a beneficiary"
+          ],
+          "correctAnswer": "Promise to pay for covered losses"
+        },
+        {
+          "id": "q342",
+          "text": "What is the name of the healthcare delivery system that provides prepaid doctor and hospital care, emphasizes preventive care, and charges a fixed periodic fee?",
+          "options": [
+            "Preferred Provider Organization",
+            "Health Maintenance Organization",
+            "Point-of-Service Plan",
+            "Exclusive Provider Organization"
+          ],
+          "correctAnswer": "Health Maintenance Organization"
+        },
+        {
+          "id": "q343",
+          "text": "The part of a health insurance policy that states the kind of benefits provided and the circumstances under which they will be paid is called the:",
+          "options": [
+            "Consideration Clause",
+            "Insuring Clause",
+            "Benefit Clause",
+            "Free-Look Clause"
+          ],
+          "correctAnswer": "Benefit Clause"
+        },
+        {
+          "id": "q344",
+          "text": "Which definition of total disability is the most restrictive for an insured claiming benefits?",
+          "options": [
+            "Inability to perform the duties of the own occupation",
+            "Inability to perform the duties of any occupation",
+            "Loss of two limbs or sight",
+            "Inability to perform heavy manual labor"
+          ],
+          "correctAnswer": "Inability to perform the duties of any occupation"
+        },
+        {
+          "id": "q345",
+          "text": "Social Security disability benefits typically begin after a waiting period of:",
+          "options": [
+            "2 months",
+            "3 months",
+            "5 months",
+            "6 months"
+          ],
+          "correctAnswer": "5 months"
+        },
+        {
+          "id": "q346",
+          "text": "How many work credits can an individual earn per calendar year toward Social Security disability eligibility?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctAnswer": "4"
+        },
+        {
+          "id": "q347",
+          "text": "Workers' compensation programs provide all of the following benefits EXCEPT:",
+          "options": [
+            "Medical care",
+            "Disability income",
+            "Vocational rehabilitation",
+            "Retirement benefits"
+          ],
+          "correctAnswer": "Retirement benefits"
+        },
+        {
+          "id": "q348",
+          "text": "Under Social Security presumptive disability, once a qualifying impairment is medically verified, further examinations are:",
+          "options": [
+            "Required monthly",
+            "Required annually",
+            "Not required",
+            "Required upon request"
+          ],
+          "correctAnswer": "Not required"
+        },
+        {
+          "id": "q349",
+          "text": "To be covered by Social Security disability benefits, a disability must be:",
+          "options": [
+            "Expected to be fatal or last at least 12 months",
+            "Only work-related",
+            "Temporary and lasting under 6 months",
+            "Only non-work-related"
+          ],
+          "correctAnswer": "Expected to be fatal or last at least 12 months"
+        },
+        {
+          "id": "q350",
+          "text": "An agent's obligation to act in an insurance applicant's or insured's best interest based on the trust placed by the public is known as:",
+          "options": [
+            "Binding authority",
+            "Fiduciary duty",
+            "Adhesion",
+            "Estoppel"
+          ],
+          "correctAnswer": "Fiduciary duty"
+        },
+        {
+          "id": "q351",
+          "text": "Under the uniform policy provisions, a policyholder must notify the insurer of a claim within how many days?",
+          "options": [
+            "10 days",
+            "20 days",
+            "30 days",
+            "60 days"
+          ],
+          "correctAnswer": "20 days"
+        },
+        {
+          "id": "q352",
+          "text": "Under the uniform policy provisions, a policyholder must file proof of loss within how many days after a loss?",
+          "options": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "120 days"
+          ],
+          "correctAnswer": "90 days"
+        },
+        {
+          "id": "q353",
+          "text": "When a party appears to have given up a right by act or inaction relied upon by another party, preventing assertion of that right is known as:",
+          "options": [
+            "Adhesion",
+            "Estoppel",
+            "Subrogation",
+            "Indemnity"
+          ],
+          "correctAnswer": "Estoppel"
+        },
+        {
+          "id": "q354",
+          "text": "Under the Time Payment of Claims provision in a health policy, benefits other than those paid in periodic installments must be paid:",
+          "options": [
+            "Within 10 days of loss",
+            "Within 20 days of loss",
+            "Immediately upon receipt of proof of loss",
+            "At policy anniversary"
+          ],
+          "correctAnswer": "Immediately upon receipt of proof of loss"
+        },
+        {
+          "id": "q355",
+          "text": "If a health insurance policy lapses for nonpayment and does not require an application for reinstatement, the policy will be reinstated:",
+          "options": [
+            "After 10 days",
+            "Upon acceptance of overdue premium by the insurer",
+            "After providing proof of insurability",
+            "Immediately without payment"
+          ],
+          "correctAnswer": "Upon acceptance of overdue premium by the insurer"
+        },
+        {
+          "id": "q356",
+          "text": "After reinstatement of a lapsed health policy, coverage for sickness begins:",
+          "options": [
+            "Immediately",
+            "After 5 days",
+            "After 10 days",
+            "After 30 days"
+          ],
+          "correctAnswer": "After 10 days"
+        },
+        {
+          "id": "q357",
+          "text": "What is a 403(b) plan?",
+          "options": [
+            "A retirement savings plan for employees of public schools and tax-exempt organizations",
+            "An education loan program",
+            "A private investment account",
+            "A group disability plan"
+          ],
+          "correctAnswer": "A retirement savings plan for employees of public schools and tax-exempt organizations"
+        },
+        {
+          "id": "q358",
+          "text": "Which type of annuity guarantees a minimum interest rate but can earn extra interest linked to a market index?",
+          "options": [
+            "Variable annuity",
+            "Fixed annuity",
+            "Equity indexed annuity",
+            "Immediate annuity"
+          ],
+          "correctAnswer": "Equity indexed annuity"
+        },
+        {
+          "id": "q359",
+          "text": "Which of the following is a characteristic of fixed annuities?",
+          "options": [
+            "Interest resets based on market performance",
+            "Insurer declares the interest rate in advance and takes on investment risk",
+            "Contract owner directs investment choices",
+            "Premium contributions are flexible"
+          ],
+          "correctAnswer": "Insurer declares the interest rate in advance and takes on investment risk"
+        },
+        {
+          "id": "q360",
+          "text": "Which of the following did the Affordable Care Act eliminate for essential health benefits?",
+          "options": [
+            "Annual and lifetime dollar limits",
+            "Preauthorization requirements",
+            "Provider networks",
+            "Premium subsidies"
+          ],
+          "correctAnswer": "Annual and lifetime dollar limits"
+        },
+        {
+          "id": "q361",
+          "text": "Medicaid is financed primarily through:",
+          "options": [
+            "Employer payroll taxes",
+            "Individual premium contributions",
+            "Federal and state general revenues",
+            "County property taxes"
+          ],
+          "correctAnswer": "Federal and state general revenues"
+        },
+        {
+          "id": "q362",
+          "text": "Medicare Part A is commonly referred to as the:",
+          "options": [
+            "Hospital Insurance",
+            "Physician Services Plan",
+            "Prescription Drug Plan",
+            "Supplementary Medical Insurance"
+          ],
+          "correctAnswer": "Hospital Insurance"
+        },
+        {
+          "id": "q363",
+          "text": "California's state-based ACA marketplace is known as:",
+          "options": [
+            "HealthCare.gov",
+            "Covered California",
+            "Federal Facilitated Marketplace",
+            "Small Business Health Options Program"
+          ],
+          "correctAnswer": "Covered California"
+        },
+        {
+          "id": "q364",
+          "text": "Dual-eligible individuals are those who qualify for benefits under:",
+          "options": [
+            "Medicare only",
+            "Medicaid only",
+            "Both Medicare and Medicaid",
+            "Affordable Care Act subsidies"
+          ],
+          "correctAnswer": "Both Medicare and Medicaid"
+        },
+        {
+          "id": "q365",
+          "text": "Under the ACA's Medicaid expansion, states:",
+          "options": [
+            "Must expand Medicaid to 138% FPL",
+            "May choose whether to expand Medicaid",
+            "Are required to expand only for adults",
+            "Cannot expand Medicaid"
+          ],
+          "correctAnswer": "May choose whether to expand Medicaid"
         }
       ]
       
