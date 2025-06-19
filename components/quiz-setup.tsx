@@ -4,16 +4,23 @@ import { useState, useEffect } from "react"
 import { QuizContainer } from "@/components/quiz-container"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Brain, Zap, ChartBar, MessageCircle } from "lucide-react"
+import { Brain, Zap, ChartBar, MessageCircle, MapPin } from "lucide-react"
 import { motion } from "framer-motion"
 
 export function QuizSetup() {
   const [questionCount, setQuestionCount] = useState(10)
+  const [selectedState, setSelectedState] = useState<"CA" | "MO">("CA")
   const [startQuiz, setStartQuiz] = useState(false)
   const [totalQuestions, setTotalQuestions] = useState(0)
   
   // Fixed question count options
   const questionOptions = [5, 10, 20, 50, 80, 100, 150]
+
+  // State options
+  const stateOptions = [
+    { value: "CA", label: "California", description: "CA specific regulations" },
+    { value: "MO", label: "Missouri", description: "MO specific regulations" }
+  ]
 
   useEffect(() => {
     // Fetch the total number of questions available
@@ -25,7 +32,7 @@ export function QuizSetup() {
         // Get the total from examining the question ID numbers
         if (data.questions && data.questions.length > 0) {
           // We're estimating based on questions_sheet.json
-          setTotalQuestions(361);
+          setTotalQuestions(425);
         }
       } catch (error) {
         console.error("Failed to fetch total questions:", error);
@@ -36,7 +43,7 @@ export function QuizSetup() {
   }, []);
 
   if (startQuiz) {
-    return <QuizContainer questionCount={questionCount} />
+    return <QuizContainer questionCount={questionCount} selectedState={selectedState} />
   }
 
   // Container animation variants
@@ -71,6 +78,39 @@ export function QuizSetup() {
 
       <Card className="quiz-card">
         <div className="p-6 md:p-8">
+          <motion.div variants={itemVariants} className="mb-8">
+            <h2 className="text-2xl font-bold mb-2 text-blue-700">Select Your State</h2>
+            <p className="text-blue-600 text-sm mb-4">Choose your state for targeted practice questions</p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {stateOptions.map((state) => (
+                <button
+                  key={state.value}
+                  onClick={() => setSelectedState(state.value as "CA" | "MO")}
+                  className={`p-4 rounded-lg text-left transition-all duration-300 border-2 ${
+                    selectedState === state.value
+                      ? "bg-gradient-to-r from-blue-500 to-blue-700 text-white border-blue-700 shadow-lg transform scale-105"
+                      : "bg-white border-blue-200 text-blue-700 hover:border-blue-500 hover:bg-blue-50"
+                  }`}
+                >
+                  <div className="flex items-center">
+                    <MapPin className={`h-5 w-5 mr-3 ${selectedState === state.value ? 'text-white' : 'text-blue-500'}`} />
+                    <div>
+                      <div className="font-semibold text-lg">{state.label}</div>
+                      <div className={`text-sm ${selectedState === state.value ? 'text-blue-100' : 'text-blue-500'}`}>
+                        {state.description}
+                      </div>
+                    </div>
+                  </div>
+                </button>
+              ))}
+            </div>
+            <div className="mt-3">
+              <p className="text-xs text-blue-500 bg-blue-50 p-2 rounded">
+                💡 <strong>Quiz Distribution:</strong> 30% state-specific questions + 70% general insurance questions
+              </p>
+            </div>
+          </motion.div>
+
           <motion.div variants={itemVariants} className="mb-8">
             <h2 className="text-2xl font-bold mb-2 text-blue-700">How many questions?</h2>
             <p className="text-blue-600 text-sm">Choose how many questions you want to answer</p>
@@ -113,8 +153,8 @@ export function QuizSetup() {
               <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-3 rounded-lg border border-blue-100 shadow-sm flex items-start">
                 <Brain className="h-5 w-5 text-blue-500 mr-2 mt-0.5 flex-shrink-0" />
                 <div>
-                  <h4 className="font-medium text-blue-700">Random Questions</h4>
-                  <p className="text-xs text-blue-600">Fresh test each time</p>
+                  <h4 className="font-medium text-blue-700">Smart Distribution</h4>
+                  <p className="text-xs text-blue-600">State + General questions</p>
                 </div>
               </div>
               <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-3 rounded-lg border border-blue-100 shadow-sm flex items-start">
@@ -140,7 +180,7 @@ export function QuizSetup() {
               size="lg" 
               className="blue-button w-full sm:w-auto px-8 py-6 text-lg"
             >
-              Start Quiz with {questionCount} Questions
+              Start Quiz with {questionCount} Questions ({selectedState})
             </Button>
           </motion.div>
         </div>

@@ -8,7 +8,8 @@
       "Aleatory contract",
       "Adhesion contract"
     ],
-    "correctAnswer": "Unilateral contract"
+    "correctAnswer": "Unilateral contract",
+    "state": "Gen"
   },
   {
     "id": "q2",
@@ -19,7 +20,8 @@
       "Insurable interest",
       "Beneficiary designation"
     ],
-    "correctAnswer": "Insurable interest"
+    "correctAnswer": "Insurable interest",
+    "state": "Gen"
   },
   {
     "id": "q3",
@@ -30,7 +32,8 @@
       "Replace the policy illustration",
       "Waive the free-look period"
     ],
-    "correctAnswer": "Bind coverage from the application date pending underwriting"
+    "correctAnswer": "Bind coverage from the application date pending underwriting",
+    "state": "Gen"
   },
   {
     "id": "q4",
@@ -41,7 +44,8 @@
       "Required to pay dividends",
       "Required to submit proof of loss monthly"
     ],
-    "correctAnswer": "Not legally bound to perform any action beyond the application"
+    "correctAnswer": "Not legally bound to perform any action beyond the application",
+    "state": "Gen"
   },
   {
     "id": "q5",
@@ -52,7 +56,8 @@
       "Premiums paid by the insured",
       "Policy loans"
     ],
-    "correctAnswer": "Premiums paid by the insured"
+    "correctAnswer": "Premiums paid by the insured",
+    "state": "Gen"
   },
   {
     "id": "q6",
@@ -63,7 +68,8 @@
       "They may use term or permanent policies",
       "They are tax deductible as a business expense"
     ],
-    "correctAnswer": "They are tax deductible as a business expense"
+    "correctAnswer": "They are tax deductible as a business expense",
+    "state": "Gen"
   },
   {
     "id": "q7",
@@ -74,7 +80,8 @@
       "Convertible term",
       "Annually renewable term"
     ],
-    "correctAnswer": "Annually renewable term"
+    "correctAnswer": "Annually renewable term",
+    "state": "Gen"
   },
   {
     "id": "q8",
@@ -85,7 +92,8 @@
       "Lapses entirely",
       "Converts to paid‑up additions"
     ],
-    "correctAnswer": "Lapses entirely"
+    "correctAnswer": "Lapses entirely",
+    "state": "Gen"
   },
   {
     "id": "q9",
@@ -96,7 +104,8 @@
       "No outstanding riders",
       "A paid‑up addition"
     ],
-    "correctAnswer": "Accumulated cash value"
+    "correctAnswer": "Accumulated cash value",
+    "state": "Gen"
   },
   {
     "id": "q10",
@@ -107,7 +116,8 @@
       "Dividend accumulation",
       "Flexible premium option"
     ],
-    "correctAnswer": "One‑year term option"
+    "correctAnswer": "One‑year term option",
+    "state": "Gen"
   },
   {
     "id": "q11",
@@ -118,7 +128,8 @@
       "Current assets only",
       "Debt balance only"
     ],
-    "correctAnswer": "Future earnings and inflation"
+    "correctAnswer": "Future earnings and inflation",
+    "state": "Gen"
   },
   {
     "id": "q12",
@@ -129,7 +140,8 @@
       "Insurable interest documentation",
       "Policy illustrations"
     ],
-    "correctAnswer": "Credit history, reputation, and habits"
+    "correctAnswer": "Credit history, reputation, and habits",
+    "state": "Gen"
   },
   {
     "id": "q13",
@@ -140,7 +152,8 @@
       "Never tax deductible",
       "Tax deductible if converted"
     ],
-    "correctAnswer": "Never tax deductible"
+    "correctAnswer": "Never tax deductible",
+    "state": "Gen"
   },
   {
     "id": "q14",
@@ -151,7 +164,8 @@
       "Free‑look statement",
       "Nonforfeiture options"
     ],
-    "correctAnswer": "Notice Regarding Replacement"
+    "correctAnswer": "Notice Regarding Replacement",
+    "state": "Gen"
   },
   {
     "id": "q15",
@@ -162,7 +176,8 @@
       "After the free‑look period",
       "On policy anniversary"
     ],
-    "correctAnswer": "With the policy at delivery"
+    "correctAnswer": "With the policy at delivery",
+    "state": "Gen"
   },
   {
     "id": "q16",
@@ -173,7 +188,8 @@
       "Current health status only",
       "Income replacement"
     ],
-    "correctAnswer": "Current health status only"
+    "correctAnswer": "Current health status only",
+    "state": "Gen"
   },
   {
     "id": "q17",
@@ -184,7 +200,8 @@
       "Payor benefit rider",
       "Guaranteed insurability rider"
     ],
-    "correctAnswer": "Payor benefit rider"
+    "correctAnswer": "Payor benefit rider",
+    "state": "Gen"
   },
   {
     "id": "q18",
@@ -195,7 +212,8 @@
       "Decrease each year",
       "Are flexible"
     ],
-    "correctAnswer": "Increase each year"
+    "correctAnswer": "Increase each year",
+    "state": "Gen"
   },
   {
     "id": "q19",
@@ -206,7 +224,8 @@
       "Full claim amount",
       "Premium credit"
     ],
-    "correctAnswer": "Coinsurance percentage"
+    "correctAnswer": "Coinsurance percentage",
+    "state": "Gen"
   },
   {
     "id": "q20",
@@ -217,7 +236,8 @@
       "Nonrenewable term",
       "Decreasing term"
     ],
-    "correctAnswer": "Decreasing term"
+    "correctAnswer": "Decreasing term",
+    "state": "Gen"
   },
   {
     "id": "q21",
@@ -228,7 +248,8 @@
       "Lump sum",
       "Flexible installments"
     ],
-    "correctAnswer": "For a specified time only"
+    "correctAnswer": "For a specified time only",
+    "state": "Gen"
   },
   {
     "id": "q22",
@@ -239,7 +260,8 @@
       "Disability benefits",
       "Survivor benefits"
     ],
-    "correctAnswer": "Welfare benefits"
+    "correctAnswer": "Welfare benefits",
+    "state": "Gen"
   },
   {
     "id": "q23",
@@ -250,7 +272,8 @@
       "Federal Retirement Program",
       "Medicare and Social Services"
     ],
-    "correctAnswer": "Old‑Age, Survivors, and Disability Insurance"
+    "correctAnswer": "Old‑Age, Survivors, and Disability Insurance",
+    "state": "Gen"
   },
   {
     "id": "q24",
@@ -261,7 +284,8 @@
       "90 days",
       "120 days"
     ],
-    "correctAnswer": "31 days"
+    "correctAnswer": "31 days",
+    "state": "Gen"
   },
   {
     "id": "q25",
@@ -272,7 +296,8 @@
       "Employees opt in",
       "No employer contribution"
     ],
-    "correctAnswer": "Employer pays full premium"
+    "correctAnswer": "Employer pays full premium",
+    "state": "Gen"
   },
   {
     "id": "q26",
@@ -283,7 +308,8 @@
       "Paid‑up addition rider",
       "Guaranteed insurability rider"
     ],
-    "correctAnswer": "Accelerated benefit rider"
+    "correctAnswer": "Accelerated benefit rider",
+    "state": "Gen"
   },
   {
     "id": "q27",
@@ -294,7 +320,8 @@
       "Policy lapse period",
       "Reinstatement period"
     ],
-    "correctAnswer": "Waiting period before benefits"
+    "correctAnswer": "Waiting period before benefits",
+    "state": "Gen"
   },
   {
     "id": "q28",
@@ -305,7 +332,8 @@
       "Policy loan provision",
       "Free‑look waiver"
     ],
-    "correctAnswer": "Notice Regarding Replacement"
+    "correctAnswer": "Notice Regarding Replacement",
+    "state": "Gen"
   },
   {
     "id": "q29",
@@ -316,7 +344,8 @@
       "A mutual stock insurer",
       "A government pool"
     ],
-    "correctAnswer": "An unincorporated group insuring one another"
+    "correctAnswer": "An unincorporated group insuring one another",
+    "state": "Gen"
   },
   {
     "id": "q30",
@@ -327,7 +356,8 @@
       "Regulator",
       "Producer"
     ],
-    "correctAnswer": "Policyholder"
+    "correctAnswer": "Policyholder",
+    "state": "Gen"
   },
   {
     "id": "q31",
@@ -338,7 +368,8 @@
       "At retirement only",
       "At policy maturity"
     ],
-    "correctAnswer": "Immediately after purchase"
+    "correctAnswer": "Immediately after purchase",
+    "state": "Gen"
   },
   {
     "id": "q32",
@@ -349,7 +380,8 @@
       "Paid‑up additions",
       "Term conversion"
     ],
-    "correctAnswer": "Minimum annual income"
+    "correctAnswer": "Minimum annual income",
+    "state": "Gen"
   },
   {
     "id": "q33",
@@ -360,7 +392,8 @@
       "A permanent policy",
       "An annuity"
     ],
-    "correctAnswer": "A permanent policy"
+    "correctAnswer": "A permanent policy",
+    "state": "Gen"
   },
   {
     "id": "q34",
@@ -371,7 +404,8 @@
       "30 days",
       "60 days"
     ],
-    "correctAnswer": "10 days"
+    "correctAnswer": "10 days",
+    "state": "Gen"
   },
   {
     "id": "q35",
@@ -382,7 +416,8 @@
       "Flat dollar amount",
       "Length of service"
     ],
-    "correctAnswer": "A percentage of salary"
+    "correctAnswer": "A percentage of salary",
+    "state": "Gen"
   },
   {
     "id": "q36",
@@ -393,7 +428,8 @@
       "Combines A and B benefits",
       "Replaces Medigap policies"
     ],
-    "correctAnswer": "Combines A and B benefits"
+    "correctAnswer": "Combines A and B benefits",
+    "state": "Gen"
   },
   {
     "id": "q37",
@@ -404,7 +440,8 @@
       "63 days",
       "90 days"
     ],
-    "correctAnswer": "63 days"
+    "correctAnswer": "63 days",
+    "state": "Gen"
   },
   {
     "id": "q38",
@@ -415,7 +452,8 @@
       "Mutual fund gains",
       "Policy loan interest"
     ],
-    "correctAnswer": "Stock index performance"
+    "correctAnswer": "Stock index performance",
+    "state": "Gen"
   },
   {
     "id": "q39",
@@ -426,7 +464,8 @@
       "Guarantees cash value growth",
       "Reduces premiums permanently"
     ],
-    "correctAnswer": "Waives cost of insurance during disability"
+    "correctAnswer": "Waives cost of insurance during disability",
+    "state": "Gen"
   },
   {
     "id": "q40",
@@ -437,7 +476,8 @@
       "A premium surcharge",
       "An underwriting fee"
     ],
-    "correctAnswer": "A percentage share after deductible"
+    "correctAnswer": "A percentage share after deductible",
+    "state": "Gen"
   },
   {
     "id": "q41",
@@ -448,7 +488,8 @@
       "Unlimited out-of-network access",
       "Focus on preventive care"
     ],
-    "correctAnswer": "Unlimited out-of-network access"
+    "correctAnswer": "Unlimited out-of-network access",
+    "state": "Gen"
   },
   {
     "id": "q42",
@@ -459,7 +500,8 @@
       "Allow any specialist visit",
       "Eliminate deductibles"
     ],
-    "correctAnswer": "Confirm medical necessity"
+    "correctAnswer": "Confirm medical necessity",
+    "state": "Gen"
   },
   {
     "id": "q43",
@@ -470,7 +512,8 @@
       "Guaranteed renewability",
       "Cash value accumulation"
     ],
-    "correctAnswer": "Financial loss on applicant's death"
+    "correctAnswer": "Financial loss on applicant's death",
+    "state": "Gen"
   },
   {
     "id": "q44",
@@ -481,7 +524,8 @@
       "Level death benefit",
       "Guaranteed cash value"
     ],
-    "correctAnswer": "Guaranteed cash value"
+    "correctAnswer": "Guaranteed cash value",
+    "state": "Gen"
   },
   {
     "id": "q45",
@@ -492,7 +536,8 @@
       "Automatic reinstatement",
       "Immediate cancellation"
     ],
-    "correctAnswer": "Disclosure of pros and cons"
+    "correctAnswer": "Disclosure of pros and cons",
+    "state": "Gen"
   },
   {
     "id": "q46",
@@ -503,7 +548,8 @@
       "15 days",
       "22 days"
     ],
-    "correctAnswer": "8 days"
+    "correctAnswer": "8 days",
+    "state": "Gen"
   },
   {
     "id": "q47",
@@ -514,7 +560,8 @@
       "Guarantee profits",
       "Set fixed premiums"
     ],
-    "correctAnswer": "Predict losses with large pools"
+    "correctAnswer": "Predict losses with large pools",
+    "state": "Gen"
   },
   {
     "id": "q48",
@@ -525,7 +572,8 @@
       "Natural disaster risk",
       "Legal liability risk"
     ],
-    "correctAnswer": "Intentional risk behavior"
+    "correctAnswer": "Intentional risk behavior",
+    "state": "Gen"
   },
   {
     "id": "q49",
@@ -536,7 +584,8 @@
       "Not insurable",
       "Government‑backed"
     ],
-    "correctAnswer": "Not insurable"
+    "correctAnswer": "Not insurable",
+    "state": "Gen"
   },
   {
     "id": "q50",
@@ -547,7 +596,8 @@
       "Policy loan feature",
       "Extended term only"
     ],
-    "correctAnswer": "Individual policy without underwriting"
+    "correctAnswer": "Individual policy without underwriting",
+    "state": "Gen"
   },
   {
     "id": "q51",
@@ -558,7 +608,8 @@
       "Private pension",
       "Disability status only"
     ],
-    "correctAnswer": "6 credits in 13 quarters"
+    "correctAnswer": "6 credits in 13 quarters",
+    "state": "Gen"
   },
   {
     "id": "q52",
@@ -569,7 +620,8 @@
       "Fund long‑term care",
       "Provide life insurance"
     ],
-    "correctAnswer": "Cover gaps in Parts A and B"
+    "correctAnswer": "Cover gaps in Parts A and B",
+    "state": "Gen"
   },
   {
     "id": "q53",
@@ -580,7 +632,8 @@
       "Interest earned",
       "Original premium paid"
     ],
-    "correctAnswer": "Original premium paid"
+    "correctAnswer": "Original premium paid",
+    "state": "Gen"
   },
   {
     "id": "q54",
@@ -591,7 +644,8 @@
       "Flat rate on principal",
       "Deferred entirely"
     ],
-    "correctAnswer": "Taxed on interest first plus penalty if under 59½"
+    "correctAnswer": "Taxed on interest first plus penalty if under 59½",
+    "state": "Gen"
   },
   {
     "id": "q55",
@@ -602,7 +656,8 @@
       "Insurer credit risk",
       "Mortality risk"
     ],
-    "correctAnswer": "Investment risk"
+    "correctAnswer": "Investment risk",
+    "state": "Gen"
   },
   {
     "id": "q56",
@@ -613,7 +668,8 @@
       "Death of annuitant",
       "Policy renewal"
     ],
-    "correctAnswer": "Surrender of the new contract"
+    "correctAnswer": "Surrender of the new contract",
+    "state": "Gen"
   },
   {
     "id": "q57",
@@ -624,7 +680,8 @@
       "Cancel with no refund",
       "Extend term coverage"
     ],
-    "correctAnswer": "Purchase reduced paid‑up policy"
+    "correctAnswer": "Purchase reduced paid‑up policy",
+    "state": "Gen"
   },
   {
     "id": "q58",
@@ -635,7 +692,8 @@
       "Free‑look waiver",
       "Policy loan notice"
     ],
-    "correctAnswer": "Applicant disclosure of pros/cons"
+    "correctAnswer": "Applicant disclosure of pros/cons",
+    "state": "Gen"
   },
   {
     "id": "q59",
@@ -646,7 +704,8 @@
       "High cost sharing",
       "Indemnity only"
     ],
-    "correctAnswer": "Cost and quality coordination"
+    "correctAnswer": "Cost and quality coordination",
+    "state": "Gen"
   },
   {
     "id": "q60",
@@ -657,7 +716,8 @@
       "Prescription drugs",
       "Dental services"
     ],
-    "correctAnswer": "Inpatient hospital care"
+    "correctAnswer": "Inpatient hospital care",
+    "state": "Gen"
   },
   {
     "id": "q61",
@@ -668,7 +728,8 @@
       "180 days",
       "365 days"
     ],
-    "correctAnswer": "63 days"
+    "correctAnswer": "63 days",
+    "state": "Gen"
   },
   {
     "id": "q62",
@@ -679,7 +740,8 @@
       "Lump sum only",
       "Out-of-pocket max"
     ],
-    "correctAnswer": "Daily fixed amount"
+    "correctAnswer": "Daily fixed amount",
+    "state": "Gen"
   },
   {
     "id": "q63",
@@ -690,7 +752,8 @@
       "Open enrollment",
       "Medicare eligibility"
     ],
-    "correctAnswer": "Policy effective date"
+    "correctAnswer": "Policy effective date",
+    "state": "Gen"
   },
   {
     "id": "q64",
@@ -701,7 +764,8 @@
       "Poor underwriting only",
       "Economic conditions"
     ],
-    "correctAnswer": "Insured's intentional behavior"
+    "correctAnswer": "Insured's intentional behavior",
+    "state": "Gen"
   },
   {
     "id": "q65",
@@ -712,7 +776,8 @@
       "Adds term coverage",
       "Increases face amount"
     ],
-    "correctAnswer": "Waives premiums during disability"
+    "correctAnswer": "Waives premiums during disability",
+    "state": "Gen"
   },
   {
     "id": "q66",
@@ -723,7 +788,8 @@
       "Adjust premiums yearly",
       "Deny claims anytime"
     ],
-    "correctAnswer": "Investigate misstatements initially"
+    "correctAnswer": "Investigate misstatements initially",
+    "state": "Gen"
   },
   {
     "id": "q67",
@@ -734,7 +800,8 @@
       "Cash value accumulation",
       "Short‑term coverage"
     ],
-    "correctAnswer": "Cash value accumulation"
+    "correctAnswer": "Cash value accumulation",
+    "state": "Gen"
   },
   {
     "id": "q68",
@@ -745,7 +812,8 @@
       "Voluntary enrollment",
       "No employer contribution"
     ],
-    "correctAnswer": "All eligible employees enrolled"
+    "correctAnswer": "All eligible employees enrolled",
+    "state": "Gen"
   },
   {
     "id": "q69",
@@ -756,7 +824,8 @@
       "Modifying beneficiary only",
       "Lapsing a policy"
     ],
-    "correctAnswer": "Exchanging old policy for new with disclosure"
+    "correctAnswer": "Exchanging old policy for new with disclosure",
+    "state": "Gen"
   },
   {
     "id": "q70",
@@ -767,7 +836,8 @@
       "At policy maturity",
       "Never required"
     ],
-    "correctAnswer": "At application for life insurance"
+    "correctAnswer": "At application for life insurance",
+    "state": "Gen"
   },
   {
     "id": "q71",
@@ -778,7 +848,8 @@
       "Beneficiary choice",
       "Initial face amount only"
     ],
-    "correctAnswer": "Credited interest rate and cash value"
+    "correctAnswer": "Credited interest rate and cash value",
+    "state": "Gen"
   },
   {
     "id": "q72",
@@ -789,7 +860,8 @@
       "Accelerated benefit rider",
       "Conversion rider"
     ],
-    "correctAnswer": "Waiver of premium rider"
+    "correctAnswer": "Waiver of premium rider",
+    "state": "Gen"
   },
   {
     "id": "q73",
@@ -800,7 +872,8 @@
       "Multiple out-of-pocket charges",
       "Cross‑border care"
     ],
-    "correctAnswer": "Overinsurance beyond actual loss"
+    "correctAnswer": "Overinsurance beyond actual loss",
+    "state": "Gen"
   },
   {
     "id": "q74",
@@ -811,7 +884,8 @@
       "Fixed interest rate",
       "Policy loan values"
     ],
-    "correctAnswer": "Performance of underlying investments"
+    "correctAnswer": "Performance of underlying investments",
+    "state": "Gen"
   },
   {
     "id": "q75",
@@ -822,7 +896,8 @@
       "EPO",
       "Indemnity"
     ],
-    "correctAnswer": "HMO"
+    "correctAnswer": "HMO",
+    "state": "Gen"
   },
   {
     "id": "q76",
@@ -833,7 +908,8 @@
       "Adjust face amount",
       "Increase premiums"
     ],
-    "correctAnswer": "Cancel and refund within a set time"
+    "correctAnswer": "Cancel and refund within a set time",
+    "state": "Gen"
   },
   {
     "id": "q77",
@@ -844,7 +920,8 @@
       "Policy loans",
       "Term renewals"
     ],
-    "correctAnswer": "Recurrent disabilities"
+    "correctAnswer": "Recurrent disabilities",
+    "state": "Gen"
   },
   {
     "id": "q78",
@@ -855,7 +932,8 @@
       "Guaranteed no losses",
       "Fixed policy wording"
     ],
-    "correctAnswer": "Accurate loss prediction with large pools"
+    "correctAnswer": "Accurate loss prediction with large pools",
+    "state": "Gen"
   },
   {
     "id": "q79",
@@ -866,7 +944,8 @@
       "Reinsurance fees",
       "Policy loans"
     ],
-    "correctAnswer": "Return of premium overpayment"
+    "correctAnswer": "Return of premium overpayment",
+    "state": "Gen"
   },
   {
     "id": "q80",
@@ -877,7 +956,8 @@
       "Prescription drugs",
       "Long‑term care"
     ],
-    "correctAnswer": "Physician and outpatient services"
+    "correctAnswer": "Physician and outpatient services",
+    "state": "Gen"
   },
   {
     "id": "q81",
@@ -888,7 +968,8 @@
       "Grace period clause",
       "Free-look provision"
     ],
-    "correctAnswer": "Entire contract clause"
+    "correctAnswer": "Entire contract clause",
+    "state": "Gen"
   },
   {
     "id": "q82",
@@ -899,7 +980,8 @@
       "Waiver of premium rider",
       "Paid-up additions rider"
     ],
-    "correctAnswer": "Cost of living rider"
+    "correctAnswer": "Cost of living rider",
+    "state": "Gen"
   },
   {
     "id": "q83",
@@ -910,7 +992,8 @@
       "Cash value",
       "Surrender charge"
     ],
-    "correctAnswer": "Dividend"
+    "correctAnswer": "Dividend",
+    "state": "Gen"
   },
   {
     "id": "q84",
@@ -921,7 +1004,8 @@
       "Primary beneficiary",
       "Non-guaranteed values"
     ],
-    "correctAnswer": "Primary beneficiary"
+    "correctAnswer": "Primary beneficiary",
+    "state": "Gen"
   },
   {
     "id": "q85",
@@ -932,7 +1016,8 @@
       "Decreasing term",
       "Convertible term"
     ],
-    "correctAnswer": "Whole life"
+    "correctAnswer": "Whole life",
+    "state": "Gen"
   },
   {
     "id": "q86",
@@ -943,7 +1028,8 @@
       "Policy maturation",
       "Free-look period"
     ],
-    "correctAnswer": "Two years in force"
+    "correctAnswer": "Two years in force",
+    "state": "Gen"
   },
   {
     "id": "q87",
@@ -954,7 +1040,8 @@
       "Physician office visit",
       "Home health care"
     ],
-    "correctAnswer": "Physician office visit"
+    "correctAnswer": "Physician office visit",
+    "state": "Gen"
   },
   {
     "id": "q88",
@@ -965,7 +1052,8 @@
       "Death benefits lose tax-free status",
       "Premiums are always deductible"
     ],
-    "correctAnswer": "Withdrawals are taxed LIFO"
+    "correctAnswer": "Withdrawals are taxed LIFO",
+    "state": "Gen"
   },
   {
     "id": "q89",
@@ -976,7 +1064,8 @@
       "Hospital indemnity plan",
       "Dental plan"
     ],
-    "correctAnswer": "Major medical plan"
+    "correctAnswer": "Major medical plan",
+    "state": "Gen"
   },
   {
     "id": "q90",
@@ -987,7 +1076,8 @@
       "Automatic premium loan",
       "Free-look period"
     ],
-    "correctAnswer": "Reinstatement provision"
+    "correctAnswer": "Reinstatement provision",
+    "state": "Gen"
   },
   {
     "id": "q91",
@@ -998,7 +1088,8 @@
       "63 days",
       "120 days"
     ],
-    "correctAnswer": "18 months"
+    "correctAnswer": "18 months",
+    "state": "Gen"
   },
   {
     "id": "q92",
@@ -1009,7 +1100,8 @@
       "Fixed annuity payments",
       "Term life coverage"
     ],
-    "correctAnswer": "Employer‑funded medical reimbursements"
+    "correctAnswer": "Employer‑funded medical reimbursements",
+    "state": "Gen"
   },
   {
     "id": "q93",
@@ -1020,7 +1112,8 @@
       "50%",
       "0%"
     ],
-    "correctAnswer": "10%"
+    "correctAnswer": "10%",
+    "state": "Gen"
   },
   {
     "id": "q94",
@@ -1031,7 +1124,8 @@
       "Health savings account",
       "Group life plan"
     ],
-    "correctAnswer": "Qualified plan for self-employed"
+    "correctAnswer": "Qualified plan for self-employed",
+    "state": "Gen"
   },
   {
     "id": "q95",
@@ -1042,7 +1136,8 @@
       "Taxed as capital gains",
       "Not reported"
     ],
-    "correctAnswer": "Taxable upon receipt"
+    "correctAnswer": "Taxable upon receipt",
+    "state": "Gen"
   },
   {
     "id": "q96",
@@ -1053,7 +1148,8 @@
       "Proof of loss",
       "Time payment of claims"
     ],
-    "correctAnswer": "Legal actions provision"
+    "correctAnswer": "Legal actions provision",
+    "state": "Gen"
   },
   {
     "id": "q97",
@@ -1064,7 +1160,8 @@
       "Long‑term care premium payment",
       "College tuition savings"
     ],
-    "correctAnswer": "Tax‑favored medical expense savings"
+    "correctAnswer": "Tax‑favored medical expense savings",
+    "state": "Gen"
   },
   {
     "id": "q98",
@@ -1075,7 +1172,8 @@
       "Weight and habits",
       "Policy loan value"
     ],
-    "correctAnswer": "Policy loan value"
+    "correctAnswer": "Policy loan value",
+    "state": "Gen"
   },
   {
     "id": "q99",
@@ -1086,7 +1184,8 @@
       "Both sickness and accidents",
       "Premium payments"
     ],
-    "correctAnswer": "Sickness"
+    "correctAnswer": "Sickness",
+    "state": "Gen"
   },
   {
     "id": "q100",
@@ -1097,7 +1196,8 @@
       "Major services",
       "Orthodontics"
     ],
-    "correctAnswer": "Major services"
+    "correctAnswer": "Major services",
+    "state": "Gen"
   },
   {
     "id": "q101",
@@ -1108,7 +1208,8 @@
       "Avoiding all commissions",
       "Issuing policies directly"
     ],
-    "correctAnswer": "Acting in applicant's best interest"
+    "correctAnswer": "Acting in applicant's best interest",
+    "state": "Gen"
   },
   {
     "id": "q102",
@@ -1119,7 +1220,8 @@
       "Quarterly",
       "Monthly"
     ],
-    "correctAnswer": "Monthly"
+    "correctAnswer": "Monthly",
+    "state": "Gen"
   },
   {
     "id": "q103",
@@ -1130,7 +1232,8 @@
       "403(b) plan",
       "HSA"
     ],
-    "correctAnswer": "HR-10 plan"
+    "correctAnswer": "HR-10 plan",
+    "state": "Gen"
   },
   {
     "id": "q104",
@@ -1141,7 +1244,8 @@
       "Policy illustration",
       "Insured's statements"
     ],
-    "correctAnswer": "Policy illustration"
+    "correctAnswer": "Policy illustration",
+    "state": "Gen"
   },
   {
     "id": "q105",
@@ -1152,7 +1256,8 @@
       "Premium declines",
       "Cash value increases"
     ],
-    "correctAnswer": "Death benefit declines over time"
+    "correctAnswer": "Death benefit declines over time",
+    "state": "Gen"
   },
   {
     "id": "q106",
@@ -1163,7 +1268,8 @@
       "Accelerated benefit rider",
       "Cost of living rider"
     ],
-    "correctAnswer": "Guaranteed insurability rider"
+    "correctAnswer": "Guaranteed insurability rider",
+    "state": "Gen"
   },
   {
     "id": "q107",
@@ -1174,7 +1280,8 @@
       "Policy loans are prohibited",
       "Premiums are waived"
     ],
-    "correctAnswer": "Cannot be changed without beneficiary consent"
+    "correctAnswer": "Cannot be changed without beneficiary consent",
+    "state": "Gen"
   },
   {
     "id": "q108",
@@ -1185,7 +1292,8 @@
       "Entire contract clause",
       "Free-look period"
     ],
-    "correctAnswer": "Grace period"
+    "correctAnswer": "Grace period",
+    "state": "Gen"
   },
   {
     "id": "q109",
@@ -1196,7 +1304,8 @@
       "No cash value",
       "Sold only to businesses"
     ],
-    "correctAnswer": "Premiums collected at home"
+    "correctAnswer": "Premiums collected at home",
+    "state": "Gen"
   },
   {
     "id": "q110",
@@ -1207,7 +1316,8 @@
       "Express authority",
       "Inherent authority"
     ],
-    "correctAnswer": "Express authority"
+    "correctAnswer": "Express authority",
+    "state": "Gen"
   },
   {
     "id": "q111",
@@ -1218,7 +1328,8 @@
       "Convert to term",
       "Extend as term coverage"
     ],
-    "correctAnswer": "Automatically terminate"
+    "correctAnswer": "Automatically terminate",
+    "state": "Gen"
   },
   {
     "id": "q112",
@@ -1229,7 +1340,8 @@
       "Payor rider",
       "Accelerated benefit rider"
     ],
-    "correctAnswer": "Waiver of cost of insurance rider"
+    "correctAnswer": "Waiver of cost of insurance rider",
+    "state": "Gen"
   },
   {
     "id": "q113",
@@ -1240,7 +1352,8 @@
       "Interest only",
       "Lump sum"
     ],
-    "correctAnswer": "Fixed period"
+    "correctAnswer": "Fixed period",
+    "state": "Gen"
   },
   {
     "id": "q114",
@@ -1251,7 +1364,8 @@
       "Policy maturity",
       "Free-look"
     ],
-    "correctAnswer": "Two years"
+    "correctAnswer": "Two years",
+    "state": "Gen"
   },
   {
     "id": "q115",
@@ -1262,7 +1376,8 @@
       "Refund life annuity",
       "Joint and survivor"
     ],
-    "correctAnswer": "Life with period certain"
+    "correctAnswer": "Life with period certain",
+    "state": "Gen"
   },
   {
     "id": "q116",
@@ -1273,7 +1388,8 @@
       "Medicaid",
       "HMO plan"
     ],
-    "correctAnswer": "Tax‑qualified LTC policy"
+    "correctAnswer": "Tax‑qualified LTC policy",
+    "state": "Gen"
   },
   {
     "id": "q117",
@@ -1284,7 +1400,8 @@
       "Guaranteed insurability rider",
       "Term conversion rider"
     ],
-    "correctAnswer": "Living needs rider"
+    "correctAnswer": "Living needs rider",
+    "state": "Gen"
   },
   {
     "id": "q118",
@@ -1295,7 +1412,8 @@
       "Set premium rates",
       "Provide dividends"
     ],
-    "correctAnswer": "Allow policy review and cancellation"
+    "correctAnswer": "Allow policy review and cancellation",
+    "state": "Gen"
   },
   {
     "id": "q119",
@@ -1306,7 +1424,8 @@
       "MSA",
       "FSA"
     ],
-    "correctAnswer": "HRA"
+    "correctAnswer": "HRA",
+    "state": "Gen"
   },
   {
     "id": "q120",
@@ -1317,7 +1436,8 @@
       "The annual deductible",
       "The policy premium"
     ],
-    "correctAnswer": "A fixed fee per service"
+    "correctAnswer": "A fixed fee per service",
+    "state": "Gen"
   },
   {
     "id": "q121",
@@ -1328,7 +1448,8 @@
       "Part C",
       "Part D"
     ],
-    "correctAnswer": "Part B"
+    "correctAnswer": "Part B",
+    "state": "Gen"
   },
   {
     "id": "q122",
@@ -1339,7 +1460,8 @@
       "HRA",
       "EPO"
     ],
-    "correctAnswer": "PPO"
+    "correctAnswer": "PPO",
+    "state": "Gen"
   },
   {
     "id": "q123",
@@ -1350,7 +1472,8 @@
       "Standalone health policy",
       "Medicare benefit"
     ],
-    "correctAnswer": "Rider to group life"
+    "correctAnswer": "Rider to group life",
+    "state": "Gen"
   },
   {
     "id": "q124",
@@ -1361,7 +1484,8 @@
       "Both",
       "None"
     ],
-    "correctAnswer": "Sickness"
+    "correctAnswer": "Sickness",
+    "state": "Gen"
   },
   {
     "id": "q125",
@@ -1372,7 +1496,8 @@
       "Medicare Supplement sales",
       "Health savings accounts"
     ],
-    "correctAnswer": "Qualified employer retirement plans"
+    "correctAnswer": "Qualified employer retirement plans",
+    "state": "Gen"
   },
   {
     "id": "q126",
@@ -1383,7 +1508,8 @@
       "Change of beneficiary",
       "Claim forms"
     ],
-    "correctAnswer": "Change of beneficiary"
+    "correctAnswer": "Change of beneficiary",
+    "state": "Gen"
   },
   {
     "id": "q127",
@@ -1394,7 +1520,8 @@
       "Basic medical policy",
       "Managed care plan"
     ],
-    "correctAnswer": "Hospital indemnity policy"
+    "correctAnswer": "Hospital indemnity policy",
+    "state": "Gen"
   },
   {
     "id": "q128",
@@ -1405,7 +1532,8 @@
       "QSEHRA",
       "MSA"
     ],
-    "correctAnswer": "QSEHRA"
+    "correctAnswer": "QSEHRA",
+    "state": "Gen"
   },
   {
     "id": "q129",
@@ -1416,7 +1544,8 @@
       "Adhesion",
       "Insurable interest"
     ],
-    "correctAnswer": "Indemnity"
+    "correctAnswer": "Indemnity",
+    "state": "Gen"
   },
   {
     "id": "q130",
@@ -1427,7 +1556,8 @@
       "50% required",
       "No requirement"
     ],
-    "correctAnswer": "75% required"
+    "correctAnswer": "75% required",
+    "state": "Gen"
   },
   {
     "id": "q131",
@@ -1438,7 +1568,8 @@
       "Interest only",
       "Lump sum"
     ],
-    "correctAnswer": "Interest only"
+    "correctAnswer": "Interest only",
+    "state": "Gen"
   },
   {
     "id": "q132",
@@ -1449,7 +1580,8 @@
       "Pure term coverage",
       "Only pays at death"
     ],
-    "correctAnswer": "Matures at a specified date"
+    "correctAnswer": "Matures at a specified date",
+    "state": "Gen"
   },
   {
     "id": "q133",
@@ -1460,7 +1592,8 @@
       "15%",
       "0%"
     ],
-    "correctAnswer": "6%"
+    "correctAnswer": "6%",
+    "state": "Gen"
   },
   {
     "id": "q134",
@@ -1471,7 +1604,8 @@
       "Medical exam report",
       "Policy endorsement"
     ],
-    "correctAnswer": "Policy endorsement"
+    "correctAnswer": "Policy endorsement",
+    "state": "Gen"
   },
   {
     "id": "q135",
@@ -1482,7 +1616,8 @@
       "Waiver of premium rider",
       "Guaranteed insurability rider"
     ],
-    "correctAnswer": "Payor benefit rider"
+    "correctAnswer": "Payor benefit rider",
+    "state": "Gen"
   },
   {
     "id": "q136",
@@ -1493,7 +1628,8 @@
       "Whole life with rider",
       "Level term"
     ],
-    "correctAnswer": "Decreasing term"
+    "correctAnswer": "Decreasing term",
+    "state": "Gen"
   },
   {
     "id": "q137",
@@ -1504,7 +1640,8 @@
       "Variable annuity",
       "Immediate annuity"
     ],
-    "correctAnswer": "Equity indexed annuity"
+    "correctAnswer": "Equity indexed annuity",
+    "state": "Gen"
   },
   {
     "id": "q138",
@@ -1515,7 +1652,8 @@
       "Reinstatement clause",
       "Free-look period"
     ],
-    "correctAnswer": "Automatic premium loan provision"
+    "correctAnswer": "Automatic premium loan provision",
+    "state": "Gen"
   },
   {
     "id": "q139",
@@ -1526,7 +1664,8 @@
       "Premium payment",
       "Grace period extension"
     ],
-    "correctAnswer": "Owner change"
+    "correctAnswer": "Owner change",
+    "state": "Gen"
   },
   {
     "id": "q140",
@@ -1537,7 +1676,8 @@
       "No underwriting required",
       "Age determines all rates"
     ],
-    "correctAnswer": "Overall group characteristics determine rate"
+    "correctAnswer": "Overall group characteristics determine rate",
+    "state": "Gen"
   },
   {
     "id": "q141",
@@ -1548,7 +1688,8 @@
       "Pays both lives and survivor gets remainder",
       "Refunds premium on death"
     ],
-    "correctAnswer": "Pays both lives and survivor gets remainder"
+    "correctAnswer": "Pays both lives and survivor gets remainder",
+    "state": "Gen"
   },
   {
     "id": "q142",
@@ -1559,7 +1700,8 @@
       "Waiver of premium rider",
       "Guaranteed insurability rider"
     ],
-    "correctAnswer": "Cost of living rider"
+    "correctAnswer": "Cost of living rider",
+    "state": "Gen"
   },
   {
     "id": "q143",
@@ -1570,7 +1712,8 @@
       "No interest",
       "Full face amount"
     ],
-    "correctAnswer": "Fixed interest rate"
+    "correctAnswer": "Fixed interest rate",
+    "state": "Gen"
   },
   {
     "id": "q144",
@@ -1581,7 +1724,8 @@
       "Annuity contract",
       "Group plan"
     ],
-    "correctAnswer": "Life policy failing seven‑pay test"
+    "correctAnswer": "Life policy failing seven‑pay test",
+    "state": "Gen"
   },
   {
     "id": "q145",
@@ -1592,7 +1736,8 @@
       "Incontestability clause",
       "Paid‑up additions clause"
     ],
-    "correctAnswer": "Paid‑up additions clause"
+    "correctAnswer": "Paid‑up additions clause",
+    "state": "Gen"
   },
   {
     "id": "q146",
@@ -1603,7 +1748,8 @@
       "Sickness only",
       "Term life"
     ],
-    "correctAnswer": "Both sickness and accidents"
+    "correctAnswer": "Both sickness and accidents",
+    "state": "Gen"
   },
   {
     "id": "q147",
@@ -1614,7 +1760,8 @@
       "Fixed period annuity",
       "Life with period certain"
     ],
-    "correctAnswer": "Pure life annuity"
+    "correctAnswer": "Pure life annuity",
+    "state": "Gen"
   },
   {
     "id": "q148",
@@ -1625,7 +1772,8 @@
       "Term life",
       "Endowment"
     ],
-    "correctAnswer": "Universal life"
+    "correctAnswer": "Universal life",
+    "state": "Gen"
   },
   {
     "id": "q149",
@@ -1636,7 +1784,8 @@
       "An annual limit",
       "A policy fee"
     ],
-    "correctAnswer": "A fixed dollar amount per service"
+    "correctAnswer": "A fixed dollar amount per service",
+    "state": "Gen"
   },
   {
     "id": "q150",
@@ -1647,7 +1796,8 @@
       "Life insurance policy",
       "Annuity contract"
     ],
-    "correctAnswer": "Employer‑owned medical expense account"
+    "correctAnswer": "Employer‑owned medical expense account",
+    "state": "Gen"
   },
   {
     "id": "q151",
@@ -1658,7 +1808,8 @@
       "Notice of claim",
       "Physical exam provision"
     ],
-    "correctAnswer": "Time payment of claims"
+    "correctAnswer": "Time payment of claims",
+    "state": "Gen"
   },
   {
     "id": "q152",
@@ -1669,7 +1820,8 @@
       "Pays all out‑of‑network charges",
       "No deductible"
     ],
-    "correctAnswer": "Restricted network for certain services"
+    "correctAnswer": "Restricted network for certain services",
+    "state": "Gen"
   },
   {
     "id": "q153",
@@ -1680,7 +1832,8 @@
       "Medicare eligibility",
       "COBRA exhaustion"
     ],
-    "correctAnswer": "Group coverage lost due to employment status"
+    "correctAnswer": "Group coverage lost due to employment status",
+    "state": "Gen"
   },
   {
     "id": "q154",
@@ -1691,7 +1844,8 @@
       "Surgeon's fees",
       "Inpatient hospital services"
     ],
-    "correctAnswer": "Surgeon's fees"
+    "correctAnswer": "Surgeon's fees",
+    "state": "Gen"
   },
   {
     "id": "q155",
@@ -1702,7 +1856,8 @@
       "Fixed face amount per member",
       "Guaranteed conversion"
     ],
-    "correctAnswer": "Blanket coverage for varying individuals"
+    "correctAnswer": "Blanket coverage for varying individuals",
+    "state": "Gen"
   },
   {
     "id": "q156",
@@ -1713,7 +1868,8 @@
       "Guaranteed issue at any age",
       "Cost‑sharing features"
     ],
-    "correctAnswer": "Limited duration coverage"
+    "correctAnswer": "Limited duration coverage",
+    "state": "Gen"
   },
   {
     "id": "q157",
@@ -1724,7 +1880,8 @@
       "Grace period",
       "Reinstatement clause"
     ],
-    "correctAnswer": "Automatic premium loan"
+    "correctAnswer": "Automatic premium loan",
+    "state": "Gen"
   },
   {
     "id": "q158",
@@ -1735,7 +1892,8 @@
       "They are owned by stockholders",
       "They never issue dividends"
     ],
-    "correctAnswer": "Policyholders share in profits via dividends"
+    "correctAnswer": "Policyholders share in profits via dividends",
+    "state": "Gen"
   },
   {
     "id": "q159",
@@ -1746,7 +1904,8 @@
       "Absolute assignment",
       "Nonforfeiture option"
     ],
-    "correctAnswer": "Policy loan"
+    "correctAnswer": "Policy loan",
+    "state": "Gen"
   },
   {
     "id": "q160",
@@ -1757,7 +1916,8 @@
       "Life income",
       "Lump sum"
     ],
-    "correctAnswer": "Fixed period"
+    "correctAnswer": "Fixed period",
+    "state": "Gen"
   },
   {
     "id": "q161",
@@ -1768,7 +1928,8 @@
       "Misstatement of age",
       "Reinstatement clause"
     ],
-    "correctAnswer": "Misstatement of age"
+    "correctAnswer": "Misstatement of age",
+    "state": "Gen"
   },
   {
     "id": "q162",
@@ -1779,7 +1940,8 @@
       "Insured can cancel only",
       "No renewability guarantee"
     ],
-    "correctAnswer": "Insurer cannot change rates"
+    "correctAnswer": "Insurer cannot change rates",
+    "state": "Gen"
   },
   {
     "id": "q163",
@@ -1790,7 +1952,8 @@
       "Explain policy provisions",
       "Deliver policies"
     ],
-    "correctAnswer": "Handle claims decisions"
+    "correctAnswer": "Handle claims decisions",
+    "state": "Gen"
   },
   {
     "id": "q164",
@@ -1801,7 +1964,8 @@
       "Pays both lives separately",
       "Refunds premium on death"
     ],
-    "correctAnswer": "Pays on first death only"
+    "correctAnswer": "Pays on first death only",
+    "state": "Gen"
   },
   {
     "id": "q165",
@@ -1812,7 +1976,8 @@
       "Joint and survivor",
       "Lump sum"
     ],
-    "correctAnswer": "Life income"
+    "correctAnswer": "Life income",
+    "state": "Gen"
   },
   {
     "id": "q166",
@@ -1823,7 +1988,8 @@
       "Calculate premium",
       "Set policy loan interest"
     ],
-    "correctAnswer": "Assess lifestyle and character"
+    "correctAnswer": "Assess lifestyle and character",
+    "state": "Gen"
   },
   {
     "id": "q167",
@@ -1834,7 +2000,8 @@
       "Optionally renewable",
       "Conditionally renewable"
     ],
-    "correctAnswer": "Guaranteed renewable"
+    "correctAnswer": "Guaranteed renewable",
+    "state": "Gen"
   },
   {
     "id": "q168",
@@ -1845,7 +2012,8 @@
       "Hospital indemnity plan",
       "PPO plan"
     ],
-    "correctAnswer": "Comprehensive major medical plan"
+    "correctAnswer": "Comprehensive major medical plan",
+    "state": "Gen"
   },
   {
     "id": "q169",
@@ -1856,7 +2024,8 @@
       "16 hours",
       "24 hours"
     ],
-    "correctAnswer": "8 hours"
+    "correctAnswer": "8 hours",
+    "state": "Gen"
   },
   {
     "id": "q170",
@@ -1867,7 +2036,8 @@
       "Decreasing term coverage",
       "Assignment to lender"
     ],
-    "correctAnswer": "Creditor dictates insurer choice"
+    "correctAnswer": "Creditor dictates insurer choice",
+    "state": "Gen"
   },
   {
     "id": "q171",
@@ -1878,7 +2048,8 @@
       "Accelerated benefit rider",
       "Term conversion rider"
     ],
-    "correctAnswer": "Guaranteed insurability rider"
+    "correctAnswer": "Guaranteed insurability rider",
+    "state": "Gen"
   },
   {
     "id": "q172",
@@ -1889,7 +2060,8 @@
       "Principle of subrogation",
       "Principle of utmost good faith"
     ],
-    "correctAnswer": "Principle of indemnity"
+    "correctAnswer": "Principle of indemnity",
+    "state": "Gen"
   },
   {
     "id": "q173",
@@ -1900,7 +2072,8 @@
       "Dividends reduce premium directly",
       "Dividends convert to paid‑up additions"
     ],
-    "correctAnswer": "Dividends accumulate interest if not used"
+    "correctAnswer": "Dividends accumulate interest if not used",
+    "state": "Gen"
   },
   {
     "id": "q174",
@@ -1911,7 +2084,8 @@
       "Guarantee policy issuance",
       "Provide free advice"
     ],
-    "correctAnswer": "Request application completion"
+    "correctAnswer": "Request application completion",
+    "state": "Gen"
   },
   {
     "id": "q175",
@@ -1922,7 +2096,8 @@
       "FINRA",
       "IRS"
     ],
-    "correctAnswer": "FINRA"
+    "correctAnswer": "FINRA",
+    "state": "Gen"
   },
   {
     "id": "q176",
@@ -1933,7 +2108,8 @@
       "Accidental death rider",
       "Return of premium rider"
     ],
-    "correctAnswer": "Waiver of premium rider"
+    "correctAnswer": "Waiver of premium rider",
+    "state": "Gen"
   },
   {
     "id": "q177",
@@ -1944,7 +2120,8 @@
       "Individual underwritten",
       "Automatically renewable"
     ],
-    "correctAnswer": "Small business association coverage"
+    "correctAnswer": "Small business association coverage",
+    "state": "Gen"
   },
   {
     "id": "q178",
@@ -1955,7 +2132,8 @@
       "Insured's death by accident",
       "Beneficiary designation change"
     ],
-    "correctAnswer": "Misstatement of age on application"
+    "correctAnswer": "Misstatement of age on application",
+    "state": "Gen"
   },
   {
     "id": "q179",
@@ -1966,7 +2144,8 @@
       "Open to all employees only",
       "No participation requirement"
     ],
-    "correctAnswer": "At least 75% participation required"
+    "correctAnswer": "At least 75% participation required",
+    "state": "Gen"
   },
   {
     "id": "q180",
@@ -1977,7 +2156,8 @@
       "Master policy",
       "Group certificate"
     ],
-    "correctAnswer": "Blanket coverage"
+    "correctAnswer": "Blanket coverage",
+    "state": "Gen"
   },
   {
     "id": "q181",
@@ -1988,7 +2168,8 @@
       "ERISA",
       "COBRA"
     ],
-    "correctAnswer": "FCRA"
+    "correctAnswer": "FCRA",
+    "state": "Gen"
   },
   {
     "id": "q182",
@@ -1999,7 +2180,8 @@
       "Waiver of premium rider",
       "Accidental death rider"
     ],
-    "correctAnswer": "Chronic care rider"
+    "correctAnswer": "Chronic care rider",
+    "state": "Gen"
   },
   {
     "id": "q183",
@@ -2010,7 +2192,8 @@
       "Provide Medicare supplement",
       "Fund health savings account"
     ],
-    "correctAnswer": "Extend employer‑sponsored coverage after termination"
+    "correctAnswer": "Extend employer‑sponsored coverage after termination",
+    "state": "Gen"
   },
   {
     "id": "q184",
@@ -2021,7 +2204,8 @@
       "Optionally renewable",
       "Conditionally renewable"
     ],
-    "correctAnswer": "Guaranteed renewable"
+    "correctAnswer": "Guaranteed renewable",
+    "state": "Gen"
   },
   {
     "id": "q185",
@@ -2032,7 +2216,8 @@
       "Dividend",
       "Surrender charge"
     ],
-    "correctAnswer": "Nonforfeiture option"
+    "correctAnswer": "Nonforfeiture option",
+    "state": "Gen"
   },
   {
     "id": "q186",
@@ -2043,7 +2228,8 @@
       "Waiting period before coverage",
       "Elimination period"
     ],
-    "correctAnswer": "Gap between benefit periods"
+    "correctAnswer": "Gap between benefit periods",
+    "state": "Gen"
   },
   {
     "id": "q187",
@@ -2054,7 +2240,8 @@
       "Time payment of claims",
       "Physical exam"
     ],
-    "correctAnswer": "Proof of loss provision"
+    "correctAnswer": "Proof of loss provision",
+    "state": "Gen"
   },
   {
     "id": "q188",
@@ -2065,7 +2252,8 @@
       "Waiver of premium rider",
       "Term conversion rider"
     ],
-    "correctAnswer": "Guaranteed insurability rider"
+    "correctAnswer": "Guaranteed insurability rider",
+    "state": "Gen"
   },
   {
     "id": "q189",
@@ -2076,7 +2264,8 @@
       "Policy loan option",
       "Premium refund mechanism"
     ],
-    "correctAnswer": "Insurer's right to recover from third party"
+    "correctAnswer": "Insurer's right to recover from third party",
+    "state": "Gen"
   },
   {
     "id": "q190",
@@ -2087,7 +2276,8 @@
       "Stock‑holder ownership",
       "No charitable activity"
     ],
-    "correctAnswer": "Members of a lodge or society"
+    "correctAnswer": "Members of a lodge or society",
+    "state": "Gen"
   },
   {
     "id": "q191",
@@ -2098,7 +2288,8 @@
       "Mutual insurer",
       "Stock insurer"
     ],
-    "correctAnswer": "Owned by its insureds to insure their own risks"
+    "correctAnswer": "Owned by its insureds to insure their own risks",
+    "state": "Gen"
   },
   {
     "id": "q192",
@@ -2109,7 +2300,8 @@
       "Has no surrender value",
       "Is always tax‑free"
     ],
-    "correctAnswer": "Provides income while the annuitant lives"
+    "correctAnswer": "Provides income while the annuitant lives",
+    "state": "Gen"
   },
   {
     "id": "q193",
@@ -2120,7 +2312,8 @@
       "Agent",
       "Insurer"
     ],
-    "correctAnswer": "Insured"
+    "correctAnswer": "Insured",
+    "state": "Gen"
   },
   {
     "id": "q194",
@@ -2131,7 +2324,8 @@
       "Grace period provision",
       "Reinstatement clause"
     ],
-    "correctAnswer": "Entire contract clause"
+    "correctAnswer": "Entire contract clause",
+    "state": "Gen"
   },
   {
     "id": "q195",
@@ -2142,7 +2336,8 @@
       "Deferred annuity",
       "Equity indexed annuity"
     ],
-    "correctAnswer": "Annuity certain"
+    "correctAnswer": "Annuity certain",
+    "state": "Gen"
   },
   {
     "id": "q196",
@@ -2153,7 +2348,8 @@
       "Extend the policy term",
       "Convert to paid‑up additions"
     ],
-    "correctAnswer": "Receive lump‑sum cash value"
+    "correctAnswer": "Receive lump‑sum cash value",
+    "state": "Gen"
   },
   {
     "id": "q197",
@@ -2164,7 +2360,8 @@
       "Universal life",
       "Endowment"
     ],
-    "correctAnswer": "Universal life"
+    "correctAnswer": "Universal life",
+    "state": "Gen"
   },
   {
     "id": "q198",
@@ -2175,7 +2372,8 @@
       "Waives all premiums",
       "Adds term coverage"
     ],
-    "correctAnswer": "Pays a percentage of lost income"
+    "correctAnswer": "Pays a percentage of lost income",
+    "state": "Gen"
   },
   {
     "id": "q199",
@@ -2186,7 +2384,8 @@
       "Group LTC",
       "Employer self‑funded plan"
     ],
-    "correctAnswer": "Tax‑qualified LTC"
+    "correctAnswer": "Tax‑qualified LTC",
+    "state": "Gen"
   },
   {
     "id": "q200",
@@ -2197,7 +2396,8 @@
       "Automatic loan option",
       "Extended term option"
     ],
-    "correctAnswer": "Dividend option"
+    "correctAnswer": "Dividend option",
+    "state": "Gen"
   },
   {
     "id": "q201",
@@ -2208,7 +2408,8 @@
       "26",
       "30"
     ],
-    "correctAnswer": "26"
+    "correctAnswer": "26",
+    "state": "Gen"
   },
   {
     "id": "q202",
@@ -2219,7 +2420,8 @@
       "Maternity and newborn care",
       "Long-term care"
     ],
-    "correctAnswer": "Long-term care"
+    "correctAnswer": "Long-term care",
+    "state": "Gen"
   },
   {
     "id": "q203",
@@ -2230,7 +2432,8 @@
       "65",
       "67"
     ],
-    "correctAnswer": "62"
+    "correctAnswer": "62",
+    "state": "Gen"
   },
   {
     "id": "q204",
@@ -2241,7 +2444,8 @@
       "Social Security",
       "Tricare"
     ],
-    "correctAnswer": "Medicaid"
+    "correctAnswer": "Medicaid",
+    "state": "Gen"
   },
   {
     "id": "q205",
@@ -2252,7 +2456,8 @@
       "Part C",
       "Part D"
     ],
-    "correctAnswer": "Part C"
+    "correctAnswer": "Part C",
+    "state": "Gen"
   },
   {
     "id": "q206",
@@ -2263,1754 +2468,3173 @@
       "Part C",
       "Part D"
     ],
-    "correctAnswer": "Part D"
+    "correctAnswer": "Part D",
+    "state": "Gen"
   },
-    {
-      "id": "q207",
-      "text": "Under the Affordable Care Act, an Applicable Large Employer (ALE) is defined as having at least how many full-time employees (including full-time equivalents)?",
-      "options": [
-        "25",
-        "50",
-        "75",
-        "100"
-      ],
-      "correctAnswer": "50"
-    },
-    {
-      "id": "q208",
-      "text": "Under the ACA employer mandate, an ALE that fails to offer minimum essential coverage to its full-time employees faces a penalty of:",
-      "options": [
-        "$50 per employee",
-        "$2,000 per full-time employee annually",
-        "$3,000 per full-time employee annually",
-        "$4,000 per full-time employee annually"
-      ],
-      "correctAnswer": "$2,000 per full-time employee annually"
-    },
-    {
-      "id": "q209",
-      "text": "Individuals with incomes between 100% and 400% of the Federal Poverty Level may qualify for which ACA provision?",
-      "options": [
-        "Cost-sharing reductions only",
-        "Premium tax credits only",
-        "Premium tax credits and cost-sharing reductions",
-        "None of the above"
-      ],
-      "correctAnswer": "Premium tax credits only"
-    },
-    {
-      "id": "q210",
-      "text": "Which of the following is NOT considered Minimum Essential Coverage under the ACA?",
-      "options": [
-        "Employer-sponsored group health plan",
-        "Grandfathered individual health plan",
-        "Vision-only standalone plan",
-        "Medicaid"
-      ],
-      "correctAnswer": "Vision-only standalone plan"
-    },
-    {
-      "id": "q211",
-      "text": "The federal individual mandate penalty for not maintaining MEC was eliminated beginning in which year?",
-      "options": [
-        "2018",
-        "2019",
-        "2020",
-        "2021"
-      ],
-      "correctAnswer": "2019"
-    },
-    {
-      "id": "q212",
-      "text": "Which of the following is one of the 10 Essential Health Benefits required under the ACA?",
-      "options": [
-        "Cosmetic surgery",
-        "Maternity and newborn care",
-        "Routine adult vision",
-        "Long-term care"
-      ],
-      "correctAnswer": "Maternity and newborn care"
-    },
-    {
-      "id": "q213",
-      "text": "Under the ACA medical loss ratio rules, large group health plans must spend at least what percentage of premium dollars on clinical services and quality improvement?",
-      "options": [
-        "70%",
-        "75%",
-        "80%",
-        "85%"
-      ],
-      "correctAnswer": "85%"
-    },
-    {
-      "id": "q214",
-      "text": "In the ACA's metal-level categories, which plan has an actuarial value of approximately 80%?",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "Platinum"
-      ],
-      "correctAnswer": "Gold"
-    },
-    {
-      "id": "q215",
-      "text": "Which ACA metal-level plan has the lowest actuarial value?",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "Platinum"
-      ],
-      "correctAnswer": "Bronze"
-    },
-    {
-      "id": "q216",
-      "text": "Which of the following is NOT a standard ACA metal-level tier?",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Diamond",
-        "Platinum"
-      ],
-      "correctAnswer": "Diamond"
-    },
-    {
-      "id": "q217",
-      "text": "Cost-sharing reductions under the ACA are available only to enrollees in which metal tier?",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "Platinum"
-      ],
-      "correctAnswer": "Silver"
-    },
-    {
-      "id": "q218",
-      "text": "Which of the following is a recognized hardship exemption under the ACA?",
-      "options": [
-        "Long-term incarceration",
-        "Religious conscience objection",
-        "Homelessness",
-        "All of the above"
-      ],
-      "correctAnswer": "All of the above"
-    },
-    {
-      "id": "q219",
-      "text": "The ACA risk corridor program was designed primarily to:",
-      "options": [
-        "Increase consumer premiums",
-        "Limit net losses for insurers",
-        "Penalize low-cost plans",
-        "Expand Medicaid eligibility"
-      ],
-      "correctAnswer": "Limit net losses for insurers"
-    },
-    {
-      "id": "q220",
-      "text": "Reinsurance fees paid by issuers under the ACA fund payments to stabilize which market?",
-      "options": [
-        "Small group market",
-        "Large group market",
-        "Individual market",
-        "Medicaid managed care"
-      ],
-      "correctAnswer": "Individual market"
-    },
-    {
-      "id": "q221",
-      "text": "Under ACA risk adjustment, payments are transferred to promote:",
-      "options": [
-        "Guaranteed issue",
-        "Community rating",
-        "Market stability",
-        "Essential health benefits"
-      ],
-      "correctAnswer": "Market stability"
-    },
-    {
-      "id": "q222",
-      "text": "What does SHOP stand for in the ACA context?",
-      "options": [
-        "State Health Options Program",
-        "Small Health Options Program",
-        "Small Business Health Options Program",
-        "Self Health Options Program"
-      ],
-      "correctAnswer": "Small Business Health Options Program"
-    },
-    {
-      "id": "q223",
-      "text": "Which ACA program provides a marketplace specifically for employers with 1–50 employees?",
-      "options": [
-        "FFM",
-        "SHOP",
-        "Medicare Advantage",
-        "COBRA"
-      ],
-      "correctAnswer": "SHOP"
-    },
-    {
-      "id": "q224",
-      "text": "ACA rules prohibit insurers from rescinding coverage except in cases of:",
-      "options": [
-        "Premium non-payment",
-        "Fraud or material misrepresentation",
-        "HIPAA violation",
-        "Rate increases"
-      ],
-      "correctAnswer": "Fraud or material misrepresentation"
-    },
-    {
-      "id": "q225",
-      "text": "A grandfathered health plan under the ACA is one that was purchased before March 23, 2010 and:",
-      "options": [
-        "Has been significantly changed",
-        "Has never changed any benefits or cost-sharing",
-        "Was sold only to small groups",
-        "Is only dental and vision"
-      ],
-      "correctAnswer": "Has never changed any benefits or cost-sharing"
-    },
-    {
-      "id": "q226",
-      "text": "Which change will cause a group plan to lose its grandfathered status?",
-      "options": [
-        "Adding a wellness program",
-        "Decreasing deductibles",
-        "Increasing coinsurance by more than 15%",
-        "Lowering employee contributions"
-      ],
-      "correctAnswer": "Increasing coinsurance by more than 15%"
-    },
-    {
-      "id": "q227",
-      "text": "ACA-mandated preventive services must be covered without cost-sharing when provided by:",
-      "options": [
-        "Any licensed provider",
-        "In-network providers",
-        "Out-of-network providers",
-        "Urgent care centers"
-      ],
-      "correctAnswer": "In-network providers"
-    },
-    {
-      "id": "q228",
-      "text": "Free preventive services under the ACA include:",
-      "options": [
-        "Colonoscopy for ages 50+",
-        "Annual mammogram",
-        "Adult immunizations",
-        "All of the above"
-      ],
-      "correctAnswer": "All of the above"
-    },
-    {
-      "id": "q229",
-      "text": "A Qualified Health Plan in the ACA Exchange is required to offer at least how many Bronze-level plans?",
-      "options": [
-        "Zero",
-        "One",
-        "Two",
-        "Three"
-      ],
-      "correctAnswer": "One"
-    },
-    {
-      "id": "q230",
-      "text": "Which is one of the 10 Essential Health Benefit categories under the ACA?",
-      "options": [
-        "Experimental treatments",
-        "Chiropractic care",
-        "Mental health services",
-        "Vision only"
-      ],
-      "correctAnswer": "Mental health services"
-    },
-    {
-      "id": "q231",
-      "text": "The requirement that insurers must accept all applicants regardless of health status is known as:",
-      "options": [
-        "Community rating",
-        "Guaranteed issue",
-        "Experience rating",
-        "Selective underwriting"
-      ],
-      "correctAnswer": "Guaranteed issue"
-    },
-    {
-      "id": "q232",
-      "text": "Under ACA community rating rules, premium variations are allowed based on:",
-      "options": [
-        "Age, tobacco use, and geography",
-        "Medical history",
-        "Gender",
-        "Claims experience"
-      ],
-      "correctAnswer": "Age, tobacco use, and geography"
-    },
-    {
-      "id": "q233",
-      "text": "ACA community rating prohibits varying premiums based on:",
-      "options": [
-        "Age",
-        "Tobacco use",
-        "Gender",
-        "Geography"
-      ],
-      "correctAnswer": "Gender"
-    },
-    {
-      "id": "q234",
-      "text": "The ACA medical loss ratio requirement for the individual market is:",
-      "options": [
-        "70%",
-        "75%",
-        "80%",
-        "85%"
-      ],
-      "correctAnswer": "80%"
-    },
-    {
-      "id": "q235",
-      "text": "The ACA medical loss ratio requirement for the large group market is:",
-      "options": [
-        "75%",
-        "80%",
-        "85%",
-        "90%"
-      ],
-      "correctAnswer": "85%"
-    },
-    {
-      "id": "q236",
-      "text": "What does FFM stand for in the context of the ACA?",
-      "options": [
-        "Federally Facilitated Marketplace",
-        "Federal Financial Mechanism",
-        "Family Friendly Marketplace",
-        "Flexible Funding Model"
-      ],
-      "correctAnswer": "Federally Facilitated Marketplace"
-    },
-    {
-      "id": "q237",
-      "text": "Medicare Part A covers inpatient hospital care, skilled nursing facility care, hospice care, and which additional service?",
-      "options": [
-        "Prescription drugs",
-        "Durable medical equipment",
-        "Home health care",
-        "Physician services"
-      ],
-      "correctAnswer": "Home health care"
-    },
-    {
-      "id": "q238",
-      "text": "Medicare Part B covers physician services, outpatient care, and which of the following?",
-      "options": [
-        "Prescription drugs",
-        "Preventive services",
-        "Long-term care",
-        "Vision care"
-      ],
-      "correctAnswer": "Preventive services"
-    },
-    {
-      "id": "q239",
-      "text": "Medicare Part C is also known as:",
-      "options": [
-        "Medigap",
-        "Medicare Supplemental",
-        "Medicare Advantage",
-        "Medicare Select"
-      ],
-      "correctAnswer": "Medicare Advantage"
-    },
-    {
-      "id": "q240",
-      "text": "Medicare Part D primarily provides coverage for:",
-      "options": [
-        "Inpatient hospital services",
-        "Physician services",
-        "Prescription drugs",
-        "Home health services"
-      ],
-      "correctAnswer": "Prescription drugs"
-    },
-    {
-      "id": "q241",
-      "text": "Which service is NOT covered under Medicare Part A?",
-      "options": [
-        "Inpatient hospital stay",
-        "Skilled nursing facility care",
-        "Hospice care",
-        "Outpatient surgery"
-      ],
-      "correctAnswer": "Outpatient surgery"
-    },
-    {
-      "id": "q242",
-      "text": "Which service is NOT covered under Medicare Part B?",
-      "options": [
-        "Physician visits",
-        "Durable medical equipment",
-        "Outpatient prescription drugs (oral)",
-        "Inpatient hospital stays"
-      ],
-      "correctAnswer": "Inpatient hospital stays"
-    },
-    {
-      "id": "q243",
-      "text": "The Medicare Part A inpatient hospital deductible applies per:",
-      "options": [
-        "Calendar year",
-        "Benefit period",
-        "Lifetime",
-        "Per admission"
-      ],
-      "correctAnswer": "Benefit period"
-    },
-    {
-      "id": "q244",
-      "text": "After the Part B deductible, Medicare Part B generally pays what percentage of approved charges?",
-      "options": [
-        "50%",
-        "80%",
-        "100%",
-        "20%"
-      ],
-      "correctAnswer": "80%"
-    },
-    {
-      "id": "q245",
-      "text": "For days 1–60 of an inpatient hospital stay under Medicare Part A, the beneficiary is responsible for:",
-      "options": [
-        "Deductible only",
-        "Coinsurance only",
-        "Deductible plus coinsurance",
-        "Nothing"
-      ],
-      "correctAnswer": "Deductible only"
-    },
-    {
-      "id": "q246",
-      "text": "Medicare Part A covers the first how many days of skilled nursing facility care without coinsurance?",
-      "options": [
-        "10 days",
-        "20 days",
-        "30 days",
-        "40 days"
-      ],
-      "correctAnswer": "20 days"
-    },
-    {
-      "id": "q247",
-      "text": "For days 21–100 of skilled nursing facility care, Medicare Part A requires:",
-      "options": [
-        "No coinsurance",
-        "Daily coinsurance payment",
-        "Prior authorization",
-        "50% coinsurance"
-      ],
-      "correctAnswer": "Daily coinsurance payment"
-    },
-    {
-      "id": "q248",
-      "text": "Medicare Part B premiums are:",
-      "options": [
-        "Standard for all beneficiaries",
-        "Income-related",
-        "Age-rated",
-        "Region-specific"
-      ],
-      "correctAnswer": "Income-related"
-    },
-    {
-      "id": "q249",
-      "text": "The standard Initial Enrollment Period for Medicare Part B lasts:",
-      "options": [
-        "3 months before to 3 months after turning 65",
-        "6 months after turning 65",
-        "1 year after turning 65",
-        "Until retiring"
-      ],
-      "correctAnswer": "3 months before to 3 months after turning 65"
-    },
-    {
-      "id": "q250",
-      "text": "If you delay enrolling in Medicare Part B beyond your Initial Enrollment Period, you incur a late-enrollment penalty of:",
-      "options": [
-        "5% per year late",
-        "10% per year late",
-        "2% per year late",
-        "No penalty"
-      ],
-      "correctAnswer": "10% per year late"
-    },
-    {
-      "id": "q251",
-      "text": "A Medigap policy is designed to:",
-      "options": [
-        "Replace Medicare",
-        "Cover gaps in Parts A and B",
-        "Provide prescription drug coverage",
-        "Offer long-term care benefits"
-      ],
-      "correctAnswer": "Cover gaps in Parts A and B"
-    },
-    {
-      "id": "q252",
-      "text": "During Medigap open enrollment, insurers may NOT charge higher premiums based on:",
-      "options": [
-        "Age",
-        "Gender",
-        "Health status",
-        "Tobacco use"
-      ],
-      "correctAnswer": "Health status"
-    },
-    {
-      "id": "q253",
-      "text": "Which Medigap plan is no longer available to new Medicare beneficiaries as of 2020?",
-      "options": [
-        "Plan A",
-        "Plan C",
-        "Plan F",
-        "Plan G"
-      ],
-      "correctAnswer": "Plan F"
-    },
-    {
-      "id": "q254",
-      "text": "Durable medical equipment under Medicare is covered by which part?",
-      "options": [
-        "Part A",
-        "Part B",
-        "Part C",
-        "Part D"
-      ],
-      "correctAnswer": "Part B"
-    },
-    {
-      "id": "q255",
-      "text": "Medicare Advantage (Part C) plans may offer which of the following additional benefits?",
-      "options": [
-        "Vision, dental, and hearing",
-        "Prescription drugs",
-        "Fitness memberships",
-        "All of the above"
-      ],
-      "correctAnswer": "All of the above"
-    },
-    {
-      "id": "q256",
-      "text": "Medicare Part D prescription drug coverage is provided through:",
-      "options": [
-        "Traditional Medicare",
-        "Private plans approved by Medicare",
-        "Medicaid",
-        "Veterans Affairs"
-      ],
-      "correctAnswer": "Private plans approved by Medicare"
-    },
-    {
-      "id": "q257",
-      "text": "Under Medicare Secondary Payer rules, for employers with fewer than 20 employees, the primary payer for beneficiaries aged 65+ is:",
-      "options": [
-        "Employer group health plan",
-        "Medicare",
-        "Medicaid",
-        "COBRA"
-      ],
-      "correctAnswer": "Medicare"
-    },
-    {
-      "id": "q258",
-      "text": "Which trust fund finances Medicare Part A?",
-      "options": [
-        "Hospital Insurance Trust Fund",
-        "Supplemental Medical Insurance Trust Fund",
-        "Social Security Trust Fund",
-        "General Revenue"
-      ],
-      "correctAnswer": "Hospital Insurance Trust Fund"
-    },
-    {
-      "id": "q259",
-      "text": "Which trust fund finances Medicare Part B?",
-      "options": [
-        "Hospital Insurance Trust Fund",
-        "Supplemental Medical Insurance Trust Fund",
-        "Social Security Trust Fund",
-        "General Revenue"
-      ],
-      "correctAnswer": "Supplemental Medical Insurance Trust Fund"
-    },
-    {
-      "id": "q260",
-      "text": "Most beneficiaries owe no premium for Medicare Part A if they have:",
-      "options": [
-        "40 quarters of Medicare-covered employment",
-        "A household income below 250% FPL",
-        "No other creditable coverage",
-        "Enrolled in Part C"
-      ],
-      "correctAnswer": "40 quarters of Medicare-covered employment"
-    },
-    {
-      "id": "q261",
-      "text": "The Medicare Part B deductible applies per:",
-      "options": [
-        "Benefit period",
-        "Calendar year",
-        "Lifetime",
-        "Per claim"
-      ],
-      "correctAnswer": "Calendar year"
-    },
-    {
-      "id": "q262",
-      "text": "Under the ACA, insurers may not impose waiting periods for coverage of pre-existing conditions exceeding:",
-      "options": [
-        "30 days",
-        "60 days",
-        "90 days",
-        "120 days"
-      ],
-      "correctAnswer": "90 days"
-    },
-    {
-      "id": "q263",
-      "text": "The ACA requirement for employers to automatically enroll new full-time employees in coverage is known as:",
-      "options": [
-        "Auto-enrollment",
-        "Employer Shared Responsibility",
-        "Individual Mandate",
-        "Employer Mandate"
-      ],
-      "correctAnswer": "Auto-enrollment"
-    },
-    {
-      "id": "q264",
-      "text": "The \"family glitch\" under the ACA refers to:",
-      "options": [
-        "Affordability measured only on self-only coverage making family coverage unaffordable",
-        "Error in calculating household income",
-        "Premium tax credit miscalculation",
-        "Coverage gap for dependents"
-      ],
-      "correctAnswer": "Affordability measured only on self-only coverage making family coverage unaffordable"
-    },
-    {
-      "id": "q265",
-      "text": "Affordability of employer-sponsored coverage under the ACA is determined by comparing the employee's required contribution for self-only coverage to:",
-      "options": [
-        "Household income",
-        "Employee's wages only",
-        "Federal Poverty Level",
-        "State median income"
-      ],
-      "correctAnswer": "Household income"
-    },
-    {
-      "id": "q266",
-      "text": "Form 1095-C provided by employers serves as proof of:",
-      "options": [
-        "Minimum Essential Coverage",
-        "Full-time employment status",
-        "Premium tax credit eligibility",
-        "Health savings account contributions"
-      ],
-      "correctAnswer": "Minimum Essential Coverage"
-    },
-    {
-      "id": "q267",
-      "text": "An ACA Explanation of Benefits (EOB) must include:",
-      "options": [
-        "Amount allowed, amount paid, and amount owed by enrollee",
-        "Premium due",
-        "Out-of-network charges only",
-        "Applied deductible only"
-      ],
-      "correctAnswer": "Amount allowed, amount paid, and amount owed by enrollee"
-    },
-    {
-      "id": "q268",
-      "text": "Lawfully present immigrants are eligible for premium tax credits and cost-sharing reductions:",
-      "options": [
-        "Immediately upon enrollment",
-        "After 5 years of residency",
-        "Only if refugee status",
-        "Not eligible"
-      ],
-      "correctAnswer": "Immediately upon enrollment"
-    },
-    {
-      "id": "q269",
-      "text": "Which option does NOT qualify as Minimum Essential Coverage under the ACA?",
-      "options": [
-        "Student health plan",
-        "COBRA continuation coverage",
-        "Vision-only standalone plan",
-        "Medicaid"
-      ],
-      "correctAnswer": "Vision-only standalone plan"
-    },
-    {
-      "id": "q270",
-      "text": "Medicaid expansion up to what percent of FPL counts as MEC under the ACA?",
-      "options": [
-        "100%",
-        "133%",
-        "150%",
-        "200%"
-      ],
-      "correctAnswer": "133%"
-    },
-    {
-      "id": "q271",
-      "text": "Which metal tier under the ACA has an actuarial value of approximately 70%?",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "Platinum"
-      ],
-      "correctAnswer": "Silver"
-    },
-    {
-      "id": "q272",
-      "text": "In an 80/20 coinsurance plan, the insurer pays what percentage of covered charges after the deductible?",
-      "options": [
-        "80%",
-        "70%",
-        "90%",
-        "100%"
-      ],
-      "correctAnswer": "80%"
-    },
-    {
-      "id": "q273",
-      "text": "In an 80/20 coinsurance plan, the insured is responsible for what percentage of covered charges after the deductible?",
-      "options": [
-        "20%",
-        "30%",
-        "10%",
-        "40%"
-      ],
-      "correctAnswer": "20%"
-    },
-    {
-      "id": "q274",
-      "text": "Under Medicare Secondary Payer rules, for employers with 20 or more employees, the primary payer for beneficiaries aged 65+ is:",
-      "options": [
-        "Employer group health plan",
-        "Medicare",
-        "Medicaid",
-        "COBRA"
-      ],
-      "correctAnswer": "Employer group health plan"
-    },
-    {
-      "id": "q275",
-      "text": "Medicare Part A covers skilled nursing facility care only if provided within how many days of a qualifying hospital stay?",
-      "options": [
-        "10 days",
-        "30 days",
-        "60 days",
-        "90 days"
-      ],
-      "correctAnswer": "30 days"
-    },
-    {
-      "id": "q276",
-      "text": "Medigap Plan C covers which of the following Medicare cost-sharing items?",
-      "options": [
-        "Part A coinsurance",
-        "Part B deductible",
-        "Part D premium",
-        "Part B coinsurance"
-      ],
-      "correctAnswer": "Part B deductible"
-    },
-    {
-      "id": "q277",
-      "text": "The Medigap open enrollment period lasts:",
-      "options": [
-        "3 months before to 3 months after Part B eligibility",
-        "6 months beginning on Part B effective date",
-        "1 year from age 65",
-        "Until first premium payment"
-      ],
-      "correctAnswer": "6 months beginning on Part B effective date"
-    },
-    {
-      "id": "q278",
-      "text": "To qualify for Medicare Part A skilled nursing facility benefits, a beneficiary must first have:",
-      "options": [
-        "A 30-day hospital stay",
-        "A 3-day inpatient hospital stay",
-        "A doctor's prescription only",
-        "Enrollment in Part B"
-      ],
-      "correctAnswer": "A 3-day inpatient hospital stay"
-    },
-    {
-      "id": "q279",
-      "text": "Medicare Advantage plans are required to cover all benefits under which parts of traditional Medicare?",
-      "options": [
-        "Parts A and B",
-        "Parts B and D",
-        "Parts C and D",
-        "Part A only"
-      ],
-      "correctAnswer": "Parts A and B"
-    },
-    {
-      "id": "q280",
-      "text": "After reaching the initial coverage limit in Medicare Part D, beneficiaries enter the coverage gap until their out-of-pocket spending reaches the:",
-      "options": [
-        "Initial deductible",
-        "Catastrophic coverage threshold",
-        "Part B premium amount",
-        "Annual out-of-pocket maximum"
-      ],
-      "correctAnswer": "Catastrophic coverage threshold"
-    },
-    {
-      "id": "q281",
-      "text": "Once catastrophic coverage begins in Medicare Part D, beneficiaries generally pay what percentage of drug costs?",
-      "options": [
-        "5%",
-        "10%",
-        "20%",
-        "0%"
-      ],
-      "correctAnswer": "5%"
-    },
-    {
-      "id": "q282",
-      "text": "Medicare provides how many lifetime reserve days for inpatient hospital stays?",
-      "options": [
-        "30",
-        "60",
-        "90",
-        "100"
-      ],
-      "correctAnswer": "60"
-    },
-    {
-      "id": "q283",
-      "text": "For days 61–90 of a Medicare Part A inpatient hospital stay, the beneficiary owes:",
-      "options": [
-        "No coinsurance after deductible",
-        "A daily fixed coinsurance amount",
-        "20% of charges",
-        "50% of charges"
-      ],
-      "correctAnswer": "A daily fixed coinsurance amount"
-    },
-    {
-      "id": "q284",
-      "text": "Under Section 4980H(b) of the ACA, the employer Shared Responsibility penalty is triggered when an ALE fails to offer MEC to at least 95% of full-time employees and at least one full-time employee receives a premium tax credit.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctAnswer": "True"
-    },
-    {
-      "id": "q285",
-      "text": "Cost-sharing reduction benefits under the ACA are available only in which metal level?",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "Platinum"
-      ],
-      "correctAnswer": "Silver"
-    },
-    {
-      "id": "q286",
-      "text": "In a 70/30 coinsurance health plan, the insurer pays what percentage of covered expenses after the deductible?",
-      "options": [
-        "60%",
-        "70%",
-        "80%",
-        "90%"
-      ],
-      "correctAnswer": "70%"
-    },
-      {
-        "id": "q287",
-        "text": "Which type of risk involves the possibility of gain as well as loss?",
-        "options": [
-          "Pure risk",
-          "Speculative risk",
-          "Static risk",
-          "Dynamic risk"
-        ],
-        "correctAnswer": "Speculative risk"
-      },
-      {
-        "id": "q288",
-        "text": "A situation where more frequent or more serious losses are caused by the insured's intentional behavior is called:",
-        "options": [
-          "Moral hazard",
-          "Morale hazard",
-          "Physical hazard",
-          "Attitudinal hazard"
-        ],
-        "correctAnswer": "Moral hazard"
-      },
-      {
-        "id": "q289",
-        "text": "Risks that arise from changing social or economic conditions, such as inflation, are known as:",
-        "options": [
-          "Pure risk",
-          "Speculative risk",
-          "Static risk",
-          "Dynamic risk"
-        ],
-        "correctAnswer": "Dynamic risk"
-      },
-      {
-        "id": "q290",
-        "text": "Which risk management technique involves shifting risk to another party?",
-        "options": [
-          "Risk retention",
-          "Risk avoidance",
-          "Risk transfer",
-          "Risk reduction"
-        ],
-        "correctAnswer": "Risk transfer"
-      },
-      {
-        "id": "q291",
-        "text": "The variation of actual loss from expected loss is defined as:",
-        "options": [
-          "Subjective risk",
-          "Objective risk",
-          "Hazard risk",
-          "Exposure risk"
-        ],
-        "correctAnswer": "Objective risk"
-      },
-      {
-        "id": "q292",
-        "text": "Which risk management technique involves eliminating exposure to a particular risk?",
-        "options": [
-          "Risk transfer",
-          "Risk avoidance",
-          "Risk retention",
-          "Risk reduction"
-        ],
-        "correctAnswer": "Risk avoidance"
-      },
-      {
-        "id": "q293",
-        "text": "Implementing safety measures to reduce the frequency or severity of losses is an example of:",
-        "options": [
-          "Risk retention",
-          "Risk reduction",
-          "Risk transfer",
-          "Risk avoidance"
-        ],
-        "correctAnswer": "Risk reduction"
-      },
-      {
-        "id": "q294",
-        "text": "A \"hazard\" in insurance is best described as:",
-        "options": [
-          "The cause of loss",
-          "The chance of loss",
-          "A plan for loss",
-          "A measure of loss"
-        ],
-        "correctAnswer": "The cause of loss"
-      },
-      {
-        "id": "q295",
-        "text": "Spreading the financial consequences of loss among a large number of individuals is called:",
-        "options": [
-          "Risk retention",
-          "Risk transfer",
-          "Risk pooling",
-          "Risk avoidance"
-        ],
-        "correctAnswer": "Risk pooling"
-      },
-      {
-        "id": "q296",
-        "text": "Which risk financing method involves an insurer indemnifying an insured for loss in exchange for a premium?",
-        "options": [
-          "Risk retention",
-          "Risk reduction",
-          "Insurance",
-          "Risk avoidance"
-        ],
-        "correctAnswer": "Insurance"
-      },
-      {
-        "id": "q297",
-        "text": "Outside the annual open enrollment period, an individual may qualify for a Special Enrollment Period after which event?",
-        "options": [
-          "Marriage",
-          "Power of attorney assignment",
-          "Changing healthcare provider",
-          "Holiday travel"
-        ],
-        "correctAnswer": "Marriage"
-      },
-      {
-        "id": "q298",
-        "text": "Which of the following life events does NOT typically trigger a Special Enrollment Period?",
-        "options": [
-          "Birth of a child",
-          "Legal separation",
-          "Purchase of a pet",
-          "Adoption"
-        ],
-        "correctAnswer": "Purchase of a pet"
-      },
-      {
-        "id": "q299",
-        "text": "After losing employer-sponsored coverage, an individual usually has how many days to enroll in a new plan under ACA's Special Enrollment Period?",
-        "options": [
-          "30 days",
-          "60 days",
-          "90 days",
-          "120 days"
-        ],
-        "correctAnswer": "60 days"
-      },
-      {
-        "id": "q300",
-        "text": "Moving to a new ZIP code is a qualifying event for a Special Enrollment Period if the new location:",
-        "options": [
-          "Offers the same plan only",
-          "Has different plan options",
-          "Is within the same county",
-          "Is internationally abroad"
-        ],
-        "correctAnswer": "Has different plan options"
-      },
-      {
-        "id": "q301",
-        "text": "Under HIPAA special enrollment rules for group plans, an employee has how many days after a qualifying event to enroll?",
-        "options": [
-          "30 days",
-          "60 days",
-          "90 days",
-          "120 days"
-        ],
-        "correctAnswer": "30 days"
-      },
-      {
-        "id": "q302",
-        "text": "If no qualifying event has occurred since open enrollment, when can an individual next change plans?",
-        "options": [
-          "During the next annual open enrollment",
-          "After 6 months",
-          "After 3 months",
-          "Any time"
-        ],
-        "correctAnswer": "During the next annual open enrollment"
-      },
-      {
-        "id": "q303",
-        "text": "Which event allows an adult child to enroll in a parent's plan outside open enrollment?",
-        "options": [
-          "Turning 19 or losing student status",
-          "Turning 26",
-          "Moving to a new state",
-          "Getting married"
-        ],
-        "correctAnswer": "Turning 26"
-      },
-      {
-        "id": "q304",
-        "text": "Full Retirement Age for Social Security benefits for someone born in 1960 or later is:",
-        "options": [
-          "66",
-          "66 and 8 months",
-          "67",
-          "67 and 4 months"
-        ],
-        "correctAnswer": "67"
-      },
-      {
-        "id": "q305",
-        "text": "If an individual claims Social Security retirement at age 62, their benefit is reduced by approximately what percentage?",
-        "options": [
-          "5%",
-          "20%",
-          "30%",
-          "25%"
-        ],
-        "correctAnswer": "30%"
-      },
-      {
-        "id": "q306",
-        "text": "For each year retirement benefits are delayed past full retirement age up to age 70, Social Security increases benefits by:",
-        "options": [
-          "2% per year",
-          "4% per year",
-          "8% per year",
-          "10% per year"
-        ],
-        "correctAnswer": "8% per year"
-      },
-      {
-        "id": "q307",
-        "text": "A spouse filing for Social Security spousal benefits at full retirement age can receive up to what percentage of the worker's PIA?",
-        "options": [
-          "25%",
-          "50%",
-          "75%",
-          "100%"
-        ],
-        "correctAnswer": "50%"
-      },
-      {
-        "id": "q308",
-        "text": "A surviving spouse can begin receiving survivors benefits as early as age:",
-        "options": [
-          "60",
-          "62",
-          "65",
-          "67"
-        ],
-        "correctAnswer": "60"
-      },
-      {
-        "id": "q309",
-        "text": "Social Security cost-of-living adjustments (COLA) are based on changes in the:",
-        "options": [
-          "Consumer Price Index for Urban Wage Earners (CPI-W)",
-          "GDP",
-          "Producer Price Index",
-          "Unemployment rate"
-        ],
-        "correctAnswer": "Consumer Price Index for Urban Wage Earners (CPI-W)"
-      },
-      {
-        "id": "q310",
-        "text": "If an individual is receiving Social Security at least how many months before turning 65 will Medicare Part B enrollment be automatic?",
-        "options": [
-          "4 months",
-          "2 months",
-          "6 months",
-          "1 month"
-        ],
-        "correctAnswer": "4 months"
-      },
-      {
-        "id": "q311",
-        "text": "Dual-eligible individuals qualify for both Medicare and Medicaid based primarily on:",
-        "options": [
-          "Age over 65",
-          "Low income and resources",
-          "Chronic illness",
-          "Employment status"
-        ],
-        "correctAnswer": "Low income and resources"
-      },
-        {
-          "id": "q312",
-          "text": "What is the principle of indemnity in insurance?",
-          "options": [
-            "To restore the insured to the same financial position after loss",
-            "To allow the insured to profit from a claim",
-            "To guarantee no loss will occur",
-            "To penalize risky behavior"
-          ],
-          "correctAnswer": "To restore the insured to the same financial position after loss"
-        },
-        {
-          "id": "q313",
-          "text": "An insurance binder is:",
-          "options": [
-            "A temporary agreement providing coverage until a policy is issued",
-            "A permanent policy endorsement",
-            "A loan secured by the policy",
-            "A reinsurance contract"
-          ],
-          "correctAnswer": "A temporary agreement providing coverage until a policy is issued"
-        },
-        {
-          "id": "q314",
-          "text": "In property insurance, insurable interest must exist at:",
-          "options": [
-            "The time of loss",
-            "The time of application only",
-            "Policy delivery",
-            "Claim payment"
-          ],
-          "correctAnswer": "The time of loss"
-        },
-        {
-          "id": "q315",
-          "text": "A peril in insurance is best described as:",
-          "options": [
-            "The cause of loss",
-            "The chance of loss",
-            "A clause in the policy",
-            "A condition that increases severity"
-          ],
-          "correctAnswer": "The cause of loss"
-        },
-        {
-          "id": "q316",
-          "text": "A hazard in insurance is best described as:",
-          "options": [
-            "A condition that increases the likelihood or severity of loss",
-            "The cause of loss",
-            "A contractual clause",
-            "A guarantee of no loss"
-          ],
-          "correctAnswer": "A condition that increases the likelihood or severity of loss"
-        },
-        {
-          "id": "q317",
-          "text": "The principle of utmost good faith requires parties to:",
-          "options": [
-            "Disclose all material facts honestly",
-            "Share profits equally",
-            "Guarantee claim payment",
-            "Renew policies automatically"
-          ],
-          "correctAnswer": "Disclose all material facts honestly"
-        },
-        {
-          "id": "q318",
-          "text": "Subrogation allows the insurer to:",
-          "options": [
-            "Assume the insured's legal right to recover from a third party",
-            "Cancel the policy without notice",
-            "Increase the insured's premium after loss",
-            "Share claims information publicly"
-          ],
-          "correctAnswer": "Assume the insured's legal right to recover from a third party"
-        },
-        {
-          "id": "q319",
-          "text": "Adhesion in an insurance contract means the contract is drafted by the insurer and ambiguities are resolved in favor of the:",
-          "options": [
-            "Policyholder",
-            "Regulator",
-            "Insurer",
-            "Producer"
-          ],
-          "correctAnswer": "Policyholder"
-        },
-        {
-          "id": "q320",
-          "text": "Which federal act grants states the authority to regulate insurance without federal interference?",
-          "options": [
-            "McCarran-Ferguson Act",
-            "Gramm-Leach-Bliley Act",
-            "Patient Protection and Affordable Care Act",
-            "Health Insurance Portability and Accountability Act"
-          ],
-          "correctAnswer": "McCarran-Ferguson Act"
-        },
-        {
-          "id": "q321",
-          "text": "The NAIC primarily serves to:",
-          "options": [
-            "Coordinate insurance regulation among the states and develop model laws",
-            "Set federal insurance premiums",
-            "Insure bank deposits",
-            "Regulate pharmaceutical benefits"
-          ],
-          "correctAnswer": "Coordinate insurance regulation among the states and develop model laws"
-        },
-        {
-          "id": "q322",
-          "text": "In California, the primary body of law governing insurer licensing and conduct is the:",
-          "options": [
-            "California Insurance Code",
-            "NAIC Model Laws",
-            "Federal Insurance Office regulations",
-            "Insurance Services Office manuals"
-          ],
-          "correctAnswer": "California Insurance Code"
-        },
-        {
-          "id": "q323",
-          "text": "If a health plan has a $500 deductible and 20% coinsurance, and a covered claim of $2,000 occurs, how much will the insured pay out of pocket (excluding copays)?",
-          "options": [
-            "$800",
-            "$900",
-            "$500",
-            "$300"
-          ],
-          "correctAnswer": "$800"
-        },
-        {
-          "id": "q324",
-          "text": "After satisfying the deductible, coinsurance in a health plan means the insured pays:",
-          "options": [
-            "A percentage of the remaining allowed charges",
-            "A fixed copayment per service",
-            "The full remaining charge",
-            "No further cost"
-          ],
-          "correctAnswer": "A percentage of the remaining allowed charges"
-        },
-        {
-          "id": "q325",
-          "text": "A copayment differs from coinsurance in that it is:",
-          "options": [
-            "A fixed dollar amount per service",
-            "A percentage of charges",
-            "The annual deductible",
-            "The policy premium"
-          ],
-          "correctAnswer": "A fixed dollar amount per service"
-        },
-        {
-          "id": "q326",
-          "text": "The out-of-pocket maximum is best defined as:",
-          "options": [
-            "The most the insured will pay in a year in combined deductible, copays, and coinsurance",
-            "The total premium paid",
-            "The maximum benefit the insurer will pay",
-            "The plan's annual deductible"
-          ],
-          "correctAnswer": "The most the insured will pay in a year in combined deductible, copays, and coinsurance"
-        },
-        {
-          "id": "q327",
-          "text": "Medi-Cal is the California name for which federal–state program?",
-          "options": [
-            "Medicaid",
-            "Medicare",
-            "Children's Health Insurance Program (CHIP)",
-            "TRICARE"
-          ],
-          "correctAnswer": "Medicaid"
-        },
-        {
-          "id": "q328",
-          "text": "Which population is NOT eligible for full-scope Medi-Cal?",
-          "options": [
-            "Undocumented adults over age 26",
-            "Low-income children",
-            "Seniors age 65 and over",
-            "Disabled individuals"
-          ],
-          "correctAnswer": "Undocumented adults over age 26"
-        },
-        {
-          "id": "q329",
-          "text": "Medi-Cal Share of Cost refers to:",
-          "options": [
-            "The amount an enrollee must pay monthly before Medi-Cal covers services",
-            "The maximum premium for Medi-Cal",
-            "The cap on Medi-Cal benefits",
-            "The state's share of funding"
-          ],
-          "correctAnswer": "The amount an enrollee must pay monthly before Medi-Cal covers services"
-        },
-        {
-          "id": "q330",
-          "text": "Medi-Cal spenddown is:",
-          "options": [
-            "A process where individuals with excess income subtract medical expenses to qualify",
-            "A temporary loss of coverage",
-            "A waiver of the share of cost",
-            "An additional premium"
-          ],
-          "correctAnswer": "A process where individuals with excess income subtract medical expenses to qualify"
-        },
-        {
-          "id": "q331",
-          "text": "Under Medi-Cal, which of the following is a mandatory service?",
-          "options": [
-            "Inpatient hospital care",
-            "Adult dental in all counties",
-            "Cosmetic surgery",
-            "Prescription vitamins"
-          ],
-          "correctAnswer": "Inpatient hospital care"
-        },
-        {
-          "id": "q332",
-          "text": "Which program provides Medi-Cal eligibility to childless adults up to 138% of the Federal Poverty Level?",
-          "options": [
-            "ACA expansion",
-            "Healthy Families Program",
-            "Children's Health Insurance Program (CHIP)",
-            "Medicare"
-          ],
-          "correctAnswer": "ACA expansion"
-        },
-        {
-          "id": "q333",
-          "text": "Medi-Cal Managed Care plans are required in most California counties to coordinate services through:",
-          "options": [
-            "HMO-model health plans",
-            "Indemnity plans",
-            "Employer-sponsored plans",
-            "PPO networks"
-          ],
-          "correctAnswer": "HMO-model health plans"
-        },
-        {
-          "id": "q334",
-          "text": "Which California department administers Medi-Cal?",
-          "options": [
-            "Department of Health Care Services (DHCS)",
-            "Department of Managed Health Care (DMHC)",
-            "Centers for Medicare & Medicaid Services (CMS)",
-            "Covered California"
-          ],
-          "correctAnswer": "Department of Health Care Services (DHCS)"
-        },
-        {
-          "id": "q335",
-          "text": "NAIC model laws and regulations become enforceable in a state when:",
-          "options": [
-            "They are adopted by that state's legislature",
-            "The NAIC votes to implement them nationally",
-            "CMS mandates their use",
-            "They are approved by the federal government"
-          ],
-          "correctAnswer": "They are adopted by that state's legislature"
-        },
-        {
-          "id": "q336",
-          "text": "Which type of self-funded health plan alternative is characterized by predictable claim costs?",
-          "options": [
-            "Self-funded PPO",
-            "Self-funded HMO",
-            "Level-funded plan",
-            "Experience-rated plan"
-          ],
-          "correctAnswer": "Level-funded plan"
-        },
-        {
-          "id": "q337",
-          "text": "Blue Cross and Blue Shield are examples of what type of healthcare service organizations?",
-          "options": [
-            "Agents for indemnity insurers",
-            "Prepaid healthcare service organizations",
-            "Reinsurance companies",
-            "Tertiary care providers"
-          ],
-          "correctAnswer": "Prepaid healthcare service organizations"
-        },
-        {
-          "id": "q338",
-          "text": "For employer-paid noncontributory group health insurance, what percentage of eligible members must participate?",
-          "options": [
-            "75%",
-            "85%",
-            "100%",
-            "50%"
-          ],
-          "correctAnswer": "100%"
-        },
-        {
-          "id": "q339",
-          "text": "An aleatory contract in insurance is best described as:",
-          "options": [
-            "Both parties exchange equal value upfront",
-            "Payment of premium is contingent on claims experience",
-            "An exchange of unequal values dependent on an uncertain event",
-            "A contract that must be renewed annually"
-          ],
-          "correctAnswer": "An exchange of unequal values dependent on an uncertain event"
-        },
-        {
-          "id": "q340",
-          "text": "Why are many group disability insurance policies written on a non-occupational basis?",
-          "options": [
-            "Because non-occupational claims are less expensive",
-            "Because occupational injuries are provided for by workers' compensation",
-            "To avoid underwriting for dangerous occupations",
-            "Because they cover both work and non-work injuries"
-          ],
-          "correctAnswer": "Because occupational injuries are provided for by workers' compensation"
-        },
-        {
-          "id": "q341",
-          "text": "In an insurance contract, what is the insurer's consideration?",
-          "options": [
-            "Payment of the premium",
-            "Promise to pay for covered losses",
-            "Issuance of a policy illustration",
-            "Assignment of a beneficiary"
-          ],
-          "correctAnswer": "Promise to pay for covered losses"
-        },
-        {
-          "id": "q342",
-          "text": "What is the name of the healthcare delivery system that provides prepaid doctor and hospital care, emphasizes preventive care, and charges a fixed periodic fee?",
-          "options": [
-            "Preferred Provider Organization",
-            "Health Maintenance Organization",
-            "Point-of-Service Plan",
-            "Exclusive Provider Organization"
-          ],
-          "correctAnswer": "Health Maintenance Organization"
-        },
-        {
-          "id": "q343",
-          "text": "The part of a health insurance policy that states the kind of benefits provided and the circumstances under which they will be paid is called the:",
-          "options": [
-            "Consideration Clause",
-            "Insuring Clause",
-            "Benefit Clause",
-            "Free-Look Clause"
-          ],
-          "correctAnswer": "Benefit Clause"
-        },
-        {
-          "id": "q344",
-          "text": "Which definition of total disability is the most restrictive for an insured claiming benefits?",
-          "options": [
-            "Inability to perform the duties of the own occupation",
-            "Inability to perform the duties of any occupation",
-            "Loss of two limbs or sight",
-            "Inability to perform heavy manual labor"
-          ],
-          "correctAnswer": "Inability to perform the duties of any occupation"
-        },
-        {
-          "id": "q345",
-          "text": "Social Security disability benefits typically begin after a waiting period of:",
-          "options": [
-            "2 months",
-            "3 months",
-            "5 months",
-            "6 months"
-          ],
-          "correctAnswer": "5 months"
-        },
-        {
-          "id": "q346",
-          "text": "How many work credits can an individual earn per calendar year toward Social Security disability eligibility?",
-          "options": [
-            "2",
-            "3",
-            "4",
-            "5"
-          ],
-          "correctAnswer": "4"
-        },
-        {
-          "id": "q347",
-          "text": "Workers' compensation programs provide all of the following benefits EXCEPT:",
-          "options": [
-            "Medical care",
-            "Disability income",
-            "Vocational rehabilitation",
-            "Retirement benefits"
-          ],
-          "correctAnswer": "Retirement benefits"
-        },
-        {
-          "id": "q348",
-          "text": "Under Social Security presumptive disability, once a qualifying impairment is medically verified, further examinations are:",
-          "options": [
-            "Required monthly",
-            "Required annually",
-            "Not required",
-            "Required upon request"
-          ],
-          "correctAnswer": "Not required"
-        },
-        {
-          "id": "q349",
-          "text": "To be covered by Social Security disability benefits, a disability must be:",
-          "options": [
-            "Expected to be fatal or last at least 12 months",
-            "Only work-related",
-            "Temporary and lasting under 6 months",
-            "Only non-work-related"
-          ],
-          "correctAnswer": "Expected to be fatal or last at least 12 months"
-        },
-        {
-          "id": "q350",
-          "text": "An agent's obligation to act in an insurance applicant's or insured's best interest based on the trust placed by the public is known as:",
-          "options": [
-            "Binding authority",
-            "Fiduciary duty",
-            "Adhesion",
-            "Estoppel"
-          ],
-          "correctAnswer": "Fiduciary duty"
-        },
-        {
-          "id": "q351",
-          "text": "Under the uniform policy provisions, a policyholder must notify the insurer of a claim within how many days?",
-          "options": [
-            "10 days",
-            "20 days",
-            "30 days",
-            "60 days"
-          ],
-          "correctAnswer": "20 days"
-        },
-        {
-          "id": "q352",
-          "text": "Under the uniform policy provisions, a policyholder must file proof of loss within how many days after a loss?",
-          "options": [
-            "30 days",
-            "60 days",
-            "90 days",
-            "120 days"
-          ],
-          "correctAnswer": "90 days"
-        },
-        {
-          "id": "q353",
-          "text": "When a party appears to have given up a right by act or inaction relied upon by another party, preventing assertion of that right is known as:",
-          "options": [
-            "Adhesion",
-            "Estoppel",
-            "Subrogation",
-            "Indemnity"
-          ],
-          "correctAnswer": "Estoppel"
-        },
-        {
-          "id": "q354",
-          "text": "Under the Time Payment of Claims provision in a health policy, benefits other than those paid in periodic installments must be paid:",
-          "options": [
-            "Within 10 days of loss",
-            "Within 20 days of loss",
-            "Immediately upon receipt of proof of loss",
-            "At policy anniversary"
-          ],
-          "correctAnswer": "Immediately upon receipt of proof of loss"
-        },
-        {
-          "id": "q355",
-          "text": "If a health insurance policy lapses for nonpayment and does not require an application for reinstatement, the policy will be reinstated:",
-          "options": [
-            "After 10 days",
-            "Upon acceptance of overdue premium by the insurer",
-            "After providing proof of insurability",
-            "Immediately without payment"
-          ],
-          "correctAnswer": "Upon acceptance of overdue premium by the insurer"
-        },
-        {
-          "id": "q356",
-          "text": "After reinstatement of a lapsed health policy, coverage for sickness begins:",
-          "options": [
-            "Immediately",
-            "After 5 days",
-            "After 10 days",
-            "After 30 days"
-          ],
-          "correctAnswer": "After 10 days"
-        },
-        {
-          "id": "q357",
-          "text": "What is a 403(b) plan?",
-          "options": [
-            "A retirement savings plan for employees of public schools and tax-exempt organizations",
-            "An education loan program",
-            "A private investment account",
-            "A group disability plan"
-          ],
-          "correctAnswer": "A retirement savings plan for employees of public schools and tax-exempt organizations"
-        },
-        {
-          "id": "q358",
-          "text": "Which type of annuity guarantees a minimum interest rate but can earn extra interest linked to a market index?",
-          "options": [
-            "Variable annuity",
-            "Fixed annuity",
-            "Equity indexed annuity",
-            "Immediate annuity"
-          ],
-          "correctAnswer": "Equity indexed annuity"
-        },
-        {
-          "id": "q359",
-          "text": "Which of the following is a characteristic of fixed annuities?",
-          "options": [
-            "Interest resets based on market performance",
-            "Insurer declares the interest rate in advance and takes on investment risk",
-            "Contract owner directs investment choices",
-            "Premium contributions are flexible"
-          ],
-          "correctAnswer": "Insurer declares the interest rate in advance and takes on investment risk"
-        },
-        {
-          "id": "q360",
-          "text": "Which of the following did the Affordable Care Act eliminate for essential health benefits?",
-          "options": [
-            "Annual and lifetime dollar limits",
-            "Preauthorization requirements",
-            "Provider networks",
-            "Premium subsidies"
-          ],
-          "correctAnswer": "Annual and lifetime dollar limits"
-        },
-        {
-          "id": "q361",
-          "text": "Medicaid is financed primarily through:",
-          "options": [
-            "Employer payroll taxes",
-            "Individual premium contributions",
-            "Federal and state general revenues",
-            "County property taxes"
-          ],
-          "correctAnswer": "Federal and state general revenues"
-        },
-        {
-          "id": "q362",
-          "text": "Medicare Part A is commonly referred to as the:",
-          "options": [
-            "Hospital Insurance",
-            "Physician Services Plan",
-            "Prescription Drug Plan",
-            "Supplementary Medical Insurance"
-          ],
-          "correctAnswer": "Hospital Insurance"
-        },
-        {
-          "id": "q363",
-          "text": "California's state-based ACA marketplace is known as:",
-          "options": [
-            "HealthCare.gov",
-            "Covered California",
-            "Federal Facilitated Marketplace",
-            "Small Business Health Options Program"
-          ],
-          "correctAnswer": "Covered California"
-        },
-        {
-          "id": "q364",
-          "text": "Dual-eligible individuals are those who qualify for benefits under:",
-          "options": [
-            "Medicare only",
-            "Medicaid only",
-            "Both Medicare and Medicaid",
-            "Affordable Care Act subsidies"
-          ],
-          "correctAnswer": "Both Medicare and Medicaid"
-        },
-        {
-          "id": "q365",
-          "text": "Under the ACA's Medicaid expansion, states:",
-          "options": [
-            "Must expand Medicaid to 138% FPL",
-            "May choose whether to expand Medicaid",
-            "Are required to expand only for adults",
-            "Cannot expand Medicaid"
-          ],
-          "correctAnswer": "May choose whether to expand Medicaid"
-        }
-      ]
-      
+  {
+    "id": "q207",
+    "text": "Under the Affordable Care Act, an Applicable Large Employer (ALE) is defined as having at least how many full-time employees (including full-time equivalents)?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "correctAnswer": "50",
+    "state": "Gen"
+  },
+  {
+    "id": "q208",
+    "text": "Under the ACA employer mandate, an ALE that fails to offer minimum essential coverage to its full-time employees faces a penalty of:",
+    "options": [
+      "$50 per employee",
+      "$2,000 per full-time employee annually",
+      "$3,000 per full-time employee annually",
+      "$4,000 per full-time employee annually"
+    ],
+    "correctAnswer": "$2,000 per full-time employee annually",
+    "state": "Gen"
+  },
+  {
+    "id": "q209",
+    "text": "Individuals with incomes between 100% and 400% of the Federal Poverty Level may qualify for which ACA provision?",
+    "options": [
+      "Cost-sharing reductions only",
+      "Premium tax credits only",
+      "Premium tax credits and cost-sharing reductions",
+      "None of the above"
+    ],
+    "correctAnswer": "Premium tax credits only",
+    "state": "Gen"
+  },
+  {
+    "id": "q210",
+    "text": "Which of the following is NOT considered Minimum Essential Coverage under the ACA?",
+    "options": [
+      "Employer-sponsored group health plan",
+      "Grandfathered individual health plan",
+      "Vision-only standalone plan",
+      "Medicaid"
+    ],
+    "correctAnswer": "Vision-only standalone plan",
+    "state": "Gen"
+  },
+  {
+    "id": "q211",
+    "text": "The federal individual mandate penalty for not maintaining MEC was eliminated beginning in which year?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctAnswer": "2019",
+    "state": "Gen"
+  },
+  {
+    "id": "q212",
+    "text": "Which of the following is one of the 10 Essential Health Benefits required under the ACA?",
+    "options": [
+      "Cosmetic surgery",
+      "Maternity and newborn care",
+      "Routine adult vision",
+      "Long-term care"
+    ],
+    "correctAnswer": "Maternity and newborn care",
+    "state": "Gen"
+  },
+  {
+    "id": "q213",
+    "text": "Under the ACA medical loss ratio rules, large group health plans must spend at least what percentage of premium dollars on clinical services and quality improvement?",
+    "options": [
+      "70%",
+      "75%",
+      "80%",
+      "85%"
+    ],
+    "correctAnswer": "85%",
+    "state": "Gen"
+  },
+  {
+    "id": "q214",
+    "text": "In the ACA's metal-level categories, which plan has an actuarial value of approximately 80%?",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Platinum"
+    ],
+    "correctAnswer": "Gold",
+    "state": "Gen"
+  },
+  {
+    "id": "q215",
+    "text": "Which ACA metal-level plan has the lowest actuarial value?",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Platinum"
+    ],
+    "correctAnswer": "Bronze",
+    "state": "Gen"
+  },
+  {
+    "id": "q216",
+    "text": "Which of the following is NOT a standard ACA metal-level tier?",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Diamond",
+      "Platinum"
+    ],
+    "correctAnswer": "Diamond",
+    "state": "Gen"
+  },
+  {
+    "id": "q217",
+    "text": "Cost-sharing reductions under the ACA are available only to enrollees in which metal tier?",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Platinum"
+    ],
+    "correctAnswer": "Silver",
+    "state": "Gen"
+  },
+  {
+    "id": "q218",
+    "text": "Which of the following is a recognized hardship exemption under the ACA?",
+    "options": [
+      "Long-term incarceration",
+      "Religious conscience objection",
+      "Homelessness",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "state": "Gen"
+  },
+  {
+    "id": "q219",
+    "text": "The ACA risk corridor program was designed primarily to:",
+    "options": [
+      "Increase consumer premiums",
+      "Limit net losses for insurers",
+      "Penalize low-cost plans",
+      "Expand Medicaid eligibility"
+    ],
+    "correctAnswer": "Limit net losses for insurers",
+    "state": "Gen"
+  },
+  {
+    "id": "q220",
+    "text": "Reinsurance fees paid by issuers under the ACA fund payments to stabilize which market?",
+    "options": [
+      "Small group market",
+      "Large group market",
+      "Individual market",
+      "Medicaid managed care"
+    ],
+    "correctAnswer": "Individual market",
+    "state": "Gen"
+  },
+  {
+    "id": "q221",
+    "text": "Under ACA risk adjustment, payments are transferred to promote:",
+    "options": [
+      "Guaranteed issue",
+      "Community rating",
+      "Market stability",
+      "Essential health benefits"
+    ],
+    "correctAnswer": "Market stability",
+    "state": "Gen"
+  },
+  {
+    "id": "q222",
+    "text": "What does SHOP stand for in the ACA context?",
+    "options": [
+      "State Health Options Program",
+      "Small Health Options Program",
+      "Small Business Health Options Program",
+      "Self Health Options Program"
+    ],
+    "correctAnswer": "Small Business Health Options Program",
+    "state": "Gen"
+  },
+  {
+    "id": "q223",
+    "text": "Which ACA program provides a marketplace specifically for employers with 1–50 employees?",
+    "options": [
+      "FFM",
+      "SHOP",
+      "Medicare Advantage",
+      "COBRA"
+    ],
+    "correctAnswer": "SHOP",
+    "state": "Gen"
+  },
+  {
+    "id": "q224",
+    "text": "ACA rules prohibit insurers from rescinding coverage except in cases of:",
+    "options": [
+      "Premium non-payment",
+      "Fraud or material misrepresentation",
+      "HIPAA violation",
+      "Rate increases"
+    ],
+    "correctAnswer": "Fraud or material misrepresentation",
+    "state": "Gen"
+  },
+  {
+    "id": "q225",
+    "text": "A grandfathered health plan under the ACA is one that was purchased before March 23, 2010 and:",
+    "options": [
+      "Has been significantly changed",
+      "Has never changed any benefits or cost-sharing",
+      "Was sold only to small groups",
+      "Is only dental and vision"
+    ],
+    "correctAnswer": "Has never changed any benefits or cost-sharing",
+    "state": "Gen"
+  },
+  {
+    "id": "q226",
+    "text": "Which change will cause a group plan to lose its grandfathered status?",
+    "options": [
+      "Adding a wellness program",
+      "Decreasing deductibles",
+      "Increasing coinsurance by more than 15%",
+      "Lowering employee contributions"
+    ],
+    "correctAnswer": "Increasing coinsurance by more than 15%",
+    "state": "Gen"
+  },
+  {
+    "id": "q227",
+    "text": "ACA-mandated preventive services must be covered without cost-sharing when provided by:",
+    "options": [
+      "Any licensed provider",
+      "In-network providers",
+      "Out-of-network providers",
+      "Urgent care centers"
+    ],
+    "correctAnswer": "In-network providers",
+    "state": "Gen"
+  },
+  {
+    "id": "q228",
+    "text": "Free preventive services under the ACA include:",
+    "options": [
+      "Colonoscopy for ages 50+",
+      "Annual mammogram",
+      "Adult immunizations",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "state": "Gen"
+  },
+  {
+    "id": "q229",
+    "text": "A Qualified Health Plan in the ACA Exchange is required to offer at least how many Bronze-level plans?",
+    "options": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctAnswer": "One",
+    "state": "Gen"
+  },
+  {
+    "id": "q230",
+    "text": "Which is one of the 10 Essential Health Benefit categories under the ACA?",
+    "options": [
+      "Experimental treatments",
+      "Chiropractic care",
+      "Mental health services",
+      "Vision only"
+    ],
+    "correctAnswer": "Mental health services",
+    "state": "Gen"
+  },
+  {
+    "id": "q231",
+    "text": "The requirement that insurers must accept all applicants regardless of health status is known as:",
+    "options": [
+      "Community rating",
+      "Guaranteed issue",
+      "Experience rating",
+      "Selective underwriting"
+    ],
+    "correctAnswer": "Guaranteed issue",
+    "state": "Gen"
+  },
+  {
+    "id": "q232",
+    "text": "Under ACA community rating rules, premium variations are allowed based on:",
+    "options": [
+      "Age, tobacco use, and geography",
+      "Medical history",
+      "Gender",
+      "Claims experience"
+    ],
+    "correctAnswer": "Age, tobacco use, and geography",
+    "state": "Gen"
+  },
+  {
+    "id": "q233",
+    "text": "ACA community rating prohibits varying premiums based on:",
+    "options": [
+      "Age",
+      "Tobacco use",
+      "Gender",
+      "Geography"
+    ],
+    "correctAnswer": "Gender",
+    "state": "Gen"
+  },
+  {
+    "id": "q234",
+    "text": "The ACA medical loss ratio requirement for the individual market is:",
+    "options": [
+      "70%",
+      "75%",
+      "80%",
+      "85%"
+    ],
+    "correctAnswer": "80%",
+    "state": "Gen"
+  },
+  {
+    "id": "q235",
+    "text": "The ACA medical loss ratio requirement for the large group market is:",
+    "options": [
+      "75%",
+      "80%",
+      "85%",
+      "90%"
+    ],
+    "correctAnswer": "85%",
+    "state": "Gen"
+  },
+  {
+    "id": "q236",
+    "text": "What does FFM stand for in the context of the ACA?",
+    "options": [
+      "Federally Facilitated Marketplace",
+      "Federal Financial Mechanism",
+      "Family Friendly Marketplace",
+      "Flexible Funding Model"
+    ],
+    "correctAnswer": "Federally Facilitated Marketplace",
+    "state": "Gen"
+  },
+  {
+    "id": "q237",
+    "text": "Medicare Part A covers inpatient hospital care, skilled nursing facility care, hospice care, and which additional service?",
+    "options": [
+      "Prescription drugs",
+      "Durable medical equipment",
+      "Home health care",
+      "Physician services"
+    ],
+    "correctAnswer": "Home health care",
+    "state": "Gen"
+  },
+  {
+    "id": "q238",
+    "text": "Medicare Part B covers physician services, outpatient care, and which of the following?",
+    "options": [
+      "Prescription drugs",
+      "Preventive services",
+      "Long-term care",
+      "Vision care"
+    ],
+    "correctAnswer": "Preventive services",
+    "state": "Gen"
+  },
+  {
+    "id": "q239",
+    "text": "Medicare Part C is also known as:",
+    "options": [
+      "Medigap",
+      "Medicare Supplemental",
+      "Medicare Advantage",
+      "Medicare Select"
+    ],
+    "correctAnswer": "Medicare Advantage",
+    "state": "Gen"
+  },
+  {
+    "id": "q240",
+    "text": "Medicare Part D primarily provides coverage for:",
+    "options": [
+      "Inpatient hospital services",
+      "Physician services",
+      "Prescription drugs",
+      "Home health services"
+    ],
+    "correctAnswer": "Prescription drugs",
+    "state": "Gen"
+  },
+  {
+    "id": "q241",
+    "text": "Which service is NOT covered under Medicare Part A?",
+    "options": [
+      "Inpatient hospital stay",
+      "Skilled nursing facility care",
+      "Hospice care",
+      "Outpatient surgery"
+    ],
+    "correctAnswer": "Outpatient surgery",
+    "state": "Gen"
+  },
+  {
+    "id": "q242",
+    "text": "Which service is NOT covered under Medicare Part B?",
+    "options": [
+      "Physician visits",
+      "Durable medical equipment",
+      "Outpatient prescription drugs (oral)",
+      "Inpatient hospital stays"
+    ],
+    "correctAnswer": "Inpatient hospital stays",
+    "state": "Gen"
+  },
+  {
+    "id": "q243",
+    "text": "The Medicare Part A inpatient hospital deductible applies per:",
+    "options": [
+      "Calendar year",
+      "Benefit period",
+      "Lifetime",
+      "Per admission"
+    ],
+    "correctAnswer": "Benefit period",
+    "state": "Gen"
+  },
+  {
+    "id": "q244",
+    "text": "After the Part B deductible, Medicare Part B generally pays what percentage of approved charges?",
+    "options": [
+      "50%",
+      "80%",
+      "100%",
+      "20%"
+    ],
+    "correctAnswer": "80%",
+    "state": "Gen"
+  },
+  {
+    "id": "q245",
+    "text": "For days 1–60 of an inpatient hospital stay under Medicare Part A, the beneficiary is responsible for:",
+    "options": [
+      "Deductible only",
+      "Coinsurance only",
+      "Deductible plus coinsurance",
+      "Nothing"
+    ],
+    "correctAnswer": "Deductible only",
+    "state": "Gen"
+  },
+  {
+    "id": "q246",
+    "text": "Medicare Part A covers the first how many days of skilled nursing facility care without coinsurance?",
+    "options": [
+      "10 days",
+      "20 days",
+      "30 days",
+      "40 days"
+    ],
+    "correctAnswer": "20 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q247",
+    "text": "For days 21–100 of skilled nursing facility care, Medicare Part A requires:",
+    "options": [
+      "No coinsurance",
+      "Daily coinsurance payment",
+      "Prior authorization",
+      "50% coinsurance"
+    ],
+    "correctAnswer": "Daily coinsurance payment",
+    "state": "Gen"
+  },
+  {
+    "id": "q248",
+    "text": "Medicare Part B premiums are:",
+    "options": [
+      "Standard for all beneficiaries",
+      "Income-related",
+      "Age-rated",
+      "Region-specific"
+    ],
+    "correctAnswer": "Income-related",
+    "state": "Gen"
+  },
+  {
+    "id": "q249",
+    "text": "The standard Initial Enrollment Period for Medicare Part B lasts:",
+    "options": [
+      "3 months before to 3 months after turning 65",
+      "6 months after turning 65",
+      "1 year after turning 65",
+      "Until retiring"
+    ],
+    "correctAnswer": "3 months before to 3 months after turning 65",
+    "state": "Gen"
+  },
+  {
+    "id": "q250",
+    "text": "If you delay enrolling in Medicare Part B beyond your Initial Enrollment Period, you incur a late-enrollment penalty of:",
+    "options": [
+      "5% per year late",
+      "10% per year late",
+      "2% per year late",
+      "No penalty"
+    ],
+    "correctAnswer": "10% per year late",
+    "state": "Gen"
+  },
+  {
+    "id": "q251",
+    "text": "A Medigap policy is designed to:",
+    "options": [
+      "Replace Medicare",
+      "Cover gaps in Parts A and B",
+      "Provide prescription drug coverage",
+      "Offer long-term care benefits"
+    ],
+    "correctAnswer": "Cover gaps in Parts A and B",
+    "state": "Gen"
+  },
+  {
+    "id": "q252",
+    "text": "During Medigap open enrollment, insurers may NOT charge higher premiums based on:",
+    "options": [
+      "Age",
+      "Gender",
+      "Health status",
+      "Tobacco use"
+    ],
+    "correctAnswer": "Health status",
+    "state": "Gen"
+  },
+  {
+    "id": "q253",
+    "text": "Which Medigap plan is no longer available to new Medicare beneficiaries as of 2020?",
+    "options": [
+      "Plan A",
+      "Plan C",
+      "Plan F",
+      "Plan G"
+    ],
+    "correctAnswer": "Plan F",
+    "state": "Gen"
+  },
+  {
+    "id": "q254",
+    "text": "Durable medical equipment under Medicare is covered by which part?",
+    "options": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ],
+    "correctAnswer": "Part B",
+    "state": "Gen"
+  },
+  {
+    "id": "q255",
+    "text": "Medicare Advantage (Part C) plans may offer which of the following additional benefits?",
+    "options": [
+      "Vision, dental, and hearing",
+      "Prescription drugs",
+      "Fitness memberships",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "state": "Gen"
+  },
+  {
+    "id": "q256",
+    "text": "Medicare Part D prescription drug coverage is provided through:",
+    "options": [
+      "Traditional Medicare",
+      "Private plans approved by Medicare",
+      "Medicaid",
+      "Veterans Affairs"
+    ],
+    "correctAnswer": "Private plans approved by Medicare",
+    "state": "Gen"
+  },
+  {
+    "id": "q257",
+    "text": "Under Medicare Secondary Payer rules, for employers with fewer than 20 employees, the primary payer for beneficiaries aged 65+ is:",
+    "options": [
+      "Employer group health plan",
+      "Medicare",
+      "Medicaid",
+      "COBRA"
+    ],
+    "correctAnswer": "Medicare",
+    "state": "Gen"
+  },
+  {
+    "id": "q258",
+    "text": "Which trust fund finances Medicare Part A?",
+    "options": [
+      "Hospital Insurance Trust Fund",
+      "Supplemental Medical Insurance Trust Fund",
+      "Social Security Trust Fund",
+      "General Revenue"
+    ],
+    "correctAnswer": "Hospital Insurance Trust Fund",
+    "state": "Gen"
+  },
+  {
+    "id": "q259",
+    "text": "Which trust fund finances Medicare Part B?",
+    "options": [
+      "Hospital Insurance Trust Fund",
+      "Supplemental Medical Insurance Trust Fund",
+      "Social Security Trust Fund",
+      "General Revenue"
+    ],
+    "correctAnswer": "Supplemental Medical Insurance Trust Fund",
+    "state": "Gen"
+  },
+  {
+    "id": "q260",
+    "text": "Most beneficiaries owe no premium for Medicare Part A if they have:",
+    "options": [
+      "40 quarters of Medicare-covered employment",
+      "A household income below 250% FPL",
+      "No other creditable coverage",
+      "Enrolled in Part C"
+    ],
+    "correctAnswer": "40 quarters of Medicare-covered employment",
+    "state": "Gen"
+  },
+  {
+    "id": "q261",
+    "text": "The Medicare Part B deductible applies per:",
+    "options": [
+      "Benefit period",
+      "Calendar year",
+      "Lifetime",
+      "Per claim"
+    ],
+    "correctAnswer": "Calendar year",
+    "state": "Gen"
+  },
+  {
+    "id": "q262",
+    "text": "Under the ACA, insurers may not impose waiting periods for coverage of pre-existing conditions exceeding:",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "90 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q263",
+    "text": "The ACA requirement for employers to automatically enroll new full-time employees in coverage is known as:",
+    "options": [
+      "Auto-enrollment",
+      "Employer Shared Responsibility",
+      "Individual Mandate",
+      "Employer Mandate"
+    ],
+    "correctAnswer": "Auto-enrollment",
+    "state": "Gen"
+  },
+  {
+    "id": "q264",
+    "text": "The \"family glitch\" under the ACA refers to:",
+    "options": [
+      "Affordability measured only on self-only coverage making family coverage unaffordable",
+      "Error in calculating household income",
+      "Premium tax credit miscalculation",
+      "Coverage gap for dependents"
+    ],
+    "correctAnswer": "Affordability measured only on self-only coverage making family coverage unaffordable",
+    "state": "Gen"
+  },
+  {
+    "id": "q265",
+    "text": "Affordability of employer-sponsored coverage under the ACA is determined by comparing the employee's required contribution for self-only coverage to:",
+    "options": [
+      "Household income",
+      "Employee's wages only",
+      "Federal Poverty Level",
+      "State median income"
+    ],
+    "correctAnswer": "Household income",
+    "state": "Gen"
+  },
+  {
+    "id": "q266",
+    "text": "Form 1095-C provided by employers serves as proof of:",
+    "options": [
+      "Minimum Essential Coverage",
+      "Full-time employment status",
+      "Premium tax credit eligibility",
+      "Health savings account contributions"
+    ],
+    "correctAnswer": "Minimum Essential Coverage",
+    "state": "Gen"
+  },
+  {
+    "id": "q267",
+    "text": "An ACA Explanation of Benefits (EOB) must include:",
+    "options": [
+      "Amount allowed, amount paid, and amount owed by enrollee",
+      "Premium due",
+      "Out-of-network charges only",
+      "Applied deductible only"
+    ],
+    "correctAnswer": "Amount allowed, amount paid, and amount owed by enrollee",
+    "state": "Gen"
+  },
+  {
+    "id": "q268",
+    "text": "Lawfully present immigrants are eligible for premium tax credits and cost-sharing reductions:",
+    "options": [
+      "Immediately upon enrollment",
+      "After 5 years of residency",
+      "Only if refugee status",
+      "Not eligible"
+    ],
+    "correctAnswer": "Immediately upon enrollment",
+    "state": "Gen"
+  },
+  {
+    "id": "q269",
+    "text": "Which option does NOT qualify as Minimum Essential Coverage under the ACA?",
+    "options": [
+      "Student health plan",
+      "COBRA continuation coverage",
+      "Vision-only standalone plan",
+      "Medicaid"
+    ],
+    "correctAnswer": "Vision-only standalone plan",
+    "state": "Gen"
+  },
+  {
+    "id": "q270",
+    "text": "Medicaid expansion up to what percent of FPL counts as MEC under the ACA?",
+    "options": [
+      "100%",
+      "133%",
+      "150%",
+      "200%"
+    ],
+    "correctAnswer": "133%",
+    "state": "Gen"
+  },
+  {
+    "id": "q271",
+    "text": "Which metal tier under the ACA has an actuarial value of approximately 70%?",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Platinum"
+    ],
+    "correctAnswer": "Silver",
+    "state": "Gen"
+  },
+  {
+    "id": "q272",
+    "text": "In an 80/20 coinsurance plan, the insurer pays what percentage of covered charges after the deductible?",
+    "options": [
+      "80%",
+      "70%",
+      "90%",
+      "100%"
+    ],
+    "correctAnswer": "80%",
+    "state": "Gen"
+  },
+  {
+    "id": "q273",
+    "text": "In an 80/20 coinsurance plan, the insured is responsible for what percentage of covered charges after the deductible?",
+    "options": [
+      "20%",
+      "30%",
+      "10%",
+      "40%"
+    ],
+    "correctAnswer": "20%",
+    "state": "Gen"
+  },
+  {
+    "id": "q274",
+    "text": "Under Medicare Secondary Payer rules, for employers with 20 or more employees, the primary payer for beneficiaries aged 65+ is:",
+    "options": [
+      "Employer group health plan",
+      "Medicare",
+      "Medicaid",
+      "COBRA"
+    ],
+    "correctAnswer": "Employer group health plan",
+    "state": "Gen"
+  },
+  {
+    "id": "q275",
+    "text": "Medicare Part A covers skilled nursing facility care only if provided within how many days of a qualifying hospital stay?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q276",
+    "text": "Medigap Plan C covers which of the following Medicare cost-sharing items?",
+    "options": [
+      "Part A coinsurance",
+      "Part B deductible",
+      "Part D premium",
+      "Part B coinsurance"
+    ],
+    "correctAnswer": "Part B deductible",
+    "state": "Gen"
+  },
+  {
+    "id": "q277",
+    "text": "The Medigap open enrollment period lasts:",
+    "options": [
+      "3 months before to 3 months after Part B eligibility",
+      "6 months beginning on Part B effective date",
+      "1 year from age 65",
+      "Until first premium payment"
+    ],
+    "correctAnswer": "6 months beginning on Part B effective date",
+    "state": "Gen"
+  },
+  {
+    "id": "q278",
+    "text": "To qualify for Medicare Part A skilled nursing facility benefits, a beneficiary must first have:",
+    "options": [
+      "A 30-day hospital stay",
+      "A 3-day inpatient hospital stay",
+      "A doctor's prescription only",
+      "Enrollment in Part B"
+    ],
+    "correctAnswer": "A 3-day inpatient hospital stay",
+    "state": "Gen"
+  },
+  {
+    "id": "q279",
+    "text": "Medicare Advantage plans are required to cover all benefits under which parts of traditional Medicare?",
+    "options": [
+      "Parts A and B",
+      "Parts B and D",
+      "Parts C and D",
+      "Part A only"
+    ],
+    "correctAnswer": "Parts A and B",
+    "state": "Gen"
+  },
+  {
+    "id": "q280",
+    "text": "After reaching the initial coverage limit in Medicare Part D, beneficiaries enter the coverage gap until their out-of-pocket spending reaches the:",
+    "options": [
+      "Initial deductible",
+      "Catastrophic coverage threshold",
+      "Part B premium amount",
+      "Annual out-of-pocket maximum"
+    ],
+    "correctAnswer": "Catastrophic coverage threshold",
+    "state": "Gen"
+  },
+  {
+    "id": "q281",
+    "text": "Once catastrophic coverage begins in Medicare Part D, beneficiaries generally pay what percentage of drug costs?",
+    "options": [
+      "5%",
+      "10%",
+      "20%",
+      "0%"
+    ],
+    "correctAnswer": "5%",
+    "state": "Gen"
+  },
+  {
+    "id": "q282",
+    "text": "Medicare provides how many lifetime reserve days for inpatient hospital stays?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "100"
+    ],
+    "correctAnswer": "60",
+    "state": "Gen"
+  },
+  {
+    "id": "q283",
+    "text": "For days 61–90 of a Medicare Part A inpatient hospital stay, the beneficiary owes:",
+    "options": [
+      "No coinsurance after deductible",
+      "A daily fixed coinsurance amount",
+      "20% of charges",
+      "50% of charges"
+    ],
+    "correctAnswer": "A daily fixed coinsurance amount",
+    "state": "Gen"
+  },
+  {
+    "id": "q284",
+    "text": "Under Section 4980H(b) of the ACA, the employer Shared Responsibility penalty is triggered when an ALE fails to offer MEC to at least 95% of full-time employees and at least one full-time employee receives a premium tax credit.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": "True",
+    "state": "Gen"
+  },
+  {
+    "id": "q285",
+    "text": "Cost-sharing reduction benefits under the ACA are available only in which metal level?",
+    "options": [
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Platinum"
+    ],
+    "correctAnswer": "Silver",
+    "state": "Gen"
+  },
+  {
+    "id": "q286",
+    "text": "In a 70/30 coinsurance health plan, the insurer pays what percentage of covered expenses after the deductible?",
+    "options": [
+      "60%",
+      "70%",
+      "80%",
+      "90%"
+    ],
+    "correctAnswer": "70%",
+    "state": "Gen"
+  },
+  {
+    "id": "q287",
+    "text": "Which type of risk involves the possibility of gain as well as loss?",
+    "options": [
+      "Pure risk",
+      "Speculative risk",
+      "Static risk",
+      "Dynamic risk"
+    ],
+    "correctAnswer": "Speculative risk",
+    "state": "Gen"
+  },
+  {
+    "id": "q288",
+    "text": "A situation where more frequent or more serious losses are caused by the insured's intentional behavior is called:",
+    "options": [
+      "Moral hazard",
+      "Morale hazard",
+      "Physical hazard",
+      "Attitudinal hazard"
+    ],
+    "correctAnswer": "Moral hazard",
+    "state": "Gen"
+  },
+  {
+    "id": "q289",
+    "text": "Risks that arise from changing social or economic conditions, such as inflation, are known as:",
+    "options": [
+      "Pure risk",
+      "Speculative risk",
+      "Static risk",
+      "Dynamic risk"
+    ],
+    "correctAnswer": "Dynamic risk",
+    "state": "Gen"
+  },
+  {
+    "id": "q290",
+    "text": "Which risk management technique involves shifting risk to another party?",
+    "options": [
+      "Risk retention",
+      "Risk avoidance",
+      "Risk transfer",
+      "Risk reduction"
+    ],
+    "correctAnswer": "Risk transfer",
+    "state": "Gen"
+  },
+  {
+    "id": "q291",
+    "text": "The variation of actual loss from expected loss is defined as:",
+    "options": [
+      "Subjective risk",
+      "Objective risk",
+      "Hazard risk",
+      "Exposure risk"
+    ],
+    "correctAnswer": "Objective risk",
+    "state": "Gen"
+  },
+  {
+    "id": "q292",
+    "text": "Which risk management technique involves eliminating exposure to a particular risk?",
+    "options": [
+      "Risk transfer",
+      "Risk avoidance",
+      "Risk retention",
+      "Risk reduction"
+    ],
+    "correctAnswer": "Risk avoidance",
+    "state": "Gen"
+  },
+  {
+    "id": "q293",
+    "text": "Implementing safety measures to reduce the frequency or severity of losses is an example of:",
+    "options": [
+      "Risk retention",
+      "Risk reduction",
+      "Risk transfer",
+      "Risk avoidance"
+    ],
+    "correctAnswer": "Risk reduction",
+    "state": "Gen"
+  },
+  {
+    "id": "q294",
+    "text": "A \"hazard\" in insurance is best described as:",
+    "options": [
+      "The cause of loss",
+      "The chance of loss",
+      "A plan for loss",
+      "A measure of loss"
+    ],
+    "correctAnswer": "The cause of loss",
+    "state": "Gen"
+  },
+  {
+    "id": "q295",
+    "text": "Spreading the financial consequences of loss among a large number of individuals is called:",
+    "options": [
+      "Risk retention",
+      "Risk transfer",
+      "Risk pooling",
+      "Risk avoidance"
+    ],
+    "correctAnswer": "Risk pooling",
+    "state": "Gen"
+  },
+  {
+    "id": "q296",
+    "text": "Which risk financing method involves an insurer indemnifying an insured for loss in exchange for a premium?",
+    "options": [
+      "Risk retention",
+      "Risk reduction",
+      "Insurance",
+      "Risk avoidance"
+    ],
+    "correctAnswer": "Insurance",
+    "state": "Gen"
+  },
+  {
+    "id": "q297",
+    "text": "Outside the annual open enrollment period, an individual may qualify for a Special Enrollment Period after which event?",
+    "options": [
+      "Marriage",
+      "Power of attorney assignment",
+      "Changing healthcare provider",
+      "Holiday travel"
+    ],
+    "correctAnswer": "Marriage",
+    "state": "Gen"
+  },
+  {
+    "id": "q298",
+    "text": "Which of the following life events does NOT typically trigger a Special Enrollment Period?",
+    "options": [
+      "Birth of a child",
+      "Legal separation",
+      "Purchase of a pet",
+      "Adoption"
+    ],
+    "correctAnswer": "Purchase of a pet",
+    "state": "Gen"
+  },
+  {
+    "id": "q299",
+    "text": "After losing employer-sponsored coverage, an individual usually has how many days to enroll in a new plan under ACA's Special Enrollment Period?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "60 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q300",
+    "text": "Moving to a new ZIP code is a qualifying event for a Special Enrollment Period if the new location:",
+    "options": [
+      "Offers the same plan only",
+      "Has different plan options",
+      "Is within the same county",
+      "Is internationally abroad"
+    ],
+    "correctAnswer": "Has different plan options",
+    "state": "Gen"
+  },
+  {
+    "id": "q301",
+    "text": "Under HIPAA special enrollment rules for group plans, an employee has how many days after a qualifying event to enroll?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q302",
+    "text": "If no qualifying event has occurred since open enrollment, when can an individual next change plans?",
+    "options": [
+      "During the next annual open enrollment",
+      "After 6 months",
+      "After 3 months",
+      "Any time"
+    ],
+    "correctAnswer": "During the next annual open enrollment",
+    "state": "Gen"
+  },
+  {
+    "id": "q303",
+    "text": "Which event allows an adult child to enroll in a parent's plan outside open enrollment?",
+    "options": [
+      "Turning 19 or losing student status",
+      "Turning 26",
+      "Moving to a new state",
+      "Getting married"
+    ],
+    "correctAnswer": "Turning 26",
+    "state": "Gen"
+  },
+  {
+    "id": "q304",
+    "text": "Full Retirement Age for Social Security benefits for someone born in 1960 or later is:",
+    "options": [
+      "66",
+      "66 and 8 months",
+      "67",
+      "67 and 4 months"
+    ],
+    "correctAnswer": "67",
+    "state": "Gen"
+  },
+  {
+    "id": "q305",
+    "text": "If an individual claims Social Security retirement at age 62, their benefit is reduced by approximately what percentage?",
+    "options": [
+      "5%",
+      "20%",
+      "30%",
+      "25%"
+    ],
+    "correctAnswer": "30%",
+    "state": "Gen"
+  },
+  {
+    "id": "q306",
+    "text": "For each year retirement benefits are delayed past full retirement age up to age 70, Social Security increases benefits by:",
+    "options": [
+      "2% per year",
+      "4% per year",
+      "8% per year",
+      "10% per year"
+    ],
+    "correctAnswer": "8% per year",
+    "state": "Gen"
+  },
+  {
+    "id": "q307",
+    "text": "A spouse filing for Social Security spousal benefits at full retirement age can receive up to what percentage of the worker's PIA?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctAnswer": "50%",
+    "state": "Gen"
+  },
+  {
+    "id": "q308",
+    "text": "A surviving spouse can begin receiving survivors benefits as early as age:",
+    "options": [
+      "60",
+      "62",
+      "65",
+      "67"
+    ],
+    "correctAnswer": "60",
+    "state": "Gen"
+  },
+  {
+    "id": "q309",
+    "text": "Social Security cost-of-living adjustments (COLA) are based on changes in the:",
+    "options": [
+      "Consumer Price Index for Urban Wage Earners (CPI-W)",
+      "GDP",
+      "Producer Price Index",
+      "Unemployment rate"
+    ],
+    "correctAnswer": "Consumer Price Index for Urban Wage Earners (CPI-W)",
+    "state": "Gen"
+  },
+  {
+    "id": "q310",
+    "text": "If an individual is receiving Social Security at least how many months before turning 65 will Medicare Part B enrollment be automatic?",
+    "options": [
+      "4 months",
+      "2 months",
+      "6 months",
+      "1 month"
+    ],
+    "correctAnswer": "4 months",
+    "state": "Gen"
+  },
+  {
+    "id": "q311",
+    "text": "Dual-eligible individuals qualify for both Medicare and Medicaid based primarily on:",
+    "options": [
+      "Age over 65",
+      "Low income and resources",
+      "Chronic illness",
+      "Employment status"
+    ],
+    "correctAnswer": "Low income and resources",
+    "state": "Gen"
+  },
+  {
+    "id": "q312",
+    "text": "What is the principle of indemnity in insurance?",
+    "options": [
+      "To restore the insured to the same financial position after loss",
+      "To allow the insured to profit from a claim",
+      "To guarantee no loss will occur",
+      "To penalize risky behavior"
+    ],
+    "correctAnswer": "To restore the insured to the same financial position after loss",
+    "state": "Gen"
+  },
+  {
+    "id": "q313",
+    "text": "An insurance binder is:",
+    "options": [
+      "A temporary agreement providing coverage until a policy is issued",
+      "A permanent policy endorsement",
+      "A loan secured by the policy",
+      "A reinsurance contract"
+    ],
+    "correctAnswer": "A temporary agreement providing coverage until a policy is issued",
+    "state": "Gen"
+  },
+  {
+    "id": "q314",
+    "text": "In property insurance, insurable interest must exist at:",
+    "options": [
+      "The time of loss",
+      "The time of application only",
+      "Policy delivery",
+      "Claim payment"
+    ],
+    "correctAnswer": "The time of loss",
+    "state": "Gen"
+  },
+  {
+    "id": "q315",
+    "text": "A peril in insurance is best described as:",
+    "options": [
+      "The cause of loss",
+      "The chance of loss",
+      "A clause in the policy",
+      "A condition that increases severity"
+    ],
+    "correctAnswer": "The cause of loss",
+    "state": "Gen"
+  },
+  {
+    "id": "q316",
+    "text": "A hazard in insurance is best described as:",
+    "options": [
+      "A condition that increases the likelihood or severity of loss",
+      "The cause of loss",
+      "A contractual clause",
+      "A guarantee of no loss"
+    ],
+    "correctAnswer": "A condition that increases the likelihood or severity of loss",
+    "state": "Gen"
+  },
+  {
+    "id": "q317",
+    "text": "The principle of utmost good faith requires parties to:",
+    "options": [
+      "Disclose all material facts honestly",
+      "Share profits equally",
+      "Guarantee claim payment",
+      "Renew policies automatically"
+    ],
+    "correctAnswer": "Disclose all material facts honestly",
+    "state": "Gen"
+  },
+  {
+    "id": "q318",
+    "text": "Subrogation allows the insurer to:",
+    "options": [
+      "Assume the insured's legal right to recover from a third party",
+      "Cancel the policy without notice",
+      "Increase the insured's premium after loss",
+      "Share claims information publicly"
+    ],
+    "correctAnswer": "Assume the insured's legal right to recover from a third party",
+    "state": "Gen"
+  },
+  {
+    "id": "q319",
+    "text": "Adhesion in an insurance contract means the contract is drafted by the insurer and ambiguities are resolved in favor of the:",
+    "options": [
+      "Policyholder",
+      "Regulator",
+      "Insurer",
+      "Producer"
+    ],
+    "correctAnswer": "Policyholder",
+    "state": "Gen"
+  },
+  {
+    "id": "q320",
+    "text": "Which federal act grants states the authority to regulate insurance without federal interference?",
+    "options": [
+      "McCarran-Ferguson Act",
+      "Gramm-Leach-Bliley Act",
+      "Patient Protection and Affordable Care Act",
+      "Health Insurance Portability and Accountability Act"
+    ],
+    "correctAnswer": "McCarran-Ferguson Act",
+    "state": "Gen"
+  },
+  {
+    "id": "q321",
+    "text": "The NAIC primarily serves to:",
+    "options": [
+      "Coordinate insurance regulation among the states and develop model laws",
+      "Set federal insurance premiums",
+      "Insure bank deposits",
+      "Regulate pharmaceutical benefits"
+    ],
+    "correctAnswer": "Coordinate insurance regulation among the states and develop model laws",
+    "state": "Gen"
+  },
+  {
+    "id": "q322",
+    "text": "In California, the primary body of law governing insurer licensing and conduct is the:",
+    "options": [
+      "California Insurance Code",
+      "NAIC Model Laws",
+      "Federal Insurance Office regulations",
+      "Insurance Services Office manuals"
+    ],
+    "correctAnswer": "California Insurance Code",
+    "state": "CA"
+  },
+  {
+    "id": "q323",
+    "text": "If a health plan has a $500 deductible and 20% coinsurance, and a covered claim of $2,000 occurs, how much will the insured pay out of pocket (excluding copays)?",
+    "options": [
+      "$800",
+      "$900",
+      "$500",
+      "$300"
+    ],
+    "correctAnswer": "$800",
+    "state": "Gen"
+  },
+  {
+    "id": "q324",
+    "text": "After satisfying the deductible, coinsurance in a health plan means the insured pays:",
+    "options": [
+      "A percentage of the remaining allowed charges",
+      "A fixed copayment per service",
+      "The full remaining charge",
+      "No further cost"
+    ],
+    "correctAnswer": "A percentage of the remaining allowed charges",
+    "state": "Gen"
+  },
+  {
+    "id": "q325",
+    "text": "A copayment differs from coinsurance in that it is:",
+    "options": [
+      "A fixed dollar amount per service",
+      "A percentage of charges",
+      "The annual deductible",
+      "The policy premium"
+    ],
+    "correctAnswer": "A fixed dollar amount per service",
+    "state": "Gen"
+  },
+  {
+    "id": "q326",
+    "text": "The out-of-pocket maximum is best defined as:",
+    "options": [
+      "The most the insured will pay in a year in combined deductible, copays, and coinsurance",
+      "The total premium paid",
+      "The maximum benefit the insurer will pay",
+      "The plan's annual deductible"
+    ],
+    "correctAnswer": "The most the insured will pay in a year in combined deductible, copays, and coinsurance",
+    "state": "Gen"
+  },
+  {
+    "id": "q327",
+    "text": "Medi-Cal is the California name for which federal–state program?",
+    "options": [
+      "Medicaid",
+      "Medicare",
+      "Children's Health Insurance Program (CHIP)",
+      "TRICARE"
+    ],
+    "correctAnswer": "Medicaid",
+    "state": "CA"
+  },
+  {
+    "id": "q328",
+    "text": "Which population is NOT eligible for full-scope Medi-Cal?",
+    "options": [
+      "Undocumented adults over age 26",
+      "Low-income children",
+      "Seniors age 65 and over",
+      "Disabled individuals"
+    ],
+    "correctAnswer": "Undocumented adults over age 26",
+    "state": "CA"
+  },
+  {
+    "id": "q329",
+    "text": "Medi-Cal Share of Cost refers to:",
+    "options": [
+      "The amount an enrollee must pay monthly before Medi-Cal covers services",
+      "The maximum premium for Medi-Cal",
+      "The cap on Medi-Cal benefits",
+      "The state's share of funding"
+    ],
+    "correctAnswer": "The amount an enrollee must pay monthly before Medi-Cal covers services",
+    "state": "CA"
+  },
+  {
+    "id": "q330",
+    "text": "Medi-Cal spenddown is:",
+    "options": [
+      "A process where individuals with excess income subtract medical expenses to qualify",
+      "A temporary loss of coverage",
+      "A waiver of the share of cost",
+      "An additional premium"
+    ],
+    "correctAnswer": "A process where individuals with excess income subtract medical expenses to qualify",
+    "state": "CA"
+  },
+  {
+    "id": "q331",
+    "text": "Under Medi-Cal, which of the following is a mandatory service?",
+    "options": [
+      "Inpatient hospital care",
+      "Adult dental in all counties",
+      "Cosmetic surgery",
+      "Prescription vitamins"
+    ],
+    "correctAnswer": "Inpatient hospital care",
+    "state": "CA"
+  },
+  {
+    "id": "q332",
+    "text": "Which program provides Medi-Cal eligibility to childless adults up to 138% of the Federal Poverty Level?",
+    "options": [
+      "ACA expansion",
+      "Healthy Families Program",
+      "Children's Health Insurance Program (CHIP)",
+      "Medicare"
+    ],
+    "correctAnswer": "ACA expansion",
+    "state": "CA"
+  },
+  {
+    "id": "q333",
+    "text": "Medi-Cal Managed Care plans are required in most California counties to coordinate services through:",
+    "options": [
+      "HMO-model health plans",
+      "Indemnity plans",
+      "Employer-sponsored plans",
+      "PPO networks"
+    ],
+    "correctAnswer": "HMO-model health plans",
+    "state": "CA"
+  },
+  {
+    "id": "q334",
+    "text": "Which California department administers Medi-Cal?",
+    "options": [
+      "Department of Health Care Services (DHCS)",
+      "Department of Managed Health Care (DMHC)",
+      "Centers for Medicare & Medicaid Services (CMS)",
+      "Covered California"
+    ],
+    "correctAnswer": "Department of Health Care Services (DHCS)",
+    "state": "CA"
+  },
+  {
+    "id": "q335",
+    "text": "NAIC model laws and regulations become enforceable in a state when:",
+    "options": [
+      "They are adopted by that state's legislature",
+      "The NAIC votes to implement them nationally",
+      "CMS mandates their use",
+      "They are approved by the federal government"
+    ],
+    "correctAnswer": "They are adopted by that state's legislature",
+    "state": "Gen"
+  },
+  {
+    "id": "q336",
+    "text": "Which type of self-funded health plan alternative is characterized by predictable claim costs?",
+    "options": [
+      "Self-funded PPO",
+      "Self-funded HMO",
+      "Level-funded plan",
+      "Experience-rated plan"
+    ],
+    "correctAnswer": "Level-funded plan",
+    "state": "Gen"
+  },
+  {
+    "id": "q337",
+    "text": "Blue Cross and Blue Shield are examples of what type of healthcare service organizations?",
+    "options": [
+      "Agents for indemnity insurers",
+      "Prepaid healthcare service organizations",
+      "Reinsurance companies",
+      "Tertiary care providers"
+    ],
+    "correctAnswer": "Prepaid healthcare service organizations",
+    "state": "Gen"
+  },
+  {
+    "id": "q338",
+    "text": "For employer-paid noncontributory group health insurance, what percentage of eligible members must participate?",
+    "options": [
+      "75%",
+      "85%",
+      "100%",
+      "50%"
+    ],
+    "correctAnswer": "100%",
+    "state": "Gen"
+  },
+  {
+    "id": "q339",
+    "text": "An aleatory contract in insurance is best described as:",
+    "options": [
+      "Both parties exchange equal value upfront",
+      "Payment of premium is contingent on claims experience",
+      "An exchange of unequal values dependent on an uncertain event",
+      "A contract that must be renewed annually"
+    ],
+    "correctAnswer": "An exchange of unequal values dependent on an uncertain event",
+    "state": "Gen"
+  },
+  {
+    "id": "q340",
+    "text": "Why are many group disability insurance policies written on a non-occupational basis?",
+    "options": [
+      "Because non-occupational claims are less expensive",
+      "Because occupational injuries are provided for by workers' compensation",
+      "To avoid underwriting for dangerous occupations",
+      "Because they cover both work and non-work injuries"
+    ],
+    "correctAnswer": "Because occupational injuries are provided for by workers' compensation",
+    "state": "Gen"
+  },
+  {
+    "id": "q341",
+    "text": "In an insurance contract, what is the insurer's consideration?",
+    "options": [
+      "Payment of the premium",
+      "Promise to pay for covered losses",
+      "Issuance of a policy illustration",
+      "Assignment of a beneficiary"
+    ],
+    "correctAnswer": "Promise to pay for covered losses",
+    "state": "Gen"
+  },
+  {
+    "id": "q342",
+    "text": "What is the name of the healthcare delivery system that provides prepaid doctor and hospital care, emphasizes preventive care, and charges a fixed periodic fee?",
+    "options": [
+      "Preferred Provider Organization",
+      "Health Maintenance Organization",
+      "Point-of-Service Plan",
+      "Exclusive Provider Organization"
+    ],
+    "correctAnswer": "Health Maintenance Organization",
+    "state": "Gen"
+  },
+  {
+    "id": "q343",
+    "text": "The part of a health insurance policy that states the kind of benefits provided and the circumstances under which they will be paid is called the:",
+    "options": [
+      "Consideration Clause",
+      "Insuring Clause",
+      "Benefit Clause",
+      "Free-Look Clause"
+    ],
+    "correctAnswer": "Benefit Clause",
+    "state": "Gen"
+  },
+  {
+    "id": "q344",
+    "text": "Which definition of total disability is the most restrictive for an insured claiming benefits?",
+    "options": [
+      "Inability to perform the duties of the own occupation",
+      "Inability to perform the duties of any occupation",
+      "Loss of two limbs or sight",
+      "Inability to perform heavy manual labor"
+    ],
+    "correctAnswer": "Inability to perform the duties of any occupation",
+    "state": "Gen"
+  },
+  {
+    "id": "q345",
+    "text": "Social Security disability benefits typically begin after a waiting period of:",
+    "options": [
+      "2 months",
+      "3 months",
+      "5 months",
+      "6 months"
+    ],
+    "correctAnswer": "5 months",
+    "state": "Gen"
+  },
+  {
+    "id": "q346",
+    "text": "How many work credits can an individual earn per calendar year toward Social Security disability eligibility?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "state": "Gen"
+  },
+  {
+    "id": "q347",
+    "text": "Workers' compensation programs provide all of the following benefits EXCEPT:",
+    "options": [
+      "Medical care",
+      "Disability income",
+      "Vocational rehabilitation",
+      "Retirement benefits"
+    ],
+    "correctAnswer": "Retirement benefits",
+    "state": "Gen"
+  },
+  {
+    "id": "q348",
+    "text": "Under Social Security presumptive disability, once a qualifying impairment is medically verified, further examinations are:",
+    "options": [
+      "Required monthly",
+      "Required annually",
+      "Not required",
+      "Required upon request"
+    ],
+    "correctAnswer": "Not required",
+    "state": "Gen"
+  },
+  {
+    "id": "q349",
+    "text": "To be covered by Social Security disability benefits, a disability must be:",
+    "options": [
+      "Expected to be fatal or last at least 12 months",
+      "Only work-related",
+      "Temporary and lasting under 6 months",
+      "Only non-work-related"
+    ],
+    "correctAnswer": "Expected to be fatal or last at least 12 months",
+    "state": "Gen"
+  },
+  {
+    "id": "q350",
+    "text": "An agent's obligation to act in an insurance applicant's or insured's best interest based on the trust placed by the public is known as:",
+    "options": [
+      "Binding authority",
+      "Fiduciary duty",
+      "Adhesion",
+      "Estoppel"
+    ],
+    "correctAnswer": "Fiduciary duty",
+    "state": "Gen"
+  },
+  {
+    "id": "q351",
+    "text": "Under the uniform policy provisions, a policyholder must notify the insurer of a claim within how many days?",
+    "options": [
+      "10 days",
+      "20 days",
+      "30 days",
+      "60 days"
+    ],
+    "correctAnswer": "20 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q352",
+    "text": "Under the uniform policy provisions, a policyholder must file proof of loss within how many days after a loss?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "90 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q353",
+    "text": "When a party appears to have given up a right by act or inaction relied upon by another party, preventing assertion of that right is known as:",
+    "options": [
+      "Adhesion",
+      "Estoppel",
+      "Subrogation",
+      "Indemnity"
+    ],
+    "correctAnswer": "Estoppel",
+    "state": "Gen"
+  },
+  {
+    "id": "q354",
+    "text": "Under the Time Payment of Claims provision in a health policy, benefits other than those paid in periodic installments must be paid:",
+    "options": [
+      "Within 10 days of loss",
+      "Within 20 days of loss",
+      "Immediately upon receipt of proof of loss",
+      "At policy anniversary"
+    ],
+    "correctAnswer": "Immediately upon receipt of proof of loss",
+    "state": "Gen"
+  },
+  {
+    "id": "q355",
+    "text": "If a health insurance policy lapses for nonpayment and does not require an application for reinstatement, the policy will be reinstated:",
+    "options": [
+      "After 10 days",
+      "Upon acceptance of overdue premium by the insurer",
+      "After providing proof of insurability",
+      "Immediately without payment"
+    ],
+    "correctAnswer": "Upon acceptance of overdue premium by the insurer",
+    "state": "Gen"
+  },
+  {
+    "id": "q356",
+    "text": "After reinstatement of a lapsed health policy, coverage for sickness begins:",
+    "options": [
+      "Immediately",
+      "After 5 days",
+      "After 10 days",
+      "After 30 days"
+    ],
+    "correctAnswer": "After 10 days",
+    "state": "Gen"
+  },
+  {
+    "id": "q357",
+    "text": "What is a 403(b) plan?",
+    "options": [
+      "A retirement savings plan for employees of public schools and tax-exempt organizations",
+      "An education loan program",
+      "A private investment account",
+      "A group disability plan"
+    ],
+    "correctAnswer": "A retirement savings plan for employees of public schools and tax-exempt organizations",
+    "state": "Gen"
+  },
+  {
+    "id": "q358",
+    "text": "Which type of annuity guarantees a minimum interest rate but can earn extra interest linked to a market index?",
+    "options": [
+      "Variable annuity",
+      "Fixed annuity",
+      "Equity indexed annuity",
+      "Immediate annuity"
+    ],
+    "correctAnswer": "Equity indexed annuity",
+    "state": "Gen"
+  },
+  {
+    "id": "q359",
+    "text": "Which of the following is a characteristic of fixed annuities?",
+    "options": [
+      "Interest resets based on market performance",
+      "Insurer declares the interest rate in advance and takes on investment risk",
+      "Contract owner directs investment choices",
+      "Premium contributions are flexible"
+    ],
+    "correctAnswer": "Insurer declares the interest rate in advance and takes on investment risk",
+    "state": "Gen"
+  },
+  {
+    "id": "q360",
+    "text": "Which of the following did the Affordable Care Act eliminate for essential health benefits?",
+    "options": [
+      "Annual and lifetime dollar limits",
+      "Preauthorization requirements",
+      "Provider networks",
+      "Premium subsidies"
+    ],
+    "correctAnswer": "Annual and lifetime dollar limits",
+    "state": "Gen"
+  },
+  {
+    "id": "q361",
+    "text": "Medicaid is financed primarily through:",
+    "options": [
+      "Employer payroll taxes",
+      "Individual premium contributions",
+      "Federal and state general revenues",
+      "County property taxes"
+    ],
+    "correctAnswer": "Federal and state general revenues",
+    "state": "Gen"
+  },
+  {
+    "id": "q362",
+    "text": "Medicare Part A is commonly referred to as the:",
+    "options": [
+      "Hospital Insurance",
+      "Physician Services Plan",
+      "Prescription Drug Plan",
+      "Supplementary Medical Insurance"
+    ],
+    "correctAnswer": "Hospital Insurance",
+    "state": "Gen"
+  },
+  {
+    "id": "q363",
+    "text": "California's state-based ACA marketplace is known as:",
+    "options": [
+      "HealthCare.gov",
+      "Covered California",
+      "Federal Facilitated Marketplace",
+      "Small Business Health Options Program"
+    ],
+    "correctAnswer": "Covered California",
+    "state": "CA"
+  },
+  {
+    "id": "q364",
+    "text": "Dual-eligible individuals are those who qualify for benefits under:",
+    "options": [
+      "Medicare only",
+      "Medicaid only",
+      "Both Medicare and Medicaid",
+      "Affordable Care Act subsidies"
+    ],
+    "correctAnswer": "Both Medicare and Medicaid",
+    "state": "Gen"
+  },
+  {
+    "id": "q365",
+    "text": "Under the ACA's Medicaid expansion, states:",
+    "options": [
+      "Must expand Medicaid to 138% FPL",
+      "May choose whether to expand Medicaid",
+      "Are required to expand only for adults",
+      "Cannot expand Medicaid"
+    ],
+    "correctAnswer": "May choose whether to expand Medicaid",
+    "state": "Gen"
+  },
+  {
+    "id": "q366",
+    "text": "In order to ensure that the company offering the insurance is authorized to do so in their state, you should look for a(n):",
+    "options": [
+      "Mutual insurer",
+      "Domestic insurer",
+      "Admitted insurer",
+      "Non-admitted insurer"
+    ],
+    "correctAnswer": "Admitted insurer",
+    "state": "Gen"
+  },
+  {
+    "id": "q367",
+    "text": "In the context of insurance, which type of contract involves one party making a legally enforceable promise while the other party has the option to perform a requested action?",
+    "options": [
+      "Aleatory contract",
+      "Unilateral contract",
+      "Conditional contract",
+      "Contract of adhesion"
+    ],
+    "correctAnswer": "Unilateral contract",
+    "state": "Gen"
+  },
+  {
+    "id": "q368",
+    "text": "In a life insurance contract, what term describes the combined policy and application as a comprehensive agreement between the policyowner and the insurer?",
+    "options": [
+      "Ownership Provision",
+      "Utmost Good Faith Agreement",
+      "Right to Examine",
+      "Entire Contract Provision"
+    ],
+    "correctAnswer": "Entire Contract Provision",
+    "state": "Gen"
+  },
+  {
+    "id": "q369",
+    "text": "For a client seeking coverage for one specific life-threatening illness, the best recommendation would be a:",
+    "options": [
+      "Hospital Indemnity policy",
+      "Critical Illness policy",
+      "Disability Income policy",
+      "Major Medical policy"
+    ],
+    "correctAnswer": "Critical Illness policy",
+    "state": "Gen"
+  },
+  {
+    "id": "q370",
+    "text": "Individuals with insurance coverage from Blue Cross and Blue Shield are typically referred to as:",
+    "options": [
+      "Subscribers",
+      "Participants",
+      "Policyholders",
+      "Insureds"
+    ],
+    "correctAnswer": "Subscribers",
+    "state": "Gen"
+  },
+  {
+    "id": "q371",
+    "text": "Which type of group health plan continuation is available upon job loss or change?",
+    "options": [
+      "Flexible Spending Account",
+      "Medicare Advantage",
+      "COBRA",
+      "Medigap"
+    ],
+    "correctAnswer": "COBRA",
+    "state": "Gen"
+  },
+  {
+    "id": "q372",
+    "text": "When both an individual and their spouse have health insurance, benefits are typically paid:",
+    "options": [
+      "Spouse's policy first, individual's policy second",
+      "Individual's policy only",
+      "Individual's policy first, spouse's policy second",
+      "Whichever plan is more comprehensive"
+    ],
+    "correctAnswer": "Individual's policy first, spouse's policy second",
+    "state": "Gen"
+  },
+  {
+    "id": "q373",
+    "text": "Under COBRA, how many employees must a business have to be required to provide continuation coverage?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "state": "Gen"
+  },
+  {
+    "id": "q374",
+    "text": "After receiving Social Security Disability Income benefits, Medicare coverage typically begins after how long?",
+    "options": [
+      "12 months",
+      "24 months",
+      "6 months",
+      "Immediately"
+    ],
+    "correctAnswer": "24 months",
+    "state": "Gen"
+  },
+  {
+    "id": "q375",
+    "text": "In a coordination of benefits scenario, what determines the primary payer?",
+    "options": [
+      "The richer policy",
+      "The younger insured's policy",
+      "The individual's own policy",
+      "The older policyholder's plan"
+    ],
+    "correctAnswer": "The individual's own policy",
+    "state": "Gen"
+  },
+  {
+    "id": "q376",
+    "text": "To continue working in the insurance industry after being convicted of a felony involving dishonesty or breach of trust, what is required?",
+    "options": [
+      "Pay a reinstatement fee",
+      "Complete ethics training",
+      "Obtain written consent under 18 U.S.C. 1033",
+      "Wait 5 years before applying"
+    ],
+    "correctAnswer": "Obtain written consent under 18 U.S.C. 1033",
+    "state": "Gen"
+  },
+  {
+    "id": "q377",
+    "text": "Which of the following was NOT introduced by the Affordable Care Act?",
+    "options": [
+      "Health insurance exchanges",
+      "Medicaid expansion",
+      "High-deductible health plans",
+      "Individual mandate"
+    ],
+    "correctAnswer": "High-deductible health plans",
+    "state": "Gen"
+  },
+  {
+    "id": "q378",
+    "text": "Under the Fair Credit Reporting Act, who must authorize a consumer report for insurance underwriting?",
+    "options": [
+      "The insurer",
+      "The applicant",
+      "The insurance commissioner",
+      "The credit bureau"
+    ],
+    "correctAnswer": "The applicant",
+    "state": "Gen"
+  },
+  {
+    "id": "q379",
+    "text": "What is the primary purpose of Health Reimbursement Accounts (HRAs)?",
+    "options": [
+      "Cover wellness visits only",
+      "Offer a health savings vehicle for employees",
+      "Help with high deductible plan pre-tax funding",
+      "Act as a retirement savings account"
+    ],
+    "correctAnswer": "Help with high deductible plan pre-tax funding",
+    "state": "Gen"
+  },
+  {
+    "id": "q380",
+    "text": "When surrendering a whole life insurance policy, the portion of the cash value exceeding premiums paid is:",
+    "options": [
+      "Tax-free",
+      "Tax-deductible",
+      "Subject to income tax",
+      "Returned with interest"
+    ],
+    "correctAnswer": "Subject to income tax",
+    "state": "Gen"
+  },
+  {
+    "id": "q381",
+    "text": "Medicaid is designed to assist primarily which group?",
+    "options": [
+      "Military personnel",
+      "Low-income individuals",
+      "Small business owners",
+      "Retirees over 65"
+    ],
+    "correctAnswer": "Low-income individuals",
+    "state": "Gen"
+  },
+  {
+    "id": "q382",
+    "text": "Under Missouri law, what is the maximum penalty for willfully violating insurance regulations?",
+    "options": [
+      "$1,000 fine",
+      "$5,000 fine",
+      "$10,000 fine and/or 1 year imprisonment",
+      "$25,000 fine"
+    ],
+    "correctAnswer": "$10,000 fine and/or 1 year imprisonment",
+    "state": "MO"
+  },
+  {
+    "id": "q383",
+    "text": "In Missouri, making false statements in an insurance application is classified as:",
+    "options": [
+      "A misdemeanor",
+      "A Class D felony",
+      "A Class C felony",
+      "An administrative violation only"
+    ],
+    "correctAnswer": "A Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q384",
+    "text": "Under Missouri statute, what is the penalty for conducting insurance business without a license?",
+    "options": [
+      "Warning only",
+      "Fine up to $1,000",
+      "Class A misdemeanor",
+      "Class B felony"
+    ],
+    "correctAnswer": "Class A misdemeanor",
+    "state": "MO"
+  },
+  {
+    "id": "q385",
+    "text": "Missouri law requires insurance producers to notify the Department of Commerce within how many days of a felony conviction?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO"
+  },
+  {
+    "id": "q386",
+    "text": "Under Missouri law, what is the penalty for embezzling insurance funds?",
+    "options": [
+      "Fine only",
+      "Class D felony",
+      "Class B felony",
+      "Class A felony"
+    ],
+    "correctAnswer": "Class B felony",
+    "state": "MO"
+  },
+  {
+    "id": "q387",
+    "text": "In Missouri, fraudulently obtaining an insurance license is punishable as:",
+    "options": [
+      "Administrative action only",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q388",
+    "text": "Missouri statute requires what minimum continuing education hours for insurance producer license renewal?",
+    "options": [
+      "12 hours",
+      "16 hours",
+      "20 hours",
+      "24 hours"
+    ],
+    "correctAnswer": "16 hours",
+    "state": "MO"
+  },
+  {
+    "id": "q389",
+    "text": "Under Missouri law, what is the maximum fine for each violation of insurance advertising regulations?",
+    "options": [
+      "$500",
+      "$1,000",
+      "$2,500",
+      "$5,000"
+    ],
+    "correctAnswer": "$2,500",
+    "state": "MO"
+  },
+  {
+    "id": "q390",
+    "text": "In Missouri, making fraudulent insurance claims is classified as:",
+    "options": [
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony",
+      "Class B felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q391",
+    "text": "Missouri law requires insurance companies to maintain what minimum surplus amount?",
+    "options": [
+      "$150,000",
+      "$250,000",
+      "$500,000",
+      "$1,000,000"
+    ],
+    "correctAnswer": "$250,000",
+    "state": "MO"
+  },
+  {
+    "id": "q392",
+    "text": "Under Missouri statute, what is the penalty for misappropriating insurance premiums?",
+    "options": [
+      "Administrative fine",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class C felony",
+    "state": "MO"
+  },
+  {
+    "id": "q393",
+    "text": "In Missouri, the Director of Commerce may impose fines up to what amount for insurance law violations?",
+    "options": [
+      "$5,000",
+      "$10,000",
+      "$15,000",
+      "$25,000"
+    ],
+    "correctAnswer": "$25,000",
+    "state": "MO"
+  },
+  {
+    "id": "q394",
+    "text": "Missouri law requires insurance producers to maintain errors and omissions insurance of at least:",
+    "options": [
+      "$100,000",
+      "$250,000",
+      "$500,000",
+      "$1,000,000"
+    ],
+    "correctAnswer": "$100,000",
+    "state": "MO"
+  },
+  {
+    "id": "q395",
+    "text": "Under Missouri statute, what is the penalty for conducting unauthorized insurance activities?",
+    "options": [
+      "Fine up to $1,000",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class A misdemeanor",
+    "state": "MO"
+  },
+  {
+    "id": "q396",
+    "text": "In Missouri, failure to report material changes in licensing information within 30 days results in:",
+    "options": [
+      "Warning letter",
+      "Fine up to $500",
+      "Fine up to $1,000",
+      "License suspension"
+    ],
+    "correctAnswer": "Fine up to $1,000",
+    "state": "MO"
+  },
+  {
+    "id": "q397",
+    "text": "Missouri law requires what minimum bond amount for insurance producers?",
+    "options": [
+      "$5,000",
+      "$10,000",
+      "$25,000",
+      "$50,000"
+    ],
+    "correctAnswer": "$5,000",
+    "state": "MO"
+  },
+  {
+    "id": "q398",
+    "text": "Under Missouri statute, insurance fraud is defined as knowingly:",
+    "options": [
+      "Making false statements in applications only",
+      "Presenting false claims only",
+      "Making false statements or presenting false claims",
+      "Failing to pay premiums"
+    ],
+    "correctAnswer": "Making false statements or presenting false claims",
+    "state": "MO"
+  },
+  {
+    "id": "q399",
+    "text": "In Missouri, what is the statute of limitations for prosecuting insurance fraud?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correctAnswer": "5 years",
+    "state": "MO"
+  },
+  {
+    "id": "q400",
+    "text": "Missouri law prohibits insurance producers from commingling premiums with personal funds under penalty of:",
+    "options": [
+      "License suspension only",
+      "Fine up to $5,000",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q401",
+    "text": "Under Missouri statute, what is the maximum penalty for violations of the Unfair Trade Practices Act in insurance?",
+    "options": [
+      "$1,000 per violation",
+      "$5,000 per violation",
+      "$10,000 per violation",
+      "$25,000 per violation"
+    ],
+    "correctAnswer": "$5,000 per violation",
+    "state": "MO"
+  },
+  {
+    "id": "q402",
+    "text": "In Missouri, insurance producers must maintain client records for a minimum of:",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correctAnswer": "5 years",
+    "state": "MO"
+  },
+  {
+    "id": "q403",
+    "text": "Missouri law requires notification of the Department within how many days of any administrative action taken in another state?",
+    "options": [
+      "15 days",
+      "30 days",
+      "45 days",
+      "60 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO"
+  },
+  {
+    "id": "q404",
+    "text": "Under Missouri statute, the penalty for violating insurance confidentiality laws is:",
+    "options": [
+      "Warning only",
+      "Fine up to $1,000",
+      "Class A misdemeanor",
+      "Class D felony"
+    ],
+    "correctAnswer": "Class A misdemeanor",
+    "state": "MO"
+  },
+  {
+    "id": "q405",
+    "text": "In Missouri, what is the maximum administrative penalty for each day of continued violation of insurance regulations?",
+    "options": [
+      "$100",
+      "$250",
+      "$500",
+      "$1,000"
+    ],
+    "correctAnswer": "$500",
+    "state": "MO"
+  },
+  {
+    "id": "q406",
+    "text": "Under Missouri law, what is the maximum penalty for willfully violating insurance regulations?",
+    "options": [
+      "$1,000 fine",
+      "$5,000 fine",
+      "$10,000 fine and/or 1 year imprisonment",
+      "$25,000 fine"
+    ],
+    "correctAnswer": "$10,000 fine and/or 1 year imprisonment",
+    "state": "MO"
+  },
+  {
+    "id": "q407",
+    "text": "In Missouri, making false statements in an insurance application is classified as:",
+    "options": [
+      "A misdemeanor",
+      "A Class D felony",
+      "A Class C felony",
+      "An administrative violation only"
+    ],
+    "correctAnswer": "A Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q408",
+    "text": "Under Missouri statute, what is the penalty for conducting insurance business without a license?",
+    "options": [
+      "Warning only",
+      "Fine up to $1,000",
+      "Class A misdemeanor",
+      "Class B felony"
+    ],
+    "correctAnswer": "Class A misdemeanor",
+    "state": "MO"
+  },
+  {
+    "id": "q409",
+    "text": "Missouri law requires insurance producers to notify the Department of Commerce within how many days of a felony conviction?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO"
+  },
+  {
+    "id": "q410",
+    "text": "Under Missouri law, what is the penalty for embezzling insurance funds?",
+    "options": [
+      "Fine only",
+      "Class D felony",
+      "Class B felony",
+      "Class A felony"
+    ],
+    "correctAnswer": "Class B felony",
+    "state": "MO"
+  },
+  {
+    "id": "q411",
+    "text": "In Missouri, fraudulently obtaining an insurance license is punishable as:",
+    "options": [
+      "Administrative action only",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q412",
+    "text": "Missouri statute requires what minimum continuing education hours for insurance producer license renewal?",
+    "options": [
+      "12 hours",
+      "16 hours",
+      "20 hours",
+      "24 hours"
+    ],
+    "correctAnswer": "16 hours",
+    "state": "MO"
+  },
+  {
+    "id": "q413",
+    "text": "Under Missouri law, what is the maximum fine for each violation of insurance advertising regulations?",
+    "options": [
+      "$500",
+      "$1,000",
+      "$2,500",
+      "$5,000"
+    ],
+    "correctAnswer": "$2,500",
+    "state": "MO"
+  },
+  {
+    "id": "q414",
+    "text": "In Missouri, making fraudulent insurance claims is classified as:",
+    "options": [
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony",
+      "Class B felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q415",
+    "text": "Missouri law requires insurance companies to maintain what minimum surplus amount?",
+    "options": [
+      "$150,000",
+      "$250,000",
+      "$500,000",
+      "$1,000,000"
+    ],
+    "correctAnswer": "$250,000",
+    "state": "MO"
+  },
+  {
+    "id": "q416",
+    "text": "Under Missouri statute, what is the penalty for misappropriating insurance premiums?",
+    "options": [
+      "Administrative fine",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class C felony",
+    "state": "MO"
+  },
+  {
+    "id": "q417",
+    "text": "In Missouri, the Director of Commerce may impose fines up to what amount for insurance law violations?",
+    "options": [
+      "$5,000",
+      "$10,000",
+      "$15,000",
+      "$25,000"
+    ],
+    "correctAnswer": "$25,000",
+    "state": "MO"
+  },
+  {
+    "id": "q418",
+    "text": "Missouri law requires insurance producers to maintain errors and omissions insurance of at least:",
+    "options": [
+      "$100,000",
+      "$250,000",
+      "$500,000",
+      "$1,000,000"
+    ],
+    "correctAnswer": "$100,000",
+    "state": "MO"
+  },
+  {
+    "id": "q419",
+    "text": "Under Missouri statute, what is the penalty for conducting unauthorized insurance activities?",
+    "options": [
+      "Fine up to $1,000",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class A misdemeanor",
+    "state": "MO"
+  },
+  {
+    "id": "q420",
+    "text": "In Missouri, failure to report material changes in licensing information within 30 days results in:",
+    "options": [
+      "Warning letter",
+      "Fine up to $500",
+      "Fine up to $1,000",
+      "License suspension"
+    ],
+    "correctAnswer": "Fine up to $1,000",
+    "state": "MO"
+  },
+  {
+    "id": "q421",
+    "text": "Missouri law requires what minimum bond amount for insurance producers?",
+    "options": [
+      "$5,000",
+      "$10,000",
+      "$25,000",
+      "$50,000"
+    ],
+    "correctAnswer": "$5,000",
+    "state": "MO"
+  },
+  {
+    "id": "q422",
+    "text": "Under Missouri statute, insurance fraud is defined as knowingly:",
+    "options": [
+      "Making false statements in applications only",
+      "Presenting false claims only",
+      "Making false statements or presenting false claims",
+      "Failing to pay premiums"
+    ],
+    "correctAnswer": "Making false statements or presenting false claims",
+    "state": "MO"
+  },
+  {
+    "id": "q423",
+    "text": "In Missouri, what is the statute of limitations for prosecuting insurance fraud?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correctAnswer": "5 years",
+    "state": "MO"
+  },
+  {
+    "id": "q424",
+    "text": "Missouri law prohibits insurance producers from commingling premiums with personal funds under penalty of:",
+    "options": [
+      "License suspension only",
+      "Fine up to $5,000",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q425",
+    "text": "Under Missouri statute, what is the maximum penalty for violations of the Unfair Trade Practices Act in insurance?",
+    "options": [
+      "$1,000 per violation",
+      "$5,000 per violation",
+      "$10,000 per violation",
+      "$25,000 per violation"
+    ],
+    "correctAnswer": "$5,000 per violation",
+    "state": "MO"
+  },
+  {
+    "id": "q426",
+    "text": "In Missouri, what is the penalty for operating as an insurance company without a certificate of authority?",
+    "options": [
+      "Warning letter only",
+      "Fine up to $10,000 per day",
+      "Class A misdemeanor",
+      "Class D felony"
+    ],
+    "correctAnswer": "Fine up to $10,000 per day",
+    "state": "MO"
+  },
+  {
+    "id": "q427",
+    "text": "Under Missouri law, insurance producers must complete how many hours of ethics training for continuing education?",
+    "options": [
+      "2 hours",
+      "3 hours",
+      "4 hours",
+      "6 hours"
+    ],
+    "correctAnswer": "3 hours",
+    "state": "MO"
+  },
+  {
+    "id": "q428",
+    "text": "Missouri statute requires insurance companies to pay claims within how many days of receiving proper proof of loss?",
+    "options": [
+      "15 days",
+      "30 days",
+      "45 days",
+      "60 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO"
+  },
+  {
+    "id": "q429",
+    "text": "In Missouri, what is the penalty for rebating (giving illegal inducements to purchase insurance)?",
+    "options": [
+      "Warning only",
+      "Fine up to $1,000",
+      "Fine up to $5,000 and/or license suspension",
+      "Class D felony"
+    ],
+    "correctAnswer": "Fine up to $5,000 and/or license suspension",
+    "state": "MO"
+  },
+  {
+    "id": "q430",
+    "text": "Under Missouri law, how long does an insurance producer have to report a change of address?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO"
+  },
+  {
+    "id": "q431",
+    "text": "Missouri insurance law requires insurers to maintain records for a minimum of:",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correctAnswer": "5 years",
+    "state": "MO"
+  },
+  {
+    "id": "q432",
+    "text": "In Missouri, what is the penalty for discrimination in insurance rates based on race or religion?",
+    "options": [
+      "Administrative warning",
+      "Fine up to $2,500",
+      "Class A misdemeanor",
+      "Class D felony"
+    ],
+    "correctAnswer": "Class A misdemeanor",
+    "state": "MO"
+  },
+  {
+    "id": "q433",
+    "text": "Under Missouri statute, insurance adjusters must be licensed if they handle claims exceeding:",
+    "options": [
+      "$1,000",
+      "$2,500",
+      "$5,000",
+      "$10,000"
+    ],
+    "correctAnswer": "$2,500",
+    "state": "MO"
+  },
+  {
+    "id": "q434",
+    "text": "Missouri law requires life insurance policies to have a grace period of at least:",
+    "options": [
+      "10 days",
+      "30 days",
+      "31 days",
+      "60 days"
+    ],
+    "correctAnswer": "31 days",
+    "state": "MO"
+  },
+  {
+    "id": "q435",
+    "text": "In Missouri, what is the penalty for making false entries in insurance records?",
+    "options": [
+      "Administrative fine",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q436",
+    "text": "Under Missouri law, insurance companies must file annual reports by what date?",
+    "options": [
+      "December 31",
+      "January 31",
+      "March 1",
+      "April 15"
+    ],
+    "correctAnswer": "March 1",
+    "state": "MO"
+  },
+  {
+    "id": "q437",
+    "text": "Missouri statute requires health insurance policies to provide coverage for mammography screening at what age?",
+    "options": [
+      "35 and annually thereafter",
+      "40 and annually thereafter",
+      "45 and annually thereafter",
+      "50 and annually thereafter"
+    ],
+    "correctAnswer": "40 and annually thereafter",
+    "state": "MO"
+  },
+  {
+    "id": "q438",
+    "text": "In Missouri, what is the penalty for threatening or intimidating an insurance regulator?",
+    "options": [
+      "Fine up to $5,000",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class B felony"
+    ],
+    "correctAnswer": "Class D felony",
+    "state": "MO"
+  },
+  {
+    "id": "q439",
+    "text": "Under Missouri law, insurance policies must be written in language understandable to a person with what minimum education level?",
+    "options": [
+      "6th grade",
+      "8th grade",
+      "10th grade",
+      "12th grade"
+    ],
+    "correctAnswer": "8th grade",
+    "state": "MO"
+  },
+  {
+    "id": "q440",
+    "text": "Missouri insurance law prohibits unfair claim settlement practices, with violations carrying a penalty of:",
+    "options": [
+      "Warning letter",
+      "Fine up to $1,000 per violation",
+      "Fine up to $5,000 per violation",
+      "License revocation only"
+    ],
+    "correctAnswer": "Fine up to $5,000 per violation",
+    "state": "MO"
+  },
+  {
+    "id": "q441",
+    "text": "In California, what is the maximum penalty for insurance fraud under Penal Code Section 550?",
+    "options": [
+      "1 year in county jail and/or $10,000 fine",
+      "3 years in state prison and/or $50,000 fine",
+      "5 years in state prison and/or $50,000 fine",
+      "5 years in state prison and/or $150,000 fine"
+    ],
+    "correctAnswer": "5 years in state prison and/or $150,000 fine",
+    "state": "CA"
+  },
+  {
+    "id": "q442",
+    "text": "Under California Insurance Code Section 1871.4, what is the penalty for insurance fraud involving more than $950?",
+    "options": [
+      "Misdemeanor only",
+      "Felony punishable by up to 5 years imprisonment",
+      "Administrative fine only",
+      "License suspension only"
+    ],
+    "correctAnswer": "Felony punishable by up to 5 years imprisonment",
+    "state": "CA"
+  },
+  {
+    "id": "q443",
+    "text": "California Insurance Code requires insurance producers to maintain what minimum bond amount?",
+    "options": [
+      "$2,500",
+      "$5,000",
+      "$10,000",
+      "$25,000"
+    ],
+    "correctAnswer": "$10,000",
+    "state": "CA"
+  },
+  {
+    "id": "q444",
+    "text": "In California, making false statements on an insurance application is punishable under Penal Code Section 550 by:",
+    "options": [
+      "Fine up to $1,000",
+      "Misdemeanor punishable by up to 1 year in jail",
+      "Felony punishable by 2-5 years in prison",
+      "Administrative penalty only"
+    ],
+    "correctAnswer": "Felony punishable by 2-5 years in prison",
+    "state": "CA"
+  },
+  {
+    "id": "q445",
+    "text": "Under California law, insurance companies must respond to claims within how many days?",
+    "options": [
+      "15 days",
+      "30 days",
+      "40 days",
+      "60 days"
+    ],
+    "correctAnswer": "40 days",
+    "state": "CA"
+  },
+  {
+    "id": "q446",
+    "text": "California Insurance Code Section 1871.9 requires insurers to report suspected fraud to the Department within:",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctAnswer": "60 days",
+    "state": "CA"
+  },
+  {
+    "id": "q447",
+    "text": "In California, what is the penalty for operating as an insurer without a certificate of authority?",
+    "options": [
+      "Fine up to $5,000",
+      "Fine up to $25,000 per violation",
+      "Fine up to $50,000 per violation",
+      "Fine up to $100,000 per violation"
+    ],
+    "correctAnswer": "Fine up to $50,000 per violation",
+    "state": "CA"
+  },
+  {
+    "id": "q448",
+    "text": "Under California Insurance Code, what is the minimum continuing education requirement for insurance producers?",
+    "options": [
+      "20 hours every 2 years",
+      "24 hours every 2 years",
+      "30 hours every 2 years",
+      "36 hours every 2 years"
+    ],
+    "correctAnswer": "24 hours every 2 years",
+    "state": "CA"
+  },
+  {
+    "id": "q449",
+    "text": "California Penal Code Section 550.5 makes it a crime to solicit insurance fraud, punishable by:",
+    "options": [
+      "Misdemeanor only",
+      "Up to 1 year in county jail and/or $10,000 fine",
+      "Up to 3 years in state prison and/or $50,000 fine",
+      "Up to 5 years in state prison and/or $100,000 fine"
+    ],
+    "correctAnswer": "Up to 3 years in state prison and/or $50,000 fine",
+    "state": "CA"
+  },
+  {
+    "id": "q450",
+    "text": "In California, insurance adjusters must be licensed if they handle third-party claims exceeding:",
+    "options": [
+      "$1,000",
+      "$2,500",
+      "$5,000",
+      "$10,000"
+    ],
+    "correctAnswer": "$1,000",
+    "state": "CA"
+  },
+  {
+    "id": "q451",
+    "text": "Under California Insurance Code Section 676, what is the penalty for rebating?",
+    "options": [
+      "Warning only",
+      "Fine between $500-$25,000",
+      "License suspension only",
+      "Misdemeanor charges"
+    ],
+    "correctAnswer": "Fine between $500-$25,000",
+    "state": "CA"
+  },
+  {
+    "id": "q452",
+    "text": "California law requires life insurance policies to include a free-look period of at least:",
+    "options": [
+      "10 days",
+      "20 days",
+      "30 days",
+      "45 days"
+    ],
+    "correctAnswer": "10 days",
+    "state": "CA"
+  },
+  {
+    "id": "q453",
+    "text": "Under California Insurance Code Section 790.03, unfair claim settlement practices can result in:",
+    "options": [
+      "Administrative warning only",
+      "Fine up to $5,000 per violation",
+      "Fine up to $15,000 per violation",
+      "Fine up to $25,000 per violation"
+    ],
+    "correctAnswer": "Fine up to $15,000 per violation",
+    "state": "CA"
+  },
+  {
+    "id": "q454",
+    "text": "In California, what is the penalty for insurance premium theft under Penal Code Section 550?",
+    "options": [
+      "Misdemeanor only",
+      "Felony punishable by 16 months to 5 years",
+      "Administrative fine only",
+      "License revocation only"
+    ],
+    "correctAnswer": "Felony punishable by 16 months to 5 years",
+    "state": "CA"
+  },
+  {
+    "id": "q455",
+    "text": "California Insurance Code requires health plans to maintain what minimum net worth?",
+    "options": [
+      "$1 million",
+      "$2 million",
+      "$3 million",
+      "$5 million"
+    ],
+    "correctAnswer": "$1 million",
+    "state": "CA"
+  },
+  {
+    "id": "q456",
+    "text": "Under California law, insurance companies must pay interest on overdue claims at what rate?",
+    "options": [
+      "Prime rate",
+      "Prime rate plus 2%",
+      "10% per annum",
+      "15% per annum"
+    ],
+    "correctAnswer": "10% per annum",
+    "state": "CA"
+  },
+  {
+    "id": "q457",
+    "text": "In California, making fraudulent workers' compensation claims is punishable under Penal Code Section 550 by:",
+    "options": [
+      "Fine up to $10,000",
+      "Up to 2 years in prison and/or $50,000 fine",
+      "Up to 5 years in prison and/or $150,000 fine",
+      "Administrative penalty only"
+    ],
+    "correctAnswer": "Up to 5 years in prison and/or $150,000 fine",
+    "state": "CA"
+  },
+  {
+    "id": "q458",
+    "text": "California Insurance Code Section 1871.7 allows for asset forfeiture in insurance fraud cases involving:",
+    "options": [
+      "Any amount",
+      "More than $1,000",
+      "More than $5,000",
+      "More than $10,000"
+    ],
+    "correctAnswer": "More than $5,000",
+    "state": "CA"
+  },
+  {
+    "id": "q459",
+    "text": "Under California law, insurance producers must notify the Department of changes in criminal history within:",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "CA"
+  },
+  {
+    "id": "q460",
+    "text": "In California, what is the penalty for discrimination in insurance based on sexual orientation under Insurance Code Section 679.7?",
+    "options": [
+      "Warning letter",
+      "Fine up to $5,000",
+      "Fine up to $10,000",
+      "Fine up to $25,000"
+    ],
+    "correctAnswer": "Fine up to $10,000",
+    "state": "CA"
+  },
+  {
+    "id": "q461",
+    "text": "Under Missouri law, insurance companies that fail to pay claims promptly may be charged interest at what rate?",
+    "options": [
+      "6% per annum",
+      "8% per annum",
+      "9% per annum",
+      "12% per annum"
+    ],
+    "correctAnswer": "9% per annum",
+    "state": "MO"
+  },
+  {
+    "id": "q462",
+    "text": "Missouri statute requires insurance producers to complete a background check every:",
+    "options": [
+      "2 years",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "correctAnswer": "Not required after initial licensing",
+    "state": "MO"
+  },
+  {
+    "id": "q463",
+    "text": "In Missouri, what is the penalty for conspiracy to commit insurance fraud?",
+    "options": [
+      "Same as underlying fraud offense",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctAnswer": "Same as underlying fraud offense",
+    "state": "MO"
+  },
+  {
+    "id": "q464",
+    "text": "Under Missouri law, health insurance policies must cover emergency services without prior authorization for how long?",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "48 hours",
+      "72 hours"
+    ],
+    "correctAnswer": "48 hours",
+    "state": "MO"
+  },
+  {
+    "id": "q465",
+    "text": "Missouri insurance regulations require claim files to be maintained for a minimum of:",
+    "options": [
+      "3 years after claim closure",
+      "5 years after claim closure",
+      "7 years after claim closure",
+      "10 years after claim closure"
+    ],
+    "correctAnswer": "5 years after claim closure",
+    "state": "MO"
+  },
+  {
+    "id": "q466",
+    "text": "In California, what is the criminal penalty for insurance fraud under $950 in value?",
+    "options": [
+      "Infraction only",
+      "Misdemeanor punishable by up to 6 months jail",
+      "Misdemeanor punishable by up to 1 year jail",
+      "Felony charges apply regardless of amount"
+    ],
+    "correctAnswer": "Misdemeanor punishable by up to 1 year jail",
+    "state": "CA"
+  },
+  {
+    "id": "q467",
+    "text": "Under California Insurance Code, what is the maximum administrative fine for each day an insurer operates without proper licensing?",
+    "options": [
+      "$1,000",
+      "$5,000",
+      "$10,000",
+      "$25,000"
+    ],
+    "correctAnswer": "$5,000",
+    "state": "CA"
+  },
+  {
+    "id": "q468",
+    "text": "California law requires insurance producers to maintain errors and omissions coverage of at least:",
+    "options": [
+      "$100,000",
+      "$250,000",
+      "$500,000",
+      "$1,000,000"
+    ],
+    "correctAnswer": "$100,000",
+    "state": "CA"
+  },
+  {
+    "id": "q469",
+    "text": "In California, what is the penalty for making false statements to the Insurance Commissioner?",
+    "options": [
+      "Fine up to $5,000",
+      "Misdemeanor punishable by up to 1 year jail",
+      "Felony punishable by up to 3 years prison",
+      "Administrative penalty only"
+    ],
+    "correctAnswer": "Misdemeanor punishable by up to 1 year jail",
+    "state": "CA"
+  },
+  {
+    "id": "q470",
+    "text": "Under California Insurance Code Section 12921.6, HMOs must maintain a grievance system that responds to complaints within:",
+    "options": [
+      "15 days",
+      "30 days",
+      "45 days",
+      "60 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "CA"
+  }
+]

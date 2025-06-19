@@ -14,9 +14,10 @@ import type { Question } from "@/types/quiz"
 
 interface QuizContainerProps {
   questionCount: number
+  selectedState: "CA" | "MO"
 }
 
-export function QuizContainer({ questionCount }: QuizContainerProps) {
+export function QuizContainer({ questionCount, selectedState }: QuizContainerProps) {
   const [questions, setQuestions] = useState<Question[]>([])
   const [userAnswers, setUserAnswers] = useState<Record<string, string>>({})
   const [isSubmitted, setIsSubmitted] = useState(false)
@@ -27,7 +28,7 @@ export function QuizContainer({ questionCount }: QuizContainerProps) {
   useEffect(() => {
     const loadQuestions = async () => {
       try {
-        const response = await fetch(`/api/questions?count=${questionCount}`)
+        const response = await fetch(`/api/questions?count=${questionCount}&state=${selectedState}`)
         const data = await response.json()
         if (data.error) {
           console.error("Error from API:", data.error)
@@ -42,7 +43,7 @@ export function QuizContainer({ questionCount }: QuizContainerProps) {
     }
 
     loadQuestions()
-  }, [questionCount])
+  }, [questionCount, selectedState])
 
   const handleAnswerSelect = (questionId: string, answer: string) => {
     setUserAnswers((prev) => ({
@@ -84,7 +85,7 @@ export function QuizContainer({ questionCount }: QuizContainerProps) {
       <Card className="quiz-card p-6">
         <div className="flex items-center justify-between mb-6">
           <div>
-            <h2 className="text-xl font-bold quiz-gradient-text">Insurance Quiz</h2>
+            <h2 className="text-xl font-bold quiz-gradient-text">Insurance Quiz ({selectedState})</h2>
             <p className="text-sm text-blue-600">{questions.length} questions to test your knowledge</p>
           </div>
           <div className="flex items-center space-x-2">
