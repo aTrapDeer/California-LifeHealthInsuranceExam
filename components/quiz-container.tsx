@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import { QuizQuestion } from "@/components/quiz-question"
 import { QuizResults } from "@/components/quiz-results"
+import { StudyGuide } from "@/components/study-guide"
 import { Button } from "@/components/ui/button"
 import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
@@ -23,7 +24,7 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
   const [isSubmitted, setIsSubmitted] = useState(false)
   const [isLoading, setIsLoading] = useState(true)
   const [showAnswersLive, setShowAnswersLive] = useState(false)
-  const [currentStep, setCurrentStep] = useState<"setup" | "quiz" | "results">("quiz")
+  const [currentStep, setCurrentStep] = useState<"setup" | "quiz" | "results" | "study-guide">("quiz")
 
   useEffect(() => {
     const loadQuestions = async () => {
@@ -65,6 +66,14 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
     window.location.reload()
   }
 
+  const generateStudyGuide = () => {
+    setCurrentStep("study-guide")
+  }
+
+  const backToResults = () => {
+    setCurrentStep("results")
+  }
+
   const progressPercentage = Math.round((Object.keys(userAnswers).length / questions.length) * 100)
 
   if (isLoading) {
@@ -77,7 +86,36 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
   }
 
   if (currentStep === "results") {
-    return <QuizResults questions={questions} userAnswers={userAnswers} onStartNewQuiz={startNewQuiz} />
+    return (
+      <QuizResults 
+        questions={questions} 
+        userAnswers={userAnswers} 
+        onStartNewQuiz={startNewQuiz}
+        onGenerateStudyGuide={generateStudyGuide}
+      />
+    )
+  }
+
+  if (currentStep === "study-guide") {
+    const wrongQuestions = questions
+      .filter((q) => userAnswers[q.id] !== q.correctAnswer)
+      .map((question) => ({
+        question,
+        userAnswer: userAnswers[question.id]
+      }))
+
+    const correctAnswers = questions.filter((q) => userAnswers[q.id] === q.correctAnswer).length
+    const score = Math.round((correctAnswers / questions.length) * 100)
+
+    return (
+      <StudyGuide
+        wrongQuestions={wrongQuestions}
+        score={score}
+        totalQuestions={questions.length}
+        onBackToHome={startNewQuiz}
+        onBackToResults={backToResults}
+      />
+    )
   }
 
   return (

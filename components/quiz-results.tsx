@@ -2,17 +2,19 @@
 
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { CheckCircle, XCircle, Award, ArrowRight } from "lucide-react"
+import { CheckCircle, XCircle, Award, ArrowRight, BookOpen } from "lucide-react"
 import type { Question } from "@/types/quiz"
 
 interface QuizResultsProps {
   questions: Question[]
   userAnswers: Record<string, string>
   onStartNewQuiz: () => void
+  onGenerateStudyGuide?: () => void
 }
 
-export function QuizResults({ questions, userAnswers, onStartNewQuiz }: QuizResultsProps) {
+export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerateStudyGuide }: QuizResultsProps) {
   const correctAnswers = questions.filter((q) => userAnswers[q.id] === q.correctAnswer).length
+  const wrongQuestions = questions.filter((q) => userAnswers[q.id] !== q.correctAnswer)
 
   const score = Math.round((correctAnswers / questions.length) * 100)
 
@@ -83,7 +85,23 @@ export function QuizResults({ questions, userAnswers, onStartNewQuiz }: QuizResu
         })}
       </div>
 
-      <div className="mt-8 text-center">
+      <div className="mt-8 text-center space-y-4">
+        {wrongQuestions.length > 0 && onGenerateStudyGuide && (
+          <div>
+            <p className="text-blue-600 text-sm mb-4">
+              Need help with the questions you missed? Get a personalized AI study guide!
+            </p>
+            <Button 
+              onClick={onGenerateStudyGuide} 
+              size="lg" 
+              className="blue-button mb-4"
+            >
+              <BookOpen className="mr-2 h-4 w-4" />
+              Generate Study Guide ({wrongQuestions.length} missed questions)
+            </Button>
+          </div>
+        )}
+        
         <Button onClick={onStartNewQuiz} size="lg" className="blue-button">
           Start New Quiz
           <ArrowRight className="ml-2 h-4 w-4" />
