@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Card } from "@/components/ui/card"
+import { Card } from "@/components/ui/card" 
 import { Loader2, Sparkles } from "lucide-react"
 import type { Question } from "@/types/quiz"
 
@@ -20,6 +20,9 @@ export function AIExplanation({ question }: AIExplanationProps) {
         setIsLoading(true)
         setError(null)
 
+        const controller = new AbortController()
+        const timeoutId = setTimeout(() => controller.abort(), 30000) // 30 second timeout
+
         const response = await fetch("/api/explain", {
           method: "POST",
           headers: {
@@ -30,16 +33,26 @@ export function AIExplanation({ question }: AIExplanationProps) {
             options: question.options,
             correctAnswer: question.correctAnswer,
           }),
+          signal: controller.signal,
         })
 
+        clearTimeout(timeoutId)
+
         if (!response.ok) {
+          if (response.status === 408) {
+            throw new Error("Request timed out")
+          }
           throw new Error("Failed to get explanation")
         }
 
         const data = await response.json()
         setExplanation(data.explanation)
       } catch (err) {
-        setError("Unable to load explanation. Please try again later.")
+        if (err instanceof Error && err.name === 'AbortError') {
+          setError("Request timed out. The AI service may be busy.")
+        } else {
+          setError("Unable to load explanation right now.")
+        }
         console.error(err)
       } finally {
         setIsLoading(false)
@@ -62,7 +75,10 @@ export function AIExplanation({ question }: AIExplanationProps) {
           <span>Generating explanation...</span>
         </div>
       ) : error ? (
-        <p className="text-sm text-red-500 p-2">{error}</p>
+        <div className="text-sm text-amber-600 p-2">
+          <p>{error}</p>
+          <p className="text-xs mt-1">Try refreshing or asking again later.</p>
+        </div>
       ) : (
         <div className="text-sm text-blue-700 whitespace-pre-line p-2">{explanation}</div>
       )}

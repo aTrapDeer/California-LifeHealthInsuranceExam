@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Loader2, BookOpen, Home, ArrowLeft, Sparkles } from "lucide-react"
+import { Loader2, BookOpen, Home, ArrowLeft, Sparkles, AlertTriangle } from "lucide-react"
 import type { Question } from "@/types/quiz"
 
 interface StudyGuideProps {
@@ -27,41 +27,63 @@ export function StudyGuide({
   const [studyGuide, setStudyGuide] = useState<string>("")
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [questionsProcessed, setQuestionsProcessed] = useState<number>(0)
+  const [retryCount, setRetryCount] = useState(0)
+
+  const generateStudyGuide = async () => {
+    try {
+      setIsLoading(true)
+      setError(null)
+
+      const controller = new AbortController()
+      const timeoutId = setTimeout(() => controller.abort(), 50000) // 50 second client timeout
+
+      const response = await fetch("/api/study-guide", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          wrongQuestions,
+          score,
+          totalQuestions,
+        }),
+        signal: controller.signal,
+      })
+
+      clearTimeout(timeoutId)
+
+      if (!response.ok) {
+        if (response.status === 408) {
+          throw new Error("The request timed out. Please try again.")
+        }
+        const errorData = await response.json()
+        throw new Error(errorData.error || "Failed to generate study guide")
+      }
+
+      const data = await response.json()
+      setStudyGuide(data.studyGuide)
+      setQuestionsProcessed(data.questionsProcessed || wrongQuestions.length)
+    } catch (err) {
+      if (err instanceof Error && err.name === 'AbortError') {
+        setError("The request timed out. The server may be busy. Please try again.")
+      } else {
+        setError((err as Error).message || "Unable to generate study guide. Please try again later.")
+      }
+      console.error(err)
+    } finally {
+      setIsLoading(false)
+    }
+  }
 
   useEffect(() => {
-    const generateStudyGuide = async () => {
-      try {
-        setIsLoading(true)
-        setError(null)
-
-        const response = await fetch("/api/study-guide", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            wrongQuestions,
-            score,
-            totalQuestions,
-          }),
-        })
-
-        if (!response.ok) {
-          throw new Error("Failed to generate study guide")
-        }
-
-        const data = await response.json()
-        setStudyGuide(data.studyGuide)
-      } catch (err) {
-        setError("Unable to generate study guide. Please try again later.")
-        console.error(err)
-      } finally {
-        setIsLoading(false)
-      }
-    }
-
     generateStudyGuide()
   }, [wrongQuestions, score, totalQuestions])
+
+  const handleRetry = () => {
+    setRetryCount(prev => prev + 1)
+    generateStudyGuide()
+  }
 
   // Format the study guide text with proper line breaks and sections
   const formatStudyGuide = (text: string) => {
@@ -153,14 +175,32 @@ export function StudyGuide({
             <Sparkles className="h-5 w-5 text-blue-500" />
             <p className="text-blue-700 text-lg">AI is creating your personalized study guide...</p>
           </div>
-          <p className="text-blue-600 text-sm mt-2">This may take a few moments</p>
+          <p className="text-blue-600 text-sm mt-2">This may take up to 45 seconds</p>
+          {retryCount > 0 && (
+            <p className="text-blue-500 text-xs mt-1">Retry attempt {retryCount}</p>
+          )}
         </div>
       ) : error ? (
         <div className="text-center py-12">
+          <AlertTriangle className="h-12 w-12 text-amber-500 mx-auto mb-4" />
           <p className="text-red-500 mb-4">{error}</p>
-          <Button onClick={() => window.location.reload()} className="blue-button">
-            Try Again
-          </Button>
+          <div className="space-y-2">
+            <Button onClick={handleRetry} className="blue-button">
+              Try Again
+            </Button>
+            <Button 
+              onClick={onBackToResults} 
+              variant="outline"
+              className="text-blue-600 border-blue-300 hover:bg-blue-50 ml-2"
+            >
+              Back to Results
+            </Button>
+          </div>
+          {wrongQuestions.length > 15 && (
+            <p className="text-xs text-blue-500 mt-4">
+              Tip: The system processes up to 15 questions at a time for better performance
+            </p>
+          )}
         </div>
       ) : (
         <div>
@@ -170,7 +210,12 @@ export function StudyGuide({
               <h3 className="text-sm font-medium text-blue-700">AI-Generated Study Guide</h3>
             </div>
             <p className="text-xs text-blue-600">
-              This study guide was created specifically for the {wrongQuestions.length} questions you missed.
+              This study guide covers {questionsProcessed} of your missed questions.
+              {wrongQuestions.length > questionsProcessed && (
+                <span className="text-amber-600">
+                  {" "}({wrongQuestions.length - questionsProcessed} additional questions not included for performance)
+                </span>
+              )}
             </p>
           </div>
 
@@ -178,7 +223,7 @@ export function StudyGuide({
             {formatStudyGuide(studyGuide)}
           </div>
 
-          <div className="mt-12 pt-6 border-t border-blue-200 text-center space-y-4">
+          <div className="mt-8 text-center bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg border border-blue-200">
             <p className="text-blue-600 text-sm">
               Ready to test your knowledge again?
             </p>

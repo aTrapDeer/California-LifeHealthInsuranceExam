@@ -9,7 +9,7 @@ import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
 import { Card } from "@/components/ui/card"
 import { Progress } from "@/components/ui/progress"
-import { Loader2, ArrowLeft } from "lucide-react"
+import { Loader2, ArrowLeft, AlertTriangle } from "lucide-react"
 import { shuffleArray } from "@/lib/utils"
 import type { Question } from "@/types/quiz"
 
@@ -23,21 +23,33 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
   const [userAnswers, setUserAnswers] = useState<Record<string, string>>({})
   const [isSubmitted, setIsSubmitted] = useState(false)
   const [isLoading, setIsLoading] = useState(true)
+  const [loadingError, setLoadingError] = useState<string | null>(null)
   const [showAnswersLive, setShowAnswersLive] = useState(false)
   const [currentStep, setCurrentStep] = useState<"setup" | "quiz" | "results" | "study-guide">("quiz")
 
   useEffect(() => {
     const loadQuestions = async () => {
       try {
+        setLoadingError(null)
         const response = await fetch(`/api/questions?count=${questionCount}&state=${selectedState}`)
+        
+        if (!response.ok) {
+          throw new Error(`Failed to load questions: ${response.status} ${response.statusText}`)
+        }
+        
         const data = await response.json()
         if (data.error) {
-          console.error("Error from API:", data.error)
-          return
+          throw new Error(data.error)
         }
+        
+        if (!data.questions || data.questions.length === 0) {
+          throw new Error("No questions were loaded")
+        }
+        
         setQuestions(data.questions)
       } catch (error) {
         console.error("Failed to load questions:", error)
+        setLoadingError(error instanceof Error ? error.message : "Failed to load questions")
       } finally {
         setIsLoading(false)
       }
@@ -59,11 +71,42 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
   }
 
   const startNewQuiz = () => {
+    // Reset state without reloading the page
     setIsSubmitted(false)
     setUserAnswers({})
     setIsLoading(true)
-    setCurrentStep("setup")
-    window.location.reload()
+    setLoadingError(null)
+    setCurrentStep("quiz")
+    
+    // Reload questions instead of reloading the entire page
+    const loadQuestions = async () => {
+      try {
+        setLoadingError(null)
+        const response = await fetch(`/api/questions?count=${questionCount}&state=${selectedState}`)
+        
+        if (!response.ok) {
+          throw new Error(`Failed to load questions: ${response.status} ${response.statusText}`)
+        }
+        
+        const data = await response.json()
+        if (data.error) {
+          throw new Error(data.error)
+        }
+        
+        if (!data.questions || data.questions.length === 0) {
+          throw new Error("No questions were loaded")
+        }
+        
+        setQuestions(data.questions)
+      } catch (error) {
+        console.error("Failed to load questions:", error)
+        setLoadingError(error instanceof Error ? error.message : "Failed to load questions")
+      } finally {
+        setIsLoading(false)
+      }
+    }
+
+    loadQuestions()
   }
 
   const generateStudyGuide = () => {
@@ -74,6 +117,12 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
     setCurrentStep("results")
   }
 
+  const backToSetup = () => {
+    setCurrentStep("setup")
+    // Trigger a page reload only when going back to setup
+    window.location.reload()
+  }
+
   const progressPercentage = Math.round((Object.keys(userAnswers).length / questions.length) * 100)
 
   if (isLoading) {
@@ -81,6 +130,27 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
       <Card className="quiz-card p-8 flex flex-col items-center justify-center h-64">
         <Loader2 className="h-10 w-10 animate-spin text-blue-600 mb-4" />
         <p className="text-blue-700 text-lg">Loading your quiz questions...</p>
+        <p className="text-blue-600 text-sm mt-2">
+          {questionCount} questions • {selectedState} state
+        </p>
+      </Card>
+    )
+  }
+
+  if (loadingError) {
+    return (
+      <Card className="quiz-card p-8 flex flex-col items-center justify-center h-64">
+        <AlertTriangle className="h-12 w-12 text-amber-500 mb-4" />
+        <h3 className="text-lg font-bold text-red-600 mb-2">Error Loading Quiz</h3>
+        <p className="text-red-500 text-center mb-4">{loadingError}</p>
+        <div className="flex space-x-2">
+          <Button onClick={startNewQuiz} className="blue-button">
+            Try Again
+          </Button>
+          <Button onClick={backToSetup} variant="outline">
+            Back to Setup
+          </Button>
+        </div>
       </Card>
     )
   }
@@ -163,7 +233,7 @@ export function QuizContainer({ questionCount, selectedState }: QuizContainerPro
         </div>
 
         <div className="mt-8 flex justify-between">
-          <Button variant="outline" onClick={startNewQuiz} className="text-blue-600 border-blue-300 hover:bg-blue-50">
+          <Button variant="outline" onClick={backToSetup} className="text-blue-600 border-blue-300 hover:bg-blue-50">
             <ArrowLeft className="h-4 w-4 mr-2" />
             Back to Setup
           </Button>

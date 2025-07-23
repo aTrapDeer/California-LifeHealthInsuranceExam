@@ -20,7 +20,11 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "No wrong questions provided" }, { status: 400 })
     }
 
-    const questionsText = wrongQuestions
+    // Limit the number of questions to prevent timeout
+    const maxQuestions = 15
+    const questionsToProcess = wrongQuestions.slice(0, maxQuestions)
+    
+    const questionsText = questionsToProcess
       .map(({ question, userAnswer }, index) => {
         return `
 ${index + 1}. Question: ${question.text}
@@ -34,7 +38,7 @@ ${index + 1}. Question: ${question.text}
     const prompt = `
 You are an expert insurance educator creating a personalized study guide. A student just completed an insurance quiz and scored ${score}% (${totalQuestions - wrongQuestions.length}/${totalQuestions} correct).
 
-Here are the questions they got wrong:
+Here are ${questionsToProcess.length} of the questions they got wrong${wrongQuestions.length > maxQuestions ? ` (showing ${maxQuestions} most recent)` : ''}:
 ${questionsText}
 
 Please create a comprehensive study guide that:
@@ -47,15 +51,37 @@ Please create a comprehensive study guide that:
 Format your response in clear sections with headers. Make it encouraging but informative, suitable for someone preparing for their insurance examination.
 `
 
-    const { text } = await generateText({
-      model: openai("o3-mini"),
-      prompt,
-      system: "You are an expert in health and life insurance education who creates comprehensive, easy-to-understand study guides. Focus on helping students understand concepts they struggled with and provide practical study strategies.",
+    // Add timeout and error handling for OpenAI API call
+    const timeoutPromise = new Promise((_, reject) => {
+      setTimeout(() => reject(new Error('Request timeout')), 45000) // 45 second timeout
     })
 
-    return NextResponse.json({ studyGuide: text })
+    const generatePromise = generateText({
+      model: openai("gpt-3.5-turbo"), // Use faster model instead of o3-mini
+      prompt,
+      system: "You are an expert in health and life insurance education who creates comprehensive, easy-to-understand study guides. Focus on helping students understand concepts they struggled with and provide practical study strategies.",
+      maxTokens: 2000, // Limit response length
+    })
+
+    const { text } = await Promise.race([generatePromise, timeoutPromise]) as { text: string }
+
+    return NextResponse.json({ 
+      studyGuide: text,
+      questionsProcessed: questionsToProcess.length,
+      totalWrongQuestions: wrongQuestions.length
+    })
   } catch (error) {
     console.error("Error generating study guide:", error)
-    return NextResponse.json({ error: "Failed to generate study guide" }, { status: 500 })
+    
+    // Return different error messages based on error type
+    if (error instanceof Error && error.message === 'Request timeout') {
+      return NextResponse.json({ 
+        error: "The study guide is taking longer than expected to generate. Please try again with fewer questions or try again later." 
+      }, { status: 408 })
+    }
+    
+    return NextResponse.json({ 
+      error: "Failed to generate study guide. Please try again later." 
+    }, { status: 500 })
   }
 } 
