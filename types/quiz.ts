@@ -4,4 +4,5 @@ export interface Question {
   options: string[]
   correctAnswer: string
   state: "Gen" | "CA" | "MO"
+  category: string
 }

@@ -9,7 +9,8 @@
       "Adhesion contract"
     ],
     "correctAnswer": "Unilateral contract",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q2",
@@ -21,7 +22,8 @@
       "Beneficiary designation"
     ],
     "correctAnswer": "Insurable interest",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q3",
@@ -33,7 +35,8 @@
       "Waive the free-look period"
     ],
     "correctAnswer": "Bind coverage from the application date pending underwriting",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q4",
@@ -45,7 +48,8 @@
       "Required to submit proof of loss monthly"
     ],
     "correctAnswer": "Not legally bound to perform any action beyond the application",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q5",
@@ -57,7 +61,8 @@
       "Policy loans"
     ],
     "correctAnswer": "Premiums paid by the insured",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q6",
@@ -69,7 +74,8 @@
       "They are tax deductible as a business expense"
     ],
     "correctAnswer": "They are tax deductible as a business expense",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q7",
@@ -81,7 +87,8 @@
       "Annually renewable term"
     ],
     "correctAnswer": "Annually renewable term",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q8",
@@ -93,7 +100,8 @@
       "Converts to paid‑up additions"
     ],
     "correctAnswer": "Lapses entirely",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q9",
@@ -105,7 +113,8 @@
       "A paid‑up addition"
     ],
     "correctAnswer": "Accumulated cash value",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q10",
@@ -117,7 +126,8 @@
       "Flexible premium option"
     ],
     "correctAnswer": "One‑year term option",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q11",
@@ -129,7 +139,8 @@
       "Debt balance only"
     ],
     "correctAnswer": "Future earnings and inflation",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q12",
@@ -141,7 +152,8 @@
       "Policy illustrations"
     ],
     "correctAnswer": "Credit history, reputation, and habits",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q13",
@@ -153,7 +165,8 @@
       "Tax deductible if converted"
     ],
     "correctAnswer": "Never tax deductible",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q14",
@@ -165,7 +178,8 @@
       "Nonforfeiture options"
     ],
     "correctAnswer": "Notice Regarding Replacement",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   },
   {
     "id": "q15",
@@ -177,7 +191,8 @@
       "On policy anniversary"
     ],
     "correctAnswer": "With the policy at delivery",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q16",
@@ -189,7 +204,8 @@
       "Income replacement"
     ],
     "correctAnswer": "Current health status only",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q17",
@@ -201,7 +217,8 @@
       "Guaranteed insurability rider"
     ],
     "correctAnswer": "Payor benefit rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q18",
@@ -213,7 +230,8 @@
       "Are flexible"
     ],
     "correctAnswer": "Increase each year",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q19",
@@ -225,7 +243,8 @@
       "Premium credit"
     ],
     "correctAnswer": "Coinsurance percentage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q20",
@@ -237,7 +256,8 @@
       "Decreasing term"
     ],
     "correctAnswer": "Decreasing term",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q21",
@@ -249,7 +269,8 @@
       "Flexible installments"
     ],
     "correctAnswer": "For a specified time only",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q22",
@@ -261,7 +282,8 @@
       "Survivor benefits"
     ],
     "correctAnswer": "Welfare benefits",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q23",
@@ -273,7 +295,8 @@
       "Medicare and Social Services"
     ],
     "correctAnswer": "Old‑Age, Survivors, and Disability Insurance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q24",
@@ -285,7 +308,8 @@
       "120 days"
     ],
     "correctAnswer": "31 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q25",
@@ -297,7 +321,8 @@
       "No employer contribution"
     ],
     "correctAnswer": "Employer pays full premium",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q26",
@@ -309,7 +334,8 @@
       "Guaranteed insurability rider"
     ],
     "correctAnswer": "Accelerated benefit rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q27",
@@ -321,7 +347,8 @@
       "Reinstatement period"
     ],
     "correctAnswer": "Waiting period before benefits",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q28",
@@ -333,7 +360,8 @@
       "Free‑look waiver"
     ],
     "correctAnswer": "Notice Regarding Replacement",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q29",
@@ -345,7 +373,8 @@
       "A government pool"
     ],
     "correctAnswer": "An unincorporated group insuring one another",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q30",
@@ -357,7 +386,8 @@
       "Producer"
     ],
     "correctAnswer": "Policyholder",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q31",
@@ -369,7 +399,8 @@
       "At policy maturity"
     ],
     "correctAnswer": "Immediately after purchase",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q32",
@@ -381,7 +412,8 @@
       "Term conversion"
     ],
     "correctAnswer": "Minimum annual income",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q33",
@@ -393,7 +425,8 @@
       "An annuity"
     ],
     "correctAnswer": "A permanent policy",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q34",
@@ -405,7 +438,8 @@
       "60 days"
     ],
     "correctAnswer": "10 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q35",
@@ -417,7 +451,8 @@
       "Length of service"
     ],
     "correctAnswer": "A percentage of salary",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q36",
@@ -429,7 +464,8 @@
       "Replaces Medigap policies"
     ],
     "correctAnswer": "Combines A and B benefits",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q37",
@@ -441,7 +477,8 @@
       "90 days"
     ],
     "correctAnswer": "63 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q38",
@@ -453,7 +490,8 @@
       "Policy loan interest"
     ],
     "correctAnswer": "Stock index performance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q39",
@@ -465,7 +503,8 @@
       "Reduces premiums permanently"
     ],
     "correctAnswer": "Waives cost of insurance during disability",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q40",
@@ -477,7 +516,8 @@
       "An underwriting fee"
     ],
     "correctAnswer": "A percentage share after deductible",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q41",
@@ -489,7 +529,8 @@
       "Focus on preventive care"
     ],
     "correctAnswer": "Unlimited out-of-network access",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q42",
@@ -501,7 +542,8 @@
       "Eliminate deductibles"
     ],
     "correctAnswer": "Confirm medical necessity",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q43",
@@ -513,7 +555,8 @@
       "Cash value accumulation"
     ],
     "correctAnswer": "Financial loss on applicant's death",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q44",
@@ -525,7 +568,8 @@
       "Guaranteed cash value"
     ],
     "correctAnswer": "Guaranteed cash value",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q45",
@@ -537,7 +581,8 @@
       "Immediate cancellation"
     ],
     "correctAnswer": "Disclosure of pros and cons",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q46",
@@ -549,7 +594,8 @@
       "22 days"
     ],
     "correctAnswer": "8 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q47",
@@ -561,7 +607,8 @@
       "Set fixed premiums"
     ],
     "correctAnswer": "Predict losses with large pools",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q48",
@@ -573,7 +620,8 @@
       "Legal liability risk"
     ],
     "correctAnswer": "Intentional risk behavior",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q49",
@@ -585,7 +633,8 @@
       "Government‑backed"
     ],
     "correctAnswer": "Not insurable",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q50",
@@ -597,7 +646,8 @@
       "Extended term only"
     ],
     "correctAnswer": "Individual policy without underwriting",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q51",
@@ -609,7 +659,8 @@
       "Disability status only"
     ],
     "correctAnswer": "6 credits in 13 quarters",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q52",
@@ -621,7 +672,8 @@
       "Provide life insurance"
     ],
     "correctAnswer": "Cover gaps in Parts A and B",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q53",
@@ -633,7 +685,8 @@
       "Original premium paid"
     ],
     "correctAnswer": "Original premium paid",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q54",
@@ -645,7 +698,8 @@
       "Deferred entirely"
     ],
     "correctAnswer": "Taxed on interest first plus penalty if under 59½",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q55",
@@ -657,7 +711,8 @@
       "Mortality risk"
     ],
     "correctAnswer": "Investment risk",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q56",
@@ -669,7 +724,8 @@
       "Policy renewal"
     ],
     "correctAnswer": "Surrender of the new contract",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q57",
@@ -681,7 +737,8 @@
       "Extend term coverage"
     ],
     "correctAnswer": "Purchase reduced paid‑up policy",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q58",
@@ -693,7 +750,8 @@
       "Policy loan notice"
     ],
     "correctAnswer": "Applicant disclosure of pros/cons",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q59",
@@ -705,7 +763,8 @@
       "Indemnity only"
     ],
     "correctAnswer": "Cost and quality coordination",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q60",
@@ -717,7 +776,8 @@
       "Dental services"
     ],
     "correctAnswer": "Inpatient hospital care",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q61",
@@ -729,7 +789,8 @@
       "365 days"
     ],
     "correctAnswer": "63 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q62",
@@ -741,7 +802,8 @@
       "Out-of-pocket max"
     ],
     "correctAnswer": "Daily fixed amount",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q63",
@@ -753,7 +815,8 @@
       "Medicare eligibility"
     ],
     "correctAnswer": "Policy effective date",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q64",
@@ -765,7 +828,8 @@
       "Economic conditions"
     ],
     "correctAnswer": "Insured's intentional behavior",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q65",
@@ -777,7 +841,8 @@
       "Increases face amount"
     ],
     "correctAnswer": "Waives premiums during disability",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q66",
@@ -789,7 +854,8 @@
       "Deny claims anytime"
     ],
     "correctAnswer": "Investigate misstatements initially",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q67",
@@ -801,7 +867,8 @@
       "Short‑term coverage"
     ],
     "correctAnswer": "Cash value accumulation",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q68",
@@ -813,7 +880,8 @@
       "No employer contribution"
     ],
     "correctAnswer": "All eligible employees enrolled",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q69",
@@ -825,7 +893,8 @@
       "Lapsing a policy"
     ],
     "correctAnswer": "Exchanging old policy for new with disclosure",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q70",
@@ -837,7 +906,8 @@
       "Never required"
     ],
     "correctAnswer": "At application for life insurance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q71",
@@ -849,7 +919,8 @@
       "Initial face amount only"
     ],
     "correctAnswer": "Credited interest rate and cash value",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q72",
@@ -861,7 +932,8 @@
       "Conversion rider"
     ],
     "correctAnswer": "Waiver of premium rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q73",
@@ -873,7 +945,8 @@
       "Cross‑border care"
     ],
     "correctAnswer": "Overinsurance beyond actual loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q74",
@@ -885,7 +958,8 @@
       "Policy loan values"
     ],
     "correctAnswer": "Performance of underlying investments",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q75",
@@ -897,7 +971,8 @@
       "Indemnity"
     ],
     "correctAnswer": "HMO",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q76",
@@ -909,7 +984,8 @@
       "Increase premiums"
     ],
     "correctAnswer": "Cancel and refund within a set time",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q77",
@@ -921,7 +997,8 @@
       "Term renewals"
     ],
     "correctAnswer": "Recurrent disabilities",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
   },
   {
     "id": "q78",
@@ -933,7 +1010,8 @@
       "Fixed policy wording"
     ],
     "correctAnswer": "Accurate loss prediction with large pools",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q79",
@@ -945,7 +1023,8 @@
       "Policy loans"
     ],
     "correctAnswer": "Return of premium overpayment",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q80",
@@ -957,7 +1036,8 @@
       "Long‑term care"
     ],
     "correctAnswer": "Physician and outpatient services",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q81",
@@ -969,7 +1049,8 @@
       "Free-look provision"
     ],
     "correctAnswer": "Entire contract clause",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q82",
@@ -981,7 +1062,8 @@
       "Paid-up additions rider"
     ],
     "correctAnswer": "Cost of living rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q83",
@@ -993,7 +1075,8 @@
       "Surrender charge"
     ],
     "correctAnswer": "Dividend",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q84",
@@ -1005,7 +1088,8 @@
       "Non-guaranteed values"
     ],
     "correctAnswer": "Primary beneficiary",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q85",
@@ -1017,7 +1101,8 @@
       "Convertible term"
     ],
     "correctAnswer": "Whole life",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q86",
@@ -1029,7 +1114,8 @@
       "Free-look period"
     ],
     "correctAnswer": "Two years in force",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
   },
   {
     "id": "q87",
@@ -1041,7 +1127,8 @@
       "Home health care"
     ],
     "correctAnswer": "Physician office visit",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q88",
@@ -1053,7 +1140,8 @@
       "Premiums are always deductible"
     ],
     "correctAnswer": "Withdrawals are taxed LIFO",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q89",
@@ -1065,7 +1153,8 @@
       "Dental plan"
     ],
     "correctAnswer": "Major medical plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q90",
@@ -1077,7 +1166,8 @@
       "Free-look period"
     ],
     "correctAnswer": "Reinstatement provision",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q91",
@@ -1089,7 +1179,8 @@
       "120 days"
     ],
     "correctAnswer": "18 months",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q92",
@@ -1101,7 +1192,8 @@
       "Term life coverage"
     ],
     "correctAnswer": "Employer‑funded medical reimbursements",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q93",
@@ -1113,7 +1205,8 @@
       "0%"
     ],
     "correctAnswer": "10%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q94",
@@ -1125,7 +1218,8 @@
       "Group life plan"
     ],
     "correctAnswer": "Qualified plan for self-employed",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q95",
@@ -1137,7 +1231,8 @@
       "Not reported"
     ],
     "correctAnswer": "Taxable upon receipt",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q96",
@@ -1149,7 +1244,8 @@
       "Time payment of claims"
     ],
     "correctAnswer": "Legal actions provision",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q97",
@@ -1161,7 +1257,8 @@
       "College tuition savings"
     ],
     "correctAnswer": "Tax‑favored medical expense savings",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q98",
@@ -1173,7 +1270,8 @@
       "Policy loan value"
     ],
     "correctAnswer": "Policy loan value",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q99",
@@ -1185,7 +1283,8 @@
       "Premium payments"
     ],
     "correctAnswer": "Sickness",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q100",
@@ -1197,7 +1296,8 @@
       "Orthodontics"
     ],
     "correctAnswer": "Major services",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q101",
@@ -1209,7 +1309,8 @@
       "Issuing policies directly"
     ],
     "correctAnswer": "Acting in applicant's best interest",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   },
   {
     "id": "q102",
@@ -1221,7 +1322,8 @@
       "Monthly"
     ],
     "correctAnswer": "Monthly",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q103",
@@ -1233,7 +1335,8 @@
       "HSA"
     ],
     "correctAnswer": "HR-10 plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q104",
@@ -1245,7 +1348,8 @@
       "Insured's statements"
     ],
     "correctAnswer": "Policy illustration",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q105",
@@ -1257,7 +1361,8 @@
       "Cash value increases"
     ],
     "correctAnswer": "Death benefit declines over time",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q106",
@@ -1269,7 +1374,8 @@
       "Cost of living rider"
     ],
     "correctAnswer": "Guaranteed insurability rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q107",
@@ -1281,7 +1387,8 @@
       "Premiums are waived"
     ],
     "correctAnswer": "Cannot be changed without beneficiary consent",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q108",
@@ -1293,7 +1400,8 @@
       "Free-look period"
     ],
     "correctAnswer": "Grace period",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q109",
@@ -1305,7 +1413,8 @@
       "Sold only to businesses"
     ],
     "correctAnswer": "Premiums collected at home",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q110",
@@ -1317,7 +1426,8 @@
       "Inherent authority"
     ],
     "correctAnswer": "Express authority",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   },
   {
     "id": "q111",
@@ -1329,7 +1439,8 @@
       "Extend as term coverage"
     ],
     "correctAnswer": "Automatically terminate",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q112",
@@ -1341,7 +1452,8 @@
       "Accelerated benefit rider"
     ],
     "correctAnswer": "Waiver of cost of insurance rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q113",
@@ -1353,7 +1465,8 @@
       "Lump sum"
     ],
     "correctAnswer": "Fixed period",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q114",
@@ -1365,7 +1478,8 @@
       "Free-look"
     ],
     "correctAnswer": "Two years",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
   },
   {
     "id": "q115",
@@ -1377,7 +1491,8 @@
       "Joint and survivor"
     ],
     "correctAnswer": "Life with period certain",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q116",
@@ -1389,7 +1504,8 @@
       "HMO plan"
     ],
     "correctAnswer": "Tax‑qualified LTC policy",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q117",
@@ -1401,7 +1517,8 @@
       "Term conversion rider"
     ],
     "correctAnswer": "Living needs rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q118",
@@ -1413,7 +1530,8 @@
       "Provide dividends"
     ],
     "correctAnswer": "Allow policy review and cancellation",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q119",
@@ -1425,7 +1543,8 @@
       "FSA"
     ],
     "correctAnswer": "HRA",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q120",
@@ -1437,7 +1556,8 @@
       "The policy premium"
     ],
     "correctAnswer": "A fixed fee per service",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q121",
@@ -1449,7 +1569,8 @@
       "Part D"
     ],
     "correctAnswer": "Part B",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q122",
@@ -1461,7 +1582,8 @@
       "EPO"
     ],
     "correctAnswer": "PPO",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q123",
@@ -1473,7 +1595,8 @@
       "Medicare benefit"
     ],
     "correctAnswer": "Rider to group life",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q124",
@@ -1485,7 +1608,8 @@
       "None"
     ],
     "correctAnswer": "Sickness",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q125",
@@ -1497,7 +1621,8 @@
       "Health savings accounts"
     ],
     "correctAnswer": "Qualified employer retirement plans",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q126",
@@ -1509,7 +1634,8 @@
       "Claim forms"
     ],
     "correctAnswer": "Change of beneficiary",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q127",
@@ -1521,7 +1647,8 @@
       "Managed care plan"
     ],
     "correctAnswer": "Hospital indemnity policy",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q128",
@@ -1533,7 +1660,8 @@
       "MSA"
     ],
     "correctAnswer": "QSEHRA",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q129",
@@ -1545,7 +1673,8 @@
       "Insurable interest"
     ],
     "correctAnswer": "Indemnity",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q130",
@@ -1557,7 +1686,8 @@
       "No requirement"
     ],
     "correctAnswer": "75% required",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q131",
@@ -1569,7 +1699,8 @@
       "Lump sum"
     ],
     "correctAnswer": "Interest only",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q132",
@@ -1581,7 +1712,8 @@
       "Only pays at death"
     ],
     "correctAnswer": "Matures at a specified date",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q133",
@@ -1593,7 +1725,8 @@
       "0%"
     ],
     "correctAnswer": "6%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q134",
@@ -1605,7 +1738,8 @@
       "Policy endorsement"
     ],
     "correctAnswer": "Policy endorsement",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q135",
@@ -1617,7 +1751,8 @@
       "Guaranteed insurability rider"
     ],
     "correctAnswer": "Payor benefit rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q136",
@@ -1629,7 +1764,8 @@
       "Level term"
     ],
     "correctAnswer": "Decreasing term",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q137",
@@ -1641,7 +1777,8 @@
       "Immediate annuity"
     ],
     "correctAnswer": "Equity indexed annuity",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q138",
@@ -1653,7 +1790,8 @@
       "Free-look period"
     ],
     "correctAnswer": "Automatic premium loan provision",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q139",
@@ -1665,7 +1803,8 @@
       "Grace period extension"
     ],
     "correctAnswer": "Owner change",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q140",
@@ -1677,7 +1816,8 @@
       "Age determines all rates"
     ],
     "correctAnswer": "Overall group characteristics determine rate",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q141",
@@ -1689,7 +1829,8 @@
       "Refunds premium on death"
     ],
     "correctAnswer": "Pays both lives and survivor gets remainder",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q142",
@@ -1701,7 +1842,8 @@
       "Guaranteed insurability rider"
     ],
     "correctAnswer": "Cost of living rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q143",
@@ -1713,7 +1855,8 @@
       "Full face amount"
     ],
     "correctAnswer": "Fixed interest rate",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q144",
@@ -1725,7 +1868,8 @@
       "Group plan"
     ],
     "correctAnswer": "Life policy failing seven‑pay test",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q145",
@@ -1737,7 +1881,8 @@
       "Paid‑up additions clause"
     ],
     "correctAnswer": "Paid‑up additions clause",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q146",
@@ -1749,7 +1894,8 @@
       "Term life"
     ],
     "correctAnswer": "Both sickness and accidents",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q147",
@@ -1761,7 +1907,8 @@
       "Life with period certain"
     ],
     "correctAnswer": "Pure life annuity",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q148",
@@ -1773,7 +1920,8 @@
       "Endowment"
     ],
     "correctAnswer": "Universal life",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q149",
@@ -1785,7 +1933,8 @@
       "A policy fee"
     ],
     "correctAnswer": "A fixed dollar amount per service",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q150",
@@ -1797,7 +1946,8 @@
       "Annuity contract"
     ],
     "correctAnswer": "Employer‑owned medical expense account",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q151",
@@ -1809,7 +1959,8 @@
       "Physical exam provision"
     ],
     "correctAnswer": "Time payment of claims",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q152",
@@ -1821,7 +1972,8 @@
       "No deductible"
     ],
     "correctAnswer": "Restricted network for certain services",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q153",
@@ -1833,7 +1985,8 @@
       "COBRA exhaustion"
     ],
     "correctAnswer": "Group coverage lost due to employment status",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q154",
@@ -1845,7 +1998,8 @@
       "Inpatient hospital services"
     ],
     "correctAnswer": "Surgeon's fees",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q155",
@@ -1857,7 +2011,8 @@
       "Guaranteed conversion"
     ],
     "correctAnswer": "Blanket coverage for varying individuals",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q156",
@@ -1869,7 +2024,8 @@
       "Cost‑sharing features"
     ],
     "correctAnswer": "Limited duration coverage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q157",
@@ -1881,7 +2037,8 @@
       "Reinstatement clause"
     ],
     "correctAnswer": "Automatic premium loan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q158",
@@ -1893,7 +2050,8 @@
       "They never issue dividends"
     ],
     "correctAnswer": "Policyholders share in profits via dividends",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q159",
@@ -1905,7 +2063,8 @@
       "Nonforfeiture option"
     ],
     "correctAnswer": "Policy loan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q160",
@@ -1917,7 +2076,8 @@
       "Lump sum"
     ],
     "correctAnswer": "Fixed period",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q161",
@@ -1929,7 +2089,8 @@
       "Reinstatement clause"
     ],
     "correctAnswer": "Misstatement of age",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q162",
@@ -1941,7 +2102,8 @@
       "No renewability guarantee"
     ],
     "correctAnswer": "Insurer cannot change rates",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q163",
@@ -1953,7 +2115,8 @@
       "Deliver policies"
     ],
     "correctAnswer": "Handle claims decisions",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   },
   {
     "id": "q164",
@@ -1965,7 +2128,8 @@
       "Refunds premium on death"
     ],
     "correctAnswer": "Pays on first death only",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q165",
@@ -1977,7 +2141,8 @@
       "Lump sum"
     ],
     "correctAnswer": "Life income",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q166",
@@ -1989,7 +2154,8 @@
       "Set policy loan interest"
     ],
     "correctAnswer": "Assess lifestyle and character",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q167",
@@ -2001,7 +2167,8 @@
       "Conditionally renewable"
     ],
     "correctAnswer": "Guaranteed renewable",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q168",
@@ -2013,7 +2180,8 @@
       "PPO plan"
     ],
     "correctAnswer": "Comprehensive major medical plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q169",
@@ -2025,7 +2193,8 @@
       "24 hours"
     ],
     "correctAnswer": "8 hours",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   },
   {
     "id": "q170",
@@ -2037,7 +2206,8 @@
       "Assignment to lender"
     ],
     "correctAnswer": "Creditor dictates insurer choice",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q171",
@@ -2049,7 +2219,8 @@
       "Term conversion rider"
     ],
     "correctAnswer": "Guaranteed insurability rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q172",
@@ -2061,7 +2232,8 @@
       "Principle of utmost good faith"
     ],
     "correctAnswer": "Principle of indemnity",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q173",
@@ -2073,7 +2245,8 @@
       "Dividends convert to paid‑up additions"
     ],
     "correctAnswer": "Dividends accumulate interest if not used",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q174",
@@ -2085,7 +2258,8 @@
       "Provide free advice"
     ],
     "correctAnswer": "Request application completion",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q175",
@@ -2097,7 +2271,8 @@
       "IRS"
     ],
     "correctAnswer": "FINRA",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q176",
@@ -2109,7 +2284,8 @@
       "Return of premium rider"
     ],
     "correctAnswer": "Waiver of premium rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q177",
@@ -2121,7 +2297,8 @@
       "Automatically renewable"
     ],
     "correctAnswer": "Small business association coverage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q178",
@@ -2133,7 +2310,8 @@
       "Beneficiary designation change"
     ],
     "correctAnswer": "Misstatement of age on application",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q179",
@@ -2145,7 +2323,8 @@
       "No participation requirement"
     ],
     "correctAnswer": "At least 75% participation required",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q180",
@@ -2157,7 +2336,8 @@
       "Group certificate"
     ],
     "correctAnswer": "Blanket coverage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q181",
@@ -2169,7 +2349,8 @@
       "COBRA"
     ],
     "correctAnswer": "FCRA",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q182",
@@ -2181,7 +2362,8 @@
       "Accidental death rider"
     ],
     "correctAnswer": "Chronic care rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q183",
@@ -2193,7 +2375,8 @@
       "Fund health savings account"
     ],
     "correctAnswer": "Extend employer‑sponsored coverage after termination",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q184",
@@ -2205,7 +2388,8 @@
       "Conditionally renewable"
     ],
     "correctAnswer": "Guaranteed renewable",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q185",
@@ -2217,7 +2401,8 @@
       "Surrender charge"
     ],
     "correctAnswer": "Nonforfeiture option",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q186",
@@ -2229,7 +2414,8 @@
       "Elimination period"
     ],
     "correctAnswer": "Gap between benefit periods",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q187",
@@ -2241,7 +2427,8 @@
       "Physical exam"
     ],
     "correctAnswer": "Proof of loss provision",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q188",
@@ -2253,7 +2440,8 @@
       "Term conversion rider"
     ],
     "correctAnswer": "Guaranteed insurability rider",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q189",
@@ -2265,7 +2453,8 @@
       "Premium refund mechanism"
     ],
     "correctAnswer": "Insurer's right to recover from third party",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q190",
@@ -2277,7 +2466,8 @@
       "No charitable activity"
     ],
     "correctAnswer": "Members of a lodge or society",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q191",
@@ -2289,7 +2479,8 @@
       "Stock insurer"
     ],
     "correctAnswer": "Owned by its insureds to insure their own risks",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q192",
@@ -2301,7 +2492,8 @@
       "Is always tax‑free"
     ],
     "correctAnswer": "Provides income while the annuitant lives",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q193",
@@ -2313,7 +2505,8 @@
       "Insurer"
     ],
     "correctAnswer": "Insured",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q194",
@@ -2325,7 +2518,8 @@
       "Reinstatement clause"
     ],
     "correctAnswer": "Entire contract clause",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q195",
@@ -2337,7 +2531,8 @@
       "Equity indexed annuity"
     ],
     "correctAnswer": "Annuity certain",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q196",
@@ -2349,7 +2544,8 @@
       "Convert to paid‑up additions"
     ],
     "correctAnswer": "Receive lump‑sum cash value",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q197",
@@ -2361,7 +2557,8 @@
       "Endowment"
     ],
     "correctAnswer": "Universal life",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q198",
@@ -2373,7 +2570,8 @@
       "Adds term coverage"
     ],
     "correctAnswer": "Pays a percentage of lost income",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q199",
@@ -2385,7 +2583,8 @@
       "Employer self‑funded plan"
     ],
     "correctAnswer": "Tax‑qualified LTC",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q200",
@@ -2397,7 +2596,8 @@
       "Extended term option"
     ],
     "correctAnswer": "Dividend option",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q201",
@@ -2409,7 +2609,8 @@
       "30"
     ],
     "correctAnswer": "26",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q202",
@@ -2421,7 +2622,8 @@
       "Long-term care"
     ],
     "correctAnswer": "Long-term care",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q203",
@@ -2433,7 +2635,8 @@
       "67"
     ],
     "correctAnswer": "62",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q204",
@@ -2445,7 +2648,8 @@
       "Tricare"
     ],
     "correctAnswer": "Medicaid",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q205",
@@ -2457,7 +2661,8 @@
       "Part D"
     ],
     "correctAnswer": "Part C",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q206",
@@ -2469,7 +2674,8 @@
       "Part D"
     ],
     "correctAnswer": "Part D",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q207",
@@ -2481,7 +2687,8 @@
       "100"
     ],
     "correctAnswer": "50",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q208",
@@ -2493,7 +2700,8 @@
       "$4,000 per full-time employee annually"
     ],
     "correctAnswer": "$2,000 per full-time employee annually",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q209",
@@ -2505,7 +2713,8 @@
       "None of the above"
     ],
     "correctAnswer": "Premium tax credits only",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q210",
@@ -2517,7 +2726,8 @@
       "Medicaid"
     ],
     "correctAnswer": "Vision-only standalone plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q211",
@@ -2529,7 +2739,8 @@
       "2021"
     ],
     "correctAnswer": "2019",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q212",
@@ -2541,7 +2752,8 @@
       "Long-term care"
     ],
     "correctAnswer": "Maternity and newborn care",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q213",
@@ -2553,7 +2765,8 @@
       "85%"
     ],
     "correctAnswer": "85%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q214",
@@ -2565,7 +2778,8 @@
       "Platinum"
     ],
     "correctAnswer": "Gold",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q215",
@@ -2577,7 +2791,8 @@
       "Platinum"
     ],
     "correctAnswer": "Bronze",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q216",
@@ -2589,7 +2804,8 @@
       "Platinum"
     ],
     "correctAnswer": "Diamond",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q217",
@@ -2601,7 +2817,8 @@
       "Platinum"
     ],
     "correctAnswer": "Silver",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q218",
@@ -2613,7 +2830,8 @@
       "All of the above"
     ],
     "correctAnswer": "All of the above",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q219",
@@ -2625,7 +2843,8 @@
       "Expand Medicaid eligibility"
     ],
     "correctAnswer": "Limit net losses for insurers",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q220",
@@ -2637,7 +2856,8 @@
       "Medicaid managed care"
     ],
     "correctAnswer": "Individual market",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q221",
@@ -2649,7 +2869,8 @@
       "Essential health benefits"
     ],
     "correctAnswer": "Market stability",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q222",
@@ -2661,7 +2882,8 @@
       "Self Health Options Program"
     ],
     "correctAnswer": "Small Business Health Options Program",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q223",
@@ -2673,7 +2895,8 @@
       "COBRA"
     ],
     "correctAnswer": "SHOP",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q224",
@@ -2685,7 +2908,8 @@
       "Rate increases"
     ],
     "correctAnswer": "Fraud or material misrepresentation",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q225",
@@ -2697,7 +2921,8 @@
       "Is only dental and vision"
     ],
     "correctAnswer": "Has never changed any benefits or cost-sharing",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q226",
@@ -2709,7 +2934,8 @@
       "Lowering employee contributions"
     ],
     "correctAnswer": "Increasing coinsurance by more than 15%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q227",
@@ -2721,7 +2947,8 @@
       "Urgent care centers"
     ],
     "correctAnswer": "In-network providers",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q228",
@@ -2733,7 +2960,8 @@
       "All of the above"
     ],
     "correctAnswer": "All of the above",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q229",
@@ -2745,7 +2973,8 @@
       "Three"
     ],
     "correctAnswer": "One",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q230",
@@ -2757,7 +2986,8 @@
       "Vision only"
     ],
     "correctAnswer": "Mental health services",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q231",
@@ -2769,7 +2999,8 @@
       "Selective underwriting"
     ],
     "correctAnswer": "Guaranteed issue",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q232",
@@ -2781,7 +3012,8 @@
       "Claims experience"
     ],
     "correctAnswer": "Age, tobacco use, and geography",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q233",
@@ -2793,7 +3025,8 @@
       "Geography"
     ],
     "correctAnswer": "Gender",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q234",
@@ -2805,7 +3038,8 @@
       "85%"
     ],
     "correctAnswer": "80%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q235",
@@ -2817,7 +3051,8 @@
       "90%"
     ],
     "correctAnswer": "85%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q236",
@@ -2829,7 +3064,8 @@
       "Flexible Funding Model"
     ],
     "correctAnswer": "Federally Facilitated Marketplace",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q237",
@@ -2841,7 +3077,8 @@
       "Physician services"
     ],
     "correctAnswer": "Home health care",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q238",
@@ -2853,7 +3090,8 @@
       "Vision care"
     ],
     "correctAnswer": "Preventive services",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q239",
@@ -2865,7 +3103,8 @@
       "Medicare Select"
     ],
     "correctAnswer": "Medicare Advantage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q240",
@@ -2877,7 +3116,8 @@
       "Home health services"
     ],
     "correctAnswer": "Prescription drugs",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q241",
@@ -2889,7 +3129,8 @@
       "Outpatient surgery"
     ],
     "correctAnswer": "Outpatient surgery",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q242",
@@ -2901,7 +3142,8 @@
       "Inpatient hospital stays"
     ],
     "correctAnswer": "Inpatient hospital stays",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q243",
@@ -2913,7 +3155,8 @@
       "Per admission"
     ],
     "correctAnswer": "Benefit period",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q244",
@@ -2925,7 +3168,8 @@
       "20%"
     ],
     "correctAnswer": "80%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q245",
@@ -2937,7 +3181,8 @@
       "Nothing"
     ],
     "correctAnswer": "Deductible only",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q246",
@@ -2949,7 +3194,8 @@
       "40 days"
     ],
     "correctAnswer": "20 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q247",
@@ -2961,7 +3207,8 @@
       "50% coinsurance"
     ],
     "correctAnswer": "Daily coinsurance payment",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q248",
@@ -2973,7 +3220,8 @@
       "Region-specific"
     ],
     "correctAnswer": "Income-related",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q249",
@@ -2985,7 +3233,8 @@
       "Until retiring"
     ],
     "correctAnswer": "3 months before to 3 months after turning 65",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q250",
@@ -2997,7 +3246,8 @@
       "No penalty"
     ],
     "correctAnswer": "10% per year late",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q251",
@@ -3009,7 +3259,8 @@
       "Offer long-term care benefits"
     ],
     "correctAnswer": "Cover gaps in Parts A and B",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q252",
@@ -3021,7 +3272,8 @@
       "Tobacco use"
     ],
     "correctAnswer": "Health status",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q253",
@@ -3033,7 +3285,8 @@
       "Plan G"
     ],
     "correctAnswer": "Plan F",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q254",
@@ -3045,7 +3298,8 @@
       "Part D"
     ],
     "correctAnswer": "Part B",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q255",
@@ -3057,7 +3311,8 @@
       "All of the above"
     ],
     "correctAnswer": "All of the above",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q256",
@@ -3069,7 +3324,8 @@
       "Veterans Affairs"
     ],
     "correctAnswer": "Private plans approved by Medicare",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q257",
@@ -3081,7 +3337,8 @@
       "COBRA"
     ],
     "correctAnswer": "Medicare",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q258",
@@ -3093,7 +3350,8 @@
       "General Revenue"
     ],
     "correctAnswer": "Hospital Insurance Trust Fund",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q259",
@@ -3105,7 +3363,8 @@
       "General Revenue"
     ],
     "correctAnswer": "Supplemental Medical Insurance Trust Fund",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q260",
@@ -3117,7 +3376,8 @@
       "Enrolled in Part C"
     ],
     "correctAnswer": "40 quarters of Medicare-covered employment",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q261",
@@ -3129,7 +3389,8 @@
       "Per claim"
     ],
     "correctAnswer": "Calendar year",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q262",
@@ -3141,7 +3402,8 @@
       "120 days"
     ],
     "correctAnswer": "90 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q263",
@@ -3153,7 +3415,8 @@
       "Employer Mandate"
     ],
     "correctAnswer": "Auto-enrollment",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q264",
@@ -3165,7 +3428,8 @@
       "Coverage gap for dependents"
     ],
     "correctAnswer": "Affordability measured only on self-only coverage making family coverage unaffordable",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q265",
@@ -3177,7 +3441,8 @@
       "State median income"
     ],
     "correctAnswer": "Household income",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q266",
@@ -3189,7 +3454,8 @@
       "Health savings account contributions"
     ],
     "correctAnswer": "Minimum Essential Coverage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q267",
@@ -3201,7 +3467,8 @@
       "Applied deductible only"
     ],
     "correctAnswer": "Amount allowed, amount paid, and amount owed by enrollee",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q268",
@@ -3213,7 +3480,8 @@
       "Not eligible"
     ],
     "correctAnswer": "Immediately upon enrollment",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q269",
@@ -3225,7 +3493,8 @@
       "Medicaid"
     ],
     "correctAnswer": "Vision-only standalone plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q270",
@@ -3237,7 +3506,8 @@
       "200%"
     ],
     "correctAnswer": "133%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q271",
@@ -3249,7 +3519,8 @@
       "Platinum"
     ],
     "correctAnswer": "Silver",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q272",
@@ -3261,7 +3532,8 @@
       "100%"
     ],
     "correctAnswer": "80%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q273",
@@ -3273,7 +3545,8 @@
       "40%"
     ],
     "correctAnswer": "20%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q274",
@@ -3285,7 +3558,8 @@
       "COBRA"
     ],
     "correctAnswer": "Employer group health plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q275",
@@ -3297,7 +3571,8 @@
       "90 days"
     ],
     "correctAnswer": "30 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q276",
@@ -3309,7 +3584,8 @@
       "Part B coinsurance"
     ],
     "correctAnswer": "Part B deductible",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q277",
@@ -3321,7 +3597,8 @@
       "Until first premium payment"
     ],
     "correctAnswer": "6 months beginning on Part B effective date",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q278",
@@ -3333,7 +3610,8 @@
       "Enrollment in Part B"
     ],
     "correctAnswer": "A 3-day inpatient hospital stay",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q279",
@@ -3345,7 +3623,8 @@
       "Part A only"
     ],
     "correctAnswer": "Parts A and B",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q280",
@@ -3357,7 +3636,8 @@
       "Annual out-of-pocket maximum"
     ],
     "correctAnswer": "Catastrophic coverage threshold",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q281",
@@ -3369,7 +3649,8 @@
       "0%"
     ],
     "correctAnswer": "5%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q282",
@@ -3381,7 +3662,8 @@
       "100"
     ],
     "correctAnswer": "60",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q283",
@@ -3393,7 +3675,8 @@
       "50% of charges"
     ],
     "correctAnswer": "A daily fixed coinsurance amount",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q284",
@@ -3403,7 +3686,8 @@
       "False"
     ],
     "correctAnswer": "True",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q285",
@@ -3415,7 +3699,8 @@
       "Platinum"
     ],
     "correctAnswer": "Silver",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q286",
@@ -3427,7 +3712,8 @@
       "90%"
     ],
     "correctAnswer": "70%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q287",
@@ -3439,7 +3725,8 @@
       "Dynamic risk"
     ],
     "correctAnswer": "Speculative risk",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q288",
@@ -3451,7 +3738,8 @@
       "Attitudinal hazard"
     ],
     "correctAnswer": "Moral hazard",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q289",
@@ -3463,7 +3751,8 @@
       "Dynamic risk"
     ],
     "correctAnswer": "Dynamic risk",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q290",
@@ -3475,7 +3764,8 @@
       "Risk reduction"
     ],
     "correctAnswer": "Risk transfer",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q291",
@@ -3487,7 +3777,8 @@
       "Exposure risk"
     ],
     "correctAnswer": "Objective risk",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q292",
@@ -3499,7 +3790,8 @@
       "Risk reduction"
     ],
     "correctAnswer": "Risk avoidance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q293",
@@ -3511,7 +3803,8 @@
       "Risk avoidance"
     ],
     "correctAnswer": "Risk reduction",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q294",
@@ -3523,7 +3816,8 @@
       "A measure of loss"
     ],
     "correctAnswer": "The cause of loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q295",
@@ -3535,7 +3829,8 @@
       "Risk avoidance"
     ],
     "correctAnswer": "Risk pooling",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q296",
@@ -3547,7 +3842,8 @@
       "Risk avoidance"
     ],
     "correctAnswer": "Insurance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q297",
@@ -3559,7 +3855,8 @@
       "Holiday travel"
     ],
     "correctAnswer": "Marriage",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q298",
@@ -3571,7 +3868,8 @@
       "Adoption"
     ],
     "correctAnswer": "Purchase of a pet",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q299",
@@ -3583,7 +3881,8 @@
       "120 days"
     ],
     "correctAnswer": "60 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q300",
@@ -3595,7 +3894,8 @@
       "Is internationally abroad"
     ],
     "correctAnswer": "Has different plan options",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q301",
@@ -3607,7 +3907,8 @@
       "120 days"
     ],
     "correctAnswer": "30 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q302",
@@ -3619,7 +3920,8 @@
       "Any time"
     ],
     "correctAnswer": "During the next annual open enrollment",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q303",
@@ -3631,7 +3933,8 @@
       "Getting married"
     ],
     "correctAnswer": "Turning 26",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q304",
@@ -3643,7 +3946,8 @@
       "67 and 4 months"
     ],
     "correctAnswer": "67",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q305",
@@ -3655,7 +3959,8 @@
       "25%"
     ],
     "correctAnswer": "30%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q306",
@@ -3667,7 +3972,8 @@
       "10% per year"
     ],
     "correctAnswer": "8% per year",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q307",
@@ -3679,7 +3985,8 @@
       "100%"
     ],
     "correctAnswer": "50%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q308",
@@ -3691,7 +3998,8 @@
       "67"
     ],
     "correctAnswer": "60",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q309",
@@ -3703,7 +4011,8 @@
       "Unemployment rate"
     ],
     "correctAnswer": "Consumer Price Index for Urban Wage Earners (CPI-W)",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q310",
@@ -3715,7 +4024,8 @@
       "1 month"
     ],
     "correctAnswer": "4 months",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q311",
@@ -3727,7 +4037,8 @@
       "Employment status"
     ],
     "correctAnswer": "Low income and resources",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q312",
@@ -3739,7 +4050,8 @@
       "To penalize risky behavior"
     ],
     "correctAnswer": "To restore the insured to the same financial position after loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q313",
@@ -3751,7 +4063,8 @@
       "A reinsurance contract"
     ],
     "correctAnswer": "A temporary agreement providing coverage until a policy is issued",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q314",
@@ -3763,7 +4076,8 @@
       "Claim payment"
     ],
     "correctAnswer": "The time of loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q315",
@@ -3775,7 +4089,8 @@
       "A condition that increases severity"
     ],
     "correctAnswer": "The cause of loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q316",
@@ -3787,7 +4102,8 @@
       "A guarantee of no loss"
     ],
     "correctAnswer": "A condition that increases the likelihood or severity of loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q317",
@@ -3799,7 +4115,8 @@
       "Renew policies automatically"
     ],
     "correctAnswer": "Disclose all material facts honestly",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q318",
@@ -3811,7 +4128,8 @@
       "Share claims information publicly"
     ],
     "correctAnswer": "Assume the insured's legal right to recover from a third party",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q319",
@@ -3823,7 +4141,8 @@
       "Producer"
     ],
     "correctAnswer": "Policyholder",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q320",
@@ -3835,7 +4154,8 @@
       "Health Insurance Portability and Accountability Act"
     ],
     "correctAnswer": "McCarran-Ferguson Act",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q321",
@@ -3847,7 +4167,8 @@
       "Regulate pharmaceutical benefits"
     ],
     "correctAnswer": "Coordinate insurance regulation among the states and develop model laws",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q322",
@@ -3859,7 +4180,8 @@
       "Insurance Services Office manuals"
     ],
     "correctAnswer": "California Insurance Code",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q323",
@@ -3871,7 +4193,8 @@
       "$300"
     ],
     "correctAnswer": "$800",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q324",
@@ -3883,7 +4206,8 @@
       "No further cost"
     ],
     "correctAnswer": "A percentage of the remaining allowed charges",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q325",
@@ -3895,7 +4219,8 @@
       "The policy premium"
     ],
     "correctAnswer": "A fixed dollar amount per service",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q326",
@@ -3907,7 +4232,8 @@
       "The plan's annual deductible"
     ],
     "correctAnswer": "The most the insured will pay in a year in combined deductible, copays, and coinsurance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q327",
@@ -3919,7 +4245,8 @@
       "TRICARE"
     ],
     "correctAnswer": "Medicaid",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q328",
@@ -3931,7 +4258,8 @@
       "Disabled individuals"
     ],
     "correctAnswer": "Undocumented adults over age 26",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q329",
@@ -3943,7 +4271,8 @@
       "The state's share of funding"
     ],
     "correctAnswer": "The amount an enrollee must pay monthly before Medi-Cal covers services",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q330",
@@ -3955,7 +4284,8 @@
       "An additional premium"
     ],
     "correctAnswer": "A process where individuals with excess income subtract medical expenses to qualify",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q331",
@@ -3967,7 +4297,8 @@
       "Prescription vitamins"
     ],
     "correctAnswer": "Inpatient hospital care",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q332",
@@ -3979,7 +4310,8 @@
       "Medicare"
     ],
     "correctAnswer": "ACA expansion",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q333",
@@ -3991,7 +4323,8 @@
       "PPO networks"
     ],
     "correctAnswer": "HMO-model health plans",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q334",
@@ -4003,7 +4336,8 @@
       "Covered California"
     ],
     "correctAnswer": "Department of Health Care Services (DHCS)",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q335",
@@ -4015,7 +4349,8 @@
       "They are approved by the federal government"
     ],
     "correctAnswer": "They are adopted by that state's legislature",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q336",
@@ -4027,7 +4362,8 @@
       "Experience-rated plan"
     ],
     "correctAnswer": "Level-funded plan",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q337",
@@ -4039,7 +4375,8 @@
       "Tertiary care providers"
     ],
     "correctAnswer": "Prepaid healthcare service organizations",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q338",
@@ -4051,7 +4388,8 @@
       "50%"
     ],
     "correctAnswer": "100%",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q339",
@@ -4063,7 +4401,8 @@
       "A contract that must be renewed annually"
     ],
     "correctAnswer": "An exchange of unequal values dependent on an uncertain event",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q340",
@@ -4075,7 +4414,8 @@
       "Because they cover both work and non-work injuries"
     ],
     "correctAnswer": "Because occupational injuries are provided for by workers' compensation",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q341",
@@ -4087,7 +4427,8 @@
       "Assignment of a beneficiary"
     ],
     "correctAnswer": "Promise to pay for covered losses",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q342",
@@ -4099,7 +4440,8 @@
       "Exclusive Provider Organization"
     ],
     "correctAnswer": "Health Maintenance Organization",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q343",
@@ -4111,7 +4453,8 @@
       "Free-Look Clause"
     ],
     "correctAnswer": "Benefit Clause",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q344",
@@ -4123,7 +4466,8 @@
       "Inability to perform heavy manual labor"
     ],
     "correctAnswer": "Inability to perform the duties of any occupation",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q345",
@@ -4135,7 +4479,8 @@
       "6 months"
     ],
     "correctAnswer": "5 months",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q346",
@@ -4147,7 +4492,8 @@
       "5"
     ],
     "correctAnswer": "4",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q347",
@@ -4159,7 +4505,8 @@
       "Retirement benefits"
     ],
     "correctAnswer": "Retirement benefits",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q348",
@@ -4171,7 +4518,8 @@
       "Required upon request"
     ],
     "correctAnswer": "Not required",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q349",
@@ -4183,7 +4531,8 @@
       "Only non-work-related"
     ],
     "correctAnswer": "Expected to be fatal or last at least 12 months",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q350",
@@ -4195,7 +4544,8 @@
       "Estoppel"
     ],
     "correctAnswer": "Fiduciary duty",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   },
   {
     "id": "q351",
@@ -4207,7 +4557,8 @@
       "60 days"
     ],
     "correctAnswer": "20 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q352",
@@ -4219,7 +4570,8 @@
       "120 days"
     ],
     "correctAnswer": "90 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q353",
@@ -4231,7 +4583,8 @@
       "Indemnity"
     ],
     "correctAnswer": "Estoppel",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q354",
@@ -4243,7 +4596,8 @@
       "At policy anniversary"
     ],
     "correctAnswer": "Immediately upon receipt of proof of loss",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   },
   {
     "id": "q355",
@@ -4255,7 +4609,8 @@
       "Immediately without payment"
     ],
     "correctAnswer": "Upon acceptance of overdue premium by the insurer",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q356",
@@ -4267,7 +4622,8 @@
       "After 30 days"
     ],
     "correctAnswer": "After 10 days",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q357",
@@ -4279,7 +4635,8 @@
       "A group disability plan"
     ],
     "correctAnswer": "A retirement savings plan for employees of public schools and tax-exempt organizations",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q358",
@@ -4291,7 +4648,8 @@
       "Immediate annuity"
     ],
     "correctAnswer": "Equity indexed annuity",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
   },
   {
     "id": "q359",
@@ -4303,7 +4661,8 @@
       "Premium contributions are flexible"
     ],
     "correctAnswer": "Insurer declares the interest rate in advance and takes on investment risk",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q360",
@@ -4315,7 +4674,8 @@
       "Premium subsidies"
     ],
     "correctAnswer": "Annual and lifetime dollar limits",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q361",
@@ -4327,7 +4687,8 @@
       "County property taxes"
     ],
     "correctAnswer": "Federal and state general revenues",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q362",
@@ -4339,7 +4700,8 @@
       "Supplementary Medical Insurance"
     ],
     "correctAnswer": "Hospital Insurance",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q363",
@@ -4351,7 +4713,8 @@
       "Small Business Health Options Program"
     ],
     "correctAnswer": "Covered California",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q364",
@@ -4363,7 +4726,8 @@
       "Affordable Care Act subsidies"
     ],
     "correctAnswer": "Both Medicare and Medicaid",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q365",
@@ -4375,7 +4739,8 @@
       "Cannot expand Medicaid"
     ],
     "correctAnswer": "May choose whether to expand Medicaid",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q366",
@@ -4387,7 +4752,8 @@
       "Non-admitted insurer"
     ],
     "correctAnswer": "Admitted insurer",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q367",
@@ -4399,7 +4765,8 @@
       "Contract of adhesion"
     ],
     "correctAnswer": "Unilateral contract",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q368",
@@ -4411,7 +4778,8 @@
       "Entire Contract Provision"
     ],
     "correctAnswer": "Entire Contract Provision",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q369",
@@ -4423,7 +4791,8 @@
       "Major Medical policy"
     ],
     "correctAnswer": "Critical Illness policy",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q370",
@@ -4435,7 +4804,8 @@
       "Insureds"
     ],
     "correctAnswer": "Subscribers",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q371",
@@ -4447,7 +4817,8 @@
       "Medigap"
     ],
     "correctAnswer": "COBRA",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q372",
@@ -4459,7 +4830,8 @@
       "Whichever plan is more comprehensive"
     ],
     "correctAnswer": "Individual's policy first, spouse's policy second",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q373",
@@ -4471,7 +4843,8 @@
       "25"
     ],
     "correctAnswer": "20",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q374",
@@ -4483,7 +4856,8 @@
       "Immediately"
     ],
     "correctAnswer": "24 months",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Health Policies"
   },
   {
     "id": "q375",
@@ -4495,7 +4869,8 @@
       "The older policyholder's plan"
     ],
     "correctAnswer": "The individual's own policy",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q376",
@@ -4507,7 +4882,8 @@
       "Wait 5 years before applying"
     ],
     "correctAnswer": "Obtain written consent under 18 U.S.C. 1033",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q377",
@@ -4519,7 +4895,8 @@
       "Individual mandate"
     ],
     "correctAnswer": "High-deductible health plans",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q378",
@@ -4531,7 +4908,8 @@
       "The credit bureau"
     ],
     "correctAnswer": "The applicant",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
   },
   {
     "id": "q379",
@@ -4543,7 +4921,8 @@
       "Act as a retirement savings account"
     ],
     "correctAnswer": "Help with high deductible plan pre-tax funding",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
   },
   {
     "id": "q380",
@@ -4555,7 +4934,8 @@
       "Returned with interest"
     ],
     "correctAnswer": "Subject to income tax",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Types of Life Policies"
   },
   {
     "id": "q381",
@@ -4567,7 +4947,8 @@
       "Retirees over 65"
     ],
     "correctAnswer": "Low-income individuals",
-    "state": "Gen"
+    "state": "Gen",
+    "category": "Social Insurance"
   },
   {
     "id": "q382",
@@ -4579,7 +4960,8 @@
       "$25,000 fine"
     ],
     "correctAnswer": "$10,000 fine and/or 1 year imprisonment",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q383",
@@ -4591,7 +4973,8 @@
       "An administrative violation only"
     ],
     "correctAnswer": "A Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q384",
@@ -4603,7 +4986,8 @@
       "Class B felony"
     ],
     "correctAnswer": "Class A misdemeanor",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q385",
@@ -4615,7 +4999,8 @@
       "90 days"
     ],
     "correctAnswer": "30 days",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q386",
@@ -4627,7 +5012,8 @@
       "Class A felony"
     ],
     "correctAnswer": "Class B felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q387",
@@ -4639,7 +5025,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q388",
@@ -4651,7 +5038,8 @@
       "24 hours"
     ],
     "correctAnswer": "16 hours",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q389",
@@ -4663,7 +5051,8 @@
       "$5,000"
     ],
     "correctAnswer": "$2,500",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q390",
@@ -4675,7 +5064,8 @@
       "Class B felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q391",
@@ -4687,7 +5077,8 @@
       "$1,000,000"
     ],
     "correctAnswer": "$250,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q392",
@@ -4699,7 +5090,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class C felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q393",
@@ -4711,7 +5103,8 @@
       "$25,000"
     ],
     "correctAnswer": "$25,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q394",
@@ -4723,7 +5116,8 @@
       "$1,000,000"
     ],
     "correctAnswer": "$100,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q395",
@@ -4735,7 +5129,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class A misdemeanor",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q396",
@@ -4747,7 +5142,8 @@
       "License suspension"
     ],
     "correctAnswer": "Fine up to $1,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q397",
@@ -4759,7 +5155,8 @@
       "$50,000"
     ],
     "correctAnswer": "$5,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q398",
@@ -4771,7 +5168,8 @@
       "Failing to pay premiums"
     ],
     "correctAnswer": "Making false statements or presenting false claims",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q399",
@@ -4783,7 +5181,8 @@
       "10 years"
     ],
     "correctAnswer": "5 years",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q400",
@@ -4795,7 +5194,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q401",
@@ -4807,7 +5207,8 @@
       "$25,000 per violation"
     ],
     "correctAnswer": "$5,000 per violation",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q402",
@@ -4819,7 +5220,8 @@
       "10 years"
     ],
     "correctAnswer": "5 years",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q403",
@@ -4831,7 +5233,8 @@
       "60 days"
     ],
     "correctAnswer": "30 days",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q404",
@@ -4843,7 +5246,8 @@
       "Class D felony"
     ],
     "correctAnswer": "Class A misdemeanor",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q405",
@@ -4855,7 +5259,8 @@
       "$1,000"
     ],
     "correctAnswer": "$500",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q406",
@@ -4867,7 +5272,8 @@
       "$25,000 fine"
     ],
     "correctAnswer": "$10,000 fine and/or 1 year imprisonment",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q407",
@@ -4879,7 +5285,8 @@
       "An administrative violation only"
     ],
     "correctAnswer": "A Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q408",
@@ -4891,7 +5298,8 @@
       "Class B felony"
     ],
     "correctAnswer": "Class A misdemeanor",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q409",
@@ -4903,7 +5311,8 @@
       "90 days"
     ],
     "correctAnswer": "30 days",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q410",
@@ -4915,7 +5324,8 @@
       "Class A felony"
     ],
     "correctAnswer": "Class B felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q411",
@@ -4927,7 +5337,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q412",
@@ -4939,7 +5350,8 @@
       "24 hours"
     ],
     "correctAnswer": "16 hours",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q413",
@@ -4951,7 +5363,8 @@
       "$5,000"
     ],
     "correctAnswer": "$2,500",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q414",
@@ -4963,7 +5376,8 @@
       "Class B felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q415",
@@ -4975,7 +5389,8 @@
       "$1,000,000"
     ],
     "correctAnswer": "$250,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q416",
@@ -4987,7 +5402,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class C felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q417",
@@ -4999,7 +5415,8 @@
       "$25,000"
     ],
     "correctAnswer": "$25,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q418",
@@ -5011,7 +5428,8 @@
       "$1,000,000"
     ],
     "correctAnswer": "$100,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q419",
@@ -5023,7 +5441,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class A misdemeanor",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q420",
@@ -5035,7 +5454,8 @@
       "License suspension"
     ],
     "correctAnswer": "Fine up to $1,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q421",
@@ -5047,7 +5467,8 @@
       "$50,000"
     ],
     "correctAnswer": "$5,000",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q422",
@@ -5059,7 +5480,8 @@
       "Failing to pay premiums"
     ],
     "correctAnswer": "Making false statements or presenting false claims",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q423",
@@ -5071,7 +5493,8 @@
       "10 years"
     ],
     "correctAnswer": "5 years",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q424",
@@ -5083,7 +5506,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q425",
@@ -5095,7 +5519,8 @@
       "$25,000 per violation"
     ],
     "correctAnswer": "$5,000 per violation",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q426",
@@ -5107,7 +5532,8 @@
       "Class D felony"
     ],
     "correctAnswer": "Fine up to $10,000 per day",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q427",
@@ -5119,7 +5545,8 @@
       "6 hours"
     ],
     "correctAnswer": "3 hours",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q428",
@@ -5131,7 +5558,8 @@
       "60 days"
     ],
     "correctAnswer": "30 days",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q429",
@@ -5143,7 +5571,8 @@
       "Class D felony"
     ],
     "correctAnswer": "Fine up to $5,000 and/or license suspension",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q430",
@@ -5155,7 +5584,8 @@
       "90 days"
     ],
     "correctAnswer": "30 days",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q431",
@@ -5167,7 +5597,8 @@
       "10 years"
     ],
     "correctAnswer": "5 years",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q432",
@@ -5179,7 +5610,8 @@
       "Class D felony"
     ],
     "correctAnswer": "Class A misdemeanor",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q433",
@@ -5191,7 +5623,8 @@
       "$10,000"
     ],
     "correctAnswer": "$2,500",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q434",
@@ -5203,7 +5636,8 @@
       "60 days"
     ],
     "correctAnswer": "31 days",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q435",
@@ -5215,7 +5649,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q436",
@@ -5227,7 +5662,8 @@
       "April 15"
     ],
     "correctAnswer": "March 1",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q437",
@@ -5239,7 +5675,8 @@
       "50 and annually thereafter"
     ],
     "correctAnswer": "40 and annually thereafter",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q438",
@@ -5251,7 +5688,8 @@
       "Class B felony"
     ],
     "correctAnswer": "Class D felony",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q439",
@@ -5263,7 +5701,8 @@
       "12th grade"
     ],
     "correctAnswer": "8th grade",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q440",
@@ -5275,7 +5714,8 @@
       "License revocation only"
     ],
     "correctAnswer": "Fine up to $5,000 per violation",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q441",
@@ -5287,7 +5727,8 @@
       "5 years in state prison and/or $150,000 fine"
     ],
     "correctAnswer": "5 years in state prison and/or $150,000 fine",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q442",
@@ -5299,7 +5740,8 @@
       "License suspension only"
     ],
     "correctAnswer": "Felony punishable by up to 5 years imprisonment",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q443",
@@ -5311,7 +5753,8 @@
       "$25,000"
     ],
     "correctAnswer": "$10,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q444",
@@ -5323,7 +5766,8 @@
       "Administrative penalty only"
     ],
     "correctAnswer": "Felony punishable by 2-5 years in prison",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q445",
@@ -5335,7 +5779,8 @@
       "60 days"
     ],
     "correctAnswer": "40 days",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q446",
@@ -5347,7 +5792,8 @@
       "120 days"
     ],
     "correctAnswer": "60 days",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q447",
@@ -5359,7 +5805,8 @@
       "Fine up to $100,000 per violation"
     ],
     "correctAnswer": "Fine up to $50,000 per violation",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q448",
@@ -5371,7 +5818,8 @@
       "36 hours every 2 years"
     ],
     "correctAnswer": "24 hours every 2 years",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q449",
@@ -5383,7 +5831,8 @@
       "Up to 5 years in state prison and/or $100,000 fine"
     ],
     "correctAnswer": "Up to 3 years in state prison and/or $50,000 fine",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q450",
@@ -5395,7 +5844,8 @@
       "$10,000"
     ],
     "correctAnswer": "$1,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q451",
@@ -5407,7 +5857,8 @@
       "Misdemeanor charges"
     ],
     "correctAnswer": "Fine between $500-$25,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q452",
@@ -5419,7 +5870,8 @@
       "45 days"
     ],
     "correctAnswer": "10 days",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q453",
@@ -5431,7 +5883,8 @@
       "Fine up to $25,000 per violation"
     ],
     "correctAnswer": "Fine up to $15,000 per violation",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q454",
@@ -5443,7 +5896,8 @@
       "License revocation only"
     ],
     "correctAnswer": "Felony punishable by 16 months to 5 years",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q455",
@@ -5455,7 +5909,8 @@
       "$5 million"
     ],
     "correctAnswer": "$1 million",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q456",
@@ -5467,7 +5922,8 @@
       "15% per annum"
     ],
     "correctAnswer": "10% per annum",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q457",
@@ -5479,7 +5935,8 @@
       "Administrative penalty only"
     ],
     "correctAnswer": "Up to 5 years in prison and/or $150,000 fine",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q458",
@@ -5491,7 +5948,8 @@
       "More than $10,000"
     ],
     "correctAnswer": "More than $5,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q459",
@@ -5503,7 +5961,8 @@
       "90 days"
     ],
     "correctAnswer": "30 days",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q460",
@@ -5515,7 +5974,8 @@
       "Fine up to $25,000"
     ],
     "correctAnswer": "Fine up to $10,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q461",
@@ -5527,7 +5987,8 @@
       "12% per annum"
     ],
     "correctAnswer": "9% per annum",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q462",
@@ -5539,7 +6000,8 @@
       "10 years"
     ],
     "correctAnswer": "Not required after initial licensing",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q463",
@@ -5551,7 +6013,8 @@
       "Class C felony"
     ],
     "correctAnswer": "Same as underlying fraud offense",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q464",
@@ -5563,7 +6026,8 @@
       "72 hours"
     ],
     "correctAnswer": "48 hours",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
   },
   {
     "id": "q465",
@@ -5575,7 +6039,8 @@
       "10 years after claim closure"
     ],
     "correctAnswer": "5 years after claim closure",
-    "state": "MO"
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q466",
@@ -5587,7 +6052,8 @@
       "Felony charges apply regardless of amount"
     ],
     "correctAnswer": "Misdemeanor punishable by up to 1 year jail",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q467",
@@ -5599,7 +6065,8 @@
       "$25,000"
     ],
     "correctAnswer": "$5,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q468",
@@ -5611,7 +6078,8 @@
       "$1,000,000"
     ],
     "correctAnswer": "$100,000",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q469",
@@ -5623,7 +6091,8 @@
       "Administrative penalty only"
     ],
     "correctAnswer": "Misdemeanor punishable by up to 1 year jail",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q470",
@@ -5635,6 +6104,1112 @@
       "60 days"
     ],
     "correctAnswer": "30 days",
-    "state": "CA"
+    "state": "CA",
+    "category": "California Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q471",
+    "text": "What is the definition of coercion in insurance?",
+    "options": [
+      "Using threats or intimidation to force someone to buy insurance",
+      "Offering better rates to preferred customers",
+      "Providing accurate information about policy benefits",
+      "Following up with clients after policy delivery"
+    ],
+    "correctAnswer": "Using threats or intimidation to force someone to buy insurance",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q472",
+    "text": "Which scenario best describes twisting in insurance?",
+    "options": [
+      "A producer convinces a client to replace their existing policy with a new one that provides better coverage",
+      "A producer misrepresents the benefits of a new policy to induce a client to replace their existing policy",
+      "A producer provides accurate comparisons between different policy options",
+      "A producer helps a client understand their current policy benefits"
+    ],
+    "correctAnswer": "A producer misrepresents the benefits of a new policy to induce a client to replace their existing policy",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q473",
+    "text": "What is the definition of discrimination in insurance?",
+    "options": [
+      "Charging different rates based on risk factors",
+      "Treating individuals differently based on protected characteristics like race, gender, or religion",
+      "Offering discounts to preferred customers",
+      "Using actuarial data to set rates"
+    ],
+    "correctAnswer": "Treating individuals differently based on protected characteristics like race, gender, or religion",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q474",
+    "text": "Which scenario demonstrates coercion?",
+    "options": [
+      "A producer explains policy benefits clearly",
+      "A producer threatens to cancel existing coverage unless the client buys additional insurance",
+      "A producer provides a written comparison of policies",
+      "A producer follows up to ensure client satisfaction"
+    ],
+    "correctAnswer": "A producer threatens to cancel existing coverage unless the client buys additional insurance",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q475",
+    "text": "What is the primary legislation that protects insurance policies and consumers?",
+    "options": [
+      "The Patriot Act",
+      "The McCarran-Ferguson Act",
+      "The Gramm-Leach-Bliley Act",
+      "The Affordable Care Act"
+    ],
+    "correctAnswer": "The McCarran-Ferguson Act",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q476",
+    "text": "Which legislation helps prevent money laundering in insurance?",
+    "options": [
+      "The McCarran-Ferguson Act",
+      "The USA Patriot Act",
+      "The Gramm-Leach-Bliley Act",
+      "The Dodd-Frank Act"
+    ],
+    "correctAnswer": "The USA Patriot Act",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q477",
+    "text": "Which scenario best describes discrimination in insurance?",
+    "options": [
+      "Charging higher rates for smokers",
+      "Denying coverage based on age",
+      "Refusing to sell insurance to someone because of their religion",
+      "Offering discounts to safe drivers"
+    ],
+    "correctAnswer": "Refusing to sell insurance to someone because of their religion",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q478",
+    "text": "What is the main purpose of the McCarran-Ferguson Act?",
+    "options": [
+      "To prevent money laundering in insurance",
+      "To regulate insurance at the state level and provide limited antitrust exemption",
+      "To protect consumer privacy in financial services",
+      "To establish federal insurance regulations"
+    ],
+    "correctAnswer": "To regulate insurance at the state level and provide limited antitrust exemption",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q479",
+    "text": "Which scenario demonstrates twisting?",
+    "options": [
+      "A producer accurately explains policy differences",
+      "A producer tells a client their current policy is worthless to sell them a new one",
+      "A producer provides written documentation of policy benefits",
+      "A producer helps a client understand their coverage"
+    ],
+    "correctAnswer": "A producer tells a client their current policy is worthless to sell them a new one",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q480",
+    "text": "What does the USA Patriot Act require insurance companies to do regarding money laundering?",
+    "options": [
+      "Report suspicious transactions to the government",
+      "Provide free insurance to veterans",
+      "Offer discounts to law enforcement",
+      "Maintain customer privacy at all costs"
+    ],
+    "correctAnswer": "Report suspicious transactions to the government",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q481",
+    "text": "Which of the following is NOT considered coercion?",
+    "options": [
+      "Threatening to cancel existing coverage",
+      "Using high-pressure sales tactics",
+      "Providing accurate policy information",
+      "Intimidating clients into buying insurance"
+    ],
+    "correctAnswer": "Providing accurate policy information",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q482",
+    "text": "What is the primary purpose of anti-discrimination laws in insurance?",
+    "options": [
+      "To ensure all customers pay the same rates",
+      "To prevent unfair treatment based on protected characteristics",
+      "To standardize policy forms across all states",
+      "To regulate insurance company profits"
+    ],
+    "correctAnswer": "To prevent unfair treatment based on protected characteristics",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q483",
+    "text": "Which legislation requires insurance companies to protect customer privacy?",
+    "options": [
+      "The McCarran-Ferguson Act",
+      "The USA Patriot Act",
+      "The Gramm-Leach-Bliley Act",
+      "The Affordable Care Act"
+    ],
+    "correctAnswer": "The Gramm-Leach-Bliley Act",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q484",
+    "text": "What is the key difference between twisting and churning?",
+    "options": [
+      "Twisting involves misrepresentation, churning involves excessive trading",
+      "Twisting is legal, churning is illegal",
+      "Twisting applies to life insurance only, churning applies to health insurance only",
+      "There is no difference between the two terms"
+    ],
+    "correctAnswer": "Twisting involves misrepresentation, churning involves excessive trading",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q485",
+    "text": "Which scenario would be considered a violation of anti-discrimination laws?",
+    "options": [
+      "Charging higher rates for high-risk drivers",
+      "Denying coverage based on medical history",
+      "Refusing to sell insurance to someone based on their national origin",
+      "Offering discounts to members of professional organizations"
+    ],
+    "correctAnswer": "Refusing to sell insurance to someone based on their national origin",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q486",
+    "text": "Under Missouri law, when is suicide covered in a life insurance policy?",
+    "options": [
+      "Never - suicide is always excluded",
+      "Only if the policy has been in force for less than 2 years",
+      "Only if the policy has been in force for more than 2 years",
+      "Only if the insured was mentally ill at the time"
+    ],
+    "correctAnswer": "Only if the policy has been in force for more than 2 years",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q487",
+    "text": "What is the typical suicide exclusion period in Missouri life insurance policies?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctAnswer": "2 years",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q488",
+    "text": "In Missouri, what happens if an insured commits suicide during the exclusion period?",
+    "options": [
+      "The full death benefit is paid",
+      "Only the premiums paid are returned",
+      "The death benefit is reduced by 50%",
+      "The policy is void and no benefits are paid"
+    ],
+    "correctAnswer": "Only the premiums paid are returned",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q489",
+    "text": "What is a joint life insurance policy?",
+    "options": [
+      "A policy that covers two people and pays when the first person dies",
+      "A policy that covers two people and pays when both people die",
+      "A policy that covers one person but has two beneficiaries",
+      "A policy that covers multiple family members"
+    ],
+    "correctAnswer": "A policy that covers two people and pays when the first person dies",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q490",
+    "text": "When is a joint life policy most appropriate?",
+    "options": [
+      "When you want to cover multiple children",
+      "When you want to ensure financial protection for a surviving spouse",
+      "When you want to cover business partners",
+      "When you want to maximize death benefits"
+    ],
+    "correctAnswer": "When you want to ensure financial protection for a surviving spouse",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q491",
+    "text": "How does a joint life policy pay out?",
+    "options": [
+      "It pays the death benefit when both insureds die",
+      "It pays the death benefit when the first insured dies",
+      "It pays half the death benefit when each insured dies",
+      "It pays the death benefit only if both insureds die within 30 days of each other"
+    ],
+    "correctAnswer": "It pays the death benefit when the first insured dies",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q492",
+    "text": "What is the main advantage of a joint life policy?",
+    "options": [
+      "Lower premiums than individual policies",
+      "Higher death benefits than individual policies",
+      "Coverage for multiple people under one policy",
+      "Simplified underwriting process"
+    ],
+    "correctAnswer": "Lower premiums than individual policies",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q493",
+    "text": "In Missouri, can a life insurance policy exclude suicide coverage after the initial exclusion period?",
+    "options": [
+      "Yes, insurers can exclude suicide at any time",
+      "No, suicide must be covered after the initial exclusion period",
+      "Only if the insured has a history of mental illness",
+      "Only for term life policies, not permanent policies"
+    ],
+    "correctAnswer": "No, suicide must be covered after the initial exclusion period",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q494",
+    "text": "What happens to a joint life policy when the first insured dies?",
+    "options": [
+      "The policy continues with the surviving insured",
+      "The policy terminates and the death benefit is paid",
+      "The policy converts to a single life policy for the survivor",
+      "The policy becomes a term policy for the survivor"
+    ],
+    "correctAnswer": "The policy terminates and the death benefit is paid",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q495",
+    "text": "Which scenario best describes when to use a joint life policy?",
+    "options": [
+      "A single person wanting maximum coverage",
+      "A married couple wanting to ensure the survivor has financial protection",
+      "A business owner wanting to cover key employees",
+      "A parent wanting to cover multiple children"
+    ],
+    "correctAnswer": "A married couple wanting to ensure the survivor has financial protection",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q496",
+    "text": "Under Missouri law, what happens if an insured commits suicide after the exclusion period?",
+    "options": [
+      "The full death benefit is paid",
+      "Only the cash value is paid",
+      "The death benefit is reduced by 25%",
+      "The policy is void and no benefits are paid"
+    ],
+    "correctAnswer": "The full death benefit is paid",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q497",
+    "text": "What is the primary disadvantage of a joint life policy?",
+    "options": [
+      "Higher premiums than individual policies",
+      "Limited coverage period",
+      "No cash value accumulation",
+      "Loss of coverage for the survivor after the first death"
+    ],
+    "correctAnswer": "Loss of coverage for the survivor after the first death",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q498",
+    "text": "In Missouri, what is the maximum suicide exclusion period allowed by law?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctAnswer": "2 years",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q499",
+    "text": "How do joint life policy premiums compare to individual policies?",
+    "options": [
+      "Joint life premiums are typically higher",
+      "Joint life premiums are typically lower",
+      "Joint life premiums are the same as individual policies",
+      "Joint life premiums vary based on the insurer"
+    ],
+    "correctAnswer": "Joint life premiums are typically lower",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q500",
+    "text": "What happens if both insureds on a joint life policy die simultaneously?",
+    "options": [
+      "The death benefit is paid twice",
+      "The death benefit is paid once to the beneficiary",
+      "The policy is void and no benefits are paid",
+      "The death benefit is split between two beneficiaries"
+    ],
+    "correctAnswer": "The death benefit is paid once to the beneficiary",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q501",
+    "text": "In Missouri, can an insurer deny a claim for suicide if the insured was mentally incompetent?",
+    "options": [
+      "Yes, mental incompetence voids the suicide exclusion",
+      "No, mental incompetence does not affect the suicide exclusion",
+      "Only if the mental incompetence was documented before the policy was issued",
+      "Only for policies issued after 2010"
+    ],
+    "correctAnswer": "Yes, mental incompetence voids the suicide exclusion",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q502",
+    "text": "What is the main purpose of a joint life policy?",
+    "options": [
+      "To provide maximum coverage for both insureds",
+      "To ensure financial protection for the surviving spouse",
+      "To cover business partners in case of death",
+      "To provide estate planning benefits"
+    ],
+    "correctAnswer": "To ensure financial protection for the surviving spouse",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q503",
+    "text": "Under Missouri law, what happens to the suicide exclusion if the policy is reinstated?",
+    "options": [
+      "The suicide exclusion period starts over",
+      "The original suicide exclusion period continues",
+      "The suicide exclusion is waived for reinstated policies",
+      "The suicide exclusion period is reduced by half"
+    ],
+    "correctAnswer": "The suicide exclusion period starts over",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q504",
+    "text": "What is a key consideration when recommending a joint life policy?",
+    "options": [
+      "The policy will provide coverage for both insureds for their entire lives",
+      "The survivor will lose their life insurance coverage after the first death",
+      "The policy can be converted to individual policies later",
+      "The policy provides better cash value accumulation"
+    ],
+    "correctAnswer": "The survivor will lose their life insurance coverage after the first death",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q505",
+    "text": "In Missouri, what is the standard suicide exclusion period for term life policies?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correctAnswer": "2 years",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q506",
+    "text": "When moving to Missouri from another state, how long do you have to notify the Department of Insurance?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q507",
+    "text": "Who must you notify when moving to Missouri to conduct insurance business?",
+    "options": [
+      "Only the Missouri Department of Insurance",
+      "Only your current insurance company",
+      "The Missouri Department of Insurance and your current insurance company",
+      "No notification is required"
+    ],
+    "correctAnswer": "The Missouri Department of Insurance and your current insurance company",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q508",
+    "text": "What happens if you fail to notify the Missouri Department of Insurance when moving to the state?",
+    "options": [
+      "Nothing - notification is voluntary",
+      "You may face fines and suspension of your license",
+      "Your existing policies are automatically cancelled",
+      "You must retake the licensing exam"
+    ],
+    "correctAnswer": "You may face fines and suspension of your license",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q509",
+    "text": "What is a group life insurance policy?",
+    "options": [
+      "A policy that covers multiple family members",
+      "A policy that covers employees of a company or members of an organization",
+      "A policy that covers business partners",
+      "A policy that covers multiple unrelated individuals"
+    ],
+    "correctAnswer": "A policy that covers employees of a company or members of an organization",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q510",
+    "text": "What is the main advantage of group life insurance?",
+    "options": [
+      "Higher death benefits than individual policies",
+      "Lower premiums due to group purchasing power",
+      "No medical underwriting required",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q511",
+    "text": "When can a group life policy be converted to an individual policy?",
+    "options": [
+      "At any time during the group policy term",
+      "Only when the group policy is terminated",
+      "Only when the individual leaves the group",
+      "Only when the individual reaches retirement age"
+    ],
+    "correctAnswer": "Only when the individual leaves the group",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q512",
+    "text": "What is the conversion privilege in group life insurance?",
+    "options": [
+      "The right to convert to a different group policy",
+      "The right to convert to an individual policy without medical underwriting",
+      "The right to convert to a term policy",
+      "The right to convert to a whole life policy"
+    ],
+    "correctAnswer": "The right to convert to an individual policy without medical underwriting",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q513",
+    "text": "In Missouri, what information must you provide when notifying the Department of Insurance of your move?",
+    "options": [
+      "Only your new address",
+      "Your new address and contact information",
+      "Your new address, contact information, and employment details",
+      "Your new address, contact information, employment details, and license history"
+    ],
+    "correctAnswer": "Your new address, contact information, employment details, and license history",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q514",
+    "text": "What happens to your existing insurance license when you move to Missouri?",
+    "options": [
+      "It is automatically transferred to Missouri",
+      "You must apply for a new Missouri license",
+      "You can continue using your existing license for 90 days",
+      "Your license is suspended until you notify the department"
+    ],
+    "correctAnswer": "You must apply for a new Missouri license",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q515",
+    "text": "What is the maximum amount that can be converted from a group life policy to an individual policy?",
+    "options": [
+      "The full amount of the group coverage",
+      "Up to $10,000",
+      "Up to $50,000",
+      "Up to $100,000"
+    ],
+    "correctAnswer": "The full amount of the group coverage",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q516",
+    "text": "How long do you typically have to convert a group life policy to an individual policy?",
+    "options": [
+      "10 days after leaving the group",
+      "30 days after leaving the group",
+      "60 days after leaving the group",
+      "90 days after leaving the group"
+    ],
+    "correctAnswer": "31 days after leaving the group",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q517",
+    "text": "What happens if you fail to convert your group life policy within the specified time period?",
+    "options": [
+      "You can still convert at any time",
+      "You lose the conversion privilege permanently",
+      "You must undergo medical underwriting",
+      "The conversion amount is reduced by 50%"
+    ],
+    "correctAnswer": "You lose the conversion privilege permanently",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q518",
+    "text": "In Missouri, what is the penalty for conducting insurance business without proper notification?",
+    "options": [
+      "Warning only",
+      "Fine up to $1,000",
+      "Fine up to $5,000 and/or suspension of license",
+      "Criminal charges"
+    ],
+    "correctAnswer": "Fine up to $5,000 and/or suspension of license",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q519",
+    "text": "What is the main disadvantage of group life insurance?",
+    "options": [
+      "Higher premiums than individual policies",
+      "Limited coverage amounts",
+      "Coverage ends when you leave the group",
+      "No cash value accumulation"
+    ],
+    "correctAnswer": "Coverage ends when you leave the group",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q520",
+    "text": "What type of individual policy can you typically convert to from a group life policy?",
+    "options": [
+      "Term life only",
+      "Whole life only",
+      "Any type of individual policy",
+      "Only the same type as the group policy"
+    ],
+    "correctAnswer": "Any type of individual policy",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q521",
+    "text": "In Missouri, what happens to your existing clients when you move to the state?",
+    "options": [
+      "You can continue serving them without restriction",
+      "You must notify them of your move within 30 days",
+      "You can only serve Missouri residents",
+      "You must transfer them to another agent"
+    ],
+    "correctAnswer": "You must notify them of your move within 30 days",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q522",
+    "text": "What is the difference between group life and individual life insurance?",
+    "options": [
+      "Group life has higher premiums",
+      "Group life requires medical underwriting",
+      "Group life is typically employer-sponsored and has lower premiums",
+      "Individual life provides better coverage"
+    ],
+    "correctAnswer": "Group life is typically employer-sponsored and has lower premiums",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q523",
+    "text": "What happens to the premium rates when converting from group to individual life insurance?",
+    "options": [
+      "They remain the same",
+      "They are typically higher",
+      "They are typically lower",
+      "They are based on the individual's age at conversion"
+    ],
+    "correctAnswer": "They are typically higher",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q524",
+    "text": "In Missouri, what documentation is required when applying for a license after moving to the state?",
+    "options": [
+      "Only proof of residency",
+      "Proof of residency and previous license",
+      "Proof of residency, previous license, and background check",
+      "Proof of residency, previous license, background check, and continuing education credits"
+    ],
+    "correctAnswer": "Proof of residency, previous license, background check, and continuing education credits",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q525",
+    "text": "What is the minimum number of employees typically required for group life insurance?",
+    "options": [
+      "2 employees",
+      "5 employees",
+      "10 employees",
+      "25 employees"
+    ],
+    "correctAnswer": "10 employees",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q526",
+    "text": "What happens if you conduct insurance business in Missouri without proper licensing?",
+    "options": [
+      "Nothing - it's not regulated",
+      "Warning only",
+      "Fine and possible criminal charges",
+      "Automatic license approval"
+    ],
+    "correctAnswer": "Fine and possible criminal charges",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q527",
+    "text": "What is the main benefit of the conversion privilege in group life insurance?",
+    "options": [
+      "Lower premiums than individual policies",
+      "No medical underwriting required",
+      "Guaranteed insurability",
+      "All of the above"
+    ],
+    "correctAnswer": "Guaranteed insurability",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q528",
+    "text": "In Missouri, what is the grace period for notifying the Department of Insurance after moving to the state?",
+    "options": [
+      "No grace period - notification must be immediate",
+      "10 days grace period",
+      "15 days grace period",
+      "30 days grace period"
+    ],
+    "correctAnswer": "No grace period - notification must be immediate",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
+  },
+  {
+    "id": "q529",
+    "text": "What type of group life insurance typically offers the conversion privilege?",
+    "options": [
+      "Term life only",
+      "Whole life only",
+      "Both term and whole life",
+      "Only employer-sponsored group life"
+    ],
+    "correctAnswer": "Both term and whole life",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q530",
+    "text": "What happens to your group life coverage if you are terminated from your job?",
+    "options": [
+      "Coverage continues for life",
+      "Coverage ends immediately",
+      "Coverage continues for 30 days",
+      "Coverage can be converted to individual policy"
+    ],
+    "correctAnswer": "Coverage can be converted to individual policy",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q531",
+    "text": "What is a survivorship life insurance policy?",
+    "options": [
+      "A policy that pays when the first insured dies",
+      "A policy that pays when the second insured dies",
+      "A policy that pays when both insureds die",
+      "A policy that pays when either insured dies"
+    ],
+    "correctAnswer": "A policy that pays when the second insured dies",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q532",
+    "text": "What is the main purpose of a survivorship life insurance policy?",
+    "options": [
+      "To provide immediate financial protection",
+      "To ensure estate liquidity and minimize estate taxes",
+      "To provide income replacement",
+      "To cover funeral expenses"
+    ],
+    "correctAnswer": "To ensure estate liquidity and minimize estate taxes",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q533",
+    "text": "What is a survivorship audit?",
+    "options": [
+      "An audit of the insurance company's financial records",
+      "A review of the policy's death benefit amount",
+      "A verification that both insureds are still alive and the policy is valid",
+      "An audit of the beneficiary's financial situation"
+    ],
+    "correctAnswer": "A verification that both insureds are still alive and the policy is valid",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q534",
+    "text": "When does Social Security Disability Insurance (SSDI) typically begin?",
+    "options": [
+      "Immediately upon becoming disabled",
+      "After 5 months of disability",
+      "After 12 months of disability",
+      "After 24 months of disability"
+    ],
+    "correctAnswer": "After 5 months of disability",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q535",
+    "text": "What is the waiting period for Social Security Disability benefits?",
+    "options": [
+      "1 month",
+      "3 months",
+      "5 months",
+      "6 months"
+    ],
+    "correctAnswer": "5 months",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q536",
+    "text": "What is Social Security Disability and Dismemberment (SSDD)?",
+    "options": [
+      "A federal program that provides disability benefits",
+      "A private insurance policy that supplements Social Security",
+      "A combination of Social Security and workers' compensation",
+      "A type of group disability insurance"
+    ],
+    "correctAnswer": "A private insurance policy that supplements Social Security",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q537",
+    "text": "What counts as long-term disability?",
+    "options": [
+      "Any disability lasting more than 30 days",
+      "Any disability lasting more than 90 days",
+      "Any disability lasting more than 6 months",
+      "Any disability lasting more than 12 months"
+    ],
+    "correctAnswer": "Any disability lasting more than 6 months",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q538",
+    "text": "When can one typically claim long-term disability benefits?",
+    "options": [
+      "Immediately upon becoming disabled",
+      "After the elimination period ends",
+      "After 6 months of disability",
+      "After 12 months of disability"
+    ],
+    "correctAnswer": "After the elimination period ends",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q539",
+    "text": "What is the typical elimination period for long-term disability insurance?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "180 days"
+    ],
+    "correctAnswer": "90 days",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q540",
+    "text": "What is the main advantage of a survivorship policy over individual policies?",
+    "options": [
+      "Lower premiums than two individual policies",
+      "Higher death benefits",
+      "Immediate payout on first death",
+      "Simplified underwriting"
+    ],
+    "correctAnswer": "Lower premiums than two individual policies",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q541",
+    "text": "How often are survivorship audits typically conducted?",
+    "options": [
+      "Monthly",
+      "Quarterly",
+      "Annually",
+      "Every 5 years"
+    ],
+    "correctAnswer": "Annually",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q542",
+    "text": "What happens if one insured dies in a survivorship policy?",
+    "options": [
+      "The policy pays the death benefit immediately",
+      "The policy continues with the surviving insured",
+      "The policy is cancelled and premiums are returned",
+      "The policy converts to a single life policy"
+    ],
+    "correctAnswer": "The policy continues with the surviving insured",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q543",
+    "text": "What is the maximum duration for Social Security Disability benefits?",
+    "options": [
+      "Until age 65",
+      "Until age 67",
+      "Until retirement age",
+      "For life, as long as the disability continues"
+    ],
+    "correctAnswer": "For life, as long as the disability continues",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q544",
+    "text": "What is the definition of disability for Social Security purposes?",
+    "options": [
+      "Unable to work in any occupation",
+      "Unable to work in your current occupation",
+      "Unable to work in your current occupation for 12 months",
+      "Unable to work in any occupation for 12 months or expected to result in death"
+    ],
+    "correctAnswer": "Unable to work in any occupation for 12 months or expected to result in death",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q545",
+    "text": "What is the typical benefit period for long-term disability insurance?",
+    "options": [
+      "2 years",
+      "5 years",
+      "10 years",
+      "Until age 65"
+    ],
+    "correctAnswer": "Until age 65",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q546",
+    "text": "What is the purpose of a survivorship audit?",
+    "options": [
+      "To verify premium payments",
+      "To confirm both insureds are still alive",
+      "To adjust the death benefit",
+      "To change beneficiaries"
+    ],
+    "correctAnswer": "To confirm both insureds are still alive",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q547",
+    "text": "What percentage of pre-disability income do long-term disability policies typically pay?",
+    "options": [
+      "40-50%",
+      "50-60%",
+      "60-70%",
+      "70-80%"
+    ],
+    "correctAnswer": "60-70%",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q548",
+    "text": "What is the difference between short-term and long-term disability?",
+    "options": [
+      "Short-term covers up to 6 months, long-term covers beyond 6 months",
+      "Short-term covers up to 1 year, long-term covers beyond 1 year",
+      "Short-term covers up to 2 years, long-term covers beyond 2 years",
+      "Short-term covers up to 5 years, long-term covers beyond 5 years"
+    ],
+    "correctAnswer": "Short-term covers up to 6 months, long-term covers beyond 6 months",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q549",
+    "text": "What happens if both insureds die simultaneously in a survivorship policy?",
+    "options": [
+      "The death benefit is paid twice",
+      "The death benefit is paid once",
+      "The policy is void and no benefits are paid",
+      "The death benefit is split between beneficiaries"
+    ],
+    "correctAnswer": "The death benefit is paid once",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q550",
+    "text": "What is the maximum benefit period for Social Security Disability?",
+    "options": [
+      "5 years",
+      "10 years",
+      "Until age 65",
+      "For life, as long as disabled"
+    ],
+    "correctAnswer": "For life, as long as disabled",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q551",
+    "text": "What is the typical waiting period for long-term disability benefits?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "180 days"
+    ],
+    "correctAnswer": "90 days",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q552",
+    "text": "What is the main disadvantage of a survivorship policy?",
+    "options": [
+      "Higher premiums than individual policies",
+      "No death benefit until both insureds die",
+      "Limited coverage period",
+      "Complex underwriting requirements"
+    ],
+    "correctAnswer": "No death benefit until both insureds die",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q553",
+    "text": "What is the definition of total disability for long-term disability insurance?",
+    "options": [
+      "Unable to work in any occupation",
+      "Unable to work in your current occupation",
+      "Unable to work in your current occupation for 12 months",
+      "Unable to perform the material duties of your occupation"
+    ],
+    "correctAnswer": "Unable to perform the material duties of your occupation",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q554",
+    "text": "What is the typical benefit amount for Social Security Disability?",
+    "options": [
+      "40% of average lifetime earnings",
+      "50% of average lifetime earnings",
+      "60% of average lifetime earnings",
+      "70% of average lifetime earnings"
+    ],
+    "correctAnswer": "60% of average lifetime earnings",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q555",
+    "text": "What is the purpose of the elimination period in long-term disability insurance?",
+    "options": [
+      "To reduce premiums",
+      "To eliminate pre-existing conditions",
+      "To allow time for short-term disability to pay first",
+      "To prevent fraud"
+    ],
+    "correctAnswer": "To allow time for short-term disability to pay first",
+    "state": "Gen",
+    "category": "Types of Health Policies"
   }
 ]
