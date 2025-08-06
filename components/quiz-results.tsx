@@ -2,7 +2,8 @@
 
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { CheckCircle, XCircle, Award, ArrowRight, BookOpen } from "lucide-react"
+import { Progress } from "@/components/ui/progress"
+import { CheckCircle, XCircle, Award, ArrowRight, BookOpen, BarChart3 } from "lucide-react"
 import type { Question } from "@/types/quiz"
 
 interface QuizResultsProps {
@@ -12,11 +13,49 @@ interface QuizResultsProps {
   onGenerateStudyGuide?: () => void
 }
 
+interface CategoryPerformance {
+  category: string
+  total: number
+  correct: number
+  percentage: number
+}
+
 export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerateStudyGuide }: QuizResultsProps) {
   const correctAnswers = questions.filter((q) => userAnswers[q.id] === q.correctAnswer).length
   const wrongQuestions = questions.filter((q) => userAnswers[q.id] !== q.correctAnswer)
 
   const score = Math.round((correctAnswers / questions.length) * 100)
+
+  // Calculate category performance
+  const categoryPerformance: CategoryPerformance[] = []
+  const categoryMap = new Map<string, { total: number; correct: number }>()
+
+  questions.forEach((question) => {
+    const category = question.category
+    const isCorrect = userAnswers[question.id] === question.correctAnswer
+    
+    if (!categoryMap.has(category)) {
+      categoryMap.set(category, { total: 0, correct: 0 })
+    }
+    
+    const current = categoryMap.get(category)!
+    current.total += 1
+    if (isCorrect) {
+      current.correct += 1
+    }
+  })
+
+  categoryMap.forEach((stats, category) => {
+    categoryPerformance.push({
+      category,
+      total: stats.total,
+      correct: stats.correct,
+      percentage: Math.round((stats.correct / stats.total) * 100)
+    })
+  })
+
+  // Sort categories by percentage (worst to best)
+  categoryPerformance.sort((a, b) => a.percentage - b.percentage)
 
   const getGradeLabel = (score: number) => {
     if (score >= 90)
@@ -28,6 +67,22 @@ export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerate
     if (score >= 60)
       return { label: "Satisfactory", color: "text-yellow-500", icon: <Award className="h-12 w-12 text-yellow-500" /> }
     return { label: "Needs Improvement", color: "text-red-500", icon: <Award className="h-12 w-12 text-red-500" /> }
+  }
+
+  const getCategoryColor = (percentage: number) => {
+    if (percentage >= 90) return "text-green-600"
+    if (percentage >= 80) return "text-green-500"
+    if (percentage >= 70) return "text-blue-500"
+    if (percentage >= 60) return "text-yellow-500"
+    return "text-red-500"
+  }
+
+  const getProgressColor = (percentage: number) => {
+    if (percentage >= 90) return "bg-green-500"
+    if (percentage >= 80) return "bg-green-400"
+    if (percentage >= 70) return "bg-blue-500"
+    if (percentage >= 60) return "bg-yellow-500"
+    return "bg-red-500"
   }
 
   const grade = getGradeLabel(score)
@@ -42,6 +97,39 @@ export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerate
         <p className="text-blue-600">
           You answered {correctAnswers} out of {questions.length} questions correctly
         </p>
+      </div>
+
+      {/* Category Performance Breakdown */}
+      <div className="mb-8">
+        <div className="flex items-center mb-4">
+          <BarChart3 className="h-5 w-5 text-blue-600 mr-2" />
+          <h3 className="text-xl font-semibold text-blue-700">Performance by Category</h3>
+        </div>
+        
+        <div className="space-y-4">
+          {categoryPerformance.map((cat) => (
+            <div key={cat.category} className="bg-blue-50 rounded-lg p-4">
+              <div className="flex justify-between items-center mb-2">
+                <span className="font-medium text-blue-800">{cat.category}</span>
+                <span className={`font-semibold ${getCategoryColor(cat.percentage)}`}>
+                  {cat.correct}/{cat.total} ({cat.percentage}%)
+                </span>
+              </div>
+              <Progress 
+                value={cat.percentage} 
+                className="h-2"
+              />
+              <div className="mt-1">
+                <span className={`text-xs ${getProgressColor(cat.percentage)} px-2 py-1 rounded-full text-white`}>
+                  {cat.percentage >= 90 ? "Excellent" : 
+                   cat.percentage >= 80 ? "Very Good" : 
+                   cat.percentage >= 70 ? "Good" : 
+                   cat.percentage >= 60 ? "Satisfactory" : "Needs Improvement"}
+                </span>
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
 
       <div className="space-y-6 mt-8">
@@ -63,6 +151,9 @@ export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerate
                   <p className="font-medium text-blue-800">
                     <span className="text-blue-600 mr-2">Q{index + 1}.</span>
                     {question.text}
+                  </p>
+                  <p className="text-sm text-blue-600 mt-1">
+                    Category: {question.category}
                   </p>
 
                   <div className="mt-2 space-y-1 text-sm">
