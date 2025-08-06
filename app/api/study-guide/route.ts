@@ -41,14 +41,26 @@ You are an expert insurance educator creating a personalized study guide. A stud
 Here are ${questionsToProcess.length} of the questions they got wrong${wrongQuestions.length > maxQuestions ? ` (showing ${maxQuestions} most recent)` : ''}:
 ${questionsText}
 
-Please create a comprehensive study guide that:
-1. **Identifies Key Learning Areas**: Group the missed questions by topic/concept
-2. **Explains Core Concepts**: For each topic, provide clear explanations of the fundamental concepts
-3. **Common Mistakes**: Explain why their incorrect answers were wrong and what misconceptions to avoid
-4. **Study Tips**: Provide specific actionable study recommendations
-5. **Key Takeaways**: Summarize the most important points to remember
+Please create a comprehensive study guide that focuses on TEACHING and LEARNING. For each missed question, you should:
 
-Format your response in clear sections with headers. Make it encouraging but informative, suitable for someone preparing for their insurance examination.
+1. **EXPLAIN WHY THEY GOT IT WRONG**: Analyze their incorrect answer and explain the specific misconception or misunderstanding that led to their mistake.
+
+2. **TEACH THE CORRECT ANSWER**: Don't just state the right answer - explain WHY it's correct, the underlying concept, and how it relates to insurance principles.
+
+3. **PROVIDE MEMORY TECHNIQUES**: Give specific mnemonics, patterns, or memory aids to help them remember the concept. Use acronyms, rhymes, or logical connections that make the information stick.
+
+4. **SHOW THE PATTERNS**: Identify recurring themes or patterns across similar questions that they can use to answer future questions correctly.
+
+5. **BUILD UNDERSTANDING**: Connect concepts to real-world scenarios or practical applications that make the abstract insurance concepts more concrete and memorable.
+
+Structure your response with these sections:
+- **Key Learning Areas**: Group questions by topic/concept
+- **Detailed Explanations**: For each topic, explain why their answers were wrong and teach the correct concepts
+- **Memory Techniques**: Provide specific mnemonics and patterns for each concept
+- **Study Strategies**: Actionable tips for mastering these topics
+- **Practice Recommendations**: Suggest how to apply this knowledge
+
+Make your explanations encouraging and educational, focusing on helping them truly understand the concepts rather than just memorize answers. Use analogies, examples, and memory techniques that will help the information stick.
 `
 
     // Add timeout and error handling for OpenAI API call
@@ -59,7 +71,7 @@ Format your response in clear sections with headers. Make it encouraging but inf
     const generatePromise = generateText({
       model: openai("gpt-3.5-turbo"), // Use faster model instead of o3-mini
       prompt,
-      system: "You are an expert in health and life insurance education who creates comprehensive, easy-to-understand study guides. Focus on helping students understand concepts they struggled with and provide practical study strategies.",
+      system: "You are an expert insurance educator who specializes in teaching complex concepts through clear explanations, memory techniques, and practical examples. Your goal is to help students understand WHY they got questions wrong and provide them with tools to remember and apply the correct concepts. Use mnemonics, patterns, analogies, and real-world examples to make insurance concepts memorable and understandable.",
       maxTokens: 2000, // Limit response length
     })
 

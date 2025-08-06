@@ -1,9 +1,10 @@
 "use client"
 
+import { useState } from "react"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Progress } from "@/components/ui/progress"
-import { CheckCircle, XCircle, Award, ArrowRight, BookOpen, BarChart3 } from "lucide-react"
+import { CheckCircle, XCircle, Award, ArrowRight, BookOpen, BarChart3, ChevronDown, ChevronUp } from "lucide-react"
 import type { Question } from "@/types/quiz"
 
 interface QuizResultsProps {
@@ -21,6 +22,8 @@ interface CategoryPerformance {
 }
 
 export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerateStudyGuide }: QuizResultsProps) {
+  const [showCategoryBreakdown, setShowCategoryBreakdown] = useState(false)
+  
   const correctAnswers = questions.filter((q) => userAnswers[q.id] === q.correctAnswer).length
   const wrongQuestions = questions.filter((q) => userAnswers[q.id] !== q.correctAnswer)
 
@@ -101,35 +104,47 @@ export function QuizResults({ questions, userAnswers, onStartNewQuiz, onGenerate
 
       {/* Category Performance Breakdown */}
       <div className="mb-8">
-        <div className="flex items-center mb-4">
-          <BarChart3 className="h-5 w-5 text-blue-600 mr-2" />
-          <h3 className="text-xl font-semibold text-blue-700">Performance by Category</h3>
-        </div>
+        <button
+          onClick={() => setShowCategoryBreakdown(!showCategoryBreakdown)}
+          className="flex items-center justify-between w-full p-4 bg-blue-50 rounded-lg border border-blue-200 hover:bg-blue-100 transition-colors"
+        >
+          <div className="flex items-center">
+            <BarChart3 className="h-5 w-5 text-blue-600 mr-2" />
+            <h3 className="text-xl font-semibold text-blue-700">Performance by Category</h3>
+          </div>
+          {showCategoryBreakdown ? (
+            <ChevronUp className="h-5 w-5 text-blue-600" />
+          ) : (
+            <ChevronDown className="h-5 w-5 text-blue-600" />
+          )}
+        </button>
         
-        <div className="space-y-4">
-          {categoryPerformance.map((cat) => (
-            <div key={cat.category} className="bg-blue-50 rounded-lg p-4">
-              <div className="flex justify-between items-center mb-2">
-                <span className="font-medium text-blue-800">{cat.category}</span>
-                <span className={`font-semibold ${getCategoryColor(cat.percentage)}`}>
-                  {cat.correct}/{cat.total} ({cat.percentage}%)
-                </span>
+        {showCategoryBreakdown && (
+          <div className="mt-4 space-y-4">
+            {categoryPerformance.map((cat) => (
+              <div key={cat.category} className="bg-blue-50 rounded-lg p-4">
+                <div className="flex justify-between items-center mb-2">
+                  <span className="font-medium text-blue-800">{cat.category}</span>
+                  <span className={`font-semibold ${getCategoryColor(cat.percentage)}`}>
+                    {cat.correct}/{cat.total} ({cat.percentage}%)
+                  </span>
+                </div>
+                <Progress 
+                  value={cat.percentage} 
+                  className="h-2"
+                />
+                <div className="mt-1">
+                  <span className={`text-xs ${getProgressColor(cat.percentage)} px-2 py-1 rounded-full text-white`}>
+                    {cat.percentage >= 90 ? "Excellent" : 
+                     cat.percentage >= 80 ? "Very Good" : 
+                     cat.percentage >= 70 ? "Good" : 
+                     cat.percentage >= 60 ? "Satisfactory" : "Needs Improvement"}
+                  </span>
+                </div>
               </div>
-              <Progress 
-                value={cat.percentage} 
-                className="h-2"
-              />
-              <div className="mt-1">
-                <span className={`text-xs ${getProgressColor(cat.percentage)} px-2 py-1 rounded-full text-white`}>
-                  {cat.percentage >= 90 ? "Excellent" : 
-                   cat.percentage >= 80 ? "Very Good" : 
-                   cat.percentage >= 70 ? "Good" : 
-                   cat.percentage >= 60 ? "Satisfactory" : "Needs Improvement"}
-                </span>
-              </div>
-            </div>
-          ))}
-        </div>
+            ))}
+          </div>
+        )}
       </div>
 
       <div className="space-y-6 mt-8">
