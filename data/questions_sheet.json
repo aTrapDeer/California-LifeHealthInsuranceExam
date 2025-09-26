@@ -4952,14 +4952,14 @@
   },
   {
     "id": "q382",
-    "text": "Under Missouri law, what is the maximum penalty for willfully violating insurance regulations?",
+    "text": "Sally applies for a life insurance policy and pays the first premium. The insurer approves her application. When does her coverage typically become effective?",
     "options": [
-      "$1,000 fine",
-      "$5,000 fine",
-      "$10,000 fine and/or 1 year imprisonment",
-      "$25,000 fine"
+      "When she submits the application",
+      "When the insurer approves the application",
+      "When the policy is delivered to her",
+      "When she receives and accepts the policy"
     ],
-    "correctAnswer": "$10,000 fine and/or 1 year imprisonment",
+    "correctAnswer": "When the insurer approves the application",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -4978,14 +4978,14 @@
   },
   {
     "id": "q384",
-    "text": "Under Missouri statute, what is the penalty for conducting insurance business without a license?",
+    "text": "John applies for health insurance but does not pay the first premium with his application. When does his coverage become effective?",
     "options": [
-      "Warning only",
-      "Fine up to $1,000",
-      "Class A misdemeanor",
-      "Class B felony"
+      "Immediately upon application approval",
+      "When he pays the first premium after approval",
+      "30 days after the application is submitted",
+      "When he receives the policy in the mail"
     ],
-    "correctAnswer": "Class A misdemeanor",
+    "correctAnswer": "When he pays the first premium after approval",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5004,14 +5004,14 @@
   },
   {
     "id": "q386",
-    "text": "Under Missouri law, what is the penalty for embezzling insurance funds?",
+    "text": "Maria applies for auto insurance and pays the first premium, but the insurer has not yet approved her application. If she has an accident the next day, is she covered?",
     "options": [
-      "Fine only",
-      "Class D felony",
-      "Class B felony",
-      "Class A felony"
+      "Yes, coverage begins immediately when premium is paid",
+      "No, coverage doesn't begin until the policy is approved",
+      "Yes, if she has a conditional receipt",
+      "Coverage depends on the type of accident"
     ],
-    "correctAnswer": "Class B felony",
+    "correctAnswer": "Yes, if she has a conditional receipt",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5043,14 +5043,14 @@
   },
   {
     "id": "q389",
-    "text": "Under Missouri law, what is the maximum fine for each violation of insurance advertising regulations?",
+    "text": "Tom's insurance agent delivers his new homeowner's policy on Monday, but Tom is out of town until Friday. When does his coverage become effective?",
     "options": [
-      "$500",
-      "$1,000",
-      "$2,500",
-      "$5,000"
+      "Monday when the policy was delivered",
+      "Friday when Tom returns",
+      "When Tom actually receives and reviews the policy",
+      "The effective date specified in the policy"
     ],
-    "correctAnswer": "$2,500",
+    "correctAnswer": "The effective date specified in the policy",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5082,27 +5082,27 @@
   },
   {
     "id": "q392",
-    "text": "Under Missouri statute, what is the penalty for misappropriating insurance premiums?",
+    "text": "Lisa applies for disability insurance and submits her application without payment. The insurer approves the application and sends her a policy. When does coverage begin?",
     "options": [
-      "Administrative fine",
-      "Class A misdemeanor",
-      "Class D felony",
-      "Class C felony"
+      "When the application was approved",
+      "When the policy was mailed",
+      "When Lisa receives the policy and pays the first premium",
+      "30 days after policy delivery"
     ],
-    "correctAnswer": "Class C felony",
+    "correctAnswer": "When Lisa receives the policy and pays the first premium",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q393",
-    "text": "In Missouri, the Director of Commerce may impose fines up to what amount for insurance law violations?",
+    "text": "Robert applies for term life insurance on January 1st and pays the first premium. The insurer issues the policy on January 15th with an effective date of January 10th. When did his coverage actually begin?",
     "options": [
-      "$5,000",
-      "$10,000",
-      "$15,000",
-      "$25,000"
+      "January 1st when he applied",
+      "January 10th per the policy effective date",
+      "January 15th when the policy was issued",
+      "Coverage is retroactive to January 1st"
     ],
-    "correctAnswer": "$25,000",
+    "correctAnswer": "January 10th per the policy effective date",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5121,14 +5121,14 @@
   },
   {
     "id": "q395",
-    "text": "Under Missouri statute, what is the penalty for conducting unauthorized insurance activities?",
+    "text": "Jennifer applies for health insurance and receives a conditional receipt. Two weeks later, before the policy is approved, she needs medical treatment. What determines her coverage?",
     "options": [
-      "Fine up to $1,000",
-      "Class A misdemeanor",
-      "Class D felony",
-      "Class C felony"
+      "She has no coverage until policy approval",
+      "Coverage applies if she meets the insurer's underwriting standards",
+      "Coverage is automatic with the conditional receipt",
+      "Coverage depends on the amount of her medical bills"
     ],
-    "correctAnswer": "Class A misdemeanor",
+    "correctAnswer": "Coverage applies if she meets the insurer's underwriting standards",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5186,27 +5186,27 @@
   },
   {
     "id": "q400",
-    "text": "Missouri law prohibits insurance producers from commingling premiums with personal funds under penalty of:",
+    "text": "David applies for commercial property insurance and pays the initial premium. The agent delivers the policy binder immediately. When is David's property covered?",
     "options": [
-      "License suspension only",
-      "Fine up to $5,000",
-      "Class D felony",
-      "Class C felony"
+      "Only after the final policy is issued",
+      "Immediately upon receiving the binder",
+      "After a 30-day waiting period",
+      "When the insurer processes the payment"
     ],
-    "correctAnswer": "Class D felony",
+    "correctAnswer": "Immediately upon receiving the binder",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
   },
   {
     "id": "q401",
-    "text": "Under Missouri statute, what is the maximum penalty for violations of the Unfair Trade Practices Act in insurance?",
+    "text": "Anna applies for a disability insurance policy and pays her first premium. The medical exam reveals a minor health condition not disclosed in her application. When does coverage begin?",
     "options": [
-      "$1,000 per violation",
-      "$5,000 per violation",
-      "$10,000 per violation",
-      "$25,000 per violation"
+      "Coverage is void due to non-disclosure",
+      "Coverage begins when the insurer decides on the application",
+      "Coverage is postponed for 6 months",
+      "Coverage begins with an exclusion for the undisclosed condition"
     ],
-    "correctAnswer": "$5,000 per violation",
+    "correctAnswer": "Coverage begins when the insurer decides on the application",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5238,40 +5238,40 @@
   },
   {
     "id": "q404",
-    "text": "Under Missouri statute, the penalty for violating insurance confidentiality laws is:",
+    "text": "Kevin applies for group life insurance through his employer. He submits his enrollment form on March 1st, and the group policy has an effective date of March 15th. When does Kevin's individual coverage begin?",
     "options": [
-      "Warning only",
-      "Fine up to $1,000",
-      "Class A misdemeanor",
-      "Class D felony"
+      "March 1st when he enrolled",
+      "March 15th with the group policy effective date",
+      "When he pays his first premium",
+      "30 days after enrollment"
     ],
-    "correctAnswer": "Class A misdemeanor",
+    "correctAnswer": "March 15th with the group policy effective date",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q405",
-    "text": "In Missouri, what is the maximum administrative penalty for each day of continued violation of insurance regulations?",
+    "text": "Sarah applies for auto insurance and receives a quote. She decides to proceed but doesn't pay the premium immediately. The agent issues a binder with payment due within 10 days. When does her coverage start?",
     "options": [
-      "$100",
-      "$250",
-      "$500",
-      "$1,000"
+      "Immediately when the binder is issued",
+      "When she pays the premium within 10 days",
+      "10 days after the binder is issued",
+      "When she receives the final policy"
     ],
-    "correctAnswer": "$500",
+    "correctAnswer": "Immediately when the binder is issued",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
   {
     "id": "q406",
-    "text": "Under Missouri law, what is the maximum penalty for willfully violating insurance regulations?",
+    "text": "Mark applies for whole life insurance and pays the first annual premium. The insurer approves his application but discovers he moved to a different state before the policy was delivered. When does his coverage become effective?",
     "options": [
-      "$1,000 fine",
-      "$5,000 fine",
-      "$10,000 fine and/or 1 year imprisonment",
-      "$25,000 fine"
+      "Coverage is void due to the address change",
+      "When the insurer approved the application",
+      "When he receives and accepts the policy at his new address",
+      "30 days after the original effective date"
     ],
-    "correctAnswer": "$10,000 fine and/or 1 year imprisonment",
+    "correctAnswer": "When the insurer approved the application",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5524,14 +5524,14 @@
   },
   {
     "id": "q426",
-    "text": "In Missouri, what is the penalty for operating as an insurance company without a certificate of authority?",
+    "text": "Patricia applies for renters insurance and chooses to pay monthly. She submits her application on the 15th with the first month's premium. The policy is issued with an effective date of the 1st of the following month. When is she covered?",
     "options": [
-      "Warning letter only",
-      "Fine up to $10,000 per day",
-      "Class A misdemeanor",
-      "Class D felony"
+      "From the 15th when she applied",
+      "From the 1st of the following month as stated in the policy",
+      "When she receives the policy documents",
+      "After a 30-day waiting period"
     ],
-    "correctAnswer": "Fine up to $10,000 per day",
+    "correctAnswer": "From the 1st of the following month as stated in the policy",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5563,14 +5563,14 @@
   },
   {
     "id": "q429",
-    "text": "In Missouri, what is the penalty for rebating (giving illegal inducements to purchase insurance)?",
+    "text": "Carlos applies for motorcycle insurance and pays the premium in full. The agent provides him with a temporary insurance ID card while the permanent policy is being processed. When is he legally covered?",
     "options": [
-      "Warning only",
-      "Fine up to $1,000",
-      "Fine up to $5,000 and/or license suspension",
-      "Class D felony"
+      "Only when he receives the permanent policy",
+      "Immediately upon receiving the temporary ID card",
+      "After the insurance company processes his payment",
+      "24 hours after receiving the temporary ID card"
     ],
-    "correctAnswer": "Fine up to $5,000 and/or license suspension",
+    "correctAnswer": "Immediately upon receiving the temporary ID card",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5602,14 +5602,14 @@
   },
   {
     "id": "q432",
-    "text": "In Missouri, what is the penalty for discrimination in insurance rates based on race or religion?",
+    "text": "Emma applies for critical illness insurance and takes the required medical exam. The exam results are favorable, but the insurer needs additional information. When does her coverage period begin?",
     "options": [
-      "Administrative warning",
-      "Fine up to $2,500",
-      "Class A misdemeanor",
-      "Class D felony"
+      "When she submitted the application",
+      "When the medical exam was completed",
+      "When the insurer receives all required information and approves the policy",
+      "90 days after the initial application"
     ],
-    "correctAnswer": "Class A misdemeanor",
+    "correctAnswer": "When the insurer receives all required information and approves the policy",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5641,14 +5641,14 @@
   },
   {
     "id": "q435",
-    "text": "In Missouri, what is the penalty for making false entries in insurance records?",
+    "text": "Rachel applies for umbrella liability insurance and pays the quarterly premium. The policy has a retroactive date that's 30 days before her application date. When does her coverage become effective for claims?",
     "options": [
-      "Administrative fine",
-      "Class A misdemeanor",
-      "Class D felony",
-      "Class C felony"
+      "From the application date forward only",
+      "From the retroactive date for all covered incidents",
+      "30 days after the policy issue date",
+      "From the retroactive date, but only for incidents after the policy issue date"
     ],
-    "correctAnswer": "Class D felony",
+    "correctAnswer": "From the retroactive date for all covered incidents",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5680,14 +5680,14 @@
   },
   {
     "id": "q438",
-    "text": "In Missouri, what is the penalty for threatening or intimidating an insurance regulator?",
+    "text": "Michael applies for boat insurance during the off-season and pays the annual premium. The policy states coverage begins on May 1st, but he wants to take his boat out in April. When is his boat covered?",
     "options": [
-      "Fine up to $5,000",
-      "Class A misdemeanor",
-      "Class D felony",
-      "Class B felony"
+      "Immediately when he paid the premium",
+      "On May 1st as stated in the policy",
+      "When he contacts the insurer to activate early coverage",
+      "April 1st since he paid for the full year"
     ],
-    "correctAnswer": "Class D felony",
+    "correctAnswer": "On May 1st as stated in the policy",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -5706,14 +5706,14 @@
   },
   {
     "id": "q440",
-    "text": "Missouri insurance law prohibits unfair claim settlement practices, with violations carrying a penalty of:",
+    "text": "Sophie applies for professional liability insurance as a freelance consultant. She submits her application on June 1st, pays the premium, and begins working with clients immediately. The insurer approves the policy on June 10th with a retroactive date of June 1st. If a claim arises from work performed on June 5th, is she covered?",
     "options": [
-      "Warning letter",
-      "Fine up to $1,000 per violation",
-      "Fine up to $5,000 per violation",
-      "License revocation only"
+      "No, because the policy wasn't approved until June 10th",
+      "Yes, because of the June 1st retroactive date",
+      "Only if she can prove she had coverage elsewhere",
+      "Coverage depends on the type of claim"
     ],
-    "correctAnswer": "Fine up to $5,000 per violation",
+    "correctAnswer": "Yes, because of the June 1st retroactive date",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -6005,14 +6005,14 @@
   },
   {
     "id": "q463",
-    "text": "In Missouri, what is the penalty for conspiracy to commit insurance fraud?",
+    "text": "Ashley applies for dental insurance during open enrollment at work. She submits her enrollment form on October 15th, and the plan year begins January 1st. Her first premium is deducted from her December paycheck. When does her dental coverage begin?",
     "options": [
-      "Same as underlying fraud offense",
-      "Class A misdemeanor",
-      "Class D felony",
-      "Class C felony"
+      "October 15th when she enrolled",
+      "When her first premium was deducted in December", 
+      "January 1st when the plan year begins",
+      "30 days after premium deduction"
     ],
-    "correctAnswer": "Same as underlying fraud offense",
+    "correctAnswer": "January 1st when the plan year begins",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -6720,14 +6720,14 @@
   },
   {
     "id": "q518",
-    "text": "In Missouri, what is the penalty for conducting insurance business without proper notification?",
+    "text": "Brandon applies for travel insurance the day before his international trip. He pays the premium immediately and receives email confirmation. His policy documents will be mailed to his home address. When does his travel coverage begin?",
     "options": [
-      "Warning only",
-      "Fine up to $1,000",
-      "Fine up to $5,000 and/or suspension of license",
-      "Criminal charges"
+      "When he receives the physical policy documents",
+      "24 hours after premium payment",
+      "According to the effective date in the email confirmation",
+      "When he arrives at his destination"
     ],
-    "correctAnswer": "Fine up to $5,000 and/or suspension of license",
+    "correctAnswer": "According to the effective date in the email confirmation",
     "state": "MO",
     "category": "Missouri Statutes, Rules and Regulations Common to All Lines"
   },
@@ -7211,5 +7211,1630 @@
     "correctAnswer": "To allow time for short-term disability to pay first",
     "state": "Gen",
     "category": "Types of Health Policies"
+  },
+  {
+    "id": "q556",
+    "text": "Which of the following deaths would typically qualify for Accidental Death and Dismemberment (AD&D) benefits?",
+    "options": [
+      "Death from a heart attack while driving",
+      "Death in a car accident caused by mechanical failure",
+      "Death from complications during elective surgery",
+      "Death from a drug overdose"
+    ],
+    "correctAnswer": "Death in a car accident caused by mechanical failure",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q557",
+    "text": "Under a typical AD&D policy, loss of which body part would qualify for dismemberment benefits?",
+    "options": [
+      "Loss of hearing in one ear",
+      "Loss of one hand at the wrist",
+      "Loss of a finger",
+      "Loss of hair due to chemotherapy"
+    ],
+    "correctAnswer": "Loss of one hand at the wrist",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q558",
+    "text": "An AD&D policy typically pays what percentage of the principal sum for loss of one arm?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctAnswer": "50%",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q559",
+    "text": "Which of the following would typically be EXCLUDED from AD&D coverage?",
+    "options": [
+      "Death in a workplace accident",
+      "Death while skydiving as a hobby",
+      "Death from intentionally self-inflicted injury",
+      "Death in a home accident"
+    ],
+    "correctAnswer": "Death from intentionally self-inflicted injury",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q560",
+    "text": "John works as a construction worker and dies in a scaffolding accident at his job site. Would this typically be covered under his AD&D policy?",
+    "options": [
+      "No, because it was work-related",
+      "Yes, if the death was accidental",
+      "Only if he wasn't wearing safety equipment",
+      "Only if his employer doesn't provide workers' compensation"
+    ],
+    "correctAnswer": "Yes, if the death was accidental",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q561",
+    "text": "Sarah loses her sight in both eyes due to a car accident. Under a standard AD&D policy, this would typically result in:",
+    "options": [
+      "No benefit payment as there was no death or dismemberment",
+      "Payment of 50% of the principal sum",
+      "Payment of 75% of the principal sum",
+      "Payment of 100% of the principal sum"
+    ],
+    "correctAnswer": "Payment of 100% of the principal sum",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q562",
+    "text": "Which of the following scenarios would most likely be covered under an AD&D policy?",
+    "options": [
+      "Death during experimental medical treatment",
+      "Death while participating in professional boxing",
+      "Death from food poisoning at a restaurant",
+      "Death from complications of diabetes"
+    ],
+    "correctAnswer": "Death from food poisoning at a restaurant",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q563",
+    "text": "AD&D policies typically require that death or dismemberment occur within what time period after the accident?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "365 days"
+    ],
+    "correctAnswer": "90 days",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q564",
+    "text": "Mike has a $100,000 AD&D policy and loses both his legs in a motorcycle accident. How much would he typically receive?",
+    "options": [
+      "$50,000",
+      "$75,000",
+      "$100,000",
+      "$200,000"
+    ],
+    "correctAnswer": "$100,000",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q565",
+    "text": "Which of the following deaths would typically NOT qualify for AD&D benefits?",
+    "options": [
+      "Death from drowning while swimming",
+      "Death from a heart attack triggered by a car accident",
+      "Death from natural causes during sleep",
+      "Death from smoke inhalation during a house fire"
+    ],
+    "correctAnswer": "Death from natural causes during sleep",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q566",
+    "text": "Lisa has both a $50,000 life insurance policy and a $50,000 AD&D policy. If she dies in an accidental car crash, her beneficiary would receive:",
+    "options": [
+      "$50,000 total",
+      "$50,000 from life insurance only",
+      "$50,000 from AD&D only", 
+      "$100,000 total"
+    ],
+    "correctAnswer": "$100,000 total",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q567",
+    "text": "An employee has group AD&D coverage through work and also purchased individual AD&D coverage. If he dies accidentally, what happens?",
+    "options": [
+      "Only the group policy pays",
+      "Only the individual policy pays",
+      "Both policies pay their full amounts",
+      "The policies split the benefit equally"
+    ],
+    "correctAnswer": "Both policies pay their full amounts",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q568",
+    "text": "Which of the following activities would typically be excluded from AD&D coverage?",
+    "options": [
+      "Playing recreational softball",
+      "Driving to work",
+      "Flying as a paying passenger on a commercial airline",
+      "Piloting a private aircraft"
+    ],
+    "correctAnswer": "Piloting a private aircraft",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q569",
+    "text": "Tom loses three fingers on his right hand in a work accident. Under a typical AD&D policy, this would result in:",
+    "options": [
+      "Full principal sum payment",
+      "50% of principal sum payment",
+      "25% of principal sum payment",
+      "No payment as individual fingers are not covered"
+    ],
+    "correctAnswer": "No payment as individual fingers are not covered",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q570",
+    "text": "Jennifer dies in a climbing accident while on vacation. The AD&D policy investigation reveals she had been drinking alcohol. What is the likely outcome?",
+    "options": [
+      "Full benefits are paid",
+      "Benefits are reduced by 50%",
+      "Benefits may be denied if intoxication contributed to the accident",
+      "Benefits are paid after a 30-day waiting period"
+    ],
+    "correctAnswer": "Benefits may be denied if intoxication contributed to the accident",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q571",
+    "text": "Under most AD&D policies, what is the benefit for loss of speech and hearing combined?",
+    "options": [
+      "25% of principal sum",
+      "50% of principal sum", 
+      "75% of principal sum",
+      "100% of principal sum"
+    ],
+    "correctAnswer": "100% of principal sum",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q572",
+    "text": "A person dies from a heart attack while exercising at the gym. Would this typically be covered under AD&D?",
+    "options": [
+      "Yes, because it happened during physical activity",
+      "Yes, because it was unexpected",
+      "No, because it was due to natural causes",
+      "Only if they had no history of heart problems"
+    ],
+    "correctAnswer": "No, because it was due to natural causes",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q573",
+    "text": "Mark has a $200,000 AD&D policy. He loses one eye and one hand in an industrial accident. His benefit would typically be:",
+    "options": [
+      "$50,000 (25% for eye)",
+      "$100,000 (50% for hand)",
+      "$150,000 (25% + 50%)",
+      "$200,000 (maximum for multiple losses)"
+    ],
+    "correctAnswer": "$200,000 (maximum for multiple losses)",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q574",
+    "text": "Which factor is most important in determining if a death qualifies for AD&D benefits?",
+    "options": [
+      "The location where death occurred",
+      "Whether the death was sudden and unexpected",
+      "Whether external, violent means were the primary cause",
+      "The age of the insured at time of death"
+    ],
+    "correctAnswer": "Whether external, violent means were the primary cause",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q575",
+    "text": "What is the main tax advantage of a traditional IRA?",
+    "options": [
+      "Contributions are tax-free",
+      "Contributions are tax-deductible",
+      "Withdrawals are always tax-free",
+      "Capital gains are never taxed"
+    ],
+    "correctAnswer": "Contributions are tax-deductible",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q576",
+    "text": "At what age can you begin withdrawing from a traditional IRA without paying the early withdrawal penalty?",
+    "options": [
+      "55",
+      "59½",
+      "62",
+      "65"
+    ],
+    "correctAnswer": "59½",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q577",
+    "text": "What is the early withdrawal penalty for traditional IRAs if you withdraw before age 59½?",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "correctAnswer": "10%",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q578",
+    "text": "Which of the following is a key difference between traditional and Roth IRAs?",
+    "options": [
+      "Roth IRAs have higher contribution limits",
+      "Traditional IRAs allow earlier withdrawals",
+      "Roth IRA contributions are made with after-tax dollars",
+      "Traditional IRAs have no age restrictions"
+    ],
+    "correctAnswer": "Roth IRA contributions are made with after-tax dollars",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q579",
+    "text": "At what age must you begin taking required minimum distributions (RMDs) from a traditional IRA?",
+    "options": [
+      "65",
+      "70",
+      "72",
+      "75"
+    ],
+    "correctAnswer": "72",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q580",
+    "text": "Sarah, age 35, withdraws $10,000 from her traditional IRA to buy her first home. What penalty will she face?",
+    "options": [
+      "No penalty - first-time homebuyers are exempt",
+      "5% penalty",
+      "10% penalty",
+      "15% penalty"
+    ],
+    "correctAnswer": "No penalty - first-time homebuyers are exempt",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q581",
+    "text": "How are qualified withdrawals from a Roth IRA taxed?",
+    "options": [
+      "As ordinary income",
+      "As capital gains",
+      "At a reduced rate",
+      "They are tax-free"
+    ],
+    "correctAnswer": "They are tax-free",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q582",
+    "text": "What is the cash value component in a whole life insurance policy?",
+    "options": [
+      "The death benefit amount",
+      "The total premiums paid",
+      "A savings/investment component that grows over time",
+      "The policy's surrender charge"
+    ],
+    "correctAnswer": "A savings/investment component that grows over time",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q583",
+    "text": "In a variable life insurance policy, who bears the investment risk?",
+    "options": [
+      "The insurance company",
+      "The government",
+      "The policyholder",
+      "The beneficiary"
+    ],
+    "correctAnswer": "The policyholder",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q584",
+    "text": "What happens to the cash value when you surrender a whole life insurance policy?",
+    "options": [
+      "It goes to the beneficiary",
+      "It's forfeited to the insurance company",
+      "You receive it minus any surrender charges",
+      "It's transferred to a new policy"
+    ],
+    "correctAnswer": "You receive it minus any surrender charges",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q585",
+    "text": "How are life insurance death benefits typically taxed to beneficiaries?",
+    "options": [
+      "As ordinary income",
+      "As capital gains",
+      "They are generally income tax-free",
+      "At a 50% tax rate"
+    ],
+    "correctAnswer": "They are generally income tax-free",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q586",
+    "text": "What is a Health Savings Account (HSA)?",
+    "options": [
+      "A government-sponsored health insurance plan",
+      "A tax-advantaged account for medical expenses",
+      "A type of disability insurance",
+      "A retirement account for healthcare workers"
+    ],
+    "correctAnswer": "A tax-advantaged account for medical expenses",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q587",
+    "text": "To be eligible for an HSA, you must have which type of health insurance?",
+    "options": [
+      "Any health insurance plan",
+      "A high-deductible health plan (HDHP)",
+      "Medicare only",
+      "No health insurance"
+    ],
+    "correctAnswer": "A high-deductible health plan (HDHP)",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q588",
+    "text": "What is the 'triple tax advantage' of HSAs?",
+    "options": [
+      "Deductible contributions, tax-free growth, tax-free qualified withdrawals",
+      "Three different types of investments allowed",
+      "Tax benefits for three family members",
+      "Three years of tax deferrals"
+    ],
+    "correctAnswer": "Deductible contributions, tax-free growth, tax-free qualified withdrawals",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q589",
+    "text": "John, age 40, withdraws $2,000 from his HSA to pay for his daughter's braces. How is this withdrawal taxed?",
+    "options": [
+      "Tax-free as a qualified medical expense",
+      "Taxed as ordinary income plus 10% penalty",
+      "Taxed as capital gains",
+      "Tax-free but subject to 20% penalty"
+    ],
+    "correctAnswer": "Tax-free as a qualified medical expense",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q590",
+    "text": "What happens to unused HSA funds at the end of the year?",
+    "options": [
+      "They are forfeited",
+      "They roll over indefinitely",
+      "They are donated to charity",
+      "They are taxed as income"
+    ],
+    "correctAnswer": "They roll over indefinitely",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q591",
+    "text": "How are employer-paid premiums for group disability insurance typically taxed to employees?",
+    "options": [
+      "Always tax-free",
+      "Taxed as ordinary income",
+      "Taxed at capital gains rates",
+      "Tax-free up to certain limits"
+    ],
+    "correctAnswer": "Tax-free up to certain limits",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q592",
+    "text": "If an employer pays disability insurance premiums, how are the benefits taxed when received?",
+    "options": [
+      "Tax-free to the employee",
+      "Taxed as ordinary income",
+      "Taxed at 50% of ordinary income rates",
+      "Subject to capital gains tax"
+    ],
+    "correctAnswer": "Taxed as ordinary income",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q593",
+    "text": "What is an annuity in the context of insurance?",
+    "options": [
+      "A type of life insurance policy",
+      "A contract that provides income payments over time",
+      "A health insurance premium payment",
+      "A disability benefit calculation"
+    ],
+    "correctAnswer": "A contract that provides income payments over time",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q594",
+    "text": "In a fixed annuity, what is guaranteed?",
+    "options": [
+      "The investment return rate",
+      "The death benefit amount",
+      "The premium payment schedule",
+      "The inflation adjustment"
+    ],
+    "correctAnswer": "The investment return rate",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q595",
+    "text": "How are annuity payments typically taxed during the accumulation phase?",
+    "options": [
+      "Fully taxable each year",
+      "Tax-deferred until withdrawal",
+      "Tax-free forever",
+      "Taxed at capital gains rates"
+    ],
+    "correctAnswer": "Tax-deferred until withdrawal",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q596",
+    "text": "Maria withdraws $5,000 from her non-qualified annuity. The annuity has $20,000 in contributions and $8,000 in gains. How much is taxable?",
+    "options": [
+      "$0",
+      "$1,400 (gains portion)",
+      "$5,000 (entire withdrawal)",
+      "$3,600 (proportional gains)"
+    ],
+    "correctAnswer": "$5,000 (entire withdrawal)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q597",
+    "text": "What is the primary purpose of long-term care insurance?",
+    "options": [
+      "To replace lost income due to disability",
+      "To pay for extended medical care and assistance",
+      "To provide life insurance coverage",
+      "To supplement Medicare benefits"
+    ],
+    "correctAnswer": "To pay for extended medical care and assistance",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q598",
+    "text": "How are long-term care insurance premiums typically treated for tax purposes?",
+    "options": [
+      "Never deductible",
+      "Always fully deductible",
+      "May be deductible as medical expenses subject to AGI limits",
+      "Deductible only for self-employed individuals"
+    ],
+    "correctAnswer": "May be deductible as medical expenses subject to AGI limits",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q599",
+    "text": "In a universal life insurance policy, what happens if you pay more than the target premium?",
+    "options": [
+      "The excess is returned immediately",
+      "It increases the death benefit proportionally",
+      "It goes into the cash value account",
+      "It is forfeited to the insurance company"
+    ],
+    "correctAnswer": "It goes into the cash value account",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q600",
+    "text": "What is the main difference between a variable annuity and a fixed annuity?",
+    "options": [
+      "Variable annuities have higher fees",
+      "Variable annuities offer investment choices with market risk",
+      "Fixed annuities have shorter terms",
+      "Variable annuities are only for retirees"
+    ],
+    "correctAnswer": "Variable annuities offer investment choices with market risk",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q601",
+    "text": "Tom, age 45, withdraws $15,000 from his traditional IRA for a family vacation. What are the total tax consequences?",
+    "options": [
+      "Ordinary income tax only",
+      "Ordinary income tax plus 10% early withdrawal penalty",
+      "Capital gains tax only",
+      "No tax consequences if it's his first withdrawal"
+    ],
+    "correctAnswer": "Ordinary income tax plus 10% early withdrawal penalty",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q602",
+    "text": "Which of the following IRA early withdrawal scenarios would NOT incur the 10% penalty?",
+    "options": [
+      "Withdrawal for a luxury car purchase",
+      "Withdrawal for qualified higher education expenses",
+      "Withdrawal for a vacation",
+      "Withdrawal to pay credit card debt"
+    ],
+    "correctAnswer": "Withdrawal for qualified higher education expenses",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q603",
+    "text": "Lisa, age 40, withdraws $25,000 from her Roth IRA. She has contributed $20,000 over the years and has $8,000 in earnings. What is taxable?",
+    "options": [
+      "$25,000 (entire withdrawal)",
+      "$8,000 (earnings portion only)",
+      "$5,000 (excess over contributions)",
+      "$0 (contributions come out first tax-free)"
+    ],
+    "correctAnswer": "$5,000 (excess over contributions)",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q604",
+    "text": "Mike, age 38, is unemployed and withdraws $12,000 from his traditional IRA for living expenses. The tax consequences are:",
+    "options": [
+      "No taxes due to hardship exemption",
+      "Ordinary income tax only since he's unemployed",
+      "Ordinary income tax plus 10% penalty",
+      "Reduced penalty of 5% due to unemployment"
+    ],
+    "correctAnswer": "Ordinary income tax plus 10% penalty",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q605",
+    "text": "What is the maximum amount you can withdraw penalty-free from a traditional IRA for a first-time home purchase?",
+    "options": [
+      "$5,000",
+      "$10,000",
+      "$15,000",
+      "$20,000"
+    ],
+    "correctAnswer": "$10,000",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q606",
+    "text": "Jennifer, age 50, withdraws $8,000 from her traditional IRA to pay for her son's college tuition. What penalty, if any, applies?",
+    "options": [
+      "No penalty - education expenses are exempt",
+      "5% penalty",
+      "10% penalty",
+      "15% penalty"
+    ],
+    "correctAnswer": "No penalty - education expenses are exempt",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q607",
+    "text": "What happens if you withdraw from a traditional IRA before age 59½ and then redeposit the money within 60 days?",
+    "options": [
+      "You still owe the 10% penalty",
+      "It's considered a rollover and no penalty applies",
+      "You owe ordinary income tax but no penalty",
+      "The withdrawal is completely tax-free"
+    ],
+    "correctAnswer": "It's considered a rollover and no penalty applies",
+    "state": "Gen",
+    "category": "Retirement Plans"
+  },
+  {
+    "id": "q608",
+    "text": "Group term life insurance provided by employers is generally:",
+    "options": [
+      "Permanent coverage that continues after employment",
+      "Temporary coverage that ends when employment terminates",
+      "Only available to management employees",
+      "Automatically converted to individual policies"
+    ],
+    "correctAnswer": "Temporary coverage that ends when employment terminates",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q609",
+    "text": "Under federal tax law, how much group term life insurance can an employer provide tax-free to employees?",
+    "options": [
+      "$25,000",
+      "$50,000",
+      "$75,000",
+      "$100,000"
+    ],
+    "correctAnswer": "$50,000",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q610",
+    "text": "What happens to group term life insurance when an employee leaves the company?",
+    "options": [
+      "Coverage automatically continues at the same premium",
+      "Coverage terminates but may be convertible to individual insurance",
+      "Coverage becomes the employee's permanent property",
+      "Coverage transfers to the new employer"
+    ],
+    "correctAnswer": "Coverage terminates but may be convertible to individual insurance",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q611",
+    "text": "How long does an employee typically have to convert group term life insurance after leaving employment?",
+    "options": [
+      "15 days",
+      "31 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "31 days",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q612",
+    "text": "When converting group term life insurance to individual coverage, which of the following is typically required?",
+    "options": [
+      "Medical examination",
+      "Evidence of insurability",
+      "Proof of income",
+      "No evidence of insurability"
+    ],
+    "correctAnswer": "No evidence of insurability",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q613",
+    "text": "Sarah has $200,000 in group term life insurance through her employer. How much of this benefit is taxable to her annually?",
+    "options": [
+      "$0",
+      "The imputed income on $150,000 of coverage",
+      "The full premium amount",
+      "50% of the premium amount"
+    ],
+    "correctAnswer": "The imputed income on $150,000 of coverage",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q614",
+    "text": "Which type of individual policy can group term life insurance typically be converted to?",
+    "options": [
+      "Term life only",
+      "Whole life or universal life",
+      "Variable life only",
+      "Any type of life insurance policy"
+    ],
+    "correctAnswer": "Whole life or universal life",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q615",
+    "text": "Mark leaves his job and converts his $100,000 group term life policy. The premium for the converted individual policy will be based on:",
+    "options": [
+      "His age when he originally joined the group plan",
+      "The group premium rates",
+      "His current age and health class",
+      "His current age with standard health rates"
+    ],
+    "correctAnswer": "His current age with standard health rates",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q616",
+    "text": "Which of the following employees would most benefit from converting group term life insurance?",
+    "options": [
+      "A healthy 25-year-old",
+      "A healthy 45-year-old",
+      "An employee with serious health conditions",
+      "An employee near retirement"
+    ],
+    "correctAnswer": "An employee with serious health conditions",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q617",
+    "text": "Group term life insurance premiums are typically based on:",
+    "options": [
+      "Each individual employee's health and age",
+      "The average age and experience of the group",
+      "The highest risk employee in the group",
+      "Standard rates regardless of the group composition"
+    ],
+    "correctAnswer": "The average age and experience of the group",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q618",
+    "text": "If an employee dies during the conversion period but before actually converting the group term policy:",
+    "options": [
+      "No death benefit is paid",
+      "Only the group policy death benefit is paid",
+      "The conversion amount is paid as if converted",
+      "A reduced death benefit is paid"
+    ],
+    "correctAnswer": "The conversion amount is paid as if converted",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q619",
+    "text": "What is the primary advantage of group term life insurance for employees?",
+    "options": [
+      "Permanent coverage",
+      "Low cost and guaranteed issue",
+      "Cash value accumulation",
+      "Tax-free death benefits"
+    ],
+    "correctAnswer": "Low cost and guaranteed issue",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q620",
+    "text": "An employee has both group term life insurance and individual life insurance. If she dies accidentally, what happens?",
+    "options": [
+      "Only the group policy pays",
+      "Only the individual policy pays",
+      "Both policies pay their full death benefits",
+      "The benefits are reduced by coordination of benefits"
+    ],
+    "correctAnswer": "Both policies pay their full death benefits",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q621",
+    "text": "What does 'aleatory' mean in insurance contracts?",
+    "options": [
+      "The contract is written in legal language",
+      "The exchange of values is unequal and depends on chance",
+      "Both parties have equal bargaining power",
+      "The contract terms can be negotiated"
+    ],
+    "correctAnswer": "The exchange of values is unequal and depends on chance",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q622",
+    "text": "Which of the following is an example of rebating?",
+    "options": [
+      "Explaining policy benefits accurately",
+      "Offering a discount on premiums not approved by the insurer",
+      "Providing educational materials about insurance",
+      "Referring clients to other licensed agents"
+    ],
+    "correctAnswer": "Offering a discount on premiums not approved by the insurer",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q623",
+    "text": "What is 'twisting' in the insurance industry?",
+    "options": [
+      "Adjusting policy terms to meet customer needs",
+      "Converting group insurance to individual coverage",
+      "Using misrepresentation to convince someone to replace existing coverage",
+      "Calculating actuarial tables for pricing"
+    ],
+    "correctAnswer": "Using misrepresentation to convince someone to replace existing coverage",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q624",
+    "text": "An agent tells a prospect that a competitor's insurance company is financially unstable when it actually has high ratings. This is an example of:",
+    "options": [
+      "Proper competitive analysis",
+      "Defamation",
+      "Appropriate sales technique",
+      "Market education"
+    ],
+    "correctAnswer": "Defamation",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q625",
+    "text": "What is misrepresentation in insurance?",
+    "options": [
+      "Providing accurate policy information",
+      "Making false or misleading statements about insurance",
+      "Explaining complex policy provisions",
+      "Recommending appropriate coverage amounts"
+    ],
+    "correctAnswer": "Making false or misleading statements about insurance",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q626",
+    "text": "An insurance contract is considered 'unilateral' because:",
+    "options": [
+      "Both parties make binding promises",
+      "Only the insurance company makes a legally binding promise",
+      "It can be cancelled by either party at any time",
+      "The terms are negotiable"
+    ],
+    "correctAnswer": "Only the insurance company makes a legally binding promise",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q627",
+    "text": "What does 'utmost good faith' (uberrima fides) require in insurance?",
+    "options": [
+      "Only the insurer must be honest",
+      "Both parties must deal honestly and disclose all material facts",
+      "Only financial information must be disclosed",
+      "Good faith applies only after a claim is filed"
+    ],
+    "correctAnswer": "Both parties must deal honestly and disclose all material facts",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q628",
+    "text": "An agent offers to pay the first month's premium for a prospect from the agent's own commission. This is:",
+    "options": [
+      "Legal and helpful customer service",
+      "Rebating and likely illegal",
+      "A standard industry practice",
+      "Allowed if disclosed to the insurer"
+    ],
+    "correctAnswer": "Rebating and likely illegal",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q629",
+    "text": "What is 'churning' in life insurance?",
+    "options": [
+      "Investing cash values in different options",
+      "Frequently replacing policies to generate commissions",
+      "Adjusting death benefit amounts",
+      "Converting term insurance to permanent insurance"
+    ],
+    "correctAnswer": "Frequently replacing policies to generate commissions",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q630",
+    "text": "An insurance policy is a 'contract of adhesion' because:",
+    "options": [
+      "Both parties negotiate all terms equally",
+      "The insured must accept the contract terms as written by the insurer",
+      "It requires adhesive stamps for validity",
+      "Multiple insurers must agree to the terms"
+    ],
+    "correctAnswer": "The insured must accept the contract terms as written by the insurer",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q631",
+    "text": "What is 'controlled business' in insurance?",
+    "options": [
+      "Business from government entities",
+      "Insurance sold to the agent's family, friends, or business associates",
+      "Policies with guaranteed approval",
+      "Group insurance plans"
+    ],
+    "correctAnswer": "Insurance sold to the agent's family, friends, or business associates",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q632",
+    "text": "An agent makes false statements about the benefits of their company's policy. This could result in:",
+    "options": [
+      "Increased sales performance",
+      "License suspension or revocation",
+      "Higher commission rates",
+      "Company recognition awards"
+    ],
+    "correctAnswer": "License suspension or revocation",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q633",
+    "text": "What is 'sliding' in insurance sales?",
+    "options": [
+      "Gradually reducing premium payments",
+      "Adding coverage or products without the customer's knowledge or consent",
+      "Moving between different insurance companies",
+      "Adjusting deductibles based on claims history"
+    ],
+    "correctAnswer": "Adding coverage or products without the customer's knowledge or consent",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q634",
+    "text": "The principle of 'indemnity' in insurance means:",
+    "options": [
+      "The insured can profit from a loss",
+      "The insured should be restored to their pre-loss financial position",
+      "All losses must be paid in full regardless of limits",
+      "Insurance companies must pay claims immediately"
+    ],
+    "correctAnswer": "The insured should be restored to their pre-loss financial position",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q635",
+    "text": "What does 'insurable interest' require?",
+    "options": [
+      "The insured must own insurance company stock",
+      "The policyholder must suffer a financial loss if the insured person/property is damaged",
+      "Insurance must be purchased from a local company",
+      "The insured must be related to the policyholder"
+    ],
+    "correctAnswer": "The policyholder must suffer a financial loss if the insured person/property is damaged",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q636",
+    "text": "An agent tells a client that policy dividends are guaranteed when they are not. This is an example of:",
+    "options": [
+      "Proper sales presentation",
+      "Misrepresentation",
+      "Market analysis",
+      "Product education"
+    ],
+    "correctAnswer": "Misrepresentation",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q637",
+    "text": "What is 'coercion' in insurance?",
+    "options": [
+      "Providing multiple policy options",
+      "Using force, threat, or intimidation to sell insurance",
+      "Explaining policy exclusions",
+      "Offering competitive rates"
+    ],
+    "correctAnswer": "Using force, threat, or intimidation to sell insurance",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q638",
+    "text": "The 'law of large numbers' in insurance refers to:",
+    "options": [
+      "The need for large policy limits",
+      "The predictability of losses increases with larger groups",
+      "Insurance companies must be large to operate",
+      "More claims equal higher profits"
+    ],
+    "correctAnswer": "The predictability of losses increases with larger groups",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q639",
+    "text": "What constitutes 'unfair discrimination' in insurance?",
+    "options": [
+      "Charging different rates based on legitimate risk factors",
+      "Refusing coverage based on race, religion, or national origin",
+      "Requiring medical exams for large policies",
+      "Offering group discounts"
+    ],
+    "correctAnswer": "Refusing coverage based on race, religion, or national origin",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q640",
+    "text": "An agent convinces a client to cancel a policy and purchase a new one by exaggerating the benefits of the new policy and downplaying the costs. This is:",
+    "options": [
+      "Good sales practice",
+      "Twisting",
+      "Proper policy comparison",
+      "Customer education"
+    ],
+    "correctAnswer": "Twisting",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q641",
+    "text": "Jake, age 25, wants term life insurance and wants to maximize his money by investing the difference in premiums. Which policy would be most cost-effective for him?",
+    "options": [
+      "30-year level term",
+      "10-year renewable term",
+      "Annual renewable term (ART)",
+      "Return of premium term"
+    ],
+    "correctAnswer": "Annual renewable term (ART)",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q642",
+    "text": "Maria, age 35, just bought a 30-year mortgage and wants life insurance to cover the declining mortgage balance. Which term policy is most appropriate?",
+    "options": [
+      "30-year level term",
+      "Decreasing term",
+      "Increasing term",
+      "Annual renewable term"
+    ],
+    "correctAnswer": "Decreasing term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q643",
+    "text": "Tom, age 40, wants guaranteed level premiums for 20 years until his kids finish college. Which policy should he choose?",
+    "options": [
+      "Annual renewable term",
+      "20-year level premium term",
+      "Decreasing term",
+      "10-year renewable term"
+    ],
+    "correctAnswer": "20-year level premium term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q644",
+    "text": "Lisa expects her income to increase significantly over the next 15 years. Which term policy would best match her changing needs?",
+    "options": [
+      "Decreasing term",
+      "Level term",
+      "Increasing term",
+      "Return of premium term"
+    ],
+    "correctAnswer": "Increasing term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q645",
+    "text": "David, age 50, wants term insurance but is concerned about health changes affecting renewability. Which feature is most important?",
+    "options": [
+      "Lowest initial premium",
+      "Guaranteed renewable provision",
+      "Return of premium option",
+      "Decreasing death benefit"
+    ],
+    "correctAnswer": "Guaranteed renewable provision",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q646",
+    "text": "Sarah wants term life insurance but also wants to get her premiums back if she outlives the policy. Which should she choose?",
+    "options": [
+      "Standard 20-year term",
+      "Return of premium term",
+      "Annual renewable term",
+      "Decreasing term"
+    ],
+    "correctAnswer": "Return of premium term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q647",
+    "text": "Michael, age 30, needs $500,000 coverage for only 5 years while he pays off business loans. What's his most economical option?",
+    "options": [
+      "30-year level term",
+      "5-year level term",
+      "Annual renewable term for 5 years",
+      "Return of premium term"
+    ],
+    "correctAnswer": "5-year level term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q648",
+    "text": "Jennifer wants the lowest possible premium initially, even if it increases later. Which term policy fits best?",
+    "options": [
+      "20-year level term",
+      "Annual renewable term",
+      "Return of premium term",
+      "30-year level term"
+    ],
+    "correctAnswer": "Annual renewable term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q649",
+    "text": "Robert, age 45, wants term insurance until age 65 with premiums that won't change. Which policy should he select?",
+    "options": [
+      "Annual renewable term",
+      "20-year level premium term",
+      "10-year renewable term",
+      "Decreasing term"
+    ],
+    "correctAnswer": "20-year level premium term",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q650",
+    "text": "Emma wants term insurance that allows her to convert to permanent insurance later without medical exams. Which feature is essential?",
+    "options": [
+      "Guaranteed renewable",
+      "Convertibility provision",
+      "Return of premium",
+      "Level death benefit"
+    ],
+    "correctAnswer": "Convertibility provision",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q651",
+    "text": "When converting group term life insurance to individual coverage, the conversion premium is typically based on:",
+    "options": [
+      "The original group rates",
+      "The insured's age when they joined the group",
+      "The insured's current age and standard rates",
+      "A discounted rate for former group members"
+    ],
+    "correctAnswer": "The insured's current age and standard rates",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q652",
+    "text": "Carol leaves her job and has 31 days to convert her group term life insurance. If she dies on day 25 without converting, what happens?",
+    "options": [
+      "No death benefit is paid",
+      "Only a partial benefit is paid",
+      "The full group death benefit is paid",
+      "Benefits are paid only if conversion paperwork was started"
+    ],
+    "correctAnswer": "The full group death benefit is paid",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q653",
+    "text": "Which employee would benefit MOST from converting group term life insurance to individual coverage?",
+    "options": [
+      "A healthy 30-year-old",
+      "A 45-year-old with diabetes",
+      "A 25-year-old athlete",
+      "A healthy 55-year-old"
+    ],
+    "correctAnswer": "A 45-year-old with diabetes",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q654",
+    "text": "Alex has $300,000 in group term life insurance. When converting to individual coverage, what is the maximum he can typically convert?",
+    "options": [
+      "$50,000 only",
+      "$100,000 only",
+      "The full $300,000 amount",
+      "Whatever amount he can afford the premium for"
+    ],
+    "correctAnswer": "The full $300,000 amount",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q655",
+    "text": "When converting group life insurance, which types of individual policies are typically available?",
+    "options": [
+      "Term life only",
+      "Whole life only",
+      "Whole life, universal life, or variable life",
+      "Any type of life insurance policy"
+    ],
+    "correctAnswer": "Whole life, universal life, or variable life",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q656",
+    "text": "Nancy's group life insurance included an accidental death benefit. When she converts to individual coverage:",
+    "options": [
+      "The AD&D benefit automatically converts too",
+      "She must purchase separate AD&D coverage",
+      "AD&D benefits are not available on individual policies",
+      "The AD&D converts at a reduced benefit amount"
+    ],
+    "correctAnswer": "She must purchase separate AD&D coverage",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q657",
+    "text": "Steve's group term life insurance has a waiver of premium benefit. When converting to individual coverage, this benefit:",
+    "options": [
+      "Automatically transfers to the new policy",
+      "Must be added separately with medical underwriting",
+      "Is not available on converted policies",
+      "Transfers at no additional cost for 2 years"
+    ],
+    "correctAnswer": "Must be added separately with medical underwriting",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q658",
+    "text": "What is the main disadvantage of converting group term life insurance to individual coverage?",
+    "options": [
+      "Loss of coverage amount",
+      "Required medical examination",
+      "Significantly higher premiums",
+      "Limited policy options"
+    ],
+    "correctAnswer": "Significantly higher premiums",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q659",
+    "text": "Paula's employer reduces the group life insurance benefit from $200,000 to $100,000. She can:",
+    "options": [
+      "Do nothing - no conversion rights apply",
+      "Convert the reduced $100,000 amount only",
+      "Convert the full original $200,000 amount",
+      "Only convert if she's leaving the company"
+    ],
+    "correctAnswer": "Convert the full original $200,000 amount",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q660",
+    "text": "Group life insurance conversion rights typically apply to:",
+    "options": [
+      "Only employees who are terminated",
+      "Employees who leave, retire, or lose eligibility",
+      "Only employees over age 50",
+      "Only employees who have been with the company 5+ years"
+    ],
+    "correctAnswer": "Employees who leave, retire, or lose eligibility",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q661",
+    "text": "John is injured in a car accident caused by another driver. His health insurance pays $15,000 for medical bills, then he recovers $25,000 from the at-fault driver's insurance. What happens to the $15,000 his insurer paid?",
+    "options": [
+      "John keeps all $25,000",
+      "John's insurer has subrogation rights to recover the $15,000",
+      "The $25,000 is split equally between John and his insurer",
+      "John must pay back only 50% to his insurer"
+    ],
+    "correctAnswer": "John's insurer has subrogation rights to recover the $15,000",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q662",
+    "text": "Sarah receives $50,000 from her disability insurance after a car accident, then later recovers $75,000 from the at-fault driver. Under the 'made whole doctrine,' what happens?",
+    "options": [
+      "Sarah must immediately repay the $50,000 to her insurer",
+      "Sarah keeps everything since she was made whole by the settlement",
+      "Sarah may not have to repay her insurer until she's fully compensated for all losses",
+      "The recovery is split proportionally between Sarah and her insurer"
+    ],
+    "correctAnswer": "Sarah may not have to repay her insurer until she's fully compensated for all losses",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q663",
+    "text": "Mike's auto insurance pays $20,000 for his car damage after an accident. He then recovers $30,000 from the other driver's insurance. How much does Mike's insurer have a right to recover?",
+    "options": [
+      "$30,000 (the full settlement)",
+      "$20,000 (what they paid)",
+      "$10,000 (the excess amount)",
+      "Nothing - Mike keeps it all"
+    ],
+    "correctAnswer": "$20,000 (what they paid)",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q664",
+    "text": "Lisa has both health insurance and auto medical payments coverage. After a car accident, both pay benefits. This is an example of:",
+    "options": [
+      "Double recovery (not allowed)",
+      "Subrogation",
+      "Coordination of benefits",
+      "Made whole doctrine"
+    ],
+    "correctAnswer": "Coordination of benefits",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q665",
+    "text": "Tom is driving under the influence and crashes his car. He files a claim for his injuries under his auto medical payments coverage. The insurance company will likely:",
+    "options": [
+      "Pay the claim in full",
+      "Pay a reduced benefit",
+      "Deny the claim due to criminal activity exclusion",
+      "Pay after a waiting period"
+    ],
+    "correctAnswer": "Deny the claim due to criminal activity exclusion",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q666",
+    "text": "Jennifer commits armed robbery and is injured while fleeing from police in a car crash. She files a disability insurance claim. The insurer will most likely:",
+    "options": [
+      "Pay the full disability benefit",
+      "Pay a reduced benefit for the injury only",
+      "Deny the claim because the injury occurred during commission of a felony",
+      "Require a police report before paying"
+    ],
+    "correctAnswer": "Deny the claim because the injury occurred during commission of a felony",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q667",
+    "text": "David is injured while driving without a valid license (suspended for DUI). He files an auto insurance claim for his medical expenses. The outcome depends on:",
+    "options": [
+      "The specific policy language and state law",
+      "Whether he was at fault in the accident",
+      "The severity of his injuries",
+      "How long his license was suspended"
+    ],
+    "correctAnswer": "The specific policy language and state law",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q668",
+    "text": "Maria steals a car and crashes it, injuring herself and a passenger. Under most auto liability policies, coverage for the passenger would be:",
+    "options": [
+      "Automatically excluded",
+      "Covered since the passenger didn't commit the crime",
+      "Excluded unless the passenger was unaware of the theft",
+      "Covered but with a higher deductible"
+    ],
+    "correctAnswer": "Excluded unless the passenger was unaware of the theft",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q669",
+    "text": "Robert is convicted of vehicular manslaughter and files a life insurance claim after attempting suicide in jail. The life insurance company will:",
+    "options": [
+      "Pay the claim since the suicide was unrelated to the conviction",
+      "Deny the claim due to the suicide exclusion",
+      "Pay a reduced benefit",
+      "Investigate whether the criminal conviction affects coverage"
+    ],
+    "correctAnswer": "Deny the claim due to the suicide exclusion",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q670",
+    "text": "What is the primary purpose of subrogation in insurance?",
+    "options": [
+      "To allow double recovery for insureds",
+      "To prevent the insured from profiting from a loss",
+      "To reduce insurance premiums for everyone",
+      "To shift the ultimate financial responsibility to the party at fault"
+    ],
+    "correctAnswer": "To shift the ultimate financial responsibility to the party at fault",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q671",
+    "text": "Alex gets into a fight at a bar and is injured. His health insurance policy has an exclusion for injuries sustained while engaging in illegal activities. The insurer will likely:",
+    "options": [
+      "Pay the claim since fighting isn't always illegal",
+      "Investigate the circumstances and may deny if Alex was the aggressor",
+      "Pay the claim but increase his premiums",
+      "Pay the claim after a 30-day waiting period"
+    ],
+    "correctAnswer": "Investigate the circumstances and may deny if Alex was the aggressor",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q672",
+    "text": "When an insured recovers from a third party after their insurer has paid a claim, the insured must typically:",
+    "options": [
+      "Keep the entire recovery",
+      "Notify their insurer of the recovery",
+      "Split the recovery 50/50 with their insurer",
+      "Pay taxes on the recovery amount"
+    ],
+    "correctAnswer": "Notify their insurer of the recovery",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q673",
+    "text": "Carol is racing her car illegally and crashes. Her auto insurance policy excludes coverage for racing activities. She files a claim for property damage. The insurer will:",
+    "options": [
+      "Pay the claim but cancel her policy",
+      "Pay a reduced amount based on fault percentage",
+      "Deny the claim due to the racing exclusion",
+      "Pay the claim after investigating the race was unofficial"
+    ],
+    "correctAnswer": "Deny the claim due to the racing exclusion",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q674",
+    "text": "In a subrogation situation, the insured's attorney fees for recovering from the third party are typically:",
+    "options": [
+      "Paid entirely by the insured",
+      "Paid entirely by the insurance company",
+      "Shared proportionally between the insured and insurer",
+      "Paid by the at-fault third party"
+    ],
+    "correctAnswer": "Shared proportionally between the insured and insurer",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q675",
+    "text": "Steve is dealing drugs and gets into a car accident while fleeing police. His wife files a life insurance claim when he dies in the crash. The outcome depends on:",
+    "options": [
+      "Whether the policy has been in force for over 2 years",
+      "Whether the drug dealing was the proximate cause of death",
+      "The specific policy exclusions for illegal activities",
+      "All of the above factors"
+    ],
+    "correctAnswer": "All of the above factors",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q676",
+    "text": "Nancy's insurer pays her $30,000 for medical bills after an accident. She later settles with the at-fault driver for $40,000. If attorney fees were $10,000, how much does her insurer typically recover?",
+    "options": [
+      "$30,000 (full amount paid)",
+      "$22,500 (proportional share after attorney fees)",
+      "$20,000 (settlement minus attorney fees, divided proportionally)",
+      "$10,000 (half of what they paid)"
+    ],
+    "correctAnswer": "$22,500 (proportional share after attorney fees)",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q677",
+    "text": "Mark commits insurance fraud by staging an accident. When the fraud is discovered, what happens to any benefits already paid?",
+    "options": [
+      "The insured keeps the benefits but pays a penalty",
+      "The insurer can recover all benefits paid plus costs",
+      "Only future benefits are denied",
+      "Benefits are reduced by 50% as punishment"
+    ],
+    "correctAnswer": "The insurer can recover all benefits paid plus costs",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q678",
+    "text": "Paula is injured by a drunk driver. Her medical bills total $60,000. Her insurance pays $45,000, and she recovers $50,000 from the drunk driver. Under most subrogation arrangements:",
+    "options": [
+      "Paula owes her insurer $45,000",
+      "Paula keeps $5,000 and her insurer gets $45,000",
+      "Paula gets $15,000 and her insurer gets $35,000",
+      "The money is split equally"
+    ],
+    "correctAnswer": "Paula keeps $5,000 and her insurer gets $45,000",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q679",
+    "text": "Tim uses his vehicle to transport illegal drugs and crashes. His auto liability insurance coverage for third-party injuries would likely be:",
+    "options": [
+      "Fully covered since third parties weren't involved in the crime",
+      "Excluded due to the illegal use of the vehicle",
+      "Covered but with a higher deductible",
+      "Coverage depends on whether the crash was intentional"
+    ],
+    "correctAnswer": "Coverage depends on whether the crash was intentional",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q680",
+    "text": "What is the 'common fund doctrine' in subrogation?",
+    "options": [
+      "Insureds and insurers must pool their recoveries",
+      "Attorney fees are shared proportionally when both insured and insurer benefit from a recovery",
+      "All insurance companies share subrogation recoveries",
+      "The at-fault party pays into a common fund for all victims"
+    ],
+    "correctAnswer": "Attorney fees are shared proportionally when both insured and insurer benefit from a recovery",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
   }
 ]

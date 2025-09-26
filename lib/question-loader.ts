@@ -101,6 +101,22 @@ function getBalancedQuestions(questions: Question[], count: number): Question[] 
 }
 
 /**
+ * Gets the total number of questions available in the database
+ * @returns Total number of questions
+ */
+export async function getTotalQuestionCount(): Promise<number> {
+  try {
+    const filePath = path.join(process.cwd(), 'data', 'questions_sheet.json');
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const allQuestions = JSON.parse(fileContents) as Question[];
+    return allQuestions.length;
+  } catch (error) {
+    console.error("Error reading questions file:", error);
+    return 0;
+  }
+}
+
+/**
  * Processes questions by shuffling their options
  * @param questions Array of questions to process
  * @returns Array of questions with shuffled options

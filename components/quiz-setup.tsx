@@ -26,16 +26,17 @@ export function QuizSetup() {
     // Fetch the total number of questions available
     const fetchTotalQuestions = async () => {
       try {
-        const response = await fetch('/api/questions?count=1');
+        const response = await fetch('/api/questions?totalCount=true');
         const data = await response.json();
         
-        // Get the total from examining the question ID numbers
-        if (data.questions && data.questions.length > 0) {
-          // We're estimating based on questions_sheet.json
-          setTotalQuestions(425);
+        // Get the actual total count from the API
+        if (data.totalCount) {
+          setTotalQuestions(data.totalCount);
         }
       } catch (error) {
         console.error("Failed to fetch total questions:", error);
+        // Fallback to hardcoded value
+        setTotalQuestions(640);
       }
     };
 
