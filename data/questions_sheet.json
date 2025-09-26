@@ -8836,5 +8836,265 @@
     "correctAnswer": "Attorney fees are shared proportionally when both insured and insurer benefit from a recovery",
     "state": "Gen",
     "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q681",
+    "text": "What is the main difference between qualified and non-qualified annuities regarding funding?",
+    "options": [
+      "Qualified annuities are funded with after-tax dollars; non-qualified with pre-tax dollars",
+      "Qualified annuities are funded with pre-tax dollars; non-qualified with after-tax dollars",
+      "Both are funded the same way but taxed differently",
+      "The funding source doesn't affect taxation"
+    ],
+    "correctAnswer": "Qualified annuities are funded with pre-tax dollars; non-qualified with after-tax dollars",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q682",
+    "text": "John withdraws $25,000 from his qualified annuity at age 62. How is this withdrawal taxed?",
+    "options": [
+      "Tax-free since he's over 59½",
+      "Taxed as ordinary income at his applicable tax rate",
+      "Taxed as capital gains",
+      "Only the earnings portion is taxed"
+    ],
+    "correctAnswer": "Taxed as ordinary income at his applicable tax rate",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q683",
+    "text": "Sarah, age 45, withdraws $15,000 from her qualified annuity funded by her 401(k) rollover. What are the tax consequences?",
+    "options": [
+      "Ordinary income tax only",
+      "Ordinary income tax plus 10% early withdrawal penalty",
+      "Capital gains tax plus 10% penalty",
+      "No tax since it came from a 401(k)"
+    ],
+    "correctAnswer": "Ordinary income tax plus 10% early withdrawal penalty",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q684",
+    "text": "For non-qualified annuity withdrawals, what is the 'exclusion ratio' used to determine?",
+    "options": [
+      "The total amount that can be withdrawn",
+      "The taxable versus non-taxable portion of each payment",
+      "The penalty amount for early withdrawals",
+      "The minimum distribution requirements"
+    ],
+    "correctAnswer": "The taxable versus non-taxable portion of each payment",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q685",
+    "text": "Lisa has a non-qualified annuity with $50,000 in contributions and $20,000 in earnings. She withdraws $10,000 at age 55. How much is subject to the 10% early withdrawal penalty?",
+    "options": [
+      "$0 (contributions come out first)",
+      "$10,000 (entire withdrawal)",
+      "$10,000 (earnings come out first under LIFO)",
+      "$2,857 (proportional earnings)"
+    ],
+    "correctAnswer": "$10,000 (earnings come out first under LIFO)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q686",
+    "text": "Mike purchases a non-qualified immediate annuity for $100,000 that will pay him $800 monthly for life. His life expectancy is 20 years. What portion of each $800 payment is taxable?",
+    "options": [
+      "$800 (entire payment)",
+      "$383 (earnings portion)",
+      "$417 (return of premium portion)",
+      "$0 (non-qualified annuities aren't taxed)"
+    ],
+    "correctAnswer": "$383 (earnings portion)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q687",
+    "text": "Which of the following is an IRS exception to the 10% early withdrawal penalty for annuities?",
+    "options": [
+      "Withdrawal for a luxury vacation",
+      "Substantially equal periodic payments (SEPP)",
+      "One-time emergency withdrawal",
+      "Withdrawal to pay credit card debt"
+    ],
+    "correctAnswer": "Substantially equal periodic payments (SEPP)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q688",
+    "text": "Tom, age 52, becomes permanently disabled and withdraws from his non-qualified annuity. The 10% early withdrawal penalty:",
+    "options": [
+      "Still applies since he's under 59½",
+      "Is waived due to the disability exception",
+      "Is reduced to 5% for disability",
+      "Applies only to the earnings portion"
+    ],
+    "correctAnswer": "Is waived due to the disability exception",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q689",
+    "text": "Jennifer has a qualified variable annuity in her IRA. At age 72, she must begin taking:",
+    "options": [
+      "No distributions are required",
+      "Required minimum distributions (RMDs)",
+      "Only the earnings portion",
+      "Distributions only if she chooses"
+    ],
+    "correctAnswer": "Required minimum distributions (RMDs)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q690",
+    "text": "David's non-qualified deferred annuity has grown from $80,000 to $120,000. He takes a $15,000 withdrawal at age 63. How much is taxable?",
+    "options": [
+      "$0 (return of contributions)",
+      "$15,000 (entire withdrawal is earnings under LIFO)",
+      "$5,000 (proportional earnings)",
+      "$12,000 (proportional to growth)"
+    ],
+    "correctAnswer": "$15,000 (entire withdrawal is earnings under LIFO)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q691",
+    "text": "What happens to the taxation of a non-qualified annuity when the annuitization phase begins?",
+    "options": [
+      "All payments become fully taxable",
+      "All payments become tax-free",
+      "Each payment is split between taxable and non-taxable portions using the exclusion ratio",
+      "Only the first year's payments are taxable"
+    ],
+    "correctAnswer": "Each payment is split between taxable and non-taxable portions using the exclusion ratio",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q692",
+    "text": "Carol transfers her qualified 403(b) into a qualified annuity. When she withdraws at age 60, the taxation will be:",
+    "options": [
+      "Tax-free since she's over 59½",
+      "Ordinary income tax on the entire withdrawal",
+      "Capital gains tax only",
+      "Tax-deferred until age 70½"
+    ],
+    "correctAnswer": "Ordinary income tax on the entire withdrawal",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q693",
+    "text": "Robert, age 58, withdraws $30,000 from his non-qualified annuity to pay for his daughter's wedding. The annuity has $100,000 in contributions and $50,000 in gains. What is the tax treatment?",
+    "options": [
+      "$20,000 is taxable with no penalty",
+      "$30,000 is taxable with 10% penalty on the entire amount",
+      "$30,000 is taxable (LIFO) with 10% penalty",
+      "$10,000 is taxable with 10% penalty"
+    ],
+    "correctAnswer": "$30,000 is taxable (LIFO) with 10% penalty",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q694",
+    "text": "What is the tax advantage of the accumulation phase in both qualified and non-qualified annuities?",
+    "options": [
+      "All growth is tax-free forever",
+      "Growth is tax-deferred until withdrawal",
+      "Growth is taxed at capital gains rates",
+      "No tax advantages during accumulation"
+    ],
+    "correctAnswer": "Growth is tax-deferred until withdrawal",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q695",
+    "text": "Susan inherits a non-qualified annuity from her spouse with $60,000 in basis and $40,000 in earnings. If she takes the death benefit as a lump sum, how much is taxable?",
+    "options": [
+      "$100,000 (entire amount)",
+      "$60,000 (basis amount)",
+      "$40,000 (earnings only)",
+      "$0 (inherited annuities are tax-free)"
+    ],
+    "correctAnswer": "$40,000 (earnings only)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q696",
+    "text": "Mark's qualified annuity is funded from his traditional IRA rollover. At age 50, he withdraws $20,000 for a first-time home purchase. The 10% penalty:",
+    "options": [
+      "Is waived under the first-time homebuyer exception",
+      "Still applies because qualified annuities don't have the same IRA exceptions",
+      "Is reduced to 5%",
+      "Doesn't apply to qualified annuities"
+    ],
+    "correctAnswer": "Still applies because qualified annuities don't have the same IRA exceptions",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q697",
+    "text": "Linda's non-qualified immediate annuity cost $200,000 and will pay $1,500 monthly for 15 years (guaranteed period). What portion of each payment is taxable during the guaranteed period?",
+    "options": [
+      "$1,500 (entire payment)",
+      "$611 (earnings portion based on exclusion ratio)",
+      "$889 (return of premium)",
+      "$750 (50% of each payment)"
+    ],
+    "correctAnswer": "$611 (earnings portion based on exclusion ratio)",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q698",
+    "text": "When does the 10% early withdrawal penalty NOT apply to annuity withdrawals?",
+    "options": [
+      "Withdrawals after age 55",
+      "Withdrawals after age 59½",
+      "Withdrawals for any medical expenses",
+      "Withdrawals from inherited annuities"
+    ],
+    "correctAnswer": "Withdrawals after age 59½",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q699",
+    "text": "Paul's employer contributes to a qualified annuity on his behalf. When Paul eventually withdraws from this annuity, the taxation will be:",
+    "options": [
+      "Tax-free since the employer made the contributions",
+      "Ordinary income tax on employer contributions and earnings",
+      "Capital gains tax only",
+      "Partially tax-free based on years of service"
+    ],
+    "correctAnswer": "Ordinary income tax on employer contributions and earnings",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q700",
+    "text": "For a non-qualified annuity in the accumulation phase, when are taxes owed on the growth?",
+    "options": [
+      "Annually as the annuity grows",
+      "Only when withdrawals are made",
+      "At age 70½ regardless of withdrawals",
+      "Never, if held until death"
+    ],
+    "correctAnswer": "Only when withdrawals are made",
+    "state": "Gen",
+    "category": "Annuities"
   }
 ]
