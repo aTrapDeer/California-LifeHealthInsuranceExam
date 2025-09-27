@@ -9096,5 +9096,135 @@
     "correctAnswer": "Only when withdrawals are made",
     "state": "Gen",
     "category": "Annuities"
+  },
+  {
+    "id": "q701",
+    "text": "A Missouri insured schedules a telehealth consultation for a non-emergency condition. The insurer denies coverage, stating only in-person visits are covered. Which is correct?",
+    "options": [
+      "This denial is permissible, as telehealth is considered optional.",
+      "This denial violates parity laws requiring telehealth coverage if the service can be effectively provided virtually.",
+      "The insurer must cover the service only if the provider works in the same county as the insured.",
+      "Telehealth visits must be reimbursed, but at half the in-person rate."
+    ],
+    "correctAnswer": "This denial violates parity laws requiring telehealth coverage if the service can be effectively provided virtually.",
+    "state": "MO",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q702",
+    "text": "Which situation best illustrates correct application of telehealth parity?",
+    "options": [
+      "Telehealth psychotherapy is reimbursed at the same rate as in-person sessions.",
+      "Telehealth is denied because the insured lives more than 20 miles from the provider.",
+      "Telehealth is covered only for initial consultations, not follow-ups.",
+      "Telehealth must be used before an in-person appointment is authorized."
+    ],
+    "correctAnswer": "Telehealth psychotherapy is reimbursed at the same rate as in-person sessions.",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q703",
+    "text": "An agent tells a prospective policyholder: \"If you sign today, I'll cover your first month's premium myself.\" What is this?",
+    "options": [
+      "Legal inducement because it benefits the client.",
+      "Rebating, which is prohibited.",
+      "A permissible discount.",
+      "Not rebating since it is not cash."
+    ],
+    "correctAnswer": "Rebating, which is prohibited.",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q704",
+    "text": "Which of the following is not an example of rebating?",
+    "options": [
+      "Agent offers a gift card for purchasing a policy.",
+      "Agent returns part of their commission to the policyholder.",
+      "Agent provides educational materials explaining policy options.",
+      "Agent pays the first month's premium."
+    ],
+    "correctAnswer": "Agent provides educational materials explaining policy options.",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q705",
+    "text": "A policyholder borrows $20,000 against the cash value of her whole life policy. She later repays the loan with interest. Tax result?",
+    "options": [
+      "Loan proceeds are taxable in the year received.",
+      "Loan proceeds are not taxable, and repayment restores death benefit and cash value.",
+      "Loan proceeds are taxable once repaid.",
+      "Interest on repayment is tax-deductible."
+    ],
+    "correctAnswer": "Loan proceeds are not taxable, and repayment restores death benefit and cash value.",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q706",
+    "text": "A universal life policyholder borrows $15,000 from the cash value. The policy lapses two years later with $17,000 outstanding, and the policyholder has paid $12,000 in premiums. What is the taxable portion?",
+    "options": [
+      "$0",
+      "$5,000",
+      "$17,000",
+      "$12,000"
+    ],
+    "correctAnswer": "$5,000",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q707",
+    "text": "An applicant pays the initial premium on May 1 with the application. Insurer approves on May 10. Producer delivers on May 15. Which is typically the effective date if no conditional receipt is issued?",
+    "options": [
+      "May 1",
+      "May 10",
+      "May 15",
+      "June 1"
+    ],
+    "correctAnswer": "May 10",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q708",
+    "text": "A client applies and pays on April 3. The insurer approves April 8. Policy is delivered April 20. The insured suffers a covered loss on April 10. Which is correct?",
+    "options": [
+      "Claim denied; policy not in force until delivery.",
+      "Claim covered; policy is in force once approved and initial premium paid.",
+      "Claim denied; policies require 30 days from approval.",
+      "Claim covered only if producer also signs conditional receipt."
+    ],
+    "correctAnswer": "Claim covered; policy is in force once approved and initial premium paid.",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q709",
+    "text": "A policy is approved June 5, marked effective June 1, and delivered June 12. If free-look is 10 days, what is the last day to cancel for a full refund?",
+    "options": [
+      "June 11",
+      "June 21",
+      "June 15",
+      "June 5"
+    ],
+    "correctAnswer": "June 21",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q710",
+    "text": "A client receives a policy on March 18, effective March 1. On March 25 she mails a written cancellation request. What is the result?",
+    "options": [
+      "Cancellation valid; refund due.",
+      "Cancellation invalid; effective date governs free-look.",
+      "Cancellation valid, but refund reduced by surrender charges.",
+      "Cancellation invalid; cancellation must occur before approval date."
+    ],
+    "correctAnswer": "Cancellation valid; refund due.",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   }
 ]
