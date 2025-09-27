@@ -5004,12 +5004,12 @@
   },
   {
     "id": "q386",
-    "text": "Maria applies for auto insurance and pays the first premium, but the insurer has not yet approved her application. If she has an accident the next day, is she covered?",
+    "text": "Maria applies for health insurance and pays the first premium, but the insurer has not yet approved her application. If she needs medical treatment the next day, is she covered?",
     "options": [
       "Yes, coverage begins immediately when premium is paid",
       "No, coverage doesn't begin until the policy is approved",
       "Yes, if she has a conditional receipt",
-      "Coverage depends on the type of accident"
+      "Coverage depends on the type of treatment"
     ],
     "correctAnswer": "Yes, if she has a conditional receipt",
     "state": "MO",
@@ -5563,7 +5563,7 @@
   },
   {
     "id": "q429",
-    "text": "Carlos applies for motorcycle insurance and pays the premium in full. The agent provides him with a temporary insurance ID card while the permanent policy is being processed. When is he legally covered?",
+    "text": "Carlos applies for health insurance and pays the premium in full. The agent provides him with a temporary insurance ID card while the permanent policy is being processed. When is he legally covered?",
     "options": [
       "Only when he receives the permanent policy",
       "Immediately upon receiving the temporary ID card",
@@ -7214,16 +7214,16 @@
   },
   {
     "id": "q556",
-    "text": "Which of the following deaths would typically qualify for Accidental Death and Dismemberment (AD&D) benefits?",
+    "text": "Which of the following medical expenses would typically be covered under a major medical health insurance policy?",
     "options": [
-      "Death from a heart attack while driving",
-      "Death in a car accident caused by mechanical failure",
-      "Death from complications during elective surgery",
-      "Death from a drug overdose"
+      "Routine cosmetic surgery procedures",
+      "Emergency surgery following an accidental injury",
+      "Experimental treatments not FDA approved",
+      "Elective procedures for convenience"
     ],
-    "correctAnswer": "Death in a car accident caused by mechanical failure",
+    "correctAnswer": "Emergency surgery following an accidental injury",
     "state": "Gen",
-    "category": "Types of Life Policies"
+    "category": "Types of Health Policies"
   },
   {
     "id": "q557",
@@ -7279,16 +7279,16 @@
   },
   {
     "id": "q561",
-    "text": "Sarah loses her sight in both eyes due to a car accident. Under a standard AD&D policy, this would typically result in:",
+    "text": "Sarah loses her sight in both eyes due to a medical condition. Under a standard disability income policy, this would typically result in:",
     "options": [
-      "No benefit payment as there was no death or dismemberment",
-      "Payment of 50% of the principal sum",
-      "Payment of 75% of the principal sum",
-      "Payment of 100% of the principal sum"
+      "No benefit payment as there was no total disability",
+      "Payment of 50% of the monthly benefit",
+      "Payment of 75% of the monthly benefit",
+      "Payment of 100% of the monthly benefit"
     ],
-    "correctAnswer": "Payment of 100% of the principal sum",
+    "correctAnswer": "Payment of 100% of the monthly benefit",
     "state": "Gen",
-    "category": "Types of Life Policies"
+    "category": "Types of Health Policies"
   },
   {
     "id": "q562",
@@ -7318,16 +7318,16 @@
   },
   {
     "id": "q564",
-    "text": "Mike has a $100,000 AD&D policy and loses both his legs in a motorcycle accident. How much would he typically receive?",
+    "text": "Mike has a $5,000 monthly disability income policy and becomes totally disabled due to a medical condition. How much would he typically receive per month?",
     "options": [
-      "$50,000",
-      "$75,000",
-      "$100,000",
-      "$200,000"
+      "$2,500",
+      "$3,750",
+      "$5,000",
+      "$10,000"
     ],
-    "correctAnswer": "$100,000",
+    "correctAnswer": "$5,000",
     "state": "Gen",
-    "category": "Types of Life Policies"
+    "category": "Types of Health Policies"
   },
   {
     "id": "q565",
@@ -7357,16 +7357,16 @@
   },
   {
     "id": "q567",
-    "text": "An employee has group AD&D coverage through work and also purchased individual AD&D coverage. If he dies accidentally, what happens?",
+    "text": "An employee has group health coverage through work and also purchased individual health insurance. If he incurs medical expenses, what happens?",
     "options": [
       "Only the group policy pays",
       "Only the individual policy pays",
-      "Both policies pay their full amounts",
-      "The policies split the benefit equally"
+      "Both policies coordinate benefits according to coordination of benefits rules",
+      "The policies split the expenses equally"
     ],
-    "correctAnswer": "Both policies pay their full amounts",
+    "correctAnswer": "Both policies coordinate benefits according to coordination of benefits rules",
     "state": "Gen",
-    "category": "Types of Life Policies"
+    "category": "Types of Health Policies"
   },
   {
     "id": "q568",
@@ -8579,7 +8579,7 @@
   },
   {
     "id": "q661",
-    "text": "John is injured in a car accident caused by another driver. His health insurance pays $15,000 for medical bills, then he recovers $25,000 from the at-fault driver's insurance. What happens to the $15,000 his insurer paid?",
+    "text": "John is injured due to a defective product and his health insurance pays $15,000 for medical bills. He later recovers $25,000 from the manufacturer's liability insurance. What happens to the $15,000 his insurer paid?",
     "options": [
       "John keeps all $25,000",
       "John's insurer has subrogation rights to recover the $15,000",
@@ -9224,6 +9224,136 @@
       "Cancellation invalid; cancellation must occur before approval date."
     ],
     "correctAnswer": "Cancellation valid; refund due.",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q711",
+    "text": "Sarah receives her new life insurance policy and wants to verify her coverage amount, premium payment schedule, and policy effective date. Where in her contract should she look first?",
+    "options": [
+      "Policy Conditions",
+      "Declarations Page",
+      "Insuring Agreement", 
+      "Beneficiary Provisions"
+    ],
+    "correctAnswer": "Declarations Page",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q712",
+    "text": "Michael files a claim after his father dies in a private plane crash. The insurer denies the claim, stating that aviation-related deaths are not covered. Michael should review which section of the contract to understand this denial?",
+    "options": [
+      "Grace Period Provision",
+      "Exclusions",
+      "Settlement Options",
+      "Incontestability Clause"
+    ],
+    "correctAnswer": "Exclusions",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q713",
+    "text": "Lisa's claim is being processed, but the insurer requests additional medical records and wants her to complete a sworn statement within 30 days. The requirements for Lisa's cooperation would be found in which contract section?",
+    "options": [
+      "Definitions",
+      "Entire Contract Clause",
+      "Policy Conditions",
+      "Reinstatement Provision"
+    ],
+    "correctAnswer": "Policy Conditions",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q714",
+    "text": "Robert's policy uses the term 'total disability' frequently, but he's unclear what specific criteria must be met to qualify. To understand this term's precise meaning as it applies to his policy, he should consult which section?",
+    "options": [
+      "Beneficiary Provisions",
+      "Definitions",
+      "Insuring Agreement",
+      "Suicide Clause"
+    ],
+    "correctAnswer": "Definitions",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q715",
+    "text": "Jennifer wants to add accidental death coverage to her existing whole life policy. The additional coverage she's purchasing would be documented in which part of her contract?",
+    "options": [
+      "Declarations Page",
+      "Exclusions",
+      "Endorsements/Riders",
+      "Grace Period Provision"
+    ],
+    "correctAnswer": "Endorsements/Riders",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q716",
+    "text": "During a legal dispute, the insurer claims they made oral promises about coverage that aren't written in the policy. The policyholder argues these promises should be honored. Which contract provision would likely determine the outcome?",
+    "options": [
+      "Incontestability Clause", 
+      "Entire Contract Clause",
+      "Free Look Provision",
+      "Settlement Options"
+    ],
+    "correctAnswer": "Entire Contract Clause",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q717",
+    "text": "David receives his new universal life policy on Monday and decides by Thursday that it doesn't meet his needs. He wants to return it for a full premium refund. Which provision explains his rights and the time limits for this action?",
+    "options": [
+      "Grace Period Provision",
+      "Reinstatement Provision", 
+      "Free Look Provision",
+      "Policy Loan Provision"
+    ],
+    "correctAnswer": "Free Look Provision",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q718",
+    "text": "Karen's quarterly premium was due March 1st, but she doesn't pay until March 25th. Her policy remains in force during this period. Which contract provision explains why her coverage continued despite the late payment?",
+    "options": [
+      "Reinstatement Provision",
+      "Grace Period Provision",
+      "Entire Contract Clause",
+      "Suicide Clause"
+    ],
+    "correctAnswer": "Grace Period Provision",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q719",
+    "text": "After his divorce, Thomas wants to change his life insurance beneficiary from his ex-wife to his children. The rules governing who can be named as beneficiary and the process for making changes would be found in which section?",
+    "options": [
+      "Settlement Options",
+      "Policy Conditions",
+      "Beneficiary Provisions",
+      "Definitions"
+    ],
+    "correctAnswer": "Beneficiary Provisions",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q720",
+    "text": "Upon the insured's death, the beneficiary wants to understand all available options for receiving the death benefit, including lump sum, installments, and interest-only options. This information would be detailed in which contract section?",
+    "options": [
+      "Insuring Agreement",
+      "Settlement Options",
+      "Policy Loan Provision",
+      "Incontestability Clause"
+    ],
+    "correctAnswer": "Settlement Options",
     "state": "Gen",
     "category": "Life Provisions, Riders, Options and Exclusions"
   }
