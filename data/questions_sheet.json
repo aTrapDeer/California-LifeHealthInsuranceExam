@@ -7334,7 +7334,7 @@
     "text": "Which of the following deaths would typically NOT qualify for AD&D benefits?",
     "options": [
       "Death from drowning while swimming",
-      "Death from a heart attack triggered by a car accident",
+      "Death from a heart attack triggered by physical exertion",
       "Death from natural causes during sleep",
       "Death from smoke inhalation during a house fire"
     ],
@@ -7344,7 +7344,7 @@
   },
   {
     "id": "q566",
-    "text": "Lisa has both a $50,000 life insurance policy and a $50,000 AD&D policy. If she dies in an accidental car crash, her beneficiary would receive:",
+    "text": "Lisa has both a $50,000 life insurance policy and a $50,000 AD&D policy. If she dies in an accidental fall, her beneficiary would receive:",
     "options": [
       "$50,000 total",
       "$50,000 from life insurance only",
@@ -8592,7 +8592,7 @@
   },
   {
     "id": "q662",
-    "text": "Sarah receives $50,000 from her disability insurance after a car accident, then later recovers $75,000 from the at-fault driver. Under the 'made whole doctrine,' what happens?",
+    "text": "Sarah receives $50,000 from her disability insurance after a workplace injury, then later recovers $75,000 from a workers' compensation settlement. Under the 'made whole doctrine,' what happens?",
     "options": [
       "Sarah must immediately repay the $50,000 to her insurer",
       "Sarah keeps everything since she was made whole by the settlement",
@@ -8605,7 +8605,7 @@
   },
   {
     "id": "q663",
-    "text": "Mike's auto insurance pays $20,000 for his car damage after an accident. He then recovers $30,000 from the other driver's insurance. How much does Mike's insurer have a right to recover?",
+    "text": "Mike's health insurance pays $20,000 for his medical bills after an injury. He then recovers $30,000 from the liable party's insurance. How much does Mike's insurer have a right to recover?",
     "options": [
       "$30,000 (the full settlement)",
       "$20,000 (what they paid)",
@@ -8618,7 +8618,7 @@
   },
   {
     "id": "q664",
-    "text": "Lisa has both health insurance and auto medical payments coverage. After a car accident, both pay benefits. This is an example of:",
+    "text": "Lisa has both group health insurance through work and individual health insurance. After a medical procedure, both pay benefits. This is an example of:",
     "options": [
       "Double recovery (not allowed)",
       "Subrogation",
@@ -8631,7 +8631,7 @@
   },
   {
     "id": "q665",
-    "text": "Tom is driving under the influence and crashes his car. He files a claim for his injuries under his auto medical payments coverage. The insurance company will likely:",
+    "text": "Tom is injured while committing a felony and files a disability insurance claim. The insurance company will likely:",
     "options": [
       "Pay the claim in full",
       "Pay a reduced benefit",
@@ -8761,7 +8761,7 @@
   },
   {
     "id": "q675",
-    "text": "Steve is dealing drugs and gets into a car accident while fleeing police. His wife files a life insurance claim when he dies in the crash. The outcome depends on:",
+    "text": "Steve is dealing drugs and dies during a police raid. His wife files a life insurance claim. The outcome depends on:",
     "options": [
       "Whether the policy has been in force for over 2 years",
       "Whether the drug dealing was the proximate cause of death",
@@ -9356,5 +9356,200 @@
     "correctAnswer": "Settlement Options",
     "state": "Gen",
     "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q721",
+    "text": "An agent verbally promises a client that their policy will cover pre-existing conditions, but the written policy clearly excludes them. Later, the agent denies making this promise. If the client can prove the agent made this representation, what legal principle might apply?",
+    "options": [
+      "Parol evidence rule",
+      "Estoppel",
+      "Subrogation",
+      "Consideration doctrine"
+    ],
+    "correctAnswer": "Estoppel",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q722",
+    "text": "An insurer's agent tells a prospective client that a certain medical procedure is covered, causing the client to purchase the policy and undergo the procedure. The insurer later denies the claim based on policy exclusions. Which principle prevents the insurer from denying coverage?",
+    "options": [
+      "Utmost good faith",
+      "Estoppel",
+      "Warranty",
+      "Concealment"
+    ],
+    "correctAnswer": "Estoppel",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q723",
+    "text": "Sarah's agent incorrectly tells her that her policy has no waiting period for coverage. Relying on this, she submits a claim during what would have been the waiting period. The insurer wants to deny the claim. What legal doctrine might prevent this denial?",
+    "options": [
+      "Waiver",
+      "Estoppel", 
+      "Aleatory contract principle",
+      "Conditional receipt doctrine"
+    ],
+    "correctAnswer": "Estoppel",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q724",
+    "text": "During policy negotiations, an agent verbally promises a client additional coverage beyond what's stated in the written contract. When a claim arises involving this promised coverage, the client wants to enforce the oral promise. What rule would likely prevent this?",
+    "options": [
+      "Estoppel doctrine",
+      "Parol evidence rule",
+      "Best evidence rule",
+      "Statute of frauds"
+    ],
+    "correctAnswer": "Parol evidence rule",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q725",
+    "text": "A written life insurance contract clearly states the beneficiary as 'Mary Smith, wife.' The policyholder claims he orally instructed the agent to make his daughter the beneficiary instead. Which legal principle would prevent the oral instruction from overriding the written contract?",
+    "options": [
+      "Doctrine of reasonable expectations",
+      "Parol evidence rule",
+      "Estoppel",
+      "Entire contract clause"
+    ],
+    "correctAnswer": "Parol evidence rule",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q726",
+    "text": "An insurance contract contains a written exclusion for certain activities. The insured claims the agent verbally assured him these activities would be covered despite the written exclusion. What rule supports the insurer's position to deny the claim?",
+    "options": [
+      "Doctrine of adhesion",
+      "Parol evidence rule",
+      "Incontestability clause",
+      "Utmost good faith doctrine"
+    ],
+    "correctAnswer": "Parol evidence rule",
+    "state": "Gen",
+    "category": "Insurance Ethics and Law"
+  },
+  {
+    "id": "q727",
+    "text": "After paying a disability claim, Lisa's insurer discovers that her disability was caused by a defective product. The insurer wants to recover the claim payment from the product manufacturer. What right allows this?",
+    "options": [
+      "Coordination of benefits",
+      "Subrogation",
+      "Assignment",
+      "Salvage rights"
+    ],
+    "correctAnswer": "Subrogation",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q728",
+    "text": "Tom's health insurance pays $25,000 for medical expenses after he's injured by a negligent driver. Tom then sues the driver and recovers $40,000. Under subrogation principles, what typically happens?",
+    "options": [
+      "Tom keeps the entire $40,000",
+      "The insurer recovers its $25,000 payment first",
+      "Tom and the insurer split the $40,000 equally",
+      "The insurer gets the entire $40,000"
+    ],
+    "correctAnswer": "The insurer recovers its $25,000 payment first",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q729",
+    "text": "Maria's property is damaged by her neighbor's negligence. Her insurance company pays the claim and then pursues the neighbor for reimbursement. If Maria had already settled with the neighbor before filing her claim, what effect would this have on her insurer's subrogation rights?",
+    "options": [
+      "No effect - insurer retains full rights",
+      "Insurer's rights may be impaired or lost",
+      "Insurer gets double recovery",
+      "Settlement automatically transfers to insurer"
+    ],
+    "correctAnswer": "Insurer's rights may be impaired or lost",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q730",
+    "text": "Jennifer applies for life insurance and pays the first premium. The insurer issues the policy but Jennifer dies before receiving it. The premium payment would satisfy which essential contract element?",
+    "options": [
+      "Legal purpose",
+      "Competent parties",
+      "Offer and acceptance",
+      "Consideration"
+    ],
+    "correctAnswer": "Consideration",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q731",
+    "text": "A 16-year-old attempts to purchase a life insurance policy on himself and signs the application. Why would this contract be invalid?",
+    "options": [
+      "Lacks legal purpose",
+      "No consideration provided",
+      "Lacks competent parties",
+      "No offer and acceptance occurred"
+    ],
+    "correctAnswer": "Lacks competent parties",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q732",
+    "text": "Robert submits a life insurance application and pays the premium. The insurer evaluates the application and issues a policy with different terms than applied for. When has a binding contract been formed?",
+    "options": [
+      "When Robert submitted his application",
+      "When the insurer received the application",
+      "When Robert accepts the insurer's counter-offer",
+      "When the premium was paid"
+    ],
+    "correctAnswer": "When Robert accepts the insurer's counter-offer",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q733",
+    "text": "A person applies for insurance with the intent to commit fraud and collect claim money. This contract would be void because it lacks which essential element?",
+    "options": [
+      "Consideration",
+      "Legal purpose", 
+      "Competent parties",
+      "Offer and acceptance"
+    ],
+    "correctAnswer": "Legal purpose",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q734",
+    "text": "During the underwriting process, an insurer decides to charge a higher premium than originally quoted due to additional risk factors discovered. The applicant agrees to the higher premium. This scenario best illustrates which contract element?",
+    "options": [
+      "Legal purpose being established",
+      "Competent parties negotiating",
+      "Offer and acceptance process",
+      "Consideration being modified"
+    ],
+    "correctAnswer": "Offer and acceptance process",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q735",
+    "text": "An applicant lies about their age on a life insurance application, stating they are 45 when they are actually 55. The insurer issues the policy based on the false information. This situation primarily affects which contract element?",
+    "options": [
+      "Consideration - premium was calculated incorrectly",
+      "Legal purpose - contract was obtained fraudulently", 
+      "Competent parties - applicant demonstrated incompetence",
+      "Offer and acceptance - offer was based on false premises"
+    ],
+    "correctAnswer": "Offer and acceptance - offer was based on false premises",
+    "state": "Gen",
+    "category": "Insurance Fundamentals"
   }
 ]
