@@ -38,10 +38,13 @@ export async function getRandomQuestions(count: number, state?: "CA" | "MO" | nu
   // Combine and shuffle the final set
   const combinedQuestions = [...selectedStateQuestions, ...selectedGeneralQuestions];
   
-  // If we don't have enough questions, fill with any remaining questions
+  // If we don't have enough questions, fill with any remaining eligible questions (respecting state filter)
   if (combinedQuestions.length < count) {
     const usedIds = new Set(combinedQuestions.map(q => q.id));
-    const remainingQuestions = allQuestions.filter(q => !usedIds.has(q.id));
+    // Only use remaining questions that are either General or match the selected state
+    const remainingQuestions = allQuestions.filter(q => 
+      !usedIds.has(q.id) && (q.state === "Gen" || q.state === state)
+    );
     const shuffledRemaining = shuffleArray(remainingQuestions);
     const needed = count - combinedQuestions.length;
     combinedQuestions.push(...shuffledRemaining.slice(0, needed));

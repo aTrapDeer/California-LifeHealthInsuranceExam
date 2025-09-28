@@ -5251,7 +5251,7 @@
   },
   {
     "id": "q405",
-    "text": "Sarah applies for auto insurance and receives a quote. She decides to proceed but doesn't pay the premium immediately. The agent issues a binder with payment due within 10 days. When does her coverage start?",
+    "text": "Sarah applies for health insurance and receives a quote. She decides to proceed but doesn't pay the premium immediately. The agent issues a binder with payment due within 10 days. When does her coverage start?",
     "options": [
       "Immediately when the binder is issued",
       "When she pays the premium within 10 days",
@@ -7373,7 +7373,7 @@
     "text": "Which of the following activities would typically be excluded from AD&D coverage?",
     "options": [
       "Playing recreational softball",
-      "Driving to work",
+      "Walking to work",
       "Flying as a paying passenger on a commercial airline",
       "Piloting a private aircraft"
     ],
@@ -8657,12 +8657,12 @@
   },
   {
     "id": "q667",
-    "text": "David is injured while driving without a valid license (suspended for DUI). He files an auto insurance claim for his medical expenses. The outcome depends on:",
+    "text": "David is injured while committing a felony and files a disability insurance claim for his inability to work. The outcome depends on:",
     "options": [
       "The specific policy language and state law",
-      "Whether he was at fault in the accident",
+      "Whether the injury was directly related to the criminal act",
       "The severity of his injuries",
-      "How long his license was suspended"
+      "How long he was incarcerated"
     ],
     "correctAnswer": "The specific policy language and state law",
     "state": "Gen",
@@ -8670,20 +8670,20 @@
   },
   {
     "id": "q668",
-    "text": "Maria steals a car and crashes it, injuring herself and a passenger. Under most auto liability policies, coverage for the passenger would be:",
+    "text": "Maria commits armed robbery and injures herself and an innocent bystander during the crime. Under most liability policies, coverage for the bystander would be:",
     "options": [
       "Automatically excluded",
-      "Covered since the passenger didn't commit the crime",
-      "Excluded unless the passenger was unaware of the theft",
+      "Covered since the bystander didn't commit the crime",
+      "Excluded unless the bystander was completely unaware",
       "Covered but with a higher deductible"
     ],
-    "correctAnswer": "Excluded unless the passenger was unaware of the theft",
+    "correctAnswer": "Excluded unless the bystander was completely unaware",
     "state": "Gen",
     "category": "Insurance Fundamentals"
   },
   {
     "id": "q669",
-    "text": "Robert is convicted of vehicular manslaughter and files a life insurance claim after attempting suicide in jail. The life insurance company will:",
+    "text": "Robert is convicted of manslaughter and files a life insurance claim after attempting suicide in prison. The life insurance company will:",
     "options": [
       "Pay the claim since the suicide was unrelated to the conviction",
       "Deny the claim due to the suicide exclusion",
@@ -8735,14 +8735,14 @@
   },
   {
     "id": "q673",
-    "text": "Carol is racing her car illegally and crashes. Her auto insurance policy excludes coverage for racing activities. She files a claim for property damage. The insurer will:",
+    "text": "Carol is injured during illegal street fighting. Her disability insurance policy excludes coverage for injuries from illegal activities. She files a claim for lost income. The insurer will:",
     "options": [
       "Pay the claim but cancel her policy",
       "Pay a reduced amount based on fault percentage",
-      "Deny the claim due to the racing exclusion",
-      "Pay the claim after investigating the race was unofficial"
+      "Deny the claim due to the illegal activity exclusion",
+      "Pay the claim after investigating if the fight was organized"
     ],
-    "correctAnswer": "Deny the claim due to the racing exclusion",
+    "correctAnswer": "Deny the claim due to the illegal activity exclusion",
     "state": "Gen",
     "category": "Insurance Fundamentals"
   },
@@ -8813,14 +8813,14 @@
   },
   {
     "id": "q679",
-    "text": "Tim uses his vehicle to transport illegal drugs and crashes. His auto liability insurance coverage for third-party injuries would likely be:",
+    "text": "Tim operates an illegal drug lab and an explosion injures neighbors. His liability insurance coverage for third-party injuries would likely be:",
     "options": [
       "Fully covered since third parties weren't involved in the crime",
-      "Excluded due to the illegal use of the vehicle",
+      "Excluded due to the illegal business activity",
       "Covered but with a higher deductible",
-      "Coverage depends on whether the crash was intentional"
+      "Coverage depends on whether the explosion was intentional"
     ],
-    "correctAnswer": "Coverage depends on whether the crash was intentional",
+    "correctAnswer": "Coverage depends on whether the explosion was intentional",
     "state": "Gen",
     "category": "Insurance Fundamentals"
   },
@@ -9551,5 +9551,1890 @@
     "correctAnswer": "Offer and acceptance - offer was based on false premises",
     "state": "Gen",
     "category": "Insurance Fundamentals"
+  },
+  {
+    "id": "q736",
+    "text": "Which of the following are NOT characteristics of fixed immediate annuities?",
+    "options": [
+      "Guaranteed interest rate and monthly payments that never change",
+      "Investment risk borne by the insurance company, not the annuitant", 
+      "Option to make additional premium payments after the contract begins",
+      "Payments begin within one year of purchase"
+    ],
+    "correctAnswer": "Option to make additional premium payments after the contract begins",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q737", 
+    "text": "Which of the following are NOT features of variable deferred annuities?",
+    "options": [
+      "Investment options include mutual fund-like sub-accounts",
+      "Annuitant bears the investment risk and reward potential",
+      "Guaranteed minimum interest rate regardless of market performance", 
+      "Cash value fluctuates based on underlying investment performance"
+    ],
+    "correctAnswer": "Guaranteed minimum interest rate regardless of market performance",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q738",
+    "text": "Which of the following are NOT permitted with qualified annuities?",
+    "options": [
+      "Using pre-tax dollars for premium payments",
+      "Penalty-free withdrawals before age 59½ for any reason",
+      "Required minimum distributions beginning at age 73",
+      "Tax deferral on investment earnings during accumulation"
+    ],
+    "correctAnswer": "Penalty-free withdrawals before age 59½ for any reason", 
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q739",
+    "text": "Which of the following are NOT advantages of annuitization over systematic withdrawals?",
+    "options": [
+      "Payments are guaranteed for the chosen period or lifetime",
+      "Cannot outlive the income if life option is selected",
+      "Flexibility to change payment amounts as needs change",
+      "Protection against sequence of returns risk"
+    ],
+    "correctAnswer": "Flexibility to change payment amounts as needs change",
+    "state": "Gen", 
+    "category": "Annuities"
+  },
+  {
+    "id": "q740",
+    "text": "Which of the following are NOT characteristics of equity-indexed annuities?",
+    "options": [
+      "Interest credits linked to stock market index performance",
+      "Principal protection against market downturns",
+      "Direct ownership of stocks in the underlying index",
+      "Participation rates that limit upside potential"
+    ],
+    "correctAnswer": "Direct ownership of stocks in the underlying index",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q741",
+    "text": "Which of the following are NOT features of term life insurance policies?",
+    "options": [
+      "Temporary coverage for a specified period",
+      "Lower initial premiums compared to permanent insurance",
+      "Cash value accumulation that can be borrowed against",
+      "Death benefit that remains level during the term period"
+    ],
+    "correctAnswer": "Cash value accumulation that can be borrowed against",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q742", 
+    "text": "Which of the following are NOT options available at the end of a level term life insurance policy term?",
+    "options": [
+      "Convert to permanent insurance without evidence of insurability",
+      "Renew for another term period at attained age rates",
+      "Surrender the policy for its accumulated cash value",
+      "Let the policy lapse with no further obligations"
+    ],
+    "correctAnswer": "Surrender the policy for its accumulated cash value",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q743",
+    "text": "Which of the following are NOT characteristics of decreasing term life insurance?",
+    "options": [
+      "Death benefit decreases over time while premiums remain level",
+      "Often used to cover declining debts like mortgages",
+      "Premiums increase each year as coverage decreases",
+      "More affordable than level term for the same initial coverage amount"
+    ],
+    "correctAnswer": "Premiums increase each year as coverage decreases",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q744",
+    "text": "Which of the following are NOT advantages of term life insurance over whole life insurance?",
+    "options": [
+      "Significantly lower premiums for the same death benefit amount",
+      "Simpler product design that's easier to understand", 
+      "Guaranteed insurability for life regardless of health changes",
+      "Maximum coverage available during peak earning and responsibility years"
+    ],
+    "correctAnswer": "Guaranteed insurability for life regardless of health changes",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q745",
+    "text": "Which of the following are NOT typical features of group term life insurance?",
+    "options": [
+      "Coverage amounts based on salary or position within the company",
+      "Lower cost due to group purchasing power and simplified underwriting",
+      "Individual ownership and portability when leaving employment",
+      "Basic coverage often provided at no cost to employees"
+    ],
+    "correctAnswer": "Individual ownership and portability when leaving employment",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q746",
+    "text": "Which of the following are NOT characteristics of Roth IRA contributions?",
+    "options": [
+      "Made with after-tax dollars that have already been taxed",
+      "Subject to required minimum distributions beginning at age 73",
+      "Can be withdrawn penalty-free at any time after 5 years",
+      "Income limits restrict who can make direct contributions"
+    ],
+    "correctAnswer": "Subject to required minimum distributions beginning at age 73",
+    "state": "Gen",
+    "category": "Roth IRAs"
+  },
+  {
+    "id": "q747",
+    "text": "Which of the following are NOT benefits of Roth IRA conversions?",
+    "options": [
+      "Future growth and distributions are tax-free in retirement",
+      "No required minimum distributions during the owner's lifetime",
+      "Immediate tax deduction for the amount converted",
+      "Can reduce future required minimum distributions from traditional IRAs"
+    ],
+    "correctAnswer": "Immediate tax deduction for the amount converted",
+    "state": "Gen", 
+    "category": "Roth IRAs"
+  },
+  {
+    "id": "q748",
+    "text": "Which of the following are NOT rules governing Roth IRA early withdrawals?",
+    "options": [
+      "Contributions can always be withdrawn penalty-free at any age",
+      "Earnings withdrawals before age 59½ incur a 10% penalty unless an exception applies",
+      "Account must be open for 5 years before any penalty-free earnings withdrawals",
+      "All withdrawals before age 59½ are subject to both taxes and penalties"
+    ],
+    "correctAnswer": "All withdrawals before age 59½ are subject to both taxes and penalties",
+    "state": "Gen",
+    "category": "Roth IRAs"
+  },
+  {
+    "id": "q749", 
+    "text": "Which of the following are NOT advantages of Roth IRAs over traditional IRAs?",
+    "options": [
+      "Tax-free qualified distributions in retirement",
+      "No required minimum distributions during owner's lifetime",
+      "Current tax deduction for contributions made",
+      "More favorable treatment for estate planning purposes"
+    ],
+    "correctAnswer": "Current tax deduction for contributions made",
+    "state": "Gen",
+    "category": "Roth IRAs"
+  },
+  {
+    "id": "q750",
+    "text": "Which of the following are NOT features of the backdoor Roth IRA strategy?",
+    "options": [
+      "Allows high-income earners to effectively contribute to a Roth IRA",
+      "Involves making non-deductible traditional IRA contributions first",
+      "Immediate tax-free growth on all converted amounts",
+      "Requires careful timing and tax planning to minimize pro-rata taxation"
+    ],
+    "correctAnswer": "Immediate tax-free growth on all converted amounts",
+    "state": "Gen",
+    "category": "Roth IRAs"
+  },
+  {
+    "id": "q751",
+    "text": "Which of the following are NOT characteristics of whole life insurance policies?",
+    "options": [
+      "Guaranteed level premiums for the life of the policy",
+      "Cash value growth at current market interest rates",
+      "Fixed death benefit that remains constant throughout the policy",
+      "Dividends paid by mutual insurance companies on participating policies"
+    ],
+    "correctAnswer": "Cash value growth at current market interest rates",
+    "state": "Gen",
+    "category": "Life Insurance"
+  },
+  {
+    "id": "q752",
+    "text": "Which of the following are NOT features of universal life insurance?",
+    "options": [
+      "Flexible premium payments within policy guidelines",
+      "Adjustable death benefit that can be increased or decreased",
+      "Guaranteed cash value growth regardless of interest rate changes",
+      "Transparent charges and fees that are disclosed to policyowners"
+    ],
+    "correctAnswer": "Guaranteed cash value growth regardless of interest rate changes",
+    "state": "Gen",
+    "category": "Life Insurance"
+  },
+  {
+    "id": "q753",
+    "text": "Which of the following are NOT characteristics of variable life insurance?",
+    "options": [
+      "Policyowner controls investment allocation among sub-accounts",
+      "Cash value and death benefit can fluctuate based on investment performance",
+      "Guaranteed minimum death benefit regardless of poor investment returns",
+      "Fixed premium payments that cannot be adjusted by the policyowner"
+    ],
+    "correctAnswer": "Fixed premium payments that cannot be adjusted by the policyowner",
+    "state": "Gen",
+    "category": "Life Insurance"
+  },
+  {
+    "id": "q754",
+    "text": "Which of the following are NOT advantages of second-to-die life insurance policies?",
+    "options": [
+      "Lower premiums than individual policies on each spouse",
+      "Death benefit paid after the first spouse dies",
+      "Useful for estate tax planning and wealth transfer",
+      "Simplified underwriting when one spouse has health issues"
+    ],
+    "correctAnswer": "Death benefit paid after the first spouse dies",
+    "state": "Gen",
+    "category": "Life Insurance"
+  },
+  {
+    "id": "q755",
+    "text": "Which of the following are NOT features commonly found in modern life insurance policies?",
+    "options": [
+      "Accelerated death benefit riders for terminal illness",
+      "Waiver of premium riders for disability",
+      "Automatic premium loan provisions to prevent lapse",
+      "Guaranteed insurability without any medical evidence requirements"
+    ],
+    "correctAnswer": "Guaranteed insurability without any medical evidence requirements",
+    "state": "Gen",
+    "category": "Life Insurance"
+  },
+  {
+    "id": "q756",
+    "text": "Which of the following are NOT typical surrender charge features in deferred annuities?",
+    "options": [
+      "Decreasing percentages over time until they reach zero",
+      "Apply only to amounts withdrawn above the free withdrawal amount",
+      "Usually range from 1-15% depending on the product and year",
+      "Increase each year to discourage early withdrawals"
+    ],
+    "correctAnswer": "Increase each year to discourage early withdrawals",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q757",
+    "text": "Which of the following are NOT characteristics of immediate annuities?",
+    "options": [
+      "Payments begin within 13 months of purchase",
+      "Single premium paid at the time of purchase",
+      "Ability to make additional premium payments during the payout phase",
+      "Can provide lifetime income that cannot be outlived"
+    ],
+    "correctAnswer": "Ability to make additional premium payments during the payout phase",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q758",
+    "text": "Which of the following are NOT tax advantages of non-qualified annuities?",
+    "options": [
+      "Tax-deferred growth during the accumulation phase",
+      "Favorable last-in-first-out (LIFO) tax treatment on withdrawals",
+      "No annual contribution limits like qualified retirement plans",
+      "Tax-free distributions of both principal and earnings in retirement"
+    ],
+    "correctAnswer": "Tax-free distributions of both principal and earnings in retirement",
+    "state": "Gen",
+    "category": "Annuities"
+  },
+  {
+    "id": "q759",
+    "text": "Which of the following are NOT features of convertible term life insurance?",
+    "options": [
+      "Right to convert to permanent insurance without medical examination",
+      "Conversion period that extends throughout the entire term period",
+      "Option to convert to any type of permanent insurance offered by any company",
+      "Premium for converted policy based on attained age at time of conversion"
+    ],
+    "correctAnswer": "Option to convert to any type of permanent insurance offered by any company",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q760",
+    "text": "Which of the following are NOT considerations when choosing between renewable and convertible term insurance?",
+    "options": [
+      "Renewable term allows continuation of coverage without medical examination",
+      "Convertible term allows change to permanent insurance without evidence of insurability",
+      "Both options guarantee the same premium rates will continue indefinitely",
+      "Renewable term premiums increase with each renewal period"
+    ],
+    "correctAnswer": "Both options guarantee the same premium rates will continue indefinitely",
+    "state": "Gen",
+    "category": "Term Life Insurance"
+  },
+  {
+    "id": "q761",
+    "text": "Which of the following are NOT characteristics of Business Overhead Expense (BOE) insurance?",
+    "options": [
+      "Covers business operating expenses when the owner becomes disabled",
+      "Provides income replacement for the disabled business owner's personal living expenses",
+      "Benefits are typically paid for a maximum of 12-24 months",
+      "Premiums are generally tax-deductible as a business expense"
+    ],
+    "correctAnswer": "Provides income replacement for the disabled business owner's personal living expenses",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q762",
+    "text": "Which of the following are NOT typical expenses covered by Business Overhead Expense insurance?",
+    "options": [
+      "Office rent and utilities during owner's disability",
+      "Employee salaries and benefits while owner is disabled",
+      "The disabled owner's salary and personal income",
+      "Professional fees and business loan payments"
+    ],
+    "correctAnswer": "The disabled owner's salary and personal income",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q763",
+    "text": "Which of the following are NOT features of Key Person life insurance?",
+    "options": [
+      "Business owns the policy and pays the premiums",
+      "Death benefit compensates the business for financial losses",
+      "Proceeds are always tax-free to the receiving business",
+      "Coverage amount based on the key person's value to the business"
+    ],
+    "correctAnswer": "Proceeds are always tax-free to the receiving business",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q764",
+    "text": "Which of the following are NOT purposes of Key Person insurance?",
+    "options": [
+      "Replace lost revenue due to key employee's death",
+      "Provide funds to recruit and train replacement personnel",
+      "Pay off business debts and obligations",
+      "Provide death benefits directly to the key person's family"
+    ],
+    "correctAnswer": "Provide death benefits directly to the key person's family",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q765",
+    "text": "Which of the following are NOT characteristics of buy-sell agreements funded by life insurance?",
+    "options": [
+      "Ensures orderly transfer of business ownership upon death",
+      "Provides immediate liquidity for the deceased owner's estate",
+      "Guarantees the surviving owners will sell to outside parties",
+      "Establishes a predetermined valuation method for the business"
+    ],
+    "correctAnswer": "Guarantees the surviving owners will sell to outside parties",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q766",
+    "text": "Which of the following are NOT types of buy-sell agreement structures?",
+    "options": [
+      "Entity purchase plan where business buys deceased owner's interest",
+      "Cross-purchase plan where surviving owners buy deceased owner's share",
+      "Wait-and-see plan that delays the purchase decision",
+      "Mandatory sale plan that requires sale to competitors upon death"
+    ],
+    "correctAnswer": "Mandatory sale plan that requires sale to competitors upon death",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q767",
+    "text": "Which of the following are NOT advantages of using life insurance to fund buy-sell agreements?",
+    "options": [
+      "Creates immediate liquidity when the triggering event occurs",
+      "Premiums are generally tax-deductible as business expenses",
+      "Cash value can accumulate during the owner's lifetime",
+      "Provides certainty that funds will be available when needed"
+    ],
+    "correctAnswer": "Premiums are generally tax-deductible as business expenses",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q768",
+    "text": "Which of the following are NOT features of partnership life insurance arrangements?",
+    "options": [
+      "Each partner owns a policy on the other partners' lives",
+      "Death benefits are used to buy out the deceased partner's interest",
+      "Surviving partners automatically inherit all partnership assets",
+      "Helps prevent forced liquidation of the business"
+    ],
+    "correctAnswer": "Surviving partners automatically inherit all partnership assets",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q769",
+    "text": "Which of the following are NOT characteristics of Corporate-Owned Life Insurance (COLI)?",
+    "options": [
+      "Corporation is the owner and beneficiary of the policy",
+      "Used to recover costs of employee benefits and compensation",
+      "Requires written consent from all insured employees",
+      "Death benefits are always distributed to the employee's family"
+    ],
+    "correctAnswer": "Death benefits are always distributed to the employee's family",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q770",
+    "text": "Which of the following are NOT uses for business loan protection life insurance?",
+    "options": [
+      "Pay off business loans and debts upon owner's death",
+      "Protect personal guarantees made by business owners",
+      "Provide working capital for business expansion during owner's lifetime",
+      "Ensure lenders are repaid if key borrower dies"
+    ],
+    "correctAnswer": "Provide working capital for business expansion during owner's lifetime",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q771",
+    "text": "Which of the following are NOT tax considerations for business-owned life insurance?",
+    "options": [
+      "Premiums paid by the business are generally not tax-deductible",
+      "Death benefits may be subject to the corporate alternative minimum tax",
+      "Cash value growth is tax-deferred during the accumulation period",
+      "All death benefit proceeds are always completely tax-free to corporations"
+    ],
+    "correctAnswer": "All death benefit proceeds are always completely tax-free to corporations",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q772",
+    "text": "Which of the following are NOT methods for valuing a business in buy-sell agreements?",
+    "options": [
+      "Fixed price method with periodic updates",
+      "Formula method based on earnings or revenue multiples",
+      "Appraisal method using independent business valuators",
+      "Market price method based on daily stock exchange quotes"
+    ],
+    "correctAnswer": "Market price method based on daily stock exchange quotes",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q773",
+    "text": "Which of the following are NOT triggers that typically activate buy-sell agreements?",
+    "options": [
+      "Death of a business owner or partner",
+      "Permanent disability of an owner",
+      "Voluntary retirement at normal retirement age",
+      "Annual business performance reviews"
+    ],
+    "correctAnswer": "Annual business performance reviews",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q774",
+    "text": "Which of the following are NOT features of business succession planning with life insurance?",
+    "options": [
+      "Provides liquidity to pay estate taxes on business interests",
+      "Enables smooth transfer to next generation or key employees",
+      "Guarantees the business will continue operating profitably",
+      "Protects against forced sale of business assets to pay estate costs"
+    ],
+    "correctAnswer": "Guarantees the business will continue operating profitably",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q775",
+    "text": "Which of the following are NOT considerations when using annuities for business expense coverage?",
+    "options": [
+      "Can provide steady income stream to cover fixed business expenses",
+      "May offer tax-deferred growth on business reserves",
+      "Suitable for businesses with predictable, ongoing expense needs",
+      "Provide immediate lump-sum payments for unexpected business emergencies"
+    ],
+    "correctAnswer": "Provide immediate lump-sum payments for unexpected business emergencies",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q776",
+    "text": "Which of the following are NOT responsibilities of an agent during field underwriting?",
+    "options": [
+      "Completing the application accurately and completely",
+      "Determining the final premium rate for the policy",
+      "Obtaining required medical information and examinations",
+      "Explaining policy features and answering applicant questions"
+    ],
+    "correctAnswer": "Determining the final premium rate for the policy",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q777",
+    "text": "Which of the following are NOT required when completing an insurance application?",
+    "options": [
+      "Agent must witness the applicant's signature",
+      "All questions must be answered completely and truthfully",
+      "Medical examiner must be present during application completion",
+      "Changes to the application must be initialed by the applicant"
+    ],
+    "correctAnswer": "Medical examiner must be present during application completion",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q778",
+    "text": "Which of the following are NOT appropriate field underwriting practices?",
+    "options": [
+      "Asking follow-up questions to clarify ambiguous answers",
+      "Recording only favorable information to help the applicant get coverage",
+      "Observing the applicant's general health and lifestyle",
+      "Ensuring all required signatures are properly obtained"
+    ],
+    "correctAnswer": "Recording only favorable information to help the applicant get coverage",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q779",
+    "text": "Which of the following situations would NOT require additional field underwriting investigation?",
+    "options": [
+      "Applicant has a dangerous occupation or hobby",
+      "Medical history reveals recent treatment for serious illness",
+      "Applicant is applying for coverage equal to their annual income",
+      "Financial information shows significant income and net worth"
+    ],
+    "correctAnswer": "Financial information shows significant income and net worth",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q780",
+    "text": "Which of the following are NOT appropriate sources of information during field underwriting?",
+    "options": [
+      "Medical examinations and attending physician statements",
+      "Motor vehicle records and credit reports",
+      "Social media posts and private personal communications",
+      "Previous insurance applications and claims history"
+    ],
+    "correctAnswer": "Social media posts and private personal communications",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q781",
+    "text": "Which of the following are NOT requirements for replacement transactions during field underwriting?",
+    "options": [
+      "Agent must provide replacement comparison forms to the applicant",
+      "Existing insurer must be notified of the proposed replacement",
+      "Agent must automatically cancel the existing policy upon application",
+      "Applicant must receive written notice regarding replacement regulations"
+    ],
+    "correctAnswer": "Agent must automatically cancel the existing policy upon application",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q782",
+    "text": "Which of the following are NOT red flags that require additional underwriting attention?",
+    "options": [
+      "Recent increases in life insurance coverage shortly before application",
+      "Applicant's age being under 35 years old",
+      "Inconsistencies between stated income and requested coverage amount",
+      "Multiple applications for insurance with different companies simultaneously"
+    ],
+    "correctAnswer": "Applicant's age being under 35 years old",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q783",
+    "text": "Which of the following are NOT proper field underwriting procedures for health insurance applications?",
+    "options": [
+      "Reviewing pre-existing medical conditions with the applicant",
+      "Explaining waiting periods and exclusions that may apply",
+      "Guaranteeing coverage approval based on the completed application",
+      "Obtaining authorization for medical records from healthcare providers"
+    ],
+    "correctAnswer": "Guaranteeing coverage approval based on the completed application",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q784",
+    "text": "Which of the following are NOT considerations when determining insurability during field underwriting?",
+    "options": [
+      "Applicant's current health status and medical history",
+      "Financial capacity to pay premiums and justify coverage amount",
+      "Applicant's political affiliations and voting history",
+      "Lifestyle factors and hazardous activities or occupations"
+    ],
+    "correctAnswer": "Applicant's political affiliations and voting history",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q785",
+    "text": "Which of the following are NOT appropriate field underwriting activities for an insurance agent?",
+    "options": [
+      "Collecting the initial premium with the completed application",
+      "Scheduling required medical examinations for the applicant",
+      "Making final underwriting decisions and issuing policies",
+      "Explaining policy provisions and coverage limitations"
+    ],
+    "correctAnswer": "Making final underwriting decisions and issuing policies",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q786",
+    "text": "Which of the following are NOT standard policy provisions found in life insurance contracts?",
+    "options": [
+      "Grace period provision allowing 30-31 days to pay overdue premiums",
+      "Incontestability clause preventing policy challenges after 2 years",
+      "Automatic premium loan provision to prevent unintentional lapse",
+      "Guaranteed insurability provision allowing increases without evidence"
+    ],
+    "correctAnswer": "Guaranteed insurability provision allowing increases without evidence",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q787",
+    "text": "Which of the following are NOT characteristics of the suicide clause in life insurance policies?",
+    "options": [
+      "Typically excludes suicide for the first two policy years",
+      "Returns only premiums paid if suicide occurs during exclusion period",
+      "Applies to both the original policy and any increases in coverage",
+      "Automatically extends for two years after each premium payment"
+    ],
+    "correctAnswer": "Automatically extends for two years after each premium payment",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q788",
+    "text": "Which of the following are NOT features of the waiver of premium rider?",
+    "options": [
+      "Waives premium payments during periods of total disability",
+      "Usually requires a waiting period before benefits begin",
+      "Continues to build cash value while premiums are waived",
+      "Provides monthly income payments to the disabled insured"
+    ],
+    "correctAnswer": "Provides monthly income payments to the disabled insured",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q789",
+    "text": "Which of the following are NOT characteristics of the accidental death benefit rider?",
+    "options": [
+      "Pays additional death benefit if death results from accident",
+      "Coverage typically expires at age 65 or 70",
+      "Covers deaths from illness or natural causes",
+      "Usually excludes deaths from war, aviation, or dangerous activities"
+    ],
+    "correctAnswer": "Covers deaths from illness or natural causes",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q790",
+    "text": "Which of the following are NOT features of guaranteed insurability riders?",
+    "options": [
+      "Allow purchase of additional coverage at specified dates",
+      "No evidence of insurability required for additional coverage",
+      "Additional coverage is provided at current market rates",
+      "Rider typically expires when insured reaches age 40-45"
+    ],
+    "correctAnswer": "Additional coverage is provided at current market rates",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q791",
+    "text": "Which of the following are NOT standard nonforfeiture options in cash value life insurance?",
+    "options": [
+      "Cash surrender value paid directly to the policyowner",
+      "Reduced paid-up insurance for a lesser death benefit",
+      "Extended term insurance using cash value to buy term coverage",
+      "Automatic premium financing using future cash value growth"
+    ],
+    "correctAnswer": "Automatic premium financing using future cash value growth",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q792",
+    "text": "Which of the following are NOT typical exclusions found in health insurance policies?",
+    "options": [
+      "Pre-existing conditions during the initial waiting period",
+      "Injuries resulting from participation in riots or illegal activities",
+      "Treatment received for hereditary or genetic conditions",
+      "Services not deemed medically necessary by a qualified physician"
+    ],
+    "correctAnswer": "Treatment received for hereditary or genetic conditions",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q793",
+    "text": "Which of the following are NOT features of the disability income rider on life insurance?",
+    "options": [
+      "Provides monthly income during periods of total disability",
+      "Benefits typically limited to a percentage of earned income",
+      "Waives life insurance premiums while benefits are paid",
+      "Usually includes an elimination period before benefits begin"
+    ],
+    "correctAnswer": "Waives life insurance premiums while benefits are paid",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q794",
+    "text": "Which of the following are NOT characteristics of the free look provision?",
+    "options": [
+      "Allows policyowner to examine policy for 10-30 days",
+      "Full premium refund if policy is returned during free look period",
+      "Automatically extends the grace period for premium payments",
+      "Begins when the policyowner receives the actual policy"
+    ],
+    "correctAnswer": "Automatically extends the grace period for premium payments",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q795",
+    "text": "Which of the following are NOT requirements for policy delivery and completion of the insurance contract?",
+    "options": [
+      "Policy must be delivered personally by the agent to the applicant",
+      "Agent should explain policy provisions and answer any questions",
+      "Any conditional receipt conditions must be satisfied",
+      "Premium payment may be collected if not paid with application"
+    ],
+    "correctAnswer": "Policy must be delivered personally by the agent to the applicant",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q796",
+    "text": "Which of the following are NOT steps in the underwriting process?",
+    "options": [
+      "Reviewing and evaluating the completed application",
+      "Ordering medical examinations and attending physician statements",
+      "Setting final premium rates for all policies of that type",
+      "Making the final decision to accept, modify, or decline coverage"
+    ],
+    "correctAnswer": "Setting final premium rates for all policies of that type",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q797",
+    "text": "Which of the following are NOT appropriate actions when an application is incomplete?",
+    "options": [
+      "Return the application to the agent for completion",
+      "Contact the applicant directly for missing information",
+      "Process the application anyway and request information later",
+      "Delay underwriting until all required information is obtained"
+    ],
+    "correctAnswer": "Process the application anyway and request information later",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q798",
+    "text": "Which of the following are NOT features of conditional receipts?",
+    "options": [
+      "Provide temporary coverage while application is being underwritten",
+      "Coverage begins when premium is paid and application is completed",
+      "Guarantee that coverage will be issued regardless of underwriting results",
+      "Usually limit coverage to the amount applied for or company maximum"
+    ],
+    "correctAnswer": "Guarantee that coverage will be issued regardless of underwriting results",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q799",
+    "text": "Which of the following are NOT required elements for a complete life insurance application?",
+    "options": [
+      "Applicant's personal information including age, occupation, and health",
+      "Beneficiary information and relationship to the insured",
+      "Proof of the applicant's current life insurance coverage with other companies",
+      "Agent's report and recommendation regarding the proposed risk"
+    ],
+    "correctAnswer": "Proof of the applicant's current life insurance coverage with other companies",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q800",
+    "text": "Which of the following are NOT reasons an underwriter might decline or modify an application?",
+    "options": [
+      "Applicant's health history indicates higher than standard risk",
+      "Financial information doesn't support the requested coverage amount",
+      "Applicant is applying for their first life insurance policy",
+      "Lifestyle or occupational hazards present additional risk factors"
+    ],
+    "correctAnswer": "Applicant is applying for their first life insurance policy",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q801",
+    "text": "Under Missouri insurance law, which of the following are NOT requirements for life insurance policy illustrations?",
+    "options": [
+      "Must be signed and dated by the agent and applicant",
+      "Must show guaranteed and non-guaranteed elements separately",
+      "Must be provided within 30 days after policy delivery",
+      "Must include clear disclaimers about projected performance"
+    ],
+    "correctAnswer": "Must be provided within 30 days after policy delivery",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q802",
+    "text": "In Missouri, which of the following are NOT permitted practices regarding life insurance replacement?",
+    "options": [
+      "Providing written comparison of existing and proposed policies",
+      "Notifying existing insurer of proposed replacement within 3 business days",
+      "Allowing 30-day free look period on replacement policies",
+      "Recommending replacement without regard for suitability"
+    ],
+    "correctAnswer": "Recommending replacement without regard for suitability",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q803",
+    "text": "Under Missouri law, which of the following are NOT requirements for life insurance solicitation?",
+    "options": [
+      "Agent must be properly licensed before making any sales presentation",
+      "All marketing materials must be approved by the insurance company",
+      "Agent must provide a detailed financial analysis of the applicant's needs",
+      "Proper disclosure of policy features and limitations must be made"
+    ],
+    "correctAnswer": "Agent must provide a detailed financial analysis of the applicant's needs",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q804",
+    "text": "In Missouri, which of the following are NOT acceptable practices for life insurance agents?",
+    "options": [
+      "Rebating part of the commission to the applicant as an inducement",
+      "Explaining policy exclusions and limitations clearly to applicants",
+      "Recommending coverage amounts based on applicant's financial needs",
+      "Providing prompt service for policy changes and claim submissions"
+    ],
+    "correctAnswer": "Rebating part of the commission to the applicant as an inducement",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q805",
+    "text": "Under Missouri insurance statutes, which of the following are NOT requirements for life insurance policy forms?",
+    "options": [
+      "Must be filed with and approved by the Missouri Department of Insurance",
+      "Must contain all required standard provisions and disclosures",
+      "Must be written in plain language that consumers can understand",
+      "Must guarantee minimum interest rates of at least 4% annually"
+    ],
+    "correctAnswer": "Must guarantee minimum interest rates of at least 4% annually",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q806",
+    "text": "In Missouri, which of the following are NOT protected activities under the life insurance privacy regulations?",
+    "options": [
+      "Collecting personal information necessary for underwriting",
+      "Sharing medical information with reinsurance companies",
+      "Using consumer reports for risk assessment purposes",
+      "Selling customer information to marketing companies"
+    ],
+    "correctAnswer": "Selling customer information to marketing companies",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q807",
+    "text": "Under Missouri law, which of the following are NOT requirements for variable life insurance sales?",
+    "options": [
+      "Agent must hold both life insurance and securities licenses",
+      "Prospectus must be delivered at or before policy delivery",
+      "Company must register as investment advisor with the state",
+      "Written suitability determination must be completed"
+    ],
+    "correctAnswer": "Company must register as investment advisor with the state",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q808",
+    "text": "In Missouri, which of the following are NOT violations that could result in license suspension or revocation for life insurance agents?",
+    "options": [
+      "Misrepresenting the terms or benefits of an insurance policy",
+      "Commingling premium collections with personal funds",
+      "Failing to complete required continuing education within the time limit",
+      "Recommending appropriate coverage based on client needs analysis"
+    ],
+    "correctAnswer": "Recommending appropriate coverage based on client needs analysis",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q809",
+    "text": "Under Missouri insurance regulations, which of the following are NOT required components of senior life insurance sales presentations?",
+    "options": [
+      "Suitability determination based on senior's financial situation",
+      "Clear explanation of any surrender charges or penalties",
+      "Automatic approval regardless of medical underwriting results",
+      "Opportunity to designate trusted contact person for account information"
+    ],
+    "correctAnswer": "Automatic approval regardless of medical underwriting results",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q810",
+    "text": "In Missouri, which of the following are NOT acceptable practices for life insurance claims handling?",
+    "options": [
+      "Requiring reasonable documentation to support the claim",
+      "Promptly investigating all submitted claims within regulatory timeframes",
+      "Delaying payment to earn additional interest on company reserves",
+      "Communicating clearly with beneficiaries about claim status"
+    ],
+    "correctAnswer": "Delaying payment to earn additional interest on company reserves",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q811",
+    "text": "Under Missouri law, which of the following are NOT requirements for health insurance policy renewability provisions?",
+    "options": [
+      "Guaranteed renewable policies cannot increase premiums for individuals",
+      "Non-cancellable policies must maintain level premiums throughout the term",
+      "Conditionally renewable policies must specify renewal conditions",
+      "Optionally renewable policies give insurer discretion in renewal decisions"
+    ],
+    "correctAnswer": "Guaranteed renewable policies cannot increase premiums for individuals",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q812", 
+    "text": "In Missouri, which of the following are NOT mandated coverages that must be offered in health insurance policies?",
+    "options": [
+      "Coverage for mental health and substance abuse treatment",
+      "Coverage for preventive care and wellness programs",
+      "Coverage for experimental or investigational treatments",
+      "Coverage for emergency medical services"
+    ],
+    "correctAnswer": "Coverage for experimental or investigational treatments",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q813",
+    "text": "Under Missouri insurance statutes, which of the following are NOT requirements for disability income insurance policies?",
+    "options": [
+      "Must include provision for partial disability benefits",
+      "Cannot exclude coverage for mental or nervous disorders for more than 2 years",
+      "Must provide benefits for at least 5 years for any covered disability",
+      "Must include waiver of premium provision during total disability"
+    ],
+    "correctAnswer": "Must provide benefits for at least 5 years for any covered disability",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q814",
+    "text": "In Missouri, which of the following are NOT acceptable health insurance underwriting practices?",
+    "options": [
+      "Using genetic information to determine eligibility or rates",
+      "Requiring medical examinations for large coverage amounts",
+      "Reviewing applicant's medical history and current health status",
+      "Considering occupational hazards and lifestyle factors"
+    ],
+    "correctAnswer": "Using genetic information to determine eligibility or rates",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q815",
+    "text": "Under Missouri law, which of the following are NOT requirements for health insurance claim settlements?",
+    "options": [
+      "Claims must be paid or denied within 30 days of receiving complete documentation",
+      "Insurers must provide written explanation for any claim denials",
+      "All claims must be settled within 15 days regardless of complexity",
+      "Insurers must maintain detailed records of all claim handling activities"
+    ],
+    "correctAnswer": "All claims must be settled within 15 days regardless of complexity",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q816",
+    "text": "An agent is taking an application from a 55-year-old applicant who mentions having chest pains last week but hasn't seen a doctor yet. What is the agent's BEST course of action during field underwriting?",
+    "options": [
+      "Complete the application without mentioning the chest pains to avoid complications",
+      "Advise the applicant to see a doctor first, then reapply after medical clearance",
+      "Note the chest pains on the application and recommend the applicant consult a physician promptly",
+      "Refuse to take the application until medical records are provided"
+    ],
+    "correctAnswer": "Note the chest pains on the application and recommend the applicant consult a physician promptly",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q817",
+    "text": "A business owner wants to purchase a $2 million life insurance policy but their annual income is only $150,000. What is the MOST important factor an underwriter will consider?",
+    "options": [
+      "The applicant's age and health status",
+      "Business financial statements and the owner's net worth",
+      "The proposed beneficiary's relationship to the insured",
+      "The type of life insurance policy being requested"
+    ],
+    "correctAnswer": "Business financial statements and the owner's net worth",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q818",
+    "text": "During a policy replacement situation, when must the agent provide the Notice Regarding Replacement to the applicant?",
+    "options": [
+      "Within 10 days after the application is submitted",
+      "At the time of application or before the application is taken",
+      "When the new policy is delivered to the client",
+      "Only if the existing insurer requests notification"
+    ],
+    "correctAnswer": "At the time of application or before the application is taken",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q819",
+    "text": "An applicant for term life insurance has a dangerous hobby of rock climbing. What would be the underwriter's MOST LIKELY response?",
+    "options": [
+      "Automatically decline the application due to high risk",
+      "Issue the policy with an exclusion for climbing-related deaths",
+      "Approve at standard rates since it's only a hobby",
+      "Charge an additional premium to reflect the increased risk"
+    ],
+    "correctAnswer": "Charge an additional premium to reflect the increased risk",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q820",
+    "text": "A 40-year-old applicant admits to recreational marijuana use twice per month. How would this MOST LIKELY affect their life insurance application?",
+    "options": [
+      "Automatic decline in all cases",
+      "Standard rates with no impact on underwriting",
+      "Possible standard rates depending on other risk factors",
+      "Rated policy with significant premium increase"
+    ],
+    "correctAnswer": "Possible standard rates depending on other risk factors",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q821",
+    "text": "If a life insurance policy lapses during the grace period and the insured dies, what happens to the death benefit?",
+    "options": [
+      "Full death benefit is paid minus any outstanding policy loans",
+      "Death benefit is paid minus the overdue premium",
+      "No death benefit is paid since the policy had lapsed",
+      "Death benefit is paid only if premium is paid within 30 days of death"
+    ],
+    "correctAnswer": "Death benefit is paid minus the overdue premium",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q822",
+    "text": "A policyowner takes a loan against their whole life policy's cash value. What happens to the policy's dividend payments while the loan is outstanding?",
+    "options": [
+      "Dividends are suspended until the loan is repaid",
+      "Dividends continue but are automatically applied to reduce the loan balance",
+      "Dividends are reduced proportionally based on the loan amount",
+      "Dividends continue unchanged and can be received in cash"
+    ],
+    "correctAnswer": "Dividends continue unchanged and can be received in cash",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q823",
+    "text": "A 45-year-old insured becomes totally disabled and qualifies for waiver of premium benefits. If they die 10 years later while still disabled, what is the death benefit amount?",
+    "options": [
+      "Original face amount minus 10 years of waived premiums",
+      "Reduced death benefit since no premiums were paid",
+      "Full original death benefit plus accumulated cash value growth",
+      "Prorated death benefit based on premiums actually paid"
+    ],
+    "correctAnswer": "Full original death benefit plus accumulated cash value growth",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q824",
+    "text": "An accidental death benefit rider typically excludes death occurring beyond what time period after the accident?",
+    "options": [
+      "30 days",
+      "90 days", 
+      "180 days",
+      "365 days"
+    ],
+    "correctAnswer": "90 days",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q825",
+    "text": "A guaranteed insurability rider allows additional coverage to be purchased at predetermined dates. What happens if the insured misses one of these option dates?",
+    "options": [
+      "The entire rider becomes void and cannot be used again",
+      "That specific option is lost but future options remain available",
+      "The insured has 90 days to exercise the missed option",
+      "The option can be exercised within one year with evidence of insurability"
+    ],
+    "correctAnswer": "That specific option is lost but future options remain available",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q826",
+    "text": "When a life insurance application is submitted with the initial premium, under what circumstances would coverage typically begin immediately?",
+    "options": [
+      "When the agent has binding authority from the insurance company",
+      "When a conditional receipt is issued and the risk is acceptable as applied for",
+      "Only after the policy is approved and delivered to the applicant",
+      "When the medical examination results are satisfactory"
+    ],
+    "correctAnswer": "When a conditional receipt is issued and the risk is acceptable as applied for",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q827",
+    "text": "An underwriter receives an application with inconsistent information between the agent's report and the applicant's answers. What is the underwriter's FIRST action?",
+    "options": [
+      "Decline the application due to potential misrepresentation",
+      "Contact the agent to clarify and resolve the inconsistencies",
+      "Order additional medical tests to verify health information",
+      "Issue the policy based on the more favorable information"
+    ],
+    "correctAnswer": "Contact the agent to clarify and resolve the inconsistencies",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q828",
+    "text": "If an application is approved with modifications (such as a higher premium), what must happen before the policy becomes effective?",
+    "options": [
+      "The applicant must sign a new application reflecting the changes",
+      "The applicant must accept the counteroffer in writing",
+      "The agent must approve the modifications on behalf of the applicant", 
+      "The policy becomes effective automatically after 30 days"
+    ],
+    "correctAnswer": "The applicant must accept the counteroffer in writing",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q829",
+    "text": "During policy delivery, an agent discovers the applicant's health has deteriorated since the application was taken. What should the agent do?",
+    "options": [
+      "Deliver the policy as issued since underwriting is complete",
+      "Notify the insurance company before completing delivery",
+      "Require a new medical examination before policy delivery",
+      "Cancel the policy and refund all premiums paid"
+    ],
+    "correctAnswer": "Notify the insurance company before completing delivery",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q830",
+    "text": "An applicant pays the initial premium with a personal check that later bounces. If the insured dies before the check issue is resolved, what is the insurer's obligation?",
+    "options": [
+      "Pay the full death benefit as the policy was in effect",
+      "Pay the death benefit minus the amount of the bounced check",
+      "Deny the claim since no valid premium payment was made",
+      "Pay only the cash value accumulated in the policy"
+    ],
+    "correctAnswer": "Deny the claim since no valid premium payment was made",
+    "state": "Gen",
+    "category": "Completing the Application, Underwriting, and Delivering the Policy"
+  },
+  {
+    "id": "q831",
+    "text": "In Missouri, how many days after policy delivery does an applicant have to return a life insurance policy during the free look period?",
+    "options": [
+      "10 days",
+      "20 days",
+      "30 days", 
+      "45 days"
+    ],
+    "correctAnswer": "10 days",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q832",
+    "text": "Under Missouri law, what is the maximum penalty an agent can face for rebating life insurance premiums?",
+    "options": [
+      "$1,000 fine and license suspension",
+      "$5,000 fine and/or 6 months imprisonment",
+      "$10,000 fine and permanent license revocation",
+      "$2,500 fine and/or one year probation"
+    ],
+    "correctAnswer": "$5,000 fine and/or 6 months imprisonment",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q833",
+    "text": "In Missouri, when must an insurer provide notice to an existing insurer about a pending life insurance replacement?",
+    "options": [
+      "Within 24 hours of application submission",
+      "Within 3 business days of receiving the replacement application",
+      "Within 5 business days of policy issuance",
+      "Within 10 days of the applicant's request"
+    ],
+    "correctAnswer": "Within 3 business days of receiving the replacement application",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q834",
+    "text": "Under Missouri insurance law, what is the minimum grace period required for life insurance premium payments?",
+    "options": [
+      "10 days",
+      "30 days",
+      "31 days",
+      "60 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q835",
+    "text": "In Missouri, how long must a life insurance company maintain records of agent appointments and terminations?",
+    "options": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "correctAnswer": "5 years",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Life Only"
+  },
+  {
+    "id": "q836",
+    "text": "Under Missouri law, what is the maximum waiting period allowed for pre-existing conditions in individual health insurance policies?",
+    "options": [
+      "6 months",
+      "12 months",
+      "18 months", 
+      "24 months"
+    ],
+    "correctAnswer": "12 months",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q837",
+    "text": "In Missouri, how many days does an insurer have to process a health insurance claim once all required documentation is received?",
+    "options": [
+      "15 days",
+      "30 days",
+      "45 days",
+      "60 days"
+    ],
+    "correctAnswer": "30 days",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q838",
+    "text": "A universal life policy has insufficient cash value to cover the monthly mortality charges. What happens next?",
+    "options": [
+      "The policy immediately lapses with no further coverage",
+      "The insurer will bill the policyowner for the shortage",
+      "The policy enters a grace period for additional premium payment",
+      "The death benefit is automatically reduced to match available cash value"
+    ],
+    "correctAnswer": "The policy enters a grace period for additional premium payment",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q839",
+    "text": "An applicant for disability income insurance currently earns $5,000 monthly and applies for $4,000 monthly benefits. What is the insurer MOST LIKELY to do?",
+    "options": [
+      "Approve the full $4,000 benefit amount as requested",
+      "Decline the application due to overinsurance",
+      "Reduce the benefit to approximately $3,000-$3,250 monthly",
+      "Require the applicant to purchase additional life insurance first"
+    ],
+    "correctAnswer": "Reduce the benefit to approximately $3,000-$3,250 monthly",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q840",
+    "text": "A group life insurance plan covers 500 employees. What percentage of eligible employees must participate if the plan is contributory?",
+    "options": [
+      "50%",
+      "75%",
+      "85%",
+      "100%"
+    ],
+    "correctAnswer": "75%",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q841",
+    "text": "An insurance company's underwriting guidelines specify that applicants over age 50 require blood tests for coverage over $250,000. What is this an example of?",
+    "options": [
+      "Discriminatory underwriting practices",
+      "Numerical rating system guidelines",
+      "Medical requirements based on age and coverage amount",
+      "Preferred risk qualification standards"
+    ],
+    "correctAnswer": "Medical requirements based on age and coverage amount",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q842",
+    "text": "A whole life policy owner stops paying premiums after 10 years. If they elect the extended term option, what determines how long the coverage will continue?",
+    "options": [
+      "The original premium payment schedule",
+      "The amount of cash value available to purchase term insurance",
+      "A fixed 20-year term period regardless of cash value",
+      "The insured's current age and health status"
+    ],
+    "correctAnswer": "The amount of cash value available to purchase term insurance",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q843",
+    "text": "An individual health insurance policy includes a 20% coinsurance provision after the deductible. If a covered medical expense is $5,000 and the deductible is $1,000, how much will the insurance company pay?",
+    "options": [
+      "$3,200",
+      "$3,600", 
+      "$4,000",
+      "$4,200"
+    ],
+    "correctAnswer": "$3,200",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q844",
+    "text": "A variable annuity owner is 62 years old and makes a $50,000 withdrawal from an annuity with a $60,000 basis and current value of $80,000. What are the tax consequences?",
+    "options": [
+      "No taxes owed on the withdrawal",
+      "$5,000 taxable as ordinary income plus 10% penalty",
+      "$20,000 taxable as ordinary income with no penalty",
+      "$20,000 taxable as ordinary income plus 10% penalty"
+    ],
+    "correctAnswer": "$20,000 taxable as ordinary income with no penalty",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q845",
+    "text": "A Medicare supplement policy applicant is 72 years old and applies during their Medigap open enrollment period. What can the insurance company do regarding pre-existing conditions?",
+    "options": [
+      "Exclude all pre-existing conditions permanently",
+      "Apply a 12-month waiting period for pre-existing conditions", 
+      "Impose a 6-month waiting period maximum",
+      "Cannot exclude or limit coverage for pre-existing conditions"
+    ],
+    "correctAnswer": "Impose a 6-month waiting period maximum",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q846",
+    "text": "A life insurance policy has a spendthrift clause in the beneficiary designation. What is the PRIMARY purpose of this provision?",
+    "options": [
+      "To prevent the beneficiary from changing the payout method",
+      "To protect death benefits from the beneficiary's creditors",
+      "To ensure benefits are paid in installments rather than lump sum",
+      "To require court approval before benefits can be distributed"
+    ],
+    "correctAnswer": "To protect death benefits from the beneficiary's creditors",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q847",
+    "text": "When a life insurance policy is assigned as collateral for a loan, what happens to the beneficiary's rights?",
+    "options": [
+      "The beneficiary loses all rights until the loan is repaid",
+      "The beneficiary receives only the amount exceeding the loan balance",
+      "The assignment automatically makes the lender the new beneficiary",
+      "The beneficiary must approve all loan transactions"
+    ],
+    "correctAnswer": "The beneficiary receives only the amount exceeding the loan balance",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q848",
+    "text": "A health insurance policy contains a coordination of benefits provision. If the primary insurer pays $8,000 on a $10,000 claim, what is the maximum the secondary insurer will pay?",
+    "options": [
+      "$2,000 to bring total payment to $10,000",
+      "$10,000 according to their policy terms",
+      "$5,000 representing half of the remaining balance",
+      "Nothing, since the primary insurer already paid"
+    ],
+    "correctAnswer": "$2,000 to bring total payment to $10,000",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q849",
+    "text": "A disability income policy has a 'residual benefits' provision. This means benefits are paid when the insured:",
+    "options": [
+      "Cannot perform any occupation for which they are suited",
+      "Can work but suffers a reduction in income due to disability",
+      "Requires assistance with activities of daily living",
+      "Has a disability lasting longer than the elimination period"
+    ],
+    "correctAnswer": "Can work but suffers a reduction in income due to disability",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q850",
+    "text": "A life insurance policy loan charges 6% annual interest. If the interest is not paid, what typically happens?",
+    "options": [
+      "The policy lapses immediately due to default",
+      "The interest is added to the outstanding loan balance",
+      "The insurer demands immediate loan repayment",
+      "The interest rate increases to the maximum allowed"
+    ],
+    "correctAnswer": "The interest is added to the outstanding loan balance",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q851",
+    "text": "A health insurance policy has a 'pre-authorization' clause. What is the consequence if a covered person fails to obtain required pre-authorization?",
+    "options": [
+      "The claim is automatically denied in full",
+      "Benefits may be reduced by a specified percentage or amount",
+      "Coverage is cancelled for failure to comply with policy terms",
+      "The deductible amount is doubled for that claim"
+    ],
+    "correctAnswer": "Benefits may be reduced by a specified percentage or amount",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q852",
+    "text": "A life insurance policy lapsed 8 months ago. What must typically occur for successful reinstatement?",
+    "options": [
+      "Payment of back premiums with interest and evidence of insurability",
+      "Payment of current premium and a reinstatement fee only",
+      "Medical examination and payment of double premiums for one year",
+      "Approval by the original underwriter who issued the policy"
+    ],
+    "correctAnswer": "Payment of back premiums with interest and evidence of insurability",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q853",
+    "text": "A group life insurance policy includes a conversion privilege. When does this right typically expire for a terminated employee?",
+    "options": [
+      "Immediately upon termination of employment",
+      "31 days after termination of employment",
+      "60 days after receiving written notice of conversion rights",
+      "6 months after the group coverage ends"
+    ],
+    "correctAnswer": "31 days after termination of employment",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q854",
+    "text": "A health insurance policy contains an 'other insurance' clause. If an insured has coverage under multiple policies, how are benefits typically coordinated?",
+    "options": [
+      "Each policy pays its full benefit amount regardless of others",
+      "Total benefits from all policies cannot exceed 100% of the loss",
+      "Only the policy with the highest benefit amount pays",
+      "Benefits are split equally among all policies"
+    ],
+    "correctAnswer": "Total benefits from all policies cannot exceed 100% of the loss",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q855",
+    "text": "A disability income policy includes a 'future increase option' rider. This allows the insured to:",
+    "options": [
+      "Increase benefits annually based on inflation adjustments",
+      "Purchase additional coverage at specified times without medical evidence",
+      "Convert the policy to a different type of disability coverage",
+      "Reduce the elimination period by paying additional premiums"
+    ],
+    "correctAnswer": "Purchase additional coverage at specified times without medical evidence",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q856",
+    "text": "A life insurance policy has a 'simultaneous death' clause. If the insured and beneficiary die in the same accident and the order of death cannot be determined, who receives the proceeds?",
+    "options": [
+      "The proceeds are split equally between both estates",
+      "The contingent beneficiary receives the full amount",
+      "The beneficiary is presumed to have died first, so proceeds go to the insured's estate",
+      "The court determines distribution based on the circumstances"
+    ],
+    "correctAnswer": "The beneficiary is presumed to have died first, so proceeds go to the insured's estate",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q857",
+    "text": "A long-term care insurance policy includes a 'restoration of benefits' provision. This means:",
+    "options": [
+      "Benefits continue indefinitely once the elimination period is satisfied",
+      "Previously paid benefits are restored after a period of recovery",
+      "The maximum benefit period resets each policy year",
+      "Benefits are automatically increased for inflation each year"
+    ],
+    "correctAnswer": "Previously paid benefits are restored after a period of recovery",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q858",
+    "text": "A health insurance policy has a 'reasonable and customary' provision for payment of medical expenses. This means the insurer will pay:",
+    "options": [
+      "The full amount charged by any licensed medical provider",
+      "A predetermined fee schedule amount for each type of service",
+      "An amount based on typical charges in the geographic area",
+      "80% of whatever the provider charges for the service"
+    ],
+    "correctAnswer": "An amount based on typical charges in the geographic area",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q859",
+    "text": "A life insurance policy includes an 'automatic premium loan' provision. When does this provision activate?",
+    "options": [
+      "Whenever the policyowner requests a loan against cash value",
+      "When premiums are not paid by the end of the grace period",
+      "Only when the policyowner becomes disabled and cannot pay premiums",
+      "When the cash value exceeds the annual premium amount"
+    ],
+    "correctAnswer": "When premiums are not paid by the end of the grace period",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q860",
+    "text": "A health insurance policy contains a 'subrogation' clause. This gives the insurer the right to:",
+    "options": [
+      "Cancel the policy if the insured files too many claims",
+      "Reduce benefits if the insured has other insurance coverage",
+      "Recover payments from third parties responsible for the insured's injury",
+      "Require the insured to use specific healthcare providers"
+    ],
+    "correctAnswer": "Recover payments from third parties responsible for the insured's injury",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q861",
+    "text": "A disability income policy includes a 'cost of living adjustment' rider. How do benefits typically adjust?",
+    "options": [
+      "Benefits increase by a fixed percentage each year",
+      "Benefits increase based on the Consumer Price Index during disability",
+      "Benefits double after the first year of continuous disability",
+      "Benefits increase only if the insured's pre-disability income increased"
+    ],
+    "correctAnswer": "Benefits increase based on the Consumer Price Index during disability",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q862",
+    "text": "A life insurance policy settlement option provides income of $500 monthly for 20 years. If the beneficiary dies after receiving payments for 10 years, what happens to the remaining payments?",
+    "options": [
+      "Payments stop and no further benefits are due",
+      "Remaining payments continue to the beneficiary's estate or heir",
+      "The present value of remaining payments is paid in a lump sum",
+      "Payments continue but are reduced to reflect early death"
+    ],
+    "correctAnswer": "Remaining payments continue to the beneficiary's estate or heir",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q863",
+    "text": "A health insurance policy has a 'guaranteed renewability' clause. This means the insurer:",
+    "options": [
+      "Must renew the policy but can increase premiums for the individual insured",
+      "Must renew at the same premium rate until the insured reaches age 65",
+      "Can only increase premiums for the entire class of insureds, not individuals",
+      "Must provide lifetime coverage regardless of health changes"
+    ],
+    "correctAnswer": "Can only increase premiums for the entire class of insureds, not individuals",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q864",
+    "text": "A life insurance policy includes a 'facility of payment' clause. This allows the insurer to:",
+    "options": [
+      "Pay benefits to someone other than the named beneficiary in certain circumstances",
+      "Delay benefit payments for up to 6 months to verify the claim",
+      "Pay benefits in installments rather than a lump sum",
+      "Reduce benefits if the insured's age was misstated on the application"
+    ],
+    "correctAnswer": "Pay benefits to someone other than the named beneficiary in certain circumstances",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q865",
+    "text": "A disability income policy contains an 'own occupation' definition of disability. For how long is this definition typically used?",
+    "options": [
+      "For the entire benefit period regardless of length",
+      "For the first 24 months, then changes to 'any occupation'",
+      "Only during the elimination period",
+      "Until the insured reaches normal retirement age"
+    ],
+    "correctAnswer": "For the first 24 months, then changes to 'any occupation'",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q866",
+    "text": "An agent is completing an application for a 28-year-old applicant who mentions they are planning to travel to a high-risk country for work next month. What should the agent do?",
+    "options": [
+      "Complete the application without mentioning the travel plans",
+      "Advise waiting until after the trip to apply for coverage",
+      "Note the travel plans and let underwriting evaluate the risk",
+      "Refuse to take the application due to increased risk"
+    ],
+    "correctAnswer": "Note the travel plans and let underwriting evaluate the risk",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q867",
+    "text": "During field underwriting, an agent discovers the applicant has been declined by two other insurers in the past year. What is the agent's responsibility?",
+    "options": [
+      "Automatically decline to take the application",
+      "Determine the reasons for previous declines and include this information",
+      "Advise the applicant to wait at least one more year before applying",
+      "Proceed normally since each company has different underwriting standards"
+    ],
+    "correctAnswer": "Determine the reasons for previous declines and include this information",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q868",
+    "text": "An applicant for a $1 million life insurance policy shows an annual income of $75,000 but lives in a $2 million home. What should concern the agent most during field underwriting?",
+    "options": [
+      "The applicant's age and health history",
+      "The large coverage amount relative to stated income",
+      "The type of occupation listed on the application",
+      "The beneficiary designation on the policy"
+    ],
+    "correctAnswer": "The large coverage amount relative to stated income",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q869",
+    "text": "When should an agent schedule a medical examination for a life insurance applicant?",
+    "options": [
+      "Only after the application is approved by underwriting",
+      "Immediately upon completing the application if required by company guidelines",
+      "Within 30 days of submitting the application to the company",
+      "Only if the applicant has a history of serious medical conditions"
+    ],
+    "correctAnswer": "Immediately upon completing the application if required by company guidelines",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q870",
+    "text": "An applicant mentions they have been treated for depression but stopped taking medication 6 months ago because they 'feel fine.' How should the agent handle this during field underwriting?",
+    "options": [
+      "Record that the depression has been resolved since medication stopped",
+      "Include complete details about treatment history and current status",
+      "Suggest the applicant resume medication before applying",
+      "Advise applying for a smaller coverage amount due to the condition"
+    ],
+    "correctAnswer": "Include complete details about treatment history and current status",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q871",
+    "text": "During a replacement situation, when must the agent provide the 'Important Notice Regarding Replacement' to the applicant?",
+    "options": [
+      "At the time the application is signed",
+      "Before or at the time of taking the application",
+      "Within 10 days after submitting the application",
+      "When delivering the new policy to the client"
+    ],
+    "correctAnswer": "Before or at the time of taking the application",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q872",
+    "text": "An agent suspects that an applicant may be applying for coverage with the intent to commit suicide. What should the agent do?",
+    "options": [
+      "Complete the application but note concerns in the agent's report",
+      "Refuse to take the application and document the reason",
+      "Require a psychological evaluation before proceeding",
+      "Take the application but recommend a longer suicide exclusion period"
+    ],
+    "correctAnswer": "Refuse to take the application and document the reason",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q873",
+    "text": "An applicant for health insurance mentions they are currently pregnant. How should this affect the field underwriting process?",
+    "options": [
+      "The application should be postponed until after delivery",
+      "Pregnancy should be noted as a pre-existing condition",
+      "The information should be included and let underwriting evaluate",
+      "Coverage should exclude maternity benefits for this pregnancy"
+    ],
+    "correctAnswer": "The information should be included and let underwriting evaluate",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q874",
+    "text": "When taking an application, an agent notices the applicant appears to be under the influence of alcohol. What is the appropriate action?",
+    "options": [
+      "Complete the application but note the observation",
+      "Reschedule the appointment for when the applicant is sober",
+      "Have a witness present for the remainder of the application process",
+      "Proceed normally since competency will be verified later"
+    ],
+    "correctAnswer": "Reschedule the appointment for when the applicant is sober",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q875",
+    "text": "An applicant wants to name their 16-year-old child as primary beneficiary of a $500,000 life insurance policy. What should the agent recommend regarding field underwriting procedures?",
+    "options": [
+      "Proceed as requested since minors can be beneficiaries",
+      "Suggest naming an adult relative as custodian for the minor",
+      "Recommend establishing a trust or naming a guardian",
+      "Advise waiting until the child reaches age 18"
+    ],
+    "correctAnswer": "Recommend establishing a trust or naming a guardian",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q876",
+    "text": "During field underwriting, an agent learns the applicant has been convicted of a felony 8 years ago but has had no issues since. How should this be handled?",
+    "options": [
+      "Exclude this information since it's over 5 years old",
+      "Include the information and let underwriting make the determination",
+      "Advise the applicant to wait until 10 years have passed",
+      "Recommend a smaller coverage amount due to the conviction"
+    ],
+    "correctAnswer": "Include the information and let underwriting make the determination",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q877",
+    "text": "An applicant for disability income insurance is a professional athlete. What specific information should the agent gather during field underwriting?",
+    "options": [
+      "Only their current sport and professional league",
+      "Details about the specific sport, training regimen, and injury history",
+      "Their career earnings and expected retirement age",
+      "Medical records from the team physician only"
+    ],
+    "correctAnswer": "Details about the specific sport, training regimen, and injury history",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q878",
+    "text": "When completing a life insurance application, the applicant states their weight as 180 pounds but appears to weigh significantly more. What should the agent do?",
+    "options": [
+      "Record the stated weight and let the medical exam verify accuracy",
+      "Estimate the actual weight and record that instead",
+      "Ask the applicant to verify their weight before proceeding",
+      "Note the discrepancy in the agent's report section"
+    ],
+    "correctAnswer": "Ask the applicant to verify their weight before proceeding",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q879",
+    "text": "An applicant wants to purchase a $2 million policy and insists on paying the annual premium in cash. What should be the agent's primary concern?",
+    "options": [
+      "The large premium amount may indicate financial instability",
+      "Cash payments may suggest money laundering or illegal activity",
+      "The applicant may not understand the commitment of annual payments",
+      "Cash payments are not accepted for large premium amounts"
+    ],
+    "correctAnswer": "Cash payments may suggest money laundering or illegal activity",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q880",
+    "text": "During field underwriting for health insurance, an applicant mentions they have been experiencing unexplained weight loss over the past few months. What should the agent recommend?",
+    "options": [
+      "Complete the application and let underwriting order additional tests",
+      "Suggest the applicant see their physician before completing the application",
+      "Note the weight loss and recommend a higher deductible",
+      "Proceed normally since weight loss could be intentional"
+    ],
+    "correctAnswer": "Suggest the applicant see their physician before completing the application",
+    "state": "Gen",
+    "category": "Field Underwriting Procedures"
   }
 ]
