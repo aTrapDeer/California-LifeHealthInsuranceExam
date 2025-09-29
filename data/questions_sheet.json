@@ -12476,5 +12476,187 @@
     "correctAnswer": "Waiver of premium rider",
     "state": "Gen",
     "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q961",
+    "text": "Under Medicare Part C (Medicare Advantage), how frequently are routine eye exams and eyeglasses/contact lenses typically covered?",
+    "options": [
+      "Eye exams every 6 months, lenses every 12 months",
+      "Eye exams every 12 months, lenses every 12 months",
+      "Eye exams every 24 months, lenses every 24 months",
+      "Eye exams every 18 months, lenses every 36 months"
+    ],
+    "correctAnswer": "Eye exams every 12 months, lenses every 12 months",
+    "state": "Gen",
+    "category": "Medicare"
+  },
+  {
+    "id": "q962",
+    "text": "Medicare Part C (Medicare Advantage) vision benefits typically cover replacement of eyeglass frames at what frequency?",
+    "options": [
+      "Every 12 months",
+      "Every 18 months",
+      "Every 24 months",
+      "Every 36 months"
+    ],
+    "correctAnswer": "Every 24 months",
+    "state": "Gen",
+    "category": "Medicare"
+  },
+  {
+    "id": "q963",
+    "text": "Which of the following vision procedures is typically NOT covered by most health insurance plans, including Medicare?",
+    "options": [
+      "Cataract surgery",
+      "Diabetic retinopathy treatment",
+      "LASIK corrective surgery",
+      "Glaucoma treatment"
+    ],
+    "correctAnswer": "LASIK corrective surgery",
+    "state": "Gen",
+    "category": "Health Insurance"
+  },
+  {
+    "id": "q964",
+    "text": "A Medicare Advantage plan member needs new prescription lenses. Their last eye exam was 8 months ago and their last lens replacement was 10 months ago. Based on typical Medicare Part C vision benefits, what would be covered?",
+    "options": [
+      "Both a new eye exam and lens replacement",
+      "Only a new eye exam, not lens replacement",
+      "Only lens replacement, not a new eye exam",
+      "Neither the eye exam nor lens replacement"
+    ],
+    "correctAnswer": "Both a new eye exam and lens replacement",
+    "state": "Gen",
+    "category": "Medicare"
+  },
+  {
+    "id": "q965",
+    "text": "Sarah wants to get LASIK surgery to correct her vision. She has a comprehensive health insurance plan. What should she expect regarding coverage?",
+    "options": [
+      "Full coverage as it's considered medically necessary",
+      "Partial coverage with high deductible",
+      "Coverage only if she has a vision rider",
+      "No coverage as it's considered elective/cosmetic"
+    ],
+    "correctAnswer": "No coverage as it's considered elective/cosmetic",
+    "state": "Gen",
+    "category": "Health Insurance"
+  },
+  {
+    "id": "q966",
+    "text": "Under a typical vision insurance plan, routine eye exams for early detection of eye diseases are usually covered at what frequency?",
+    "options": [
+      "Every 6 months",
+      "Every 12 months",
+      "Every 18 months",
+      "Every 24 months"
+    ],
+    "correctAnswer": "Every 12 months",
+    "state": "Gen",
+    "category": "Health Insurance"
+  },
+  {
+    "id": "q967",
+    "text": "John has a whole life insurance policy with a cash value of $15,000 and a death benefit of $100,000. He can no longer afford the premiums and wants to surrender the policy for cash. What non-forfeiture option provides him with immediate cash?",
+    "options": [
+      "Extended term insurance",
+      "Reduced paid-up insurance",
+      "Cash surrender value",
+      "Automatic premium loan"
+    ],
+    "correctAnswer": "Cash surrender value",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q968",
+    "text": "Under the Extended Term Insurance non-forfeiture option, what happens to the policy?",
+    "options": [
+      "The cash value is paid to the policyholder and the policy terminates",
+      "The cash value purchases a smaller amount of permanent insurance with no further premiums",
+      "The cash value purchases term insurance for the original death benefit amount",
+      "The policy continues with reduced premiums for life"
+    ],
+    "correctAnswer": "The cash value purchases term insurance for the original death benefit amount",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q969",
+    "text": "Mary has a whole life policy with $20,000 cash value and $150,000 death benefit. She stops paying premiums and chooses the Reduced Paid-up Insurance option. What will happen?",
+    "options": [
+      "She receives $20,000 in cash and the policy terminates",
+      "She gets term insurance for $150,000 for a limited period",
+      "She gets a smaller permanent life insurance policy with no future premiums required",
+      "Her premiums are automatically reduced by 50%"
+    ],
+    "correctAnswer": "She gets a smaller permanent life insurance policy with no future premiums required",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q970",
+    "text": "A policyholder wants to maintain the full death benefit amount but can no longer afford premiums. Which non-forfeiture option would be MOST appropriate?",
+    "options": [
+      "Cash surrender value",
+      "Reduced paid-up insurance",
+      "Extended term insurance",
+      "Paid-up additions"
+    ],
+    "correctAnswer": "Extended term insurance",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q971",
+    "text": "Which of the following statements about non-forfeiture options is CORRECT?",
+    "options": [
+      "Cash surrender value provides the highest long-term death benefit",
+      "Extended term insurance provides permanent coverage",
+      "Reduced paid-up insurance requires continued premium payments",
+      "All non-forfeiture options are based on the policy's cash value"
+    ],
+    "correctAnswer": "All non-forfeiture options are based on the policy's cash value",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q972",
+    "text": "Tom is 55 years old with a whole life policy that has significant cash value. He needs immediate funds for his child's college tuition but still wants some life insurance coverage. Which non-forfeiture option would be LEAST suitable for his situation?",
+    "options": [
+      "Cash surrender value",
+      "Extended term insurance",
+      "Reduced paid-up insurance",
+      "Policy loan"
+    ],
+    "correctAnswer": "Extended term insurance",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q973",
+    "text": "Under which non-forfeiture option does the policyholder receive NO immediate cash but maintains some form of permanent life insurance coverage?",
+    "options": [
+      "Cash surrender value",
+      "Extended term insurance",
+      "Reduced paid-up insurance",
+      "Automatic premium loan"
+    ],
+    "correctAnswer": "Reduced paid-up insurance",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q974",
+    "text": "A 45-year-old policyholder with a whole life insurance policy wants to stop paying premiums but maintain coverage until retirement at age 65. The cash value would provide exactly 20 years of term coverage for the full death benefit. Which option should they choose?",
+    "options": [
+      "Cash surrender for immediate needs",
+      "Reduced paid-up for permanent coverage",
+      "Extended term for temporary coverage",
+      "Continue paying premiums"
+    ],
+    "correctAnswer": "Extended term for temporary coverage",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   }
 ]
