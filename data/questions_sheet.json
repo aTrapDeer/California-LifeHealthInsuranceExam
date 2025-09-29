@@ -11436,5 +11436,1045 @@
     "correctAnswer": "Suggest the applicant see their physician before completing the application",
     "state": "Gen",
     "category": "Field Underwriting Procedures"
+  },
+  {
+    "id": "q881",
+    "text": "A health insurance plan covers telehealth services at 80% after the deductible, the same as in-person visits. A patient has a telehealth consultation that costs $150, and their deductible has been met. How much will the patient pay?",
+    "options": [
+      "$30",
+      "$120", 
+      "$45",
+      "$150"
+    ],
+    "correctAnswer": "$30",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q882",
+    "text": "Under Medicare coverage rules, telehealth services are typically covered when the patient is located in:",
+    "options": [
+      "Any location, including their home",
+      "Designated rural areas or healthcare shortage areas",
+      "Only in healthcare facilities or medical offices",
+      "Urban areas with high population density"
+    ],
+    "correctAnswer": "Designated rural areas or healthcare shortage areas",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q883",
+    "text": "When a healthcare provider delivers telehealth services across state lines, what is the PRIMARY licensing requirement?",
+    "options": [
+      "The provider must be licensed in their home state only",
+      "The provider must be licensed in the state where the patient is located",
+      "A special interstate telehealth license is required",
+      "No additional licensing is needed for telehealth services"
+    ],
+    "correctAnswer": "The provider must be licensed in the state where the patient is located",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q884",
+    "text": "A disability income policy covers an insured who becomes unable to work due to a condition diagnosed via telehealth consultation. How does this typically affect the claim?",
+    "options": [
+      "Claims are automatically denied if diagnosis was made via telehealth",
+      "The elimination period is extended for telehealth-diagnosed conditions",
+      "The claim is processed the same as if diagnosed in-person",
+      "Benefits are reduced by 50% for telehealth-based diagnoses"
+    ],
+    "correctAnswer": "The claim is processed the same as if diagnosed in-person",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q885",
+    "text": "Under HIPAA regulations, when providing telehealth services, healthcare providers must ensure:",
+    "options": [
+      "Only government-approved telehealth platforms are used",
+      "All video calls are recorded for compliance purposes",
+      "The technology used meets privacy and security requirements",
+      "Patients sign additional consent forms for each telehealth session"
+    ],
+    "correctAnswer": "The technology used meets privacy and security requirements",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q886",
+    "text": "A health insurance plan has 'parity' coverage for telehealth services. This means:",
+    "options": [
+      "Telehealth services cost less than in-person visits",
+      "Telehealth and in-person services have the same cost-sharing requirements",
+      "Only certain specialists can provide telehealth services",
+      "Telehealth services require pre-authorization while in-person visits do not"
+    ],
+    "correctAnswer": "Telehealth and in-person services have the same cost-sharing requirements",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q887",
+    "text": "During the COVID-19 pandemic, many states temporarily expanded telehealth coverage. What was the PRIMARY reason for these expansions?",
+    "options": [
+      "To reduce healthcare costs for insurance companies",
+      "To maintain social distancing while providing healthcare access",
+      "To test new telehealth technologies",
+      "To reduce the need for medical licenses"
+    ],
+    "correctAnswer": "To maintain social distancing while providing healthcare access",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q888",
+    "text": "A prescription written during a telehealth consultation is typically:",
+    "options": [
+      "Valid only for non-controlled substances",
+      "Limited to a 30-day supply maximum",
+      "Treated the same as prescriptions written during in-person visits",
+      "Required to be co-signed by another physician"
+    ],
+    "correctAnswer": "Treated the same as prescriptions written during in-person visits",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q889",
+    "text": "Which of the following are NOT typical requirements for telehealth service coverage under most health insurance plans?",
+    "options": [
+      "The healthcare provider must be licensed in the patient's state",
+      "The technology must allow for real-time audio and video communication",
+      "The patient must physically visit the provider's office within 30 days",
+      "The service must be medically necessary and appropriate for telehealth delivery"
+    ],
+    "correctAnswer": "The patient must physically visit the provider's office within 30 days",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q890",
+    "text": "Which of the following are NOT generally covered as telehealth services by most insurance plans?",
+    "options": [
+      "Mental health counseling and therapy sessions",
+      "Follow-up consultations for chronic disease management",
+      "Physical therapy and hands-on rehabilitation services",
+      "Medication management and prescription reviews"
+    ],
+    "correctAnswer": "Physical therapy and hands-on rehabilitation services",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q891",
+    "text": "Which of the following are NOT acceptable forms of communication for covered telehealth services?",
+    "options": [
+      "Real-time video conferencing with audio",
+      "Secure text messaging with photo attachments",
+      "Phone calls with live video streaming",
+      "Store-and-forward technology for certain specialties"
+    ],
+    "correctAnswer": "Secure text messaging with photo attachments",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q892",
+    "text": "Which of the following are NOT common barriers to telehealth coverage and reimbursement?",
+    "options": [
+      "Technology limitations and internet access issues",
+      "State licensing restrictions for providers",
+      "Patient preference for in-person visits",
+      "Higher reimbursement rates for telehealth services"
+    ],
+    "correctAnswer": "Higher reimbursement rates for telehealth services",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q893",
+    "text": "Which of the following are NOT requirements for telehealth platforms to be HIPAA compliant?",
+    "options": [
+      "End-to-end encryption of communications",
+      "User authentication and access controls",
+      "Recording and storing all patient interactions",
+      "Audit logs of system access and usage"
+    ],
+    "correctAnswer": "Recording and storing all patient interactions",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q894",
+    "text": "Which of the following are NOT typically eligible for telehealth delivery under most insurance coverage guidelines?",
+    "options": [
+      "Routine preventive care and wellness visits",
+      "Emergency surgical procedures",
+      "Chronic disease monitoring and management",
+      "Mental health and behavioral health services"
+    ],
+    "correctAnswer": "Emergency surgical procedures",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q895",
+    "text": "Which of the following are NOT advantages that telehealth offers to health insurance plans?",
+    "options": [
+      "Reduced no-show rates for patient appointments",
+      "Lower healthcare delivery costs in many cases",
+      "Increased patient access to specialists",
+      "Elimination of the need for medical licensing requirements"
+    ],
+    "correctAnswer": "Elimination of the need for medical licensing requirements",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q896",
+    "text": "Which of the following are NOT common reimbursement models for telehealth services?",
+    "options": [
+      "Fee-for-service payment matching in-person visit rates",
+      "Capitated payments for telehealth-only services",
+      "Bundled payments for episodic care including telehealth",
+      "Premium-based payments requiring monthly telehealth subscriptions"
+    ],
+    "correctAnswer": "Premium-based payments requiring monthly telehealth subscriptions",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q897",
+    "text": "In Missouri, which of the following are NOT requirements for telehealth service coverage under state insurance regulations?",
+    "options": [
+      "Coverage parity between telehealth and in-person services",
+      "Provider must be licensed to practice in Missouri",
+      "Patient must provide verbal consent before each telehealth session",
+      "Services must meet the same standard of care as in-person visits"
+    ],
+    "correctAnswer": "Patient must provide verbal consent before each telehealth session",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q898",
+    "text": "Under Missouri law, which of the following are NOT permitted practices for telehealth providers?",
+    "options": [
+      "Prescribing controlled substances after establishing patient relationship",
+      "Providing services to patients located outside of Missouri",
+      "Charging different rates for telehealth vs. in-person services",
+      "Using store-and-forward technology for certain specialties"
+    ],
+    "correctAnswer": "Providing services to patients located outside of Missouri",
+    "state": "MO",
+    "category": "Missouri Statutes, Rules and Regulations Pertinent to Accident and Health Only"
+  },
+  {
+    "id": "q899",
+    "text": "A patient receives a telehealth consultation from a provider in another state. If complications arise from the treatment, which state's medical malpractice laws typically apply?",
+    "options": [
+      "The state where the healthcare provider is located",
+      "The state where the patient received the telehealth service",
+      "Federal telehealth malpractice laws take precedence",
+      "Both states' laws apply equally"
+    ],
+    "correctAnswer": "The state where the patient received the telehealth service",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q900",
+    "text": "A Medicare Advantage plan offers enhanced telehealth benefits beyond traditional Medicare. What type of services can they typically add?",
+    "options": [
+      "Only the same services covered by traditional Medicare",
+      "Additional telehealth services like wellness visits and routine check-ups",
+      "Services that replace all in-person healthcare requirements",
+      "Only emergency telehealth services"
+    ],
+    "correctAnswer": "Additional telehealth services like wellness visits and routine check-ups",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q901",
+    "text": "When a telehealth provider treats a patient with multiple chronic conditions, insurance coverage typically:",
+    "options": [
+      "Covers only one condition per telehealth session",
+      "Requires separate billing codes for each condition addressed",
+      "Limits telehealth to emergency conditions only",
+      "Covers comprehensive care similar to in-person visits"
+    ],
+    "correctAnswer": "Covers comprehensive care similar to in-person visits",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q902",
+    "text": "A health insurance plan requires pre-authorization for certain specialist services. For telehealth consultations with these specialists, the pre-authorization requirement:",
+    "options": [
+      "Is automatically waived for all telehealth services",
+      "Applies the same as for in-person specialist visits",
+      "Requires additional documentation specific to telehealth",
+      "Is handled by the telehealth platform instead of the insurer"
+    ],
+    "correctAnswer": "Applies the same as for in-person specialist visits",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q903",
+    "text": "In rural areas with limited healthcare access, telehealth coverage often includes:",
+    "options": [
+      "Higher copayments to offset technology costs",
+      "Enhanced benefits and broader service coverage",
+      "Mandatory in-person follow-up requirements",
+      "Restrictions on specialist consultations"
+    ],
+    "correctAnswer": "Enhanced benefits and broader service coverage",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q904",
+    "text": "When a patient uses telehealth services while traveling out-of-state, their health insurance coverage:",
+    "options": [
+      "Is automatically suspended until they return to their home state",
+      "Typically continues as long as the provider meets licensing requirements",
+      "Requires special travel insurance for telehealth services",
+      "Is limited to emergency services only"
+    ],
+    "correctAnswer": "Typically continues as long as the provider meets licensing requirements",
+    "state": "Gen",
+    "category": "Types of Health Policies"
+  },
+  {
+    "id": "q905",
+    "text": "A telehealth platform suffers a security breach exposing patient information. The liability for this breach primarily falls on:",
+    "options": [
+      "The patient for choosing to use telehealth services",
+      "The insurance company covering the telehealth services",
+      "The healthcare provider and/or the technology platform",
+      "The state insurance commissioner's office"
+    ],
+    "correctAnswer": "The healthcare provider and/or the technology platform",
+    "state": "Gen",
+    "category": "Policy Provisions, Clauses and Riders"
+  },
+  {
+    "id": "q906",
+    "text": "In 2024, Medicare Part A has a deductible of $1,632 per benefit period. If a Medicare beneficiary is hospitalized twice in the same benefit period, how much will they pay in Part A deductibles?",
+    "options": [
+      "$1,632 total for both hospitalizations",
+      "$3,264 ($1,632 for each hospitalization)",
+      "$816 ($1,632 divided by 2)",
+      "No deductible for the second hospitalization"
+    ],
+    "correctAnswer": "$1,632 total for both hospitalizations",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q907",
+    "text": "Medicare Part A covers skilled nursing facility care, but only after the patient has been hospitalized for how many consecutive days?",
+    "options": [
+      "1 day",
+      "2 days", 
+      "3 days",
+      "5 days"
+    ],
+    "correctAnswer": "3 days",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q908",
+    "text": "A Medicare beneficiary enrolls in Part B 8 months after becoming eligible. What is the late enrollment penalty they will face?",
+    "options": [
+      "10% of the standard premium for 8 months",
+      "20% of the standard premium for life",
+      "No penalty if enrolled within 12 months",
+      "One-time penalty of $500"
+    ],
+    "correctAnswer": "20% of the standard premium for life",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q909",
+    "text": "Under Medicare Part D, the coverage gap (donut hole) begins in 2024 when the beneficiary's total drug costs reach what amount?",
+    "options": [
+      "$3,000",
+      "$4,430",
+      "$5,030", 
+      "$6,550"
+    ],
+    "correctAnswer": "$5,030",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q910",
+    "text": "A Medicare Advantage plan (Part C) must cover all services that are covered by:",
+    "options": [
+      "Original Medicare Parts A and B only",
+      "Original Medicare Parts A, B, and D",
+      "Original Medicare plus all Medigap benefits",
+      "Whatever services the plan chooses to include"
+    ],
+    "correctAnswer": "Original Medicare Parts A and B only",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q911",
+    "text": "Medigap policies have an open enrollment period that lasts for how long after a person first enrolls in Medicare Part B?",
+    "options": [
+      "3 months",
+      "6 months",
+      "12 months",
+      "24 months"
+    ],
+    "correctAnswer": "6 months",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q912",
+    "text": "Which of the following are NOT covered by Medicare Part A?",
+    "options": [
+      "Inpatient hospital care and semi-private rooms",
+      "Skilled nursing facility care after a qualifying hospital stay",
+      "Physician services and outpatient medical care",
+      "Hospice care for terminally ill patients"
+    ],
+    "correctAnswer": "Physician services and outpatient medical care",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q913",
+    "text": "Which of the following are NOT covered services under Medicare Part B?",
+    "options": [
+      "Physician services and outpatient care",
+      "Durable medical equipment and prosthetics",
+      "Routine dental care and most dental procedures",
+      "Preventive services and screenings"
+    ],
+    "correctAnswer": "Routine dental care and most dental procedures",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q914",
+    "text": "Which of the following are NOT requirements for Medicare Part D late enrollment penalty calculation?",
+    "options": [
+      "Number of months without creditable prescription drug coverage",
+      "National base beneficiary premium amount",
+      "The beneficiary's total annual drug costs",
+      "Whether the gap in coverage was 63 days or longer"
+    ],
+    "correctAnswer": "The beneficiary's total annual drug costs",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q915",
+    "text": "Which of the following are NOT benefits that Medicare Advantage plans (Part C) can offer beyond Original Medicare?",
+    "options": [
+      "Prescription drug coverage (Part D)",
+      "Vision, dental, and hearing aid coverage",
+      "Wellness programs and fitness memberships",
+      "Coverage for services outside the United States"
+    ],
+    "correctAnswer": "Coverage for services outside the United States",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q916",
+    "text": "Which of the following are NOT characteristics of Medigap Plan F?",
+    "options": [
+      "Covers the Medicare Part A deductible",
+      "Covers Medicare Part B excess charges",
+      "Available to people who became eligible for Medicare after January 1, 2020",
+      "Provides coverage for the Part B deductible"
+    ],
+    "correctAnswer": "Available to people who became eligible for Medicare after January 1, 2020",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q917",
+    "text": "Which of the following are NOT times when someone has guaranteed issue rights for Medigap insurance?",
+    "options": [
+      "During the 6-month Medigap open enrollment period",
+      "When a Medicare Advantage plan leaves their area",
+      "When they want to switch from one Medigap plan to another for better coverage",
+      "When their employer-sponsored insurance ends"
+    ],
+    "correctAnswer": "When they want to switch from one Medigap plan to another for better coverage",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q918",
+    "text": "Which of the following are NOT covered under Medicare Part A's skilled nursing facility benefit?",
+    "options": [
+      "Semi-private room and meals",
+      "Skilled nursing and rehabilitative services",
+      "Custodial care and assistance with daily living activities",
+      "Medical equipment and supplies used in the facility"
+    ],
+    "correctAnswer": "Custodial care and assistance with daily living activities",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q919",
+    "text": "Which of the following are NOT factors that determine Medicare Part B premium costs?",
+    "options": [
+      "Modified Adjusted Gross Income (MAGI) from tax returns",
+      "Whether the beneficiary is married or single",
+      "The beneficiary's current health status and medical conditions",
+      "The number of years since first eligible for Medicare"
+    ],
+    "correctAnswer": "The beneficiary's current health status and medical conditions",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q920",
+    "text": "A Medicare beneficiary is hospitalized for 45 days, discharged, then readmitted 20 days later. For the second admission, what Part A costs will they face?",
+    "options": [
+      "Another full deductible since it's a new admission",
+      "No deductible, but daily coinsurance based on total days",
+      "No additional costs since they already met the deductible",
+      "Half the deductible amount for the readmission"
+    ],
+    "correctAnswer": "No deductible, but daily coinsurance based on total days",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q921",
+    "text": "Medicare Part B covers durable medical equipment (DME) at what percentage after the deductible is met?",
+    "options": [
+      "100% with no beneficiary cost-sharing",
+      "90% with 10% beneficiary coinsurance",
+      "80% with 20% beneficiary coinsurance",
+      "70% with 30% beneficiary coinsurance"
+    ],
+    "correctAnswer": "80% with 20% beneficiary coinsurance",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q922",
+    "text": "A Medicare Part D plan has a formulary that places a prescribed medication on Tier 4. This typically means:",
+    "options": [
+      "The medication is not covered by the plan",
+      "The medication has the lowest copayment",
+      "The medication is a preferred brand with moderate copayment",
+      "The medication is a high-cost specialty drug with the highest copayment"
+    ],
+    "correctAnswer": "The medication is a high-cost specialty drug with the highest copayment",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q923",
+    "text": "During the Medicare Part D coverage gap, beneficiaries in 2024 pay what percentage of the cost for brand-name drugs?",
+    "options": [
+      "25%",
+      "37%",
+      "50%",
+      "75%"
+    ],
+    "correctAnswer": "25%",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q924",
+    "text": "A Medicare beneficiary wants to enroll in a Medicare Advantage plan. When can they do this?",
+    "options": [
+      "Only during their initial Medicare enrollment period",
+      "During the annual Open Enrollment Period (October 15 - December 7)",
+      "Any time throughout the year",
+      "Only during the first 3 months of each calendar year"
+    ],
+    "correctAnswer": "During the annual Open Enrollment Period (October 15 - December 7)",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q925",
+    "text": "Medigap Plan G differs from the discontinued Plan F primarily because Plan G:",
+    "options": [
+      "Does not cover Part A deductible",
+      "Does not cover Part B deductible",
+      "Does not cover Part B excess charges",
+      "Does not cover foreign travel emergency"
+    ],
+    "correctAnswer": "Does not cover Part B deductible",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q926",
+    "text": "Medicare Part A is considered 'premium-free' for most beneficiaries because:",
+    "options": [
+      "It is funded entirely by current Medicare beneficiary payments",
+      "Payroll taxes were paid during their working years",
+      "The government provides it as a free benefit to all seniors",
+      "Healthcare providers donate their services"
+    ],
+    "correctAnswer": "Payroll taxes were paid during their working years",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q927",
+    "text": "A Medicare beneficiary with a high income (MAGI over $103,000 for single filers) will pay:",
+    "options": [
+      "The same Part B premium as all other beneficiaries",
+      "An additional Income-Related Monthly Adjustment Amount (IRMAA)",
+      "Higher deductibles but the same premiums",
+      "Additional penalties for high income"
+    ],
+    "correctAnswer": "An additional Income-Related Monthly Adjustment Amount (IRMAA)",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q928",
+    "text": "Medicare Advantage plans must have a network, but they are required to cover emergency services:",
+    "options": [
+      "Only at in-network facilities",
+      "At any facility worldwide",
+      "At any facility in the United States",
+      "Only with prior authorization"
+    ],
+    "correctAnswer": "At any facility in the United States",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q929",
+    "text": "The Medicare Part D 'Late Enrollment Penalty' is calculated as 1% of the national base premium for each month of delay. If someone delays enrollment by 24 months, their penalty is:",
+    "options": [
+      "24% of their plan's premium for one year only",
+      "24% of the national base premium added to their monthly premium for life",
+      "A one-time penalty of 24% of the annual premium",
+      "24% added to their deductible amount"
+    ],
+    "correctAnswer": "24% of the national base premium added to their monthly premium for life",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q930",
+    "text": "Medigap insurance policies are standardized by the federal government, but which entity regulates the sale of these policies?",
+    "options": [
+      "Centers for Medicare & Medicaid Services (CMS)",
+      "Department of Health and Human Services",
+      "Individual state insurance departments",
+      "Social Security Administration"
+    ],
+    "correctAnswer": "Individual state insurance departments",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q931",
+    "text": "A Medicare beneficiary enrolled in a Medicare Advantage plan wants to return to Original Medicare. They can do this:",
+    "options": [
+      "Only during their birthday month each year",
+      "During the Medicare Advantage Open Enrollment Period (January 1 - March 31)",
+      "Any time with 30 days notice",
+      "Only if they move to a new geographic area"
+    ],
+    "correctAnswer": "During the Medicare Advantage Open Enrollment Period (January 1 - March 31)",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q932",
+    "text": "Medicare Part A covers home health care, but only when all of the following conditions are met EXCEPT:",
+    "options": [
+      "The beneficiary is homebound",
+      "A physician certifies the need for home health care",
+      "The beneficiary requires skilled nursing, physical therapy, or speech therapy",
+      "The beneficiary has exhausted their skilled nursing facility benefits"
+    ],
+    "correctAnswer": "The beneficiary has exhausted their skilled nursing facility benefits",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q933",
+    "text": "Under Medicare Part B, the annual deductible in 2024 is $240. After meeting this deductible, Medicare typically pays what percentage of approved charges?",
+    "options": [
+      "70%",
+      "80%",
+      "90%",
+      "100%"
+    ],
+    "correctAnswer": "80%",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q934",
+    "text": "A Medicare Part D plan can use 'step therapy' which means:",
+    "options": [
+      "Beneficiaries must try less expensive medications before more expensive ones are covered",
+      "Drug costs increase in steps throughout the year",
+      "Prior authorization is required for all prescription medications",
+      "Generic drugs are never covered by the plan"
+    ],
+    "correctAnswer": "Beneficiaries must try less expensive medications before more expensive ones are covered",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q935",
+    "text": "Medigap policies cannot duplicate coverage provided by Medicare, but Medigap Plan N is unique because it:",
+    "options": [
+      "Covers services that Medicare doesn't cover at all",
+      "Requires copayments for some doctor visits and emergency room visits",
+      "Has an annual deductible that increases each year",
+      "Only covers prescription drugs"
+    ],
+    "correctAnswer": "Requires copayments for some doctor visits and emergency room visits",
+    "state": "Gen",
+    "category": "Social Insurance"
+  },
+  {
+    "id": "q936",
+    "text": "Tom is 24 years old looking to have the most amount of money paid out to him at retirement age 67. What is his BEST choice?",
+    "options": [
+      "Annually renewable term life insurance",
+      "Whole life insurance policy",
+      "Deferred variable annuity",
+      "10-year level term life insurance"
+    ],
+    "correctAnswer": "Deferred variable annuity",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q937",
+    "text": "Sarah is 35 years old with two young children and a $300,000 mortgage. She has limited income but needs maximum death benefit protection. What policy would BEST meet her needs?",
+    "options": [
+      "Whole life insurance with cash value buildup",
+      "20-year level term life insurance",
+      "Universal life with flexible premiums",
+      "Fixed immediate annuity"
+    ],
+    "correctAnswer": "20-year level term life insurance",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q938",
+    "text": "Robert, age 62, just received a $500,000 lump sum from his 401(k) rollover and wants guaranteed monthly income starting immediately that he cannot outlive. Which product BEST fits his situation?",
+    "options": [
+      "Variable universal life insurance",
+      "Single premium immediate annuity (SPIA)",
+      "30-year level term life insurance",
+      "Deferred fixed annuity"
+    ],
+    "correctAnswer": "Single premium immediate annuity (SPIA)",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q939",
+    "text": "Jessica is 40 years old, has maximized her 401(k) contributions, and wants additional tax-deferred retirement savings with investment control and some risk tolerance. What would be her BEST option?",
+    "options": [
+      "Whole life insurance policy",
+      "Variable deferred annuity",
+      "Term life insurance with separate investment account",
+      "Fixed immediate annuity"
+    ],
+    "correctAnswer": "Variable deferred annuity",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q940",
+    "text": "Mark is 50 years old, recently divorced, and needs life insurance but wants flexibility to adjust premiums and death benefits as his financial situation changes. Which policy type BEST meets his needs?",
+    "options": [
+      "20-year level term life insurance",
+      "Whole life insurance policy",
+      "Universal life insurance policy",
+      "Variable immediate annuity"
+    ],
+    "correctAnswer": "Universal life insurance policy",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q941",
+    "text": "Linda is 28 years old, single, with no dependents but wants to start building cash value while having life insurance protection. She has a stable income and wants level premiums. What is her BEST choice?",
+    "options": [
+      "Annual renewable term life insurance",
+      "Whole life insurance policy",
+      "Variable universal life insurance",
+      "Deferred variable annuity"
+    ],
+    "correctAnswer": "Whole life insurance policy",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q942",
+    "text": "David, age 45, has a successful business and high tax bracket. He wants life insurance with investment growth potential and is comfortable with investment risk to potentially build significant cash value. What suits him BEST?",
+    "options": [
+      "Term life insurance with separate investments",
+      "Traditional whole life insurance",
+      "Variable universal life insurance",
+      "Fixed deferred annuity"
+    ],
+    "correctAnswer": "Variable universal life insurance",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q943",
+    "text": "Carol is 55 years old and concerned about outliving her retirement savings. She wants to transfer $200,000 of her savings into a product that guarantees she'll have income for life starting at age 65. What is her BEST option?",
+    "options": [
+      "10-year deferred fixed annuity with lifetime payout",
+      "Universal life insurance policy",
+      "Variable life insurance policy",
+      "20-year level term life insurance"
+    ],
+    "correctAnswer": "10-year deferred fixed annuity with lifetime payout",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q944",
+    "text": "James is 32 years old with a newborn baby. He has a mortgage that will be paid off in 25 years and wants life insurance that decreases as his mortgage balance decreases. What type of policy BEST fits this need?",
+    "options": [
+      "Whole life insurance policy",
+      "Decreasing term life insurance",
+      "Universal life insurance policy",
+      "Variable deferred annuity"
+    ],
+    "correctAnswer": "Decreasing term life insurance",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q945",
+    "text": "Susan is 38 years old and wants life insurance protection but also wants to ensure her premiums will never increase, even if her health changes. She's willing to pay higher initial premiums for this guarantee. What is her BEST choice?",
+    "options": [
+      "Annual renewable term life insurance",
+      "20-year level term life insurance",
+      "Whole life insurance policy",
+      "Universal life insurance policy"
+    ],
+    "correctAnswer": "Whole life insurance policy",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q946",
+    "text": "Michael, age 60, is nearing retirement and wants to convert a portion of his 401(k) into guaranteed lifetime income, but he also wants some growth potential and is willing to accept market risk. Which product BEST meets his needs?",
+    "options": [
+      "Fixed immediate annuity",
+      "Variable immediate annuity",
+      "Whole life insurance policy",
+      "Term life insurance with investments"
+    ],
+    "correctAnswer": "Variable immediate annuity",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q947",
+    "text": "Jennifer is 29 years old, recently married, and planning to have children in a few years. She needs affordable life insurance now but may need to increase coverage later. What policy would BEST serve her current and future needs?",
+    "options": [
+      "Whole life policy with paid-up additions",
+      "Term life policy with guaranteed insurability rider",
+      "Universal life with no riders",
+      "Variable annuity with death benefit"
+    ],
+    "correctAnswer": "Term life policy with guaranteed insurability rider",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q948",
+    "text": "Paul is 42 years old, owns a business, and wants life insurance that provides flexibility in premium payments during lean business years while maintaining permanent coverage. Which policy type is MOST suitable?",
+    "options": [
+      "20-year level term life insurance",
+      "Traditional whole life insurance",
+      "Universal life insurance",
+      "Fixed immediate annuity"
+    ],
+    "correctAnswer": "Universal life insurance",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q949",
+    "text": "Betty is 68 years old, recently widowed, and has a large estate. She's concerned about estate taxes and wants to transfer wealth to her children while removing assets from her estate. What strategy would BEST accomplish this?",
+    "options": [
+      "Purchasing a term life policy on herself",
+      "Establishing an Irrevocable Life Insurance Trust (ILIT) with life insurance",
+      "Buying a deferred annuity in her name",
+      "Purchasing a joint life annuity with her children"
+    ],
+    "correctAnswer": "Establishing an Irrevocable Life Insurance Trust (ILIT) with life insurance",
+    "state": "Gen",
+    "category": "Other Insurance Concepts"
+  },
+  {
+    "id": "q950",
+    "text": "Kevin is 26 years old, single, and wants to maximize his retirement accumulation over the next 40 years. He's comfortable with market risk and wants tax-deferred growth. Which product offers the GREATEST long-term accumulation potential?",
+    "options": [
+      "Whole life insurance policy",
+      "Variable deferred annuity",
+      "Universal life insurance",
+      "Fixed deferred annuity"
+    ],
+    "correctAnswer": "Variable deferred annuity",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q951",
+    "text": "Amanda is 52 years old and wants to retire early at 62. She has $300,000 to invest and wants guaranteed income starting at age 62, with no market risk. What is her BEST option?",
+    "options": [
+      "Variable deferred annuity with 10-year deferral",
+      "Fixed deferred annuity with 10-year deferral",
+      "Universal life insurance policy",
+      "Variable universal life insurance"
+    ],
+    "correctAnswer": "Fixed deferred annuity with 10-year deferral",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q952",
+    "text": "Chris is 35 years old with two business partners. They want to ensure the business can buy out any partner's interest if they die, using a cross-purchase agreement. What type of insurance arrangement works BEST for this situation?",
+    "options": [
+      "Each partner owns term life insurance on the other partners",
+      "The business owns whole life insurance on all partners",
+      "Each partner owns universal life insurance on themselves",
+      "Group term life insurance through the business"
+    ],
+    "correctAnswer": "Each partner owns term life insurance on the other partners",
+    "state": "Gen",
+    "category": "Business Insurance"
+  },
+  {
+    "id": "q953",
+    "text": "Rachel is 39 years old with three children and wants permanent life insurance but needs to start with lower premiums that she can increase later as her income grows. Which policy provides this flexibility?",
+    "options": [
+      "Whole life insurance with level premiums",
+      "Annual renewable term insurance",
+      "Universal life insurance with flexible premiums",
+      "Variable life insurance with fixed premiums"
+    ],
+    "correctAnswer": "Universal life insurance with flexible premiums",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q954",
+    "text": "George is 71 years old and has been diagnosed with a chronic illness. He owns a $500,000 life insurance policy but needs funds for medical expenses. What option would BEST help him access money from his policy?",
+    "options": [
+      "Surrender the policy for cash value",
+      "Take out a policy loan against cash value",
+      "Use accelerated death benefits for chronic illness",
+      "Convert the policy to an annuity"
+    ],
+    "correctAnswer": "Use accelerated death benefits for chronic illness",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
+  },
+  {
+    "id": "q955",
+    "text": "Nancy is 30 years old, recently married to someone with significant student loan debt. She wants life insurance on her spouse to protect against the debt, but they have limited budget. What provides maximum coverage for the lowest cost?",
+    "options": [
+      "Whole life insurance on spouse",
+      "Universal life insurance on spouse",
+      "20-year level term life insurance on spouse",
+      "Variable universal life on spouse"
+    ],
+    "correctAnswer": "20-year level term life insurance on spouse",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q956",
+    "text": "William is 45 years old and wants to create a pension-like income stream starting at age 65. He has 20 years to accumulate funds and wants the safety of guaranteed returns with no market risk. What is his BEST choice?",
+    "options": [
+      "Variable deferred annuity",
+      "Fixed deferred annuity",
+      "Universal life insurance",
+      "Equity-indexed deferred annuity"
+    ],
+    "correctAnswer": "Fixed deferred annuity",
+    "state": "Gen",
+    "category": "Retirement and other insurance concepts"
+  },
+  {
+    "id": "q957",
+    "text": "Lisa is 33 years old and has been offered group term life insurance through her employer, but she's concerned about losing coverage if she changes jobs. What would BEST address this concern?",
+    "options": [
+      "Rely only on group coverage since it's less expensive",
+      "Purchase individual term life insurance in addition to group coverage",
+      "Purchase whole life insurance instead of group coverage",
+      "Wait until changing jobs to purchase individual coverage"
+    ],
+    "correctAnswer": "Purchase individual term life insurance in addition to group coverage",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q958",
+    "text": "Daniel is 28 years old and wants life insurance primarily for the investment component, with some death benefit protection. He has a high risk tolerance and wants control over investment choices. What policy type BEST fits his goals?",
+    "options": [
+      "Whole life insurance",
+      "Universal life insurance",
+      "Variable life insurance",
+      "Term life with separate investments"
+    ],
+    "correctAnswer": "Variable life insurance",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q959",
+    "text": "Maria is 58 years old and wants to ensure her husband will have adequate income if she dies first, but she also wants flexibility to access funds during her lifetime if needed. Which product provides the BEST combination of these features?",
+    "options": [
+      "Term life insurance with return of premium",
+      "Whole life insurance with cash value",
+      "Variable deferred annuity with death benefit",
+      "Fixed immediate annuity with period certain"
+    ],
+    "correctAnswer": "Whole life insurance with cash value",
+    "state": "Gen",
+    "category": "Types of Life Policies"
+  },
+  {
+    "id": "q960",
+    "text": "Brian is 36 years old with a high-stress job and family history of heart disease. He wants permanent life insurance but is concerned about his ability to pay premiums if he becomes disabled. Which rider would be MOST important for his situation?",
+    "options": [
+      "Accidental death benefit rider",
+      "Waiver of premium rider",
+      "Guaranteed insurability rider",
+      "Term conversion rider"
+    ],
+    "correctAnswer": "Waiver of premium rider",
+    "state": "Gen",
+    "category": "Life Provisions, Riders, Options and Exclusions"
   }
 ]
